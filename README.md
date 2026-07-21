@@ -13,8 +13,9 @@ waveform reshapes to whatever subset you're looking at.
 
 ## Status
 
-Phases 1–2 complete: the data pipeline is built and `data/events.json` holds
-1,533 events across 2233–2402. Nothing renders yet — the chart is Phase 3.
+Phases 1–3 complete. The chart renders 1,486 prime-timeline events across
+2233–2402, with hover tooltips and a location highlight. Series filtering and
+zoom are Phase 4; the LCARS chrome is Phase 5.
 
 See [ROADMAP.md](ROADMAP.md) for the build plan.
 
@@ -37,10 +38,11 @@ offline data pipeline in `scripts/`.
 Any static server works:
 
 ```sh
-python3 -m http.server 8000 --directory src
+npm run serve
 ```
 
-Then open <http://localhost:8000>.
+Then open <http://localhost:8000/src/>. The server must run from the repository
+root, not from `src/` — the page fetches `../data/events.json`.
 
 ## Regenerating the dataset
 

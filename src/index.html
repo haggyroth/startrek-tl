@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Star Trek — Interactive Timeline</title>
+    <link rel="stylesheet" href="css/main.css" />
+  </head>
+  <body>
+    <div class="viz-root">
+      <header class="page-header">
+        <h1>Star Trek Timeline</h1>
+        <p class="subtitle">
+          Canon events from 2233 to 2402. Curve height is the number of events
+          recorded in each year; every dot is one event.
+        </p>
+        <div id="stats" class="stats"></div>
+      </header>
+
+      <p id="status" class="status" hidden></p>
+
+      <section class="panel" aria-labelledby="locations-heading">
+        <h2 id="locations-heading">Locations</h2>
+        <p class="panel-note">
+          Select a ship or station to highlight its events.
+        </p>
+        <div id="locations" class="chips"></div>
+      </section>
+
+      <section class="chart-section" aria-labelledby="chart-heading">
+        <h2 id="chart-heading" class="visually-hidden">Event density chart</h2>
+
+        <div class="legend">
+          <span class="legend-item">
+            <span class="legend-swatch swatch-event"></span>Event
+          </span>
+          <span class="legend-item">
+            <span class="legend-swatch swatch-landmark"></span>Landmark event
+          </span>
+        </div>
+
+        <div id="chart" class="chart"></div>
+      </section>
+
+      <section class="table-section">
+        <button id="table-toggle" type="button" class="button" aria-expanded="false">
+          Show data table
+        </button>
+        <div id="table-view" hidden>
+          <table id="event-table">
+            <caption>
+              All prime-timeline events, 2233–2402
+            </caption>
+            <thead>
+              <tr>
+                <th scope="col">Year</th>
+                <th scope="col">Date</th>
+                <th scope="col">Stardate</th>
+                <th scope="col">Location</th>
+                <th scope="col">Series</th>
+                <th scope="col">Event</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+
+      <footer class="page-footer">
+        <p>
+          Data generated <span id="generated">—</span> from
+          <a href="https://memory-alpha.fandom.com/">Memory Alpha</a>
+          (CC BY-NC-SA) with timeline classification from
+          <a href="https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+            >Wikipedia</a
+          >
+          (CC BY-SA 4.0).
+        </p>
+      </footer>
+    </div>
+
+    <script src="vendor/d3.min.js"></script>
+    <script type="module" src="js/main.js"></script>
+  </body>
+</html>

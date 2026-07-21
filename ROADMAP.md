@@ -24,17 +24,21 @@ Outstanding:
 - [ ] Sampled verification pass (exhaustive review of 1,533 records isn't
       realistic; spot-check by era instead)
 
-## Phase 3 — Chart core
+## Phase 3 — Chart core ✅
 
-- [ ] Per-year binning and smoothed density curve
-- [ ] Dual X-axis: Gregorian year, plus computed stardate for 2323+
-- [ ] Event points positioned on the curve, with collision handling
-      (test against 2373–2375, not a quiet decade)
-- [ ] Hover tooltip: title, date, stardate, series badge, episode list
+- [x] Per-year binning and smoothed density curve
+- [x] Dual X-axis: Gregorian year, plus computed stardate for 2323+
+- [x] Events stacked within their year, so the curve is the envelope of the
+      dots — collision handling falls out of the layout
+- [x] Nearest-dot hit layer (2.6px marks can't be hovered directly)
+- [x] Hover tooltip: summary, date, stardate, location, series badges, episodes
+- [x] Location panel driven by the `group` field, with highlight on select
+- [x] Accessible data table view; light and dark themes
 
 ## Phase 4 — Filters and interaction
 
 - [ ] Series toggles that re-bin the curve live
+- [ ] Promote the location panel from highlight to a real filter
 - [ ] Timeline filter, defaulting to prime-only
 - [ ] X-axis zoom and pan, with the stardate axis tracking
 - [ ] Filter and zoom state serialized to the URL hash

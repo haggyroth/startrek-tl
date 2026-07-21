@@ -6,6 +6,6 @@
   "type": "module",
   "scripts": {
     "build:data": "node scripts/build-events.js",
-    "serve": "python3 -m http.server 8000 --directory src"
+    "serve": "python3 -m http.server 8000"
   }
 }

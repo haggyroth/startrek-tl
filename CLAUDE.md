@@ -8,9 +8,16 @@ chrome.
 ## Stack
 
 Vanilla HTML/CSS/JS with D3 for the chart. **No build step, no bundler, no
-framework.** `src/index.html` is opened directly or served statically; ES modules
-are loaded natively by the browser. Do not introduce npm dependencies for the
-site itself — Node is used only for the offline data pipeline in `scripts/`.
+framework.** `src/index.html` is served statically; ES modules are loaded
+natively by the browser. Do not introduce npm dependencies for the site itself —
+Node is used only for the offline data pipeline in `scripts/`.
+
+D3 is **vendored** at `src/vendor/d3.min.js` rather than loaded from a CDN, so
+the page works offline and under a strict CSP. Update it by re-downloading the
+file; there is nothing to build.
+
+**Serve from the repository root**, not from `src/` — the page fetches
+`../data/events.json`. `npm run serve`, then open `/src/`.
 
 ## Layout
 
@@ -86,9 +93,29 @@ guessing a day — the UI must handle both lengths.
 Coverage is sparse and that is expected: of ~1,530 events, roughly 40 carry a
 date and 90 a stardate. The tooltip must degrade gracefully.
 
+## CSS conventions
+
+Theme variables are defined on `:root`, never on `.viz-root`. The tooltip is
+appended to `<body>`, outside the app container — variables scoped to
+`.viz-root` resolve to nothing there and the tooltip renders transparent.
+
+Colours come from the validated data-viz palette: `#3987e5` events / `#c98500`
+landmarks on the dark surface, `#2a78d6` / `#eda100` on light. Both pairs clear
+the all-pairs CVD and normal-vision floors. Re-run the palette validator before
+changing them.
+
 ## Chart behavior
 
 - Y-axis is **event density per year** — count of events in that year, smoothed.
+- Events are **stacked within their year**: an event's vertical position is its
+  index in that year's bin, so the curve is exactly the envelope of the dots
+  rather than a separate abstraction drawn over them. Collision handling falls
+  out of the layout; do not add jitter.
+- Pointer hit-testing goes through a transparent overlay rect that resolves to
+  the nearest dot. Individual marks are ~2.6px and cannot be hovered reliably.
+  Keyboard focus stays on the circles themselves.
+- The two X axes (year, stardate) are one dimension in two notations — a unit
+  conversion, not a dual-axis chart. Never add a second *measure* axis.
 - Series filters re-bin the curve live; they do not merely hide points. The
   waveform must respond to the active filter set.
 - Filter and zoom state serializes to the URL hash so views are linkable.
