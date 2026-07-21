@@ -1,0 +1,54 @@
+# Roadmap
+
+## Phase 1 — Scaffold ✅
+
+- [x] `git init`, `.gitignore`, `README.md`, `CLAUDE.md`
+- [x] Directory layout: `data/`, `scripts/`, `src/`
+- [x] Event schema defined (see `CLAUDE.md`)
+
+## Phase 2 — Data pipeline
+
+The project's main risk. Wiki year pages are inconsistently formatted, so the
+parser gets tuned against a single year before the full range is scraped.
+
+- [ ] MediaWiki API client with rate limiting and a local response cache
+- [ ] Single-year spike: fetch and parse one year, review output quality
+- [ ] Year-page parser for the full 2233–2402 range
+- [ ] Normalize to the event schema; emit `data/events.json`
+- [ ] Manual verification pass over the generated dataset
+- [ ] Tag events with `timeline` (`prime` / `kelvin` / `mirror`)
+
+## Phase 3 — Chart core
+
+- [ ] Per-year binning and smoothed density curve
+- [ ] Dual X-axis: Gregorian year, plus computed stardate for 2323+
+- [ ] Event points positioned on the curve, with collision handling
+      (test against 2373–2375, not a quiet decade)
+- [ ] Hover tooltip: title, date, stardate, series badge, episode list
+
+## Phase 4 — Filters and interaction
+
+- [ ] Series toggles that re-bin the curve live
+- [ ] Timeline filter, defaulting to prime-only
+- [ ] X-axis zoom and pan, with the stardate axis tracking
+- [ ] Filter and zoom state serialized to the URL hash
+
+## Phase 5 — LCARS chrome
+
+- [ ] Elbow frames and panel layout
+- [ ] Series filters as LCARS pill buttons
+- [ ] Responsive fallback for narrow viewports
+
+## Phase 6 — Polish
+
+- [ ] Keyboard navigation through events
+- [ ] `prefers-reduced-motion` support
+- [ ] Contrast audit on the LCARS palette (the purples especially)
+
+## Deferred decisions
+
+- **Licensing.** The dataset is CC BY-NC-SA via Memory Alpha, so no LICENSE file
+  has been added. Must be resolved deliberately before publishing.
+- **Hosting.** Repo is private and local-only; no remote, no CI, no deploy.
+- **Pre-2233 and post-2402 events.** Out of scope for the first pass; the
+  schema doesn't preclude them.

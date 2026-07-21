@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
+
+# Scrape cache — large, regenerable, and re-fetching it hits Memory Alpha.
+# Kept out of git; run `node scripts/build-events.js` to rebuild.
+data/events.raw.json
