@@ -2,6 +2,13 @@
 
 All notable changes to this project are documented here.
 
+## [Unreleased]
+
+- feat(data): fact extractor — entities, event kind, quoted names
+- feat(data): authored summaries in data/summaries.json, merged at build time
+- feat(data): --strict build mode that never emits scraped prose
+- data: 47 authored summaries covering 2233-2245
+
 ## [1.0.0]
 
 - feat(a11y): keyboard navigation with a roving tabindex and arrow/Home/End keys

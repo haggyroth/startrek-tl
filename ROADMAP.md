@@ -66,6 +66,21 @@ Outstanding:
 - Extend beyond 2233–2402 (the schema already allows it)
 - Sampled verification pass over the dataset by era
 
+## Phase 7 — Fact extraction and licensing (in progress)
+
+Memory Alpha's *prose* is theirs; the facts are not. To license the project
+cleanly, every summary must be written independently from the extracted fact
+record rather than paraphrased from the source.
+
+- [x] Fact extractor: entities from wiki-link targets, event kind, quoted names
+- [x] `data/summaries.json` — authored summaries merged over the scrape
+- [x] `--strict` build mode that refuses to emit scraped prose
+- [x] Originality check comparing authored lines against the source
+- [ ] Author the remaining summaries (47 / 1,533 done)
+- [ ] Rewrite git history before publishing — earlier commits still contain
+      the verbatim scrape
+- [ ] Add LICENSE (code) and data/LICENSE once the rewrite is complete
+
 ## Deferred decisions
 
 - **Licensing.** The dataset is CC BY-NC-SA via Memory Alpha, so no LICENSE file

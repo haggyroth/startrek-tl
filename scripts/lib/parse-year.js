@@ -22,6 +22,7 @@ import {
   detectTimeline,
   parseStardateRange,
 } from "./wikitext.js";
+import { extractFacts } from "./facts.js";
 
 /** Sections whose bullets are events. Anything else is skipped. */
 const EVENT_SECTIONS = /^(events|other events|births|deaths)$/i;
@@ -212,6 +213,8 @@ export function parseYearPage(wikitext, year) {
     usedIds.set(id, n);
     if (n > 1) id = `${id}-${n}`;
 
+    const facts = extractFacts(source, summary);
+
     events.push({
       id,
       year,
@@ -221,8 +224,9 @@ export function parseYearPage(wikitext, year) {
       date: date ?? contextDate(year, month, day),
       stardate: stardate ?? sdContext,
       timeline: detectTimeline(source),
-      title: null,
       summary,
+      entities: facts.entities,
+      kind: facts.kind,
       group,
       section,
       series,
