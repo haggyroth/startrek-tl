@@ -7,7 +7,7 @@
     ],
     "eventCount": 1533,
     "strict": false,
-    "authoredSummaries": 47,
+    "authoredSummaries": 222,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -3405,7 +3405,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Michael Burnham graduates from the Vulcan Science Academy and begins her seven-year service aboard the USS Shenzhou under Captain Philippa Georgiou.",
+      "summary": "Michael Burnham leaves the Vulcan Science Academy for a seven-year posting aboard the USS Shenzhou under Philippa Georgiou.",
       "entities": [
         "Michael Burnham",
         "Vulcan Science Academy",
@@ -3441,7 +3441,7 @@
         "https://memory-alpha.fandom.com/wiki/2249"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2249-spock-declines-his-admission-to-the-vulcan-science",
@@ -3449,7 +3449,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Spock declines his admission to the Vulcan Science Academy due to the council minister referring to his Human mother as a \"disadvantage\" and enlists in Starfleet.",
+      "summary": "Spock refuses a Vulcan Science Academy place after a minister calls his human mother a disadvantage, and enlists in Starfleet.",
       "entities": [
         "Vulcan Science Academy"
       ],
@@ -3472,7 +3472,7 @@
         "https://memory-alpha.fandom.com/wiki/2249"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2249-sylvia-tilly-at-the-age-of-sixteen-went-through",
@@ -3639,7 +3639,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lucille Harewood is born on Earth.",
+      "summary": "Lucille Harewood born on Earth.",
       "entities": [
         "Lucille Harewood"
       ],
@@ -3662,7 +3662,7 @@
         "https://memory-alpha.fandom.com/wiki/2250"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2250-robert-april-leaves-the-uss-enterprise-as-its-comm",
@@ -3733,7 +3733,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Spock graduates Starfleet Academy with a commission of ensign after enrolling there instead of the Vulcan Science Academy, against Sarek's wishes.",
+      "summary": "Spock leaves Starfleet Academy as an ensign, having chosen it over the Vulcan Science Academy against Sarek's wishes.",
       "entities": [
         "Spock",
         "Starfleet Academy",
@@ -3769,7 +3769,7 @@
         "https://memory-alpha.fandom.com/wiki/2250"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2250-una-chin-riley-is-made-first-officer",
@@ -4098,7 +4098,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Spock is assigned to the USS Enterprise as science officer.",
+      "summary": "Spock joins the USS Enterprise as science officer.",
       "entities": [
         "Spock",
         "science officer",
@@ -4134,7 +4134,7 @@
         "https://memory-alpha.fandom.com/wiki/2253"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2254-commander-finney-is-reprimanded-for-the-incident-a",
@@ -4268,7 +4268,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Spock begins programming the.",
+      "summary": "Spock begins programming the Kobayashi Maru scenario.",
       "entities": [],
       "kind": null,
       "group": "USS Republic",
@@ -4289,7 +4289,7 @@
         "https://memory-alpha.fandom.com/wiki/2254"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2254-spock-is-promoted-to-lieutenant",
@@ -4529,7 +4529,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "James T. Kirk gets in a bar fight with Hendorff and three other cadets at the Shipyard Bar in Riverside. The fight is broken off by Captain Christopher Pike, who later talks to Kirk about joining Starfleet by reciting the incident resulting in the destruction of the USS Kelvin and his father, daring him to do better. The next day, Kirk boards the military shuttle Bardeen, enlisting in Starfleet.",
+      "summary": "Kirk brawls with Hendorff and other cadets in a Riverside bar; Christopher Pike breaks it up and urges him to enlist.",
       "entities": [
         "bar",
         "Shipyard Bar",
@@ -4558,7 +4558,7 @@
         "https://memory-alpha.fandom.com/wiki/2255"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2255-james-t-kirk-leaves-starfleet-academy-he-is-assi",
@@ -4599,7 +4599,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Leonard McCoy gets divorced from his wife and enlists in Starfleet, boarding the same transport as Kirk, resulting in a friendship between the two.",
+      "summary": "Newly divorced, Leonard McCoy enlists and meets Kirk aboard the same transport.",
       "entities": [
         "divorce",
         "McCoy's ex-wife 001",
@@ -4624,7 +4624,7 @@
         "https://memory-alpha.fandom.com/wiki/2255"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2255-on-his-first-planetary-survey-mission-lieutenant",
@@ -4665,7 +4665,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Several Starfleet Academy cadets, including Nyota Uhura and Hendorff, spend some time in Riverside.",
+      "summary": "Starfleet cadets including Nyota Uhura and Hendorff pass through Riverside.",
       "entities": [
         "Starfleet Academy",
         "cadet",
@@ -4690,7 +4690,7 @@
         "https://memory-alpha.fandom.com/wiki/2255"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2255-the-sheliak-attempt-to-communicate-with-the-federa",
@@ -4762,7 +4762,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "The USS Enterprise undergoes construction at the Riverside Shipyard in Iowa.",
+      "summary": "The USS Enterprise is under construction at the Riverside Shipyard in Iowa.",
       "entities": [
         "Riverside Shipyard",
         "Iowa",
@@ -4787,7 +4787,7 @@
         "https://memory-alpha.fandom.com/wiki/2255"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-a-failed-test-of-the-uss-glenn-s-experimental-spor",
@@ -5280,7 +5280,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "August: Montgomery Scott and Keenser are stationed at the Federation outpost at Delta Vega in the Vulcan system six months before their encounter with James T. Kirk and Spock on stardate 2258.42. Scott believed the assignment was a punishment for losing Admiral Archer's prized pet beagle in a transwarp beaming experiment.",
+      "summary": "Montgomery Scott and Keenser are posted to the Federation outpost on Delta Vega.",
       "entities": [
         "Keenser",
         "Delta Vega outpost",
@@ -5309,7 +5309,7 @@
         "https://memory-alpha.fandom.com/wiki/2257"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2257-christopher-pike-assumes-command-of-the-discovery",
@@ -5439,7 +5439,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Spock takes a leave of absence from Starfleet and commits himself to the psychiatric ward on Starbase 5. During his time there, he supposedly murders two nurses and steals a shuttlecraft to follow the path of the red bursts.",
+      "summary": "Spock takes leave and admits himself to the psychiatric ward on Starbase 5, then escapes by shuttle amid accusations of murder.",
       "entities": [
         "Spock",
         "psychiatric ward",
@@ -5474,7 +5474,7 @@
         "https://memory-alpha.fandom.com/wiki/2257"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2257-the-discovery-crew-still-led-by-saru-make-their",
@@ -5650,7 +5650,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Admiral Alexander Marcus discovers the SS Botany Bay and recovers Khan Noonien Singh, forcibly recruiting him into Starfleet under the name of John Harrison.",
+      "summary": "Alexander Marcus finds the SS Botany Bay and presses Khan Noonien Singh into Starfleet service as John Harrison.",
       "entities": [
         "SS Botany Bay"
       ],
@@ -5673,7 +5673,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-ash-tyler-is-offered-command-of-section-31",
@@ -5736,7 +5736,7 @@
       "date": null,
       "stardate": "1050.8",
       "timeline": "prime",
-      "summary": "Christopher Pike returns to the Enterprise to resume command.",
+      "summary": "Christopher Pike resumes command of the Enterprise.",
       "entities": [
         "Stardate"
       ],
@@ -5763,7 +5763,7 @@
         "claimed": "alternate",
         "source": "wikipedia"
       },
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-citing-starfleet-regulation-157-section-3-lt-sp",
@@ -6209,7 +6209,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Discovery travels to 3189 via a wormhole.",
+      "summary": "The USS Discovery passes through a wormhole to the year 3189.",
       "entities": [
         "USS Discovery"
       ],
@@ -6241,7 +6241,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-under-the-command-of-james-t-kirk-the-enterprise",
@@ -6249,7 +6249,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Under the command of James T. Kirk, the Enterprise begins its mission with the crew who helped him stop Nero, including Leonard McCoy, Nyota Uhura, Hikaru Sulu, Pavel Chekov, Montgomery Scott, and Spock.",
+      "summary": "Kirk takes the Enterprise out with the crew who helped him stop Nero.",
       "entities": [
         "commanding officer"
       ],
@@ -6272,7 +6272,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-vulcan-itself-is-destroyed-spock-privately-estima",
@@ -6515,7 +6515,7 @@
       "date": "2259-02-11",
       "stardate": null,
       "timeline": "prime",
-      "summary": "As of this year, the Ketha Province has been uninhabited for decades.",
+      "summary": "The Ketha Province has stood empty for decades by this point.",
       "entities": [
         "Ketha Province"
       ],
@@ -6538,7 +6538,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-at-starfleet-headquarters-marcus-convenes-a-summi",
@@ -6546,7 +6546,7 @@
       "date": "2259-02-11",
       "stardate": null,
       "timeline": "prime",
-      "summary": "At Starfleet Headquarters, Marcus convenes a summit to commence a manhunt for Harrison. Harrison attacks the summit, murdering Pike. Harrison escapes by transwarp beaming to the uninhabited Ketha Province of Qo'noS. Kirk receives permission to hunt down Harrison and to reinstate Spock as his first officer. Admiral Marcus orders Kirk to use seventy-two experimental long-range photon torpedoes to execute Harrison from orbit.",
+      "summary": "Harrison attacks a Starfleet summit, killing Pike, then escapes by transwarp beam to Qo'noS.",
       "entities": [
         "Starfleet Headquarters",
         "murder",
@@ -6574,7 +6574,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-both-damaged-ships-begin-falling-to-earth-kirk-en",
@@ -6582,7 +6582,7 @@
       "date": "2259-02-11",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Both damaged ships begin falling to Earth. Kirk enters the radiation-flooded warp core, and is able to repair it, narrowly saving the Enterprise, but at the cost of his life. Khan deliberately pilots the Vengeance towards San Francisco, crashing it in the city center. Khan survives, and flees through San Francisco. However, he is apprehended by Spock and Uhura. Due to Khan's regenerative blood cells, a blood transfusion is conducted from Khan to Kirk.",
+      "summary": "Kirk dies repairing the Enterprise's warp core as both ships fall toward Earth.",
       "entities": [
         "blood transfusion"
       ],
@@ -6605,7 +6605,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-cadet-uhura-is-promoted-to-ensign",
@@ -6795,7 +6795,7 @@
       "date": null,
       "stardate": "2291.6",
       "timeline": "kelvin",
-      "summary": "January: The crew of the USS Enterprise become involved in the Mudd Incident, leading them to confiscate a K'normian trading ship.",
+      "summary": "The Enterprise crew are caught up in the Mudd Incident and seize a K'normian trading ship.",
       "entities": [
         "January",
         "Mudd Incident",
@@ -6822,7 +6822,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-john-harrison-coerces-thomas-harewood-a-member-of",
@@ -6830,7 +6830,7 @@
       "date": "2259-02-24",
       "stardate": "2259.55",
       "timeline": "prime",
-      "summary": "John Harrison coerces Thomas Harewood a member of Section 31 into bombing their facility under the Kelvin Memorial Archive, in London.",
+      "summary": "Harrison forces Section 31 agent Thomas Harewood to bomb the Kelvin Memorial Archive in London.",
       "entities": [
         "Stardate",
         "John Harrison",
@@ -6859,7 +6859,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-rukiya-is-cured-of-her-illness-and-is-transformed",
@@ -6929,7 +6929,7 @@
       "date": "2259-02-11",
       "stardate": "2259.42",
       "timeline": "prime",
-      "summary": "Stardate 1224.3. The Enterprise travels to Hetemit IX to investigate a former Illyrian colony. During the mission, Captain Christopher Pike and Lieutenant Spock are trapped on the planet while the landing party are exposed to a light-addicting virus.",
+      "summary": "The Enterprise investigates an abandoned Illyrian colony on Hetemit IX, stranding Pike and Spock planetside.",
       "entities": [
         "Hetemit IX",
         "Illyrian",
@@ -6956,7 +6956,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-stardate-1457-9-lieutenant-commander-chin-riley-i",
@@ -7301,7 +7301,7 @@
       "date": "2259-02-11",
       "stardate": null,
       "timeline": "prime",
-      "summary": "This is the year James T. Kirk was expected to graduate from Starfleet Academy after entering in 2255, assuming he took four years to do so and not three as he declared he would, and ultimately did.",
+      "summary": "The year Kirk would have finished the Academy had he taken the usual four years.",
       "entities": [
         "Starfleet Academy"
       ],
@@ -7324,7 +7324,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-two-weeks-later-kirk-is-fully-revived-khan-is-pl",
@@ -7332,7 +7332,7 @@
       "date": "2259-03-11",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Two weeks later, Kirk is fully revived. Khan is placed back in his old cryotube once more.",
+      "summary": "Kirk recovers, and Khan is returned to cryogenic storage.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -7353,7 +7353,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-una-chin-riley-is-given-command-of-the-uss-archer",
@@ -7423,7 +7423,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Carol Marcus officially joins the Enterprise crew.",
+      "summary": "Carol Marcus formally joins the Enterprise crew.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -7444,7 +7444,7 @@
         "https://memory-alpha.fandom.com/wiki/2260"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2260-following-extensive-repairs-the-uss-enterprise-em",
@@ -7452,7 +7452,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "Following extensive repairs, the USS Enterprise embarks on the first five-year mission of uncharted deep space exploration.",
+      "summary": "Repaired, the Enterprise sets out on a five-year exploratory mission.",
       "entities": [
         "five-year mission",
         "USS Enterprise"
@@ -7477,7 +7477,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2260-nearly-a-year-after-stardate-2259-55-a-fully-reco",
@@ -7485,7 +7485,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Nearly a year after stardate 2259.55: A fully recovered James T. Kirk gives a stirring speech about the principles of the Federation at a ceremony to honor those lost nearly a year prior.",
+      "summary": "A recovered Kirk speaks on Federation principles at a memorial ceremony.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -7506,7 +7506,7 @@
         "https://memory-alpha.fandom.com/wiki/2260"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2260-the-cayuga-is-destroyed-by-the-gorn-over-parnassus",
@@ -7545,7 +7545,7 @@
       "date": "2260-05-12",
       "stardate": "2260.133",
       "timeline": "prime",
-      "summary": "The Enterprise’s first day in deep space.",
+      "summary": "The Enterprise's first day in deep space.",
       "entities": [
         "Stardate"
       ],
@@ -7568,7 +7568,7 @@
         "https://memory-alpha.fandom.com/wiki/2260"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2260-the-stardiver-is-destroyed-by-the-gorn-in-the-shan",
@@ -7987,7 +7987,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "Stardate 2262.18 (January 18): James T. Kirk logs a entry in his captain's log. The issues Behemoth, Part 1 and Behemoth, Part 2 of the Star Trek: Ongoing take place around this date.",
+      "summary": "Kirk records a captain's log entry.",
       "entities": [
         "Captain's log, USS Enterprise (NCC-1701 alternate reality)",
         "Behemoth, Part 1",
@@ -8013,7 +8013,7 @@
         "https://memory-alpha.fandom.com/wiki/2262"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2262-stardate-2262-248-september-5-james-t-kirk-log",
@@ -8021,7 +8021,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "Stardate 2262.248 (September 5): James T. Kirk logs a entry in his captain's log.",
+      "summary": "Kirk records a further captain's log entry.",
       "entities": [
         "Captain's log, USS Enterprise (NCC-1701 alternate reality)"
       ],
@@ -8044,7 +8044,7 @@
         "https://memory-alpha.fandom.com/wiki/2262"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2263-a-peace-offering-to-the-teenaxi-delegation-from-th",
@@ -8052,7 +8052,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A peace offering to the Teenaxi Delegation from the Fibonan Republic with Captain James T. Kirk acting on their behalf goes awry forcing Kirk to abort the negotiation.",
+      "summary": "Kirk's attempt to broker peace between the Fibonan Republic and the Teenaxi Delegation collapses.",
       "entities": [
         "Abronath",
         "Teenaxi Delegation",
@@ -8078,7 +8078,7 @@
         "https://memory-alpha.fandom.com/wiki/2263"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2263-ambassador-spock-dies-on-new-vulcan",
@@ -8112,7 +8112,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2263-an-infant-lactran-later-encountered-by-the-uss-en",
@@ -8186,7 +8186,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "Construction for the USS Enterprise is underway at Starbase Yorktown.",
+      "summary": "A new USS Enterprise begins construction at Starbase Yorktown.",
       "entities": [
         "Starbase",
         "USS Enterprise"
@@ -8211,7 +8211,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2263-james-t-kirk-celebrates-his-30th-birthday-at-a-su",
@@ -8219,7 +8219,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "James T. Kirk celebrates his 30th birthday at a surprise party, during which he honors the Enterprise and those who did not survive recent events.",
+      "summary": "Kirk marks his thirtieth birthday at a surprise party, toasting the Enterprise and its dead.",
       "entities": [],
       "kind": null,
       "group": "Starbase Yorktown",
@@ -8240,7 +8240,7 @@
         "https://memory-alpha.fandom.com/wiki/2263"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2263-jaylah-is-offered-aceeptance-into-starfleet-academ",
@@ -8248,7 +8248,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jaylah is offered aceeptance into Starfleet Academy after Kirk \"pulled a few strings\".",
+      "summary": "Jaylah is admitted to Starfleet Academy on Kirk's recommendation.",
       "entities": [
         "Jaylah",
         "Starfleet Academy"
@@ -8272,7 +8272,7 @@
         "https://memory-alpha.fandom.com/wiki/2263"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2263-krall-launches-an-assault-on-starbase-yorktown-bu",
@@ -8280,7 +8280,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Krall launches an assault on Starbase Yorktown, but is ultimately defeated by the remaining Enterprise crew in the repaired Franklin.",
+      "summary": "Krall's assault on Starbase Yorktown is broken by the Enterprise crew flying the salvaged Franklin.",
       "entities": [
         "Attack on Yorktown"
       ],
@@ -8303,7 +8303,7 @@
         "https://memory-alpha.fandom.com/wiki/2263"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2263-matthew-decker-is-promoted-to-commodore-he-remain",
@@ -8343,7 +8343,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Montgomery Scott is led to the long-lost and intact USS Franklin on Altamid by Jaylah.",
+      "summary": "Jaylah leads Montgomery Scott to the intact USS Franklin on Altamid.",
       "entities": [
         "Jaylah",
         "USS Franklin"
@@ -8367,7 +8367,7 @@
         "https://memory-alpha.fandom.com/wiki/2263"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2263-one-hundred-fifty-men-women-and-children-led-by",
@@ -8408,7 +8408,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Spock goes through a cache of items belonging to the late Ambassador Spock and discovers a photo of him with the senior crew of the USS Enterprise circa 2287 in his timeline.",
+      "summary": "Among Ambassador Spock's effects, Spock finds a photograph of the Enterprise senior crew from the other timeline.",
       "entities": [
         "USS Enterprise"
       ],
@@ -8431,7 +8431,7 @@
         "https://memory-alpha.fandom.com/wiki/2263"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2263-the-enterprise-is-destroyed-by-krall-and-his-swarm",
@@ -8439,7 +8439,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise is destroyed by Krall and his swarm ships during an alleged rescue mission over Altamid.",
+      "summary": "Krall's swarm ships destroy the Enterprise over Altamid.",
       "entities": [
         "Battle of Altamid",
         "Krall",
@@ -8465,7 +8465,7 @@
         "https://memory-alpha.fandom.com/wiki/2263"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2263-the-uss-enterprise-makes-a-reprovisioning-stop-at",
@@ -8473,7 +8473,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "The USS Enterprise makes a reprovisioning stop at Yorktown Station.",
+      "summary": "The Enterprise puts in at Yorktown Station to resupply.",
       "entities": [
         "Yorktown",
         "USS Enterprise"
@@ -8497,7 +8497,7 @@
         "https://memory-alpha.fandom.com/wiki/2263"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2264-carter-winston-disappears-in-a-meteor-storm-his-s",
@@ -8538,7 +8538,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate timeline, Captain James T. Kirk is the commanding officer of the USS Enterprise.",
+      "summary": "In an alternate timeline, Kirk commands the USS Enterprise.",
       "entities": [
         "Captain",
         "James T. Kirk",
@@ -8564,7 +8564,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2264-in-the-same-timeline-commander-thelin-becomes-the",
@@ -8732,7 +8732,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A bottle from this year's vintage of Dom Pérignon will be used in the christening of the USS Enterprise in 2293.",
+      "summary": "A Dom Pérignon of this vintage is kept back to christen the Enterprise-B in 2293.",
       "entities": [
         "vintage",
         "Dom Pérignon",
@@ -8757,7 +8757,7 @@
         "https://memory-alpha.fandom.com/wiki/2265"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2265-a-new-uniform-is-introduced-for-starfleet-personne",
@@ -8765,7 +8765,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A new uniform is introduced for Starfleet personnel, though the previous style continues to be used for years. These new uniforms remain in service until the early 2270s.",
+      "summary": "Starfleet introduces a new uniform, worn alongside the older style into the 2270s.",
       "entities": [
         "Starfleet uniform (2250s-early 2270s)",
         "2270s"
@@ -8806,7 +8806,7 @@
         "https://memory-alpha.fandom.com/wiki/2265"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2265-april-wade-is-born",
@@ -8910,7 +8910,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain James T. Kirk assumes command of the USS Enterprise for an historic five-year mission of exploration. He is seen off on his first mission as commander of the starship by his brother Sam and his family. His father is also proud to see him off. Before assuming command, Kirk's emotional structure is tested by the Robbiani dermal-optic test.",
+      "summary": "Kirk takes command of the Enterprise for a five-year mission of exploration.",
       "entities": [
         "Captain",
         "James T. Kirk",
@@ -8962,7 +8962,7 @@
         "https://memory-alpha.fandom.com/wiki/2265"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2265-carter-winston-dies-on-the-planet-vendor",
@@ -9064,7 +9064,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Borg \"swarm through\" the El-Aurian system, invading and destroying the El-Aurian homeworld. The survivors flee and are scattered over the entire galaxy, with some reaching Earth twenty-eight years later.",
+      "summary": "The Borg overrun the El-Aurian homeworld, scattering survivors across the galaxy.",
       "entities": [
         "Borg",
         "El-Aurian system",
@@ -9096,7 +9096,7 @@
         "https://memory-alpha.fandom.com/wiki/2265"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2265-the-enterprise-becomes-one-of-the-first-earth-ship",
@@ -9233,7 +9233,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Leonard McCoy replaces Dr. Mark Piper as ship's surgeon and chief medical officer aboard the USS Enterprise, some time after 2265.",
+      "summary": "Leonard McCoy succeeds Mark Piper as the Enterprise's chief medical officer.",
       "entities": [
         "Dr.",
         "Leonard McCoy",
@@ -9270,7 +9270,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-dr-mccoy-spills-acid-in-sickbay-an-event-which-a",
@@ -9937,7 +9937,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Ensign Pavel Chekov joins the crew of the USS Enterprise. Before the end of the year, Chekov becomes chief navigator.",
+      "summary": "Ensign Pavel Chekov joins the Enterprise, becoming chief navigator within the year.",
       "entities": [
         "Ensign",
         "Pavel Chekov",
@@ -9969,7 +9969,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-except-for-captain-ronald-tracey-the-entire-crew",
@@ -10116,7 +10116,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Nimbus III is jointly established as the \"Planet of Galactic Peace\" by the Romulan Star Empire, the United Federation of Planets, and the Klingon Empire.",
+      "summary": "The Federation, Romulans and Klingons jointly found Nimbus III as a planet of galactic peace.",
       "entities": [
         "Nimbus III",
         "Romulan Star Empire",
@@ -10141,7 +10141,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-starfleet-loses-contact-with-john-gill-a-federati",
@@ -10621,7 +10621,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Ceti Alpha VI explodes and turns the former M class planet Ceti Alpha V into a barren wasteland.",
+      "summary": "Ceti Alpha VI explodes, leaving neighbouring Ceti Alpha V a wasteland.",
       "entities": [
         "Ceti Alpha VI",
         "M class",
@@ -10646,7 +10646,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-dr-mccoy-contracts-the-rare-illness-xenopolycythe",
@@ -11151,7 +11151,7 @@
       "date": null,
       "stardate": null,
       "timeline": "mirror",
-      "summary": "The Defiant is discovered by the USS Enterprise adrift in the interphase of Tholian space with all of the crew dead due to mass insanity. After Kirk is rescued from the ship, unknown to the Federation and Starfleet, the USS Defiant, courtesy of a Tholian tri-cobalt warhead, ends up in the mirror universe in 2155 stolen by Commander Jonathan Archer and the crew of the ISS Enterprise.",
+      "summary": "The Enterprise finds the Defiant adrift in Tholian interphase, her crew dead by mass insanity.",
       "entities": [
         "interphase",
         "Tholian space",
@@ -11186,7 +11186,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-the-dohlman-of-elas-named-elaan-is-married-in-an",
@@ -12471,7 +12471,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kirk is promoted to admiral and becomes Chief of Starfleet Operations.",
+      "summary": "Kirk is promoted to admiral and made Chief of Starfleet Operations.",
       "entities": [
         "promote",
         "admiral",
@@ -12496,7 +12496,7 @@
         "https://memory-alpha.fandom.com/wiki/2270"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2270-kirk-orders-a-federation-quarantine-of-the-planet",
@@ -12537,7 +12537,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Leonard McCoy also retires from Starfleet and starts a private medical practice on Earth.",
+      "summary": "Leonard McCoy leaves Starfleet for private practice on Earth.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -12558,7 +12558,7 @@
         "https://memory-alpha.fandom.com/wiki/2270"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2270-mccoy-finds-a-cure-for-the-auroral-plague-via-blo",
@@ -12694,7 +12694,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Spock retires from Starfleet and returns to Vulcan to undergo Kolinahr.",
+      "summary": "Spock resigns and returns to Vulcan to attempt Kolinahr.",
       "entities": [
         "Kolinahr"
       ],
@@ -12717,7 +12717,7 @@
         "https://memory-alpha.fandom.com/wiki/2270"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2270-will-decker-is-promoted-to-captain-of-the-uss-ente",
@@ -12725,7 +12725,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Will Decker is promoted to captain of the USS Enterprise.",
+      "summary": "Will Decker is made captain of the Enterprise.",
       "entities": [
         "Will Decker"
       ],
@@ -12749,7 +12749,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2271-during-an-encounter-with-romulans-near-the-romulan",
@@ -12954,7 +12954,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A group of young Ba'ku wanting to follow the ways of the offlanders (people not born on the Ba'ku planet) attempt to take over the colony and fail. For their punishment, they are exiled and will find a new identity as the Son'a.",
+      "summary": "Young Ba'ku who tried to seize the colony are exiled after their attempt fails.",
       "entities": [
         "Ba'ku",
         "Ba'ku planet",
@@ -12980,7 +12980,7 @@
         "https://memory-alpha.fandom.com/wiki/2275"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2276-tressa-is-born-on-drayan-ii",
@@ -13216,7 +13216,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "James T. Kirk sees Demora Sulu for the last time until 2293.",
+      "summary": "Kirk sees Demora Sulu for the last time before 2293.",
       "entities": [
         "James T. Kirk",
         "Demora Sulu"
@@ -13240,7 +13240,7 @@
         "https://memory-alpha.fandom.com/wiki/2281"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2282-chez-desalle-begins-to-develop-their-pod-plant-pur",
@@ -13279,7 +13279,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In Idaho on Earth, James T. Kirk takes one of his uncle's horses for a ride and meets Antonia.",
+      "summary": "Riding one of his uncle's horses in Idaho, Kirk meets Antonia.",
       "entities": [
         "Idaho",
         "James T. Kirk",
@@ -13305,7 +13305,7 @@
         "https://memory-alpha.fandom.com/wiki/2282"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2284-audrid-dax-dies-the-dax-symbiont-passes-to-torias",
@@ -13344,7 +13344,7 @@
       "date": null,
       "stardate": "7130.4",
       "timeline": "prime",
-      "summary": "Carol Marcus sends a next phase proposal for Project Genesis to the Federation authorities.",
+      "summary": "Carol Marcus submits the next-phase proposal for Project Genesis.",
       "entities": [
         "Stardate",
         "Carol Marcus",
@@ -13369,7 +13369,7 @@
         "https://memory-alpha.fandom.com/wiki/2284"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2284-james-t-kirk-tells-antonia-his-plans-to-return-to",
@@ -13377,7 +13377,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "James T. Kirk tells Antonia his plans to return to Starfleet.",
+      "summary": "Kirk tells Antonia he intends to return to Starfleet.",
       "entities": [
         "James T. Kirk",
         "Antonia"
@@ -13401,7 +13401,7 @@
         "https://memory-alpha.fandom.com/wiki/2284"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2284-rishon-uxbridge-is-born",
@@ -13469,7 +13469,7 @@
       "date": null,
       "stardate": "8210.3",
       "timeline": "prime",
-      "summary": "Admiral Kirk steals the USS Enterprise in an attempt to rescue Spock, revived by the effects of the Genesis Planet. USS Grissom is destroyed by a Klingon Bird-of-Prey commanded by Kruge. The Enterprise is scuttled to prevent it from falling into Klingon hands. Kirk and his crew return to Vulcan in the Klingon Bird-of-Prey, where Spock's memory is restored with the fal-tor-pan ritual.",
+      "summary": "Kirk steals the Enterprise to retrieve the revived Spock; Kruge's Bird-of-Prey destroys the USS Grissom.",
       "entities": [
         "Admiral",
         "Klingon Bird-of-Prey",
@@ -13497,7 +13497,7 @@
         "https://memory-alpha.fandom.com/wiki/2285"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2285-following-the-death-of-torias-in-a-shuttlecraft-ac",
@@ -13505,7 +13505,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Following the death of Torias in a shuttlecraft accident, the Dax symbiont is joined with Joran.",
+      "summary": "After Torias dies in a shuttle crash, the Dax symbiont is joined to Joran.",
       "entities": [
         "Torias Dax",
         "shuttlecraft"
@@ -13538,7 +13538,7 @@
         "https://memory-alpha.fandom.com/wiki/2285"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2285-initial-performance-tests-of-the-excelsior-s-trans",
@@ -13607,7 +13607,7 @@
       "date": null,
       "stardate": "8130.4",
       "timeline": "prime",
-      "summary": "Project Genesis enters its third stage. USS Reliant is dispatched to the Ceti Alpha star system to determine the viability of Ceti Alpha VI for use in the Genesis test. The vessel is hijacked by Khan Noonien Singh and used to launch an attack on the USS Enterprise. Khan is killed in the detonation of the Genesis Device aboard Reliant. Captain Spock dies while restoring power to Enterprise’s warp drive, allowing it to escape. The Genesis Planet is formed.",
+      "summary": "Project Genesis reaches its third stage, and the USS Reliant surveys the Ceti Alpha system for a test site.",
       "entities": [
         "Project Genesis",
         "Ceti Alpha star system",
@@ -13640,7 +13640,7 @@
         "https://memory-alpha.fandom.com/wiki/2285"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2285-stardate-8130-3-james-t-kirk-turns-52-years-ol",
@@ -13648,7 +13648,7 @@
       "date": "2285-03-22",
       "stardate": null,
       "timeline": "prime",
-      "summary": "(Stardate 8130.3): James T. Kirk turns 52 years old.",
+      "summary": "Kirk turns fifty-two.",
       "entities": [
         "Stardate",
         "James T. Kirk"
@@ -13672,7 +13672,7 @@
         "https://memory-alpha.fandom.com/wiki/2285"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2285-the-uss-excelsior-starfleet-s-first-excelsior-sta",
@@ -13680,7 +13680,7 @@
       "date": null,
       "stardate": "8205.5",
       "timeline": "prime",
-      "summary": "The USS Excelsior, Starfleet's first Excelsior starship, is commissioned.",
+      "summary": "The USS Excelsior, first of her class, is commissioned.",
       "entities": [
         "USS Excelsior"
       ],
@@ -13703,7 +13703,7 @@
         "https://memory-alpha.fandom.com/wiki/2285"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2285-uss-hathaway-a-constellation-starship-is-launche",
@@ -13743,7 +13743,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "After spending three months in exile on Vulcan, Kirk and his crew are put on trial for their actions during the Genesis incident. All charges but one are dismissed, and Kirk is demoted to the rank of captain in punishment for the remaining charge.",
+      "summary": "After three months' exile on Vulcan, Kirk and his crew stand trial over Genesis; all but one charge is dropped and Kirk is demoted.",
       "entities": [
         "crew",
         "Project Genesis",
@@ -13770,7 +13770,7 @@
         "https://memory-alpha.fandom.com/wiki/2286"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2286-an-alien-probe-dubbed-the-whale-probe-disables",
@@ -13778,7 +13778,7 @@
       "date": null,
       "stardate": "8390",
       "timeline": "prime",
-      "summary": "An alien probe, dubbed the \"Whale Probe\", disables Starfleet and Klingon ships and causes serious damage to Earth's atmosphere. It is discovered that the probe was sent to contact the species Megaptera novaeangliae or humpback whale, which had, however, been hunted to extinction in the 21st century. Admiral James T. Kirk is able to retrieve two members of the species from the year 1986, and avert further catastrophe. The probe leaves Federation space, and the disabled ships are restored.",
+      "summary": "An alien probe cripples Starfleet and Klingon ships and wrecks Earth's weather while calling out to humpback whales.",
       "entities": [
         "alien",
         "probe",
@@ -13813,7 +13813,7 @@
         "https://memory-alpha.fandom.com/wiki/2286"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2286-butler-kirk-s-dog-dies",
@@ -13821,7 +13821,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Butler, Kirk's dog, dies.",
+      "summary": "Kirk's dog Butler dies.",
       "entities": [
         "dog",
         "death"
@@ -13845,7 +13845,7 @@
         "https://memory-alpha.fandom.com/wiki/2286"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2286-due-to-the-whale-probe-threat-earth-enters-a-stat",
@@ -13947,7 +13947,7 @@
       "date": null,
       "stardate": "8442.5",
       "timeline": "prime",
-      "summary": "The USS Enterprise is launched under the command of Captain Kirk.",
+      "summary": "The USS Enterprise-A is launched under Kirk's command.",
       "entities": [
         "Stardate",
         "commanding officer",
@@ -13973,7 +13973,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2286-the-yorktown-under-the-command-of-captain-joel-ran",
@@ -13981,7 +13981,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Yorktown under the command of Captain Joel Randolph. While deployed near the Sol system, the Yorktown was one of the many vessels disabled by the Whale Probe near Earth.",
+      "summary": "The Yorktown, under Joel Randolph, is among the ships disabled by the probe near Sol.",
       "entities": [
         "Joel Randolph"
       ],
@@ -14004,7 +14004,7 @@
         "https://memory-alpha.fandom.com/wiki/2286"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2286-while-patrolling-sector-5-of-the-neutral-zone-the",
@@ -14012,7 +14012,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "While patrolling Sector 5 of the Neutral Zone, the Saratoga encountered a probe of unknown origin on a direct course to Earth.",
+      "summary": "The Saratoga meets the unidentified probe while patrolling Sector 5 of the Neutral Zone.",
       "entities": [
         "Sector 5",
         "Neutral Zone"
@@ -14036,7 +14036,7 @@
         "https://memory-alpha.fandom.com/wiki/2286"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2287-after-the-journey-to-sha-ka-ree-the-senior-staff",
@@ -14044,7 +14044,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "After the journey to Sha Ka Ree, the senior staff of the Enterprise-A takes a photograph together on the bridge. Spock keeps this image for the rest of his life until his death in 2263 of the and it is passed on to his alternate self.",
+      "summary": "The Enterprise-A senior staff pose for a bridge photograph that Spock keeps for the rest of his life.",
       "entities": [
         "senior staff",
         "photograph",
@@ -14076,7 +14076,7 @@
         "https://memory-alpha.fandom.com/wiki/2287"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2287-captain-james-t-kirk-and-the-crew-of-the-new-uss",
@@ -14084,7 +14084,7 @@
       "date": null,
       "stardate": "8454.1",
       "timeline": "prime",
-      "summary": "Captain James T. Kirk and the crew of the new USS Enterprise are pressed back into service. Sybok hijacks the Enterprise and forces the ship to travel through the Great Barrier in search of the planet Sha Ka Ree and God. They find Sha Ka Ree and a very powerful lifeform trapped at the center of the galaxy.",
+      "summary": "Kirk's crew are recalled to duty; Sybok seizes the Enterprise and drives her through the Great Barrier.",
       "entities": [
         "Stardate",
         "Captain",
@@ -14113,7 +14113,7 @@
         "https://memory-alpha.fandom.com/wiki/2287"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2287-hikaru-sulu-assumes-command-of-the-uss-excelsior",
@@ -14152,7 +14152,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "James T. Kirk, Spock, and Leonard McCoy visit Yosemite National Park for their shore leave. Kirk nearly dies from falling off of El Capitan while climbing it, but is saved by Spock and his levitation boots.",
+      "summary": "On leave at Yosemite, Kirk falls from El Capitan and is caught by Spock.",
       "entities": [
         "James T. Kirk",
         "Spock",
@@ -14182,7 +14182,7 @@
         "https://memory-alpha.fandom.com/wiki/2287"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2287-spock-s-half-brother-the-renegade-vulcan-sybok-ca",
@@ -14190,7 +14190,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Spock's half-brother, the renegade Vulcan Sybok captures the Federation, Klingon, and Romulan ambassadors on Nimbus III.",
+      "summary": "Sybok, Spock's half-brother, seizes the Federation, Klingon and Romulan ambassadors on Nimbus III.",
       "entities": [
         "Vulcan",
         "Sybok",
@@ -14218,7 +14218,7 @@
         "https://memory-alpha.fandom.com/wiki/2287"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2288-the-lancelot-starships-are-introduced-into-starfle",
@@ -14323,7 +14323,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Hikaru Sulu begins a three-year mission charting gaseous anomalies in the Beta Quadrant.",
+      "summary": "Hikaru Sulu begins a three-year survey of gaseous anomalies in the Beta Quadrant.",
       "entities": [
         "Hikaru Sulu",
         "gaseous anomaly"
@@ -14347,7 +14347,7 @@
         "https://memory-alpha.fandom.com/wiki/2290"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2290-the-klingon-battle-cruiser-iks-t-ong-is-sent-by-th",
@@ -14456,7 +14456,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Doing his part to save the Enterprise-B from being destroyed by the Nexus on her maiden voyage, Captain James Tiberius Kirk, one of the most celebrated Starfleet officers in history, is believed to have been killed.",
+      "summary": "Kirk is lost saving the Enterprise-B from the Nexus on her maiden voyage.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -14477,7 +14477,7 @@
         "https://memory-alpha.fandom.com/wiki/2293"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2293-starfleet-opens-up-a-classified-database-on-the-bo",
@@ -14516,7 +14516,7 @@
       "date": null,
       "stardate": "9521.6",
       "timeline": "prime",
-      "summary": "The Excelsior is struck by a powerful subspace shock wave caused by the destruction of the Klingon moon, Praxis. Upon discovering the cause of the disaster, Sulu immediately contacted the Klingon High Command to offer his ship's assistance. The Klingons, including an officer on Praxis, called for help, however, the transmission was cut off when Brigadier Kerla interrupted and reported that there had been an incident on Praxis, and turned the offer for assistance down because everything is under control, requesting that Sulu obey treaty stipulations and remain outside the Neutral Zone. Thereafter, Sulu reported the incident to Starfleet Command.",
+      "summary": "A shock wave from Praxis strikes the Excelsior, and Sulu reports the disaster to Starfleet.",
       "entities": [
         "subspace shock wave",
         "Klingon Empire",
@@ -14549,7 +14549,7 @@
         "https://memory-alpha.fandom.com/wiki/2293"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2293-the-khitomer-conference-takes-place-paving-the-wa",
@@ -14557,7 +14557,7 @@
       "date": null,
       "stardate": "9529.1",
       "timeline": "prime",
-      "summary": "The Khitomer Conference takes place, paving the way for nearly a hundred years of peace between the Klingon Empire and the Federation. Curzon Dax is one of the Federation diplomats present who negotiates the Accords.",
+      "summary": "The Khitomer Conference opens nearly a century of Federation–Klingon peace, with Curzon Dax among the negotiators.",
       "entities": [
         "Khitomer Conference",
         "Klingon Empire",
@@ -14594,7 +14594,7 @@
         "https://memory-alpha.fandom.com/wiki/2293"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2293-the-klingon-moon-praxis-explodes",
@@ -14602,7 +14602,7 @@
       "date": null,
       "stardate": "9521.6",
       "timeline": "prime",
-      "summary": "The Klingon moon Praxis explodes.",
+      "summary": "Praxis, a Klingon moon, explodes.",
       "entities": [
         "Stardate",
         "Klingon",
@@ -14628,7 +14628,7 @@
         "https://memory-alpha.fandom.com/wiki/2293"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2293-the-nexus-a-powerful-destructive-energy-ribbon-a",
@@ -14636,7 +14636,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Nexus; a powerful, destructive energy-ribbon and inter-dimensional portal is discovered by the Federation for the first time with the crew of the Enterprise-B. It claims the lives of hundreds of El-Aurian refugees aboard the SS Lakul and SS Robert Fox which were both destroyed by the ribbon.",
+      "summary": "The Federation first encounters the Nexus energy ribbon during the Enterprise-B's maiden voyage.",
       "entities": [
         "The Nexus",
         "SS Lakul",
@@ -14661,7 +14661,7 @@
         "https://memory-alpha.fandom.com/wiki/2293"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2293-the-uss-enterprise-a-is-decommissioned",
@@ -14693,7 +14693,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2293-the-uss-enterprise-is-commissioned-under-the-comma",
@@ -14701,7 +14701,7 @@
       "date": null,
       "stardate": "9715.5",
       "timeline": "prime",
-      "summary": "The USS Enterprise is commissioned under the command of Captain John Harriman.",
+      "summary": "The USS Enterprise-B is commissioned under Captain John Harriman.",
       "entities": [
         "Captain",
         "John Harriman",
@@ -14727,7 +14727,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2293-tuvok-graduates-from-starfleet-academy-and-is-assi",
@@ -14769,7 +14769,7 @@
       "date": null,
       "stardate": "9522.6",
       "timeline": "prime",
-      "summary": "USS Enterprise departs the Spacedock One to rendezvous with Kronos One. Captain James T. Kirk is framed for the assassination of Klingon Chancellor Gorkon. He and Dr. Leonard McCoy are given life sentences and sent to the dilithium mines of Rura Penthe but are both rescued by Captain Spock and the crew of the Enterprise-A.",
+      "summary": "Kirk and McCoy are framed for Chancellor Gorkon's assassination after the Enterprise meets Kronos One.",
       "entities": [
         "Spacedock One",
         "Kronos One",
@@ -14805,7 +14805,7 @@
         "https://memory-alpha.fandom.com/wiki/2293"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2294-a-northern-continent-on-oby-vi-is-afflicted-by-a-p",
@@ -15149,7 +15149,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Upon entering pon farr, Tuvok leaves the discipline of Kolinahr and marries T'Pel.",
+      "summary": "Entering pon farr, Tuvok abandons Kolinahr and marries T'Pel.",
       "entities": [
         "pon farr",
         "Tuvok",
@@ -15184,7 +15184,7 @@
         "https://memory-alpha.fandom.com/wiki/2304"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2305-july-13th-jean-luc-picard-is-born-in-la-barre-f",
@@ -15192,7 +15192,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "July 13th – Jean-Luc Picard is born in La Barre, France.",
+      "summary": "Jean-Luc Picard born in La Barre, France.",
       "entities": [
         "July",
         "Jean-Luc Picard",
@@ -15218,7 +15218,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2305-susan-beaumont-is-born",
@@ -15445,7 +15445,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A conflict between the Federation and the Romulan Star Empire, known as the Tomed Incident takes place, the outcome of which leads to the Treaty of Algeron. The treaty redefines the Romulan Neutral Zone, and as well, ends all Federation research into cloaking technology. Afterward, the Romulans go into a period of complete isolation.",
+      "summary": "The Tomed Incident between the Federation and the Romulans leads to the Treaty of Algeron.",
       "entities": [
         "Romulan Star Empire",
         "Tomed Incident",
@@ -15484,7 +15484,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2311-jillur-gueta-is-born-on-bajor",
@@ -15686,7 +15686,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Stratford under the command of Captain A. Williams is destroyed. Starfleet Intelligence suspects this was orchestrated by the Minosian High Council.",
+      "summary": "The USS Stratford is destroyed; Starfleet Intelligence suspects the Minosian High Council.",
       "entities": [
         "A. Williams",
         "Starfleet Intelligence",
@@ -15712,7 +15712,7 @@
         "https://memory-alpha.fandom.com/wiki/2314"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2317-the-uss-leondegrance-under-the-command-of-captain",
@@ -15822,7 +15822,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "T'Lyn is born.",
+      "summary": "T'Lyn born.",
       "entities": [
         "T'Lyn"
       ],
@@ -15845,7 +15845,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2320-lewis-zimmerman-is-born-on-earth-to-gregory-zimmer",
@@ -16130,7 +16130,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "April – Picard participates in the forty-first Starfleet Academy marathon on Danula II and becomes the first freshman to ever win the marathon.",
+      "summary": "Picard wins the Starfleet Academy marathon on Danula II, the first freshman ever to do so.",
       "entities": [
         "April",
         "Starfleet Academy marathon",
@@ -16162,7 +16162,7 @@
         "https://memory-alpha.fandom.com/wiki/2323"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2323-jean-luc-picard-s-second-application-to-starfleet",
@@ -16201,7 +16201,7 @@
       "date": "2324-10-13",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Beverly Howard is born in Copernicus City on Luna.",
+      "summary": "Beverly Howard born in Copernicus City on Luna.",
       "entities": [
         "Beverly Howard",
         "Copernicus City",
@@ -16226,7 +16226,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2324-the-parrises-squares-team-of-the-starfleet-academy",
@@ -16333,7 +16333,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Son'a subdue the Tarlac and the Ellora and integrate them into their society as a labor class.",
+      "summary": "The Son'a conquer the Tarlac and the Ellora and press them into a labour class.",
       "entities": [
         "Son'a",
         "Tarlac",
@@ -16358,7 +16358,7 @@
         "https://memory-alpha.fandom.com/wiki/2325"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2326-the-uss-stargazer-is-commissioned-and-enters-into",
@@ -16509,7 +16509,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Class of 2327 graduates from Starfleet Academy. Its members included Jean-Luc Picard, Marta Batanides, and Cortan Zweller. Picard has a degree in Command and Control.",
+      "summary": "Picard, Marta Batanides and Cortan Zweller graduate from Starfleet Academy.",
       "entities": [
         "Class of 2327",
         "Starfleet Academy",
@@ -16553,7 +16553,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2327-timicin-begins-research-on-how-to-save-his-homewor",
@@ -16721,7 +16721,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Miles O'Brien is born in Ireland to Michael O'Brien during September of this year.",
+      "summary": "Miles O'Brien born in Ireland to Michael O'Brien.",
       "entities": [
         "Miles O'Brien",
         "Ireland",
@@ -16757,7 +16757,7 @@
         "https://memory-alpha.fandom.com/wiki/2328"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2328-starfleet-lieutenant-ian-andrew-troi-and-the-betaz",
@@ -16867,7 +16867,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Chakotay is born on Trebus near what becomes the Cardassian Demilitarized Zone.",
+      "summary": "Chakotay born on Trebus, near what becomes the Cardassian Demilitarized Zone.",
       "entities": [
         "Chakotay",
         "Trebus",
@@ -16898,7 +16898,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2329-kestra-troi-the-first-daughter-of-lwaxana-and-ian",
@@ -17221,7 +17221,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Benjamin Sisko, the son of Joseph and Sarah Sisko, is born in New Orleans, Louisiana on Earth.",
+      "summary": "Benjamin Sisko born in New Orleans to Joseph and Sarah Sisko.",
       "entities": [
         "Benjamin Sisko",
         "Joseph Sisko",
@@ -17258,7 +17258,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2332-the-impulse-engines-later-used-aboard-the-val-jean",
@@ -17297,7 +17297,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Nexus returns to the Milky Way Galaxy thirty-nine years after James Kirk was taken by it.",
+      "summary": "The Nexus passes through the galaxy again, thirty-nine years after taking Kirk.",
       "entities": [
         "Nexus",
         "Milky Way Galaxy",
@@ -17322,7 +17322,7 @@
         "https://memory-alpha.fandom.com/wiki/2332"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2333-captain-jean-luc-picard-is-named-as-a-honorary-oly",
@@ -17393,7 +17393,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "During a historic battle involving the Constellation starship USS Stargazer and attacking hostile forces, the captain is killed and Lieutenant Commander Jean-Luc Picard takes command of the bridge. In recognition of his service, Picard is promoted to permanent commanding officer of the vessel.",
+      "summary": "Picard takes command of the USS Stargazer in battle after her captain is killed.",
       "entities": [
         "starship",
         "Stargazer 2893 captain 001",
@@ -17427,7 +17427,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2333-gaila-begins-a-forty-year-career-in-the-weapons-de",
@@ -17497,7 +17497,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "August 19th – William T. Riker is born in Alaska on Earth.",
+      "summary": "William T. Riker born in Alaska.",
       "entities": [
         "August",
         "William T. Riker",
@@ -17538,7 +17538,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2335-chakotay-at-the-age-of-six-aspires-to-become-a-p",
@@ -17582,7 +17582,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "February 16th – Geordi La Forge is born in Mogadishu, Somalia on Earth.",
+      "summary": "Geordi La Forge born in Mogadishu, Somalia.",
       "entities": [
         "February",
         "Geordi La Forge",
@@ -17608,7 +17608,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2335-l-isao-telaka-is-born",
@@ -17709,7 +17709,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Data is built on Omicron Theta, and begins his endeavor to become more Human.",
+      "summary": "Data is built on Omicron Theta and begins his pursuit of humanity.",
       "entities": [
         "Data",
         "Omicron Theta",
@@ -17750,7 +17750,7 @@
         "https://memory-alpha.fandom.com/wiki/2336"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2336-doctor-noonien-soong-and-juliana-soong-relocate-th",
@@ -17859,7 +17859,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "March 29th – Deanna Troi is born near Lake El'nar on Betazed.",
+      "summary": "Deanna Troi born near Lake El'nar on Betazed.",
       "entities": [
         "Deanna Troi",
         "Lake El'nar",
@@ -17889,7 +17889,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2336-sarah-sisko-dies-in-a-hovercraft-accident-her-for",
@@ -18027,7 +18027,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Natasha Yar is born on Turkana IV.",
+      "summary": "Natasha Yar born on Turkana IV.",
       "entities": [
         "Natasha Yar",
         "Turkana IV"
@@ -18051,7 +18051,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2337-the-colony-on-turkana-iv-begins-falling-apart-wit",
@@ -18695,7 +18695,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Worf, son of Mogh, is born on Qo'noS.",
+      "summary": "Worf, son of Mogh, born on Qo'noS.",
       "entities": [
         "Worf",
         "Mogh",
@@ -18720,7 +18720,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2341-according-to-a-holonovel-called-crisis-point-ii-p",
@@ -18796,7 +18796,7 @@
       "date": null,
       "stardate": "23634.1",
       "timeline": "prime",
-      "summary": "Jadzia is born on Trill.",
+      "summary": "Jadzia born on Trill.",
       "entities": [
         "Stardate",
         "Jadzia Dax"
@@ -18829,7 +18829,7 @@
         "https://memory-alpha.fandom.com/wiki/2341"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2341-julian-bashir-is-born-on-earth",
@@ -18837,7 +18837,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Julian Bashir is born on Earth.",
+      "summary": "Julian Bashir born on Earth.",
       "entities": [
         "Julian Bashir"
       ],
@@ -18865,7 +18865,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2341-lwaxana-troi-first-uses-the-nickname-little-one",
@@ -19336,7 +19336,7 @@
       "date": null,
       "stardate": "25479",
       "timeline": "prime",
-      "summary": "Annika Hansen is born on the Tendara colony.",
+      "summary": "Annika Hansen born on the Tendara colony.",
       "entities": [
         "Stardate",
         "Annika Hansen",
@@ -19376,7 +19376,7 @@
         "https://memory-alpha.fandom.com/wiki/2344"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2344-chakotay-s-entry-into-starfleet-academy-is-sponsor",
@@ -20692,7 +20692,7 @@
         "https://memory-alpha.fandom.com/wiki/2348"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2348-enabran-tain-becomes-head-of-the-obsidian-order",
@@ -20889,7 +20889,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Wesley Crusher is born on Earth.",
+      "summary": "Wesley Crusher born on Earth.",
       "entities": [
         "Wesley Crusher"
       ],
@@ -20921,7 +20921,7 @@
         "https://memory-alpha.fandom.com/wiki/2348"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2348-zek-wins-the-global-tongo-championship-for-the-sec",
@@ -21446,7 +21446,7 @@
         "https://memory-alpha.fandom.com/wiki/2350"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2350-beverly-crusher-graduates-from-starfleet-medical-a",
@@ -21524,7 +21524,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Divok is born on Qo'noS.",
+      "summary": "Divok born on Qo'noS.",
       "entities": [
         "Divok",
         "Qo'noS"
@@ -21548,7 +21548,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2350-dr-telek-r-mor-begins-a-three-year-mission-conduc",
@@ -22113,7 +22113,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Duras sisters' Bird-of-Prey is commissioned in this year.",
+      "summary": "The Duras sisters' Bird-of-Prey is commissioned.",
       "entities": [
         "Duras sisters' Bird-of-Prey"
       ],
@@ -22136,7 +22136,7 @@
         "https://memory-alpha.fandom.com/wiki/2351"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2351-vandor-iv-is-selected-by-dr-paul-manheim-as-the-l",
@@ -22369,7 +22369,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Natasha Yar flees from the failed Human colony on Turkana IV.",
+      "summary": "Natasha Yar escapes the collapsed human colony on Turkana IV.",
       "entities": [
         "Natasha Yar",
         "Human",
@@ -22404,7 +22404,7 @@
         "https://memory-alpha.fandom.com/wiki/2352"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2352-sneed-is-arrested-on-ferenginar-he-is-found-guilt",
@@ -22664,7 +22664,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jack R. Crusher dies on an away mission. Jean-Luc Picard, Crusher's captain aboard the Stargazer, delivers the sad news to Jack's wife, Beverly Crusher. Following his death Beverly packs up some things, placing them in storage, including a holographic message Jack recorded for his son Wesley in 2348 when Wesley was about ten weeks old. She doesn't remove the small container from storage until 2367.",
+      "summary": "Jack Crusher dies on an away mission; his captain, Picard, carries the news to Beverly.",
       "entities": [
         "Jack R. Crusher",
         "death",
@@ -22714,7 +22714,7 @@
         "https://memory-alpha.fandom.com/wiki/2353"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2353-jeremiah-rossa-is-born-at-galen-iv-colony",
@@ -22910,7 +22910,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "William T. Riker and Geordi La Forge enter Starfleet Academy in San Francisco, Earth.",
+      "summary": "William Riker and Geordi La Forge enter Starfleet Academy.",
       "entities": [
         "William T. Riker",
         "Geordi La Forge",
@@ -22946,7 +22946,7 @@
         "https://memory-alpha.fandom.com/wiki/2353"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2353-worf-accidentally-kills-a-boy-named-mikel-in-a-soc",
@@ -23017,7 +23017,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Benjamin Sisko and Solok graduate from Starfleet Academy. Sisko meets his future wife, Jennifer at Gilgo Beach, shortly after graduation. Later that year, they both attend the Mazurka Festival in New Berlin together with their friends Cal and Gretchen Hudson.",
+      "summary": "Sisko and Solok graduate from the Academy; Sisko meets Jennifer at Gilgo Beach soon after.",
       "entities": [
         "Benjamin Sisko",
         "Starfleet Academy",
@@ -23056,7 +23056,7 @@
         "https://memory-alpha.fandom.com/wiki/2354"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2354-doctor-t-pan-becomes-director-of-the-vulcan-scienc",
@@ -23368,7 +23368,7 @@
       "date": null,
       "stardate": "40217.3",
       "timeline": "prime",
-      "summary": "In what later became known as the Battle of Maxia, the USS Stargazer is attacked by an unknown vessel (later revealed to be Ferengi in origin). His ship severely damaged, Captain Jean-Luc Picard devises a maneuver that makes the Stargazer appear in two places at once, which allows him to destroy the alien vessel. This maneuver, accomplished by making a very short warp jump, is dubbed the \"Picard Maneuver\". Picard and his crew are subsequently forced to abandon the stricken Stargazer, limping through space in shuttlecraft for weeks before being rescued.",
+      "summary": "At the Battle of Maxia a Ferengi vessel cripples the Stargazer, forcing Picard to abandon ship.",
       "entities": [
         "Stardate",
         "Battle of Maxia",
@@ -23404,7 +23404,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2355-jake-sisko-is-born-son-of-benjamin-and-jennifer-s",
@@ -23412,7 +23412,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jake Sisko is born, son of Benjamin and Jennifer Sisko.",
+      "summary": "Jake Sisko born to Benjamin and Jennifer Sisko.",
       "entities": [
         "Jake Sisko",
         "Benjamin Sisko",
@@ -23451,7 +23451,7 @@
         "https://memory-alpha.fandom.com/wiki/2355"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2355-jean-luc-picard-receives-the-klingon-planetary-hum",
@@ -24430,7 +24430,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2357-zek-wins-the-global-tongo-championship-for-the-ele",
@@ -26903,7 +26903,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Artim is born on the Ba'ku planet.",
+      "summary": "Artim born on the Ba'ku planet.",
       "entities": [
         "Artim",
         "Ba'ku planet"
@@ -26927,7 +26927,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-construction-of-the-enterprise-at-utopia-planitia",
@@ -27187,7 +27187,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jean-Luc Picard assumes command of the Enterprise.",
+      "summary": "Picard takes command of the Enterprise.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -27208,7 +27208,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-natima-lang-an-agent-of-the-cardassian-communicat",
@@ -27343,7 +27343,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Prior to formally taking command of the starship, Captain Jean-Luc Picard picks his senior staff, including Geordi La Forge, Natasha Yar, and William T. Riker. He decides on Riker as first officer based on an incident on the USS Hood.",
+      "summary": "Before formally taking command, Picard picks his senior staff, choosing Riker as first officer alongside La Forge and Yar.",
       "entities": [
         "Captain",
         "Jean-Luc Picard",
@@ -27387,7 +27387,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-the-dilithium-crystal-chamber-that-will-be-used-on",
@@ -28063,7 +28063,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Parasitic beings infiltrate Starfleet Command. Admirals Gregory Quinn and Norah Satie are instrumental in uncovering the alien plot, Dr. Beverly Crusher discovers a means of removing the parasites from the host, and Captain Picard and Commander Riker destroy the mother creature. The parasites transmit a homing message before they are killed.",
+      "summary": "Parasitic aliens infiltrate Starfleet Command; Quinn and Satie expose the plot and Beverly Crusher finds a way to remove the creatures.",
       "entities": [
         "Parasitic being",
         "Starfleet Command",
@@ -28102,7 +28102,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-senator-pardek-represents-romulus-on-a-barolian-tr",
@@ -28143,7 +28143,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Several Federation and Romulan outposts close to the Neutral Zone are destroyed prior to and on stardate 41903.2. Both the Federation and the Romulans suspect each other as the cause. Based on similarities with other attacked stations, it is probable these events marked the first appearance of the Borg in Federation space during the 24th century.",
+      "summary": "Outposts on both sides of the Romulan Neutral Zone are destroyed, each power suspecting the other.",
       "entities": [
         "Romulan",
         "outpost",
@@ -28179,7 +28179,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-six-months-before-the-starship-enterprise-d-visits",
@@ -28647,7 +28647,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Enterprise-D, under the command of Captain Jean-Luc Picard, departs Earth on its first mission, to Farpoint Station. The official order to take command is signed by Rear Admiral Norah Satie on stardate 41148. The Enterprise subsequently makes first official contact with the Q entity and the lifeform which formed Farpoint. Admiral Leonard McCoy spends a day inspecting Enterprise’s medical layout.",
+      "summary": "The USS Enterprise-D leaves Earth under Picard for her first mission, to Farpoint Station.",
       "entities": [
         "Captain",
         "Jean-Luc Picard",
@@ -28683,7 +28683,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-the-uss-stargazer-picard-s-first-command-is-retu",
@@ -28944,7 +28944,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Jean-Luc Picard helps to define the rights of artificial life after Commander Bruce Maddox attempts to disassemble Data in order to construct more androids like him. Data is granted the full rights appropriate to all sentient lifeforms.",
+      "summary": "Picard's defence of Data against Bruce Maddox's plan to dismantle him helps establish the rights of artificial life.",
       "entities": [
         "Bruce Maddox",
         "Data",
@@ -28980,7 +28980,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-captain-l-isao-telaka-records-his-last-log",
@@ -29574,7 +29574,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The United Federation of Planets makes first contact with the Borg after Q hurls the Enterprise-D seven thousand light years to System J-25.",
+      "summary": "Q flings the Enterprise-D seven thousand light years to System J-25, giving the Federation its first sight of the Borg.",
       "entities": [
         "first contact",
         "Borg",
@@ -29601,7 +29601,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-the-uss-yamato-is-destroyed-after-discovering-the",
@@ -29967,7 +29967,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "B'Elanna Torres enters Starfleet Academy. This is also the last time she talks to her mother, Miral, before being stranded in the Delta Quadrant.",
+      "summary": "B'Elanna Torres enters Starfleet Academy, and speaks to her mother Miral for the last time before the Delta Quadrant.",
       "entities": [
         "B'Elanna Torres",
         "Starfleet Academy",
@@ -30002,7 +30002,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-benjamin-and-jennifer-sisko-separate",
@@ -31165,7 +31165,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Benjamin Sisko attends a Starfleet briefing on Q.",
+      "summary": "Benjamin Sisko attends a Starfleet briefing about Q.",
       "entities": [
         "Benjamin Sisko",
         "Q"
@@ -31189,7 +31189,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2367-chancellor-k-mpec-of-the-klingon-high-council-dies",
@@ -31863,7 +31863,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Enterprise is severely damaged following an attempt to destroy a Borg cube and is unable to join the fleet massed at Wolf 359. William T. Riker is field promoted to captain of the Enterprise, and he chooses Borg specialist Commander Elizabeth Shelby as his first officer. At the Battle of Wolf 359, a total of thirty-nine Federation starships are destroyed by the Borg and eleven thousand lives are lost, including Benjamin Sisko's wife, Jennifer. Riker eventually devises a plan to recover Jean-Luc Picard, assimilated as Locutus of Borg, and the Enterprise crew use him to exploit the weakness of the Borg Collective hive mind. The cube is eventually destroyed in orbit of Earth.",
+      "summary": "Crippled attacking a Borg cube, the Enterprise misses the fleet at Wolf 359; Riker is field-promoted to captain.",
       "entities": [
         "Borg cube",
         "Wolf 359",
@@ -31913,7 +31913,7 @@
         "https://memory-alpha.fandom.com/wiki/2367"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2367-the-uss-enterprise-is-temporarily-transferred-near",
@@ -31955,7 +31955,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "This year marks the passage of the hundred years after which Spock suggested to Kirk that it would be interesting to return to Ceti Alpha V \"and learn what crop had sprung from the seed you had planted\".",
+      "summary": "A century passes since Spock mused about returning to Ceti Alpha V.",
       "entities": [
         "Spock",
         "James T. Kirk",
@@ -31988,7 +31988,7 @@
         "https://memory-alpha.fandom.com/wiki/2367"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2367-thomas-riker-made-a-phaser-beam-carving-of-the-jan",
@@ -33645,7 +33645,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Another variant of the Starfleet uniform is released, this time with the entire outfit black except for the division color on the shoulders, which is a reversed color scheme of the regular duty uniform and resembles the cadet uniforms with a purplish-gray undershirt, is added as well.",
+      "summary": "Starfleet issues another uniform variant, black but for division colour at the shoulders.",
       "entities": [
         "Starfleet uniform"
       ],
@@ -33685,7 +33685,7 @@
         "https://memory-alpha.fandom.com/wiki/2369"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2369-arjin-s-father-dies",
@@ -34610,7 +34610,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A group of Federation colony worlds declares an unofficial war on the Cardassian Union after rejecting the Federation-Cardassian Treaty. They call themselves the Maquis.",
+      "summary": "Federation colonists who reject the Cardassian treaty take up arms as the Maquis.",
       "entities": [
         "Federation-Cardassian Treaty"
       ],
@@ -34643,7 +34643,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-a-second-borg-incursion-into-federation-space-cont",
@@ -34913,7 +34913,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "B'Elanna Torres joins the Maquis after Chakotay saves her life.",
+      "summary": "Chakotay saves B'Elanna Torres's life, and she joins the Maquis.",
       "entities": [
         "B'Elanna Torres",
         "Maquis",
@@ -34947,7 +34947,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-borum-gives-rionoj-li-nalas-earring-to-smuggle-ou",
@@ -35377,7 +35377,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kathryn Janeway is chosen to command the USS Voyager.",
+      "summary": "Kathryn Janeway is given command of the USS Voyager.",
       "entities": [
         "Kathryn Janeway",
         "USS Voyager"
@@ -35401,7 +35401,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-kim-applies-for-service-aboard-voyager-his-applic",
@@ -36285,7 +36285,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain James T. Kirk emerges from the Nexus and is killed helping Jean-Luc Picard prevent Dr. Soran from destroying the Veridian system.",
+      "summary": "Kirk leaves the Nexus and dies helping Picard stop Soran from destroying the Veridian system.",
       "entities": [
         "James T. Kirk",
         "Nexus",
@@ -36311,7 +36311,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-deep-space-9-is-spared-destruction-by-mere-seconds",
@@ -36351,7 +36351,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Tolian Soran uses a trilithium weapon: the solar probe to collapse the Amargosa star.",
+      "summary": "Tolian Soran collapses the Amargosa star with a trilithium solar probe.",
       "entities": [
         "Tolian Soran",
         "trilithium",
@@ -36377,7 +36377,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-ensign-samantha-wildman-discovers-she-is-pregnant",
@@ -36799,7 +36799,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Robert Picard and his son René die in a fire at their home in La Barre, France.",
+      "summary": "A fire at the family home in La Barre kills Robert Picard and his son René.",
       "entities": [
         "Robert Picard",
         "René Picard",
@@ -36826,7 +36826,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-seska-s-true-roots-as-a-cardassian-spy-are-reveale",
@@ -36961,7 +36961,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet introduces a new combadge, a gold rectangle with a cutout oval in the center replacing the gold oval.",
+      "summary": "Starfleet adopts a new combadge, a gold rectangle around a cut-out oval.",
       "entities": [
         "combadge"
       ],
@@ -36996,7 +36996,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-steve-levy-is-promoted-to-lieutenant",
@@ -37100,7 +37100,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise is destroyed over Veridian III. Almost the entire crew survives in the vessel's saucer section after the ship's separation, which crash lands on the planet along with the attached captain's yacht Calypso after the ship's stardrive section exploded, impacting the saucer with an ion shock wave.",
+      "summary": "The Enterprise-D is lost over Veridian III, most of the crew surviving the saucer's crash landing.",
       "entities": [
         "Veridian III",
         "saucer section",
@@ -37130,7 +37130,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-the-federation-as-well-as-the-other-alpha-and-bet",
@@ -37662,7 +37662,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-zek-wins-the-global-tongo-championship-for-the-twe",
@@ -38432,7 +38432,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet detects unusual activity along the Romulan Neutral Zone.",
+      "summary": "Unusual activity is picked up along the Romulan Neutral Zone.",
       "entities": [
         "Romulan Neutral Zone"
       ],
@@ -38455,7 +38455,7 @@
         "https://memory-alpha.fandom.com/wiki/2372"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2372-starfleet-introduces-styles-of-phasers-and-tricord",
@@ -38748,7 +38748,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Enterprise is launched from the San Francisco Fleet Yards on stardate 49827.5.",
+      "summary": "The USS Enterprise-E is launched from the San Francisco Fleet Yards.",
       "entities": [
         "San Francisco Fleet Yards",
         "USS Enterprise"
@@ -38772,7 +38772,7 @@
         "https://memory-alpha.fandom.com/wiki/2372"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2372-the-war-between-the-druoda-and-an-unnamed-species",
@@ -39528,7 +39528,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet Command declares Voyager officially lost with all hands. Kathryn Janeway begins writing letters to her family and fiancé.",
+      "summary": "Starfleet declares Voyager lost with all hands; Janeway begins writing letters home.",
       "entities": [
         "Starfleet Command",
         "letter",
@@ -39554,7 +39554,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2373-starfleet-introduces-a-new-uniform-design-which-qu",
@@ -39562,7 +39562,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet introduces a new uniform design which quickly replaces all uniforms in use, with purplish-gray quilted shoulders and department color indicated by the undershirt and the cuffs on the jacket, which are the colors of the shoulder area and undershirt reversed, but the crew aboard Voyager and the crew aboard the USS Equinox continued to use the previous uniform design, due to their ships being stranded in the Delta Quadrant.",
+      "summary": "Starfleet rolls out a new uniform, with quilted grey shoulders and division colour on the undershirt and cuffs.",
       "entities": [
         "Starfleet uniform",
         "USS Equinox"
@@ -39603,7 +39603,7 @@
         "https://memory-alpha.fandom.com/wiki/2373"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2373-tekeny-ghemor-visits-deep-space-9-and-undergoes-th",
@@ -39792,7 +39792,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2373-the-dominion-signs-non-aggression-treaties-with-se",
@@ -39856,7 +39856,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2373-the-klingons-invade-ajilon-prime",
@@ -40022,7 +40022,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The second major Borg incursion, the Battle of Sector 001, takes place. The USS Enterprise plays a major role in the battle and later pursues a Borg sphere into the year 2063 to prevent the Borg from interfering with Zefram Cochrane's historic warp flight.",
+      "summary": "The Borg's second incursion is broken at the Battle of Sector 001, and the Enterprise-E follows a sphere back to 2063.",
       "entities": [
         "Borg",
         "Battle of Sector 001",
@@ -40049,7 +40049,7 @@
         "https://memory-alpha.fandom.com/wiki/2373"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2373-the-uss-defiant-and-its-crew-are-transported-back",
@@ -41120,7 +41120,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The crew of the USS Voyager enter Borg space and assist the Borg in driving Species 8472 out of the Delta Quadrant and back to fluidic space. In the aftermath of the battle, a single Borg drone, Seven of Nine, is marooned aboard Voyager and separated from the Collective. A single member of Species 8472 remains in normal space and is later pursued by a Hirogen hunting party.",
+      "summary": "Voyager helps the Borg drive Species 8472 back into fluidic space, gaining Seven of Nine in the aftermath.",
       "entities": [
         "Borg space",
         "Borg",
@@ -41160,7 +41160,7 @@
         "https://memory-alpha.fandom.com/wiki/2374"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2374-the-doctor-and-b-elanna-torres-find-themselves-at",
@@ -41261,7 +41261,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Evora achieve warp travel.",
+      "summary": "The Evora reach warp capability.",
       "entities": [
         "Evora"
       ],
@@ -41284,7 +41284,7 @@
         "https://memory-alpha.fandom.com/wiki/2374"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2374-the-nel-bato-conference-is-held-where-captain-jean",
@@ -41292,7 +41292,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Nel Bato Conference is held where Captain Jean-Luc Picard meets Hars Adislo who presents his paper on thermionic transconductance.",
+      "summary": "At the Nel Bato Conference, Picard meets Hars Adislo and his paper on thermionic transconductance.",
       "entities": [
         "Nel Bato Conference",
         "Captain",
@@ -41319,7 +41319,7 @@
         "https://memory-alpha.fandom.com/wiki/2374"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2374-the-reckoning-begins-with-the-discovery-of-a-kosst",
@@ -41663,7 +41663,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Voyager briefly reestablishes contact with the Alpha Quadrant using a Hirogen communications network. Some crewmembers receive letters from home before the network destabilizes. Upon learning of the destruction of the Maquis, B'Elanna Torres begins taking risks, such as using the holodeck with safety protocols off.",
+      "summary": "Voyager briefly reaches the Alpha Quadrant over a Hirogen network, and some of the crew receive letters from home.",
       "entities": [
         "Hirogen communications network",
         "Maquis",
@@ -41698,7 +41698,7 @@
         "https://memory-alpha.fandom.com/wiki/2374"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2374-voyager-crewmembers-seven-of-nine-and-harry-kim-bu",
@@ -42013,7 +42013,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Admiral Dougherty of Starfleet and the Son'a attempt a forced relocation of the Ba'ku in order to harvest the metaphasic radiation from their planet's rings. Captain Jean-Luc Picard and the USS Enterprise crew stage a rebellion, and convince the Federation Council to allow the Ba'ku to remain on their planet.",
+      "summary": "Admiral Dougherty and the Son'a try to remove the Ba'ku to harvest their rings' metaphasic radiation, and Picard intervenes.",
       "entities": [
         "Admiral",
         "Dougherty",
@@ -42044,7 +42044,7 @@
         "https://memory-alpha.fandom.com/wiki/2375"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2375-aging-klingon-legend-kor-seeks-worf-s-help-to-obta",
@@ -42400,7 +42400,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Commanders William T. Riker and Deanna Troi resume their relationship.",
+      "summary": "William Riker and Deanna Troi resume their relationship.",
       "entities": [
         "Commander",
         "William T. Riker",
@@ -42425,7 +42425,7 @@
         "https://memory-alpha.fandom.com/wiki/2375"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2375-damar-s-cardassian-rebellion-is-crushed-but-carda",
@@ -43506,7 +43506,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Evora become protectorate members of the United Federation of Planets.",
+      "summary": "The Evora become a Federation protectorate.",
       "entities": [
         "Evora"
       ],
@@ -43529,7 +43529,7 @@
         "https://memory-alpha.fandom.com/wiki/2375"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2375-the-iks-rotarran-destroys-the-monac-shipyard-by-tr",
@@ -43717,7 +43717,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Sao Paulo is renamed the USS Defiant under the command of Captain Benjamin Sisko.",
+      "summary": "The USS Sao Paulo is renamed Defiant under Benjamin Sisko.",
       "entities": [
         "USS Sao Paulo"
       ],
@@ -43740,7 +43740,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2375-the-voyager-crew-builds-the-delta-flyer-shuttlecra",
@@ -45240,7 +45240,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Miral Paris, daughter of B'Elanna Torres and Tom Paris, is born when Voyager arrives home.",
+      "summary": "B'Elanna Torres and Tom Paris's daughter Miral is born as Voyager reaches home.",
       "entities": [
         "Miral Paris",
         "B'Elanna Torres",
@@ -45265,7 +45265,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2378-neelix-departs-voyager-to-live-with-a-group-of-tal",
@@ -45495,7 +45495,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "After the death of Shinzon, the initial approaches between the Federation and the Romulan Star Empire are continued, marking the beginning of a new era of peace for both powers. Several vessels, led by the USS Titan, are dispatched to the Romulan Neutral Zone in order to begin talks with the Romulans.",
+      "summary": "Shinzon's death clears the way for continued Federation–Romulan rapprochement.",
       "entities": [
         "Romulan Star Empire",
         "Romulan Neutral Zone",
@@ -45520,7 +45520,7 @@
         "https://memory-alpha.fandom.com/wiki/2379"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2379-beckett-mariner-is-demoted-to-ensign-and-transferr",
@@ -45592,7 +45592,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Jean-Luc Picard is ordered to go to Romulus by Starfleet after a military coup results in a new government being formed, and peace overtures are made towards the Federation. This is discovered to be a ploy by the new Praetor, Shinzon of Remus, to lure the Enterprise to Romulus so he can capture Picard and use his DNA to stabilize his own dying body. The Enterprise-E is seriously damaged by Shinzon's ship, the Scimitar, during the Battle in the Bassen Rift. Shinzon is killed by Picard and the Scimitar is destroyed when the thalaron energy weapon on his ship is overloaded by Lieutenant Commander Data, who is also killed in the process.",
+      "summary": "Picard is sent to Romulus after a coup installs a new government offering peace.",
       "entities": [
         "Captain",
         "Jean-Luc Picard",
@@ -45625,7 +45625,7 @@
         "https://memory-alpha.fandom.com/wiki/2379"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2379-evidence-suggests-but-other-interpretations-are-p",
@@ -45633,7 +45633,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Evidence suggests (but other interpretations are possible) that sometime prior to this year, Wesley Crusher returns to Starfleet and gains the rank of lieutenant junior grade.",
+      "summary": "Evidence suggests Wesley Crusher had returned to Starfleet as a lieutenant junior grade by this year.",
       "entities": [
         "Wesley Crusher",
         "lieutenant junior grade"
@@ -45657,7 +45657,7 @@
         "https://memory-alpha.fandom.com/wiki/2379"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2379-in-an-alternate-timeline-aboard-uss-voyager-in-the",
@@ -45700,7 +45700,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kathryn Janeway is a vice admiral serving at Starfleet Command during this year.",
+      "summary": "Kathryn Janeway serves as a vice admiral at Starfleet Command.",
       "entities": [
         "Kathryn Janeway",
         "vice admiral",
@@ -45725,7 +45725,7 @@
         "https://memory-alpha.fandom.com/wiki/2379"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2379-sam-rutherford-is-transferred-from-douglas-station",
@@ -45765,7 +45765,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise-E is towed back to Earth for repairs.",
+      "summary": "The damaged Enterprise-E is towed home to Earth for repair.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -45786,7 +45786,7 @@
         "https://memory-alpha.fandom.com/wiki/2379"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2379-the-shuttlecraft-argo-is-tested-for-the-first-time",
@@ -45794,7 +45794,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The shuttlecraft Argo is tested for the first time on Kolarus III. One of Dr. Noonien Soong's prototypes, B-4, is discovered on the planet. Data attempts to expand B-4's abilities by copying all of his memories into the older android.",
+      "summary": "The shuttlecraft Argo is first tested on Kolarus III, where Soong's prototype B-4 is found.",
       "entities": [
         "shuttlecraft",
         "Kolarus III",
@@ -45823,7 +45823,7 @@
         "https://memory-alpha.fandom.com/wiki/2379"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2379-the-uss-archer-uss-aries-uss-galaxy-uss-hood-u",
@@ -45831,7 +45831,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Archer, USS Aries, USS Galaxy, USS Hood, USS Intrepid, USS Nova, and USS Valiant together make up Star Fleet Battle Group Omega, a battle group sent to assist the Enterprise-E and intercept the Scimitar.",
+      "summary": "Seven starships form Battle Group Omega to reinforce the Enterprise.",
       "entities": [
         "Star Fleet Battle Group Omega",
         "battle group",
@@ -45863,7 +45863,7 @@
         "https://memory-alpha.fandom.com/wiki/2379"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2379-the-uss-quito-conducts-first-contact-with-the-gala",
@@ -45903,7 +45903,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "William Riker is promoted to captain and takes command of the Titan. Deanna Troi also transfers to the Titan as the ship's counselor.",
+      "summary": "Riker is promoted to captain of the Titan, with Troi transferring as counsellor.",
       "entities": [
         "promote",
         "counselor"
@@ -45927,7 +45927,7 @@
         "https://memory-alpha.fandom.com/wiki/2379"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2379-william-t-riker-and-deanna-troi-are-married-on-ea",
@@ -45935,7 +45935,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "William T. Riker and Deanna Troi are married on Earth. A second ceremony on Betazed is scheduled, but interrupted when the USS Enterprise is summoned to Romulus.",
+      "summary": "Riker and Troi marry on Earth; the Betazed ceremony is cut short by the summons to Romulus.",
       "entities": [
         "William T. Riker",
         "Deanna Troi",
@@ -45963,7 +45963,7 @@
         "https://memory-alpha.fandom.com/wiki/2379"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2379-yor-travels-from-this-year-to-the-future-of-the-pr",
@@ -46781,7 +46781,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Beverly Crusher leaves the Enterprise to raise her son Jack.",
+      "summary": "Beverly Crusher steps away from the Enterprise to bring up her son Jack.",
       "entities": [
         "Beverly Crusher",
         "Jack Crusher"
@@ -46820,7 +46820,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-brad-boimler-returns-to-the-cerritos-as-an-ensign",
@@ -48545,7 +48545,7 @@
       "date": null,
       "stardate": "59749.1",
       "timeline": "prime",
-      "summary": "The Protostar is launched from the San Francisco Fleet Yards under the command of Captain Chakotay with Commander Adreek-Hu as his first officer.",
+      "summary": "The Protostar launches from the San Francisco Fleet Yards under Chakotay, with Adreek-Hu as first officer.",
       "entities": [
         "San Francisco Fleet Yards",
         "Captain",
@@ -48582,7 +48582,7 @@
         "https://memory-alpha.fandom.com/wiki/2382"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2383-a-temporal-anomaly-almost-destroys-the-protostar",
@@ -49165,7 +49165,7 @@
       "date": "2385-04-05",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Compromised synthetics are used by the Tal Shiar cabal Zhat Vash to launch an attack on Mars, setting the planet ablaze and destroying the Utopia Planitia Fleet Yards as well as the 20,000-ship rescue armada which was under construction there and intended for Romulus.",
+      "summary": "Synthetics compromised by the Zhat Vash set Mars ablaze and destroy the Utopia Planitia Fleet Yards.",
       "entities": [
         "April",
         "synthetic",
@@ -49211,7 +49211,7 @@
         "https://memory-alpha.fandom.com/wiki/2385"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2385-eli-foster-graduates-from-starfleet-academy",
@@ -49288,7 +49288,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The crew prevent Asencia from using time-space weapons to wage war on the Federation, and fix a temporal paradox by returning the Protostar to its proper place in the timeline.",
+      "summary": "The crew stop Asencia's time-space weapons and return the Protostar to its place in the timeline.",
       "entities": [
         "Asencia",
         "temporal paradox"
@@ -49326,7 +49326,7 @@
         "https://memory-alpha.fandom.com/wiki/2385"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2385-the-uss-prodigy-is-launched-under-the-command-of-a",
@@ -49431,7 +49431,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Having been captured and taken to Vergessen, Lieutenant Icheb is stripped for his Borg components by Bjayzl, and subsequently mercy killed by Seven of Nine.",
+      "summary": "Icheb is stripped of his Borg components by Bjayzl on Vergessen, and Seven of Nine ends his suffering.",
       "entities": [
         "Vergessen",
         "Lieutenant",
@@ -49460,7 +49460,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2386-jean-luc-picard-receives-the-crystal-planet-award",
@@ -49531,7 +49531,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Ambassador Spock plans to pilot a specialized ship, equipped with red matter, with the intent to engulf the Romulan supernova by creating an artificial black hole.",
+      "summary": "Spock prepares a red-matter ship to collapse the Romulan supernova into an artificial black hole.",
       "entities": [
         "Ambassador",
         "Spock",
@@ -49565,7 +49565,7 @@
         "https://memory-alpha.fandom.com/wiki/2387"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2387-spock-launches-red-matter-into-the-supernova-crea",
@@ -49573,7 +49573,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Spock launches red matter into the supernova, creating the artificial black hole and neutralizing the star. The resulting black hole consumes his ship along with the nearby Romulan mining vessel Narada commanded by Nero. Nero is sent 154 years into a new past while Spock is sent 129 years into that past.",
+      "summary": "Spock's red matter neutralises the supernova, and the resulting black hole swallows his ship and Nero's.",
       "entities": [
         "mining",
         "Narada",
@@ -49599,7 +49599,7 @@
         "https://memory-alpha.fandom.com/wiki/2387"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2387-the-romulan-supernova-begins-destroying-romulus",
@@ -49607,7 +49607,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Romulan supernova begins, destroying Romulus.",
+      "summary": "The Romulan supernova destroys Romulus.",
       "entities": [
         "Romulus"
       ],
@@ -49637,7 +49637,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2389-in-an-alternate-timeline-the-collected-stories-by",
@@ -51080,7 +51080,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Separate from Jurati's Borg, the original Borg Collective execute a plot to assimilate Starfleet from within on Frontier Day, using Changelings to infiltrate it and plant Locutus of Borg's receiver DNA into the transporter systems of all Starfleet vessels, and Jack Crusher's inherited Borg DNA to act as a transceiver.",
+      "summary": "The Borg Collective plots to assimilate Starfleet from within on Frontier Day, using Changelings as infiltrators.",
       "entities": [
         "Changeling",
         "Locutus of Borg"
@@ -51118,7 +51118,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-seven-of-nine-is-promoted-to-captain",
@@ -51150,7 +51150,7 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-the-250th-anniversary-of-starfleet-is-commemorated",
