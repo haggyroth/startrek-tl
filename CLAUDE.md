@@ -95,14 +95,31 @@ date and 90 a stardate. The tooltip must degrade gracefully.
 
 ## CSS conventions
 
-Theme variables are defined on `:root`, never on `.viz-root`. The tooltip is
-appended to `<body>`, outside the app container — variables scoped to
-`.viz-root` resolve to nothing there and the tooltip renders transparent.
+Theme variables are defined on `:root`. The tooltip is appended to `<body>`,
+outside the app container — variables scoped to a wrapper class resolve to
+nothing there and the tooltip renders transparent.
 
-Colours come from the validated data-viz palette: `#3987e5` events / `#c98500`
-landmarks on the dark surface, `#2a78d6` / `#eda100` on light. Both pairs clear
-the all-pairs CVD and normal-vision floors. Re-run the palette validator before
-changing them.
+**Two palettes, deliberately.** The chrome uses LCARS "Classic" hues
+(thelcars.com); the chart interior uses the validated data-viz steps `#3987e5`
+events / `#c98500` landmarks, which clear the all-pairs CVD and normal-vision
+floors. Do not repaint the marks in LCARS hues — at ~1,500 marks the chart needs
+conventional treatment to stay readable. Re-run the palette validator before
+changing chart colours.
+
+**The design commits to a single dark look.** LCARS has no light mode; a light
+variant would be a different design, not a theme swap. The usual
+`prefers-color-scheme` pairing is intentionally absent.
+
+Selected state on pills is never colour alone — `[aria-pressed="true"]` also
+draws a leading block marker, so selection survives greyscale, CVD and
+forced-colors.
+
+Setting `display` on a class that also uses the `hidden` attribute overrides the
+UA `[hidden]` rule. Any such class needs an explicit `[hidden] { display: none }`.
+
+All text must clear WCAG AA (4.5:1) against its block. LCARS convention is black
+text on saturated fills, which passes comfortably; the risk is muted or
+low-opacity text, so measure rather than assume.
 
 ## Chart behavior
 

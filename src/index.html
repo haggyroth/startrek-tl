@@ -7,100 +7,115 @@
     <link rel="stylesheet" href="css/main.css" />
   </head>
   <body>
-    <div class="viz-root">
-      <header class="page-header">
-        <h1>Star Trek Timeline</h1>
-        <p class="subtitle">
-          Canon events from 2233 to 2402. Curve height is the number of events
-          recorded in each year; every dot is one event. Filters re-bin the
-          curve, so the waveform reshapes to whatever you select.
-        </p>
-        <div id="stats" class="stats"></div>
-      </header>
-
-      <p id="status" class="status" hidden></p>
-
-      <div class="filters">
-        <section class="panel" aria-labelledby="timeline-heading">
-          <h2 id="timeline-heading">Timeline</h2>
-          <div id="timeline-filter" class="chips"></div>
-        </section>
-
-        <section class="panel" aria-labelledby="series-heading">
-          <h2 id="series-heading">Series</h2>
-          <div id="series-filter" class="chips"></div>
-        </section>
-
-        <section class="panel" aria-labelledby="locations-heading">
-          <h2 id="locations-heading">Location</h2>
-          <div id="locations" class="chips"></div>
-        </section>
+    <div class="lcars">
+      <!-- ---------- top frame: elbow + header bar ---------- -->
+      <div class="lcars-top">
+        <div class="elbow elbow-top" aria-hidden="true"></div>
+        <header class="header-bar">
+          <h1>Star Trek Timeline</h1>
+          <span class="header-code" aria-hidden="true">LCARS 47<span class="dim">·</span>2233<span class="dim">–</span>2402</span>
+        </header>
       </div>
 
-      <section class="chart-section" aria-labelledby="chart-heading">
-        <h2 id="chart-heading" class="visually-hidden">Event density chart</h2>
+      <!-- ---------- body: sidebar + main ---------- -->
+      <div class="lcars-body">
+        <nav class="lcars-sidebar" aria-label="Timeline and view controls">
+          <div class="sidebar-stem" aria-hidden="true"></div>
 
-        <div class="chart-toolbar">
-          <div class="legend">
-            <span class="legend-item">
-              <span class="legend-swatch swatch-event"></span>Event
-            </span>
-            <span class="legend-item">
-              <span class="legend-swatch swatch-landmark"></span>Landmark event
-            </span>
-          </div>
-          <div class="toolbar-actions">
-            <span class="hint">Scroll to zoom · drag to pan</span>
-            <button id="reset-zoom" type="button" class="button button-small" hidden>
+          <h2 class="sidebar-label" id="timeline-heading">Timeline</h2>
+          <div id="timeline-filter" class="chips chips-stack"></div>
+
+          <div class="sidebar-gap" aria-hidden="true"></div>
+
+          <h2 class="sidebar-label">View</h2>
+          <div class="chips chips-stack">
+            <button id="reset-zoom" type="button" class="chip chip-alert" hidden>
               Reset zoom
             </button>
+            <button id="table-toggle" type="button" class="chip" aria-expanded="false">
+              Show data table
+            </button>
           </div>
-        </div>
 
-        <p id="summary" class="summary" role="status" aria-live="polite"></p>
+          <div class="sidebar-fill" aria-hidden="true"></div>
+          <div class="sidebar-foot" aria-hidden="true"></div>
+        </nav>
 
-        <div id="chart" class="chart"></div>
+        <main class="lcars-main">
+          <p class="subtitle">
+            Canon events from 2233 to 2402. Curve height is the number of events
+            recorded in each year; every dot is one event. Filters re-bin the
+            curve, so the waveform reshapes to whatever you select.
+          </p>
 
-        <p id="empty" class="empty" hidden>
-          No events match these filters.
-        </p>
-      </section>
+          <div id="stats" class="stats"></div>
 
-      <section class="table-section">
-        <button id="table-toggle" type="button" class="button" aria-expanded="false">
-          Show data table
-        </button>
-        <div id="table-view" hidden>
-          <table id="event-table">
-            <caption>
-              Events matching the current filters
-            </caption>
-            <thead>
-              <tr>
-                <th scope="col">Year</th>
-                <th scope="col">Date</th>
-                <th scope="col">Stardate</th>
-                <th scope="col">Location</th>
-                <th scope="col">Series</th>
-                <th scope="col">Event</th>
-              </tr>
-            </thead>
-            <tbody></tbody>
-          </table>
-        </div>
-      </section>
+          <p id="status" class="status" hidden></p>
 
-      <footer class="page-footer">
-        <p>
-          Data generated <span id="generated">—</span> from
-          <a href="https://memory-alpha.fandom.com/">Memory Alpha</a>
-          (CC BY-NC-SA) with timeline classification from
-          <a href="https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
-            >Wikipedia</a
-          >
-          (CC BY-SA 4.0).
-        </p>
-      </footer>
+          <section class="panel" aria-labelledby="series-heading">
+            <h2 id="series-heading" class="panel-label">Series</h2>
+            <div id="series-filter" class="chips"></div>
+          </section>
+
+          <section class="panel" aria-labelledby="locations-heading">
+            <h2 id="locations-heading" class="panel-label">Location</h2>
+            <div id="locations" class="chips"></div>
+          </section>
+
+          <section class="chart-section" aria-labelledby="chart-heading">
+            <h2 id="chart-heading" class="visually-hidden">Event density chart</h2>
+
+            <div class="chart-toolbar">
+              <div class="legend">
+                <span class="legend-item">
+                  <span class="legend-swatch swatch-event"></span>Event
+                </span>
+                <span class="legend-item">
+                  <span class="legend-swatch swatch-landmark"></span>Landmark
+                </span>
+              </div>
+              <span class="hint">Scroll to zoom · drag to pan</span>
+            </div>
+
+            <p id="summary" class="summary" role="status" aria-live="polite"></p>
+
+            <div id="chart" class="chart"></div>
+
+            <p id="empty" class="empty" hidden>No events match these filters.</p>
+          </section>
+
+          <div id="table-view" hidden>
+            <table id="event-table">
+              <caption>Events matching the current filters</caption>
+              <thead>
+                <tr>
+                  <th scope="col">Year</th>
+                  <th scope="col">Date</th>
+                  <th scope="col">Stardate</th>
+                  <th scope="col">Location</th>
+                  <th scope="col">Series</th>
+                  <th scope="col">Event</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </main>
+      </div>
+
+      <!-- ---------- bottom frame: elbow + footer bar ---------- -->
+      <div class="lcars-bottom">
+        <div class="elbow elbow-bottom" aria-hidden="true"></div>
+        <footer class="footer-bar">
+          <p>
+            Data generated <span id="generated">—</span> from
+            <a href="https://memory-alpha.fandom.com/">Memory Alpha</a>
+            (CC BY-NC-SA); timeline classification from
+            <a href="https://en.wikipedia.org/wiki/Timeline_of_Star_Trek">Wikipedia</a>
+            (CC BY-SA 4.0).
+          </p>
+        </footer>
+      </div>
     </div>
 
     <script src="vendor/d3.min.js"></script>
