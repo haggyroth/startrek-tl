@@ -2,6 +2,14 @@
 
 All notable changes to this project are documented here.
 
+## [Unreleased]
+
+- feat(chart): stacked-dot density chart with year and stardate axes
+- feat(chart): nearest-dot hover tooltip with date, stardate, location and episodes
+- feat(chart): location panel highlighting events by ship or station
+- feat(a11y): keyboard-focusable marks, data table view, light and dark themes
+- chore: vendor D3 locally instead of loading it from a CDN
+
 ## [0.2.0]
 
 - chore: scaffold project — repo layout, README, roadmap, event schema

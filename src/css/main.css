@@ -1,0 +1,537 @@
+/*
+ * Chart core styling.
+ *
+ * Colors come from the validated data-viz palette. The two slots in use —
+ * blue #3987e5 for events, yellow #c98500 for landmarks — pass the all-pairs
+ * CVD and normal-vision floors against both surfaces.
+ *
+ * Deliberately restrained: the LCARS chrome is Phase 5 and wraps around this,
+ * while the chart interior stays conventional so it reads at high density.
+ */
+
+/* Theme variables live on :root, not on .viz-root — the tooltip is appended to
+   <body>, outside the app container, and would otherwise resolve them to
+   nothing and render transparent. */
+:root {
+  color-scheme: light;
+
+  --surface-1: #fcfcfb;
+  --plane: #f9f9f7;
+  --text-primary: #0b0b0b;
+  --text-secondary: #52514e;
+  --text-muted: #898781;
+  --gridline: #e1e0d9;
+  --baseline: #c3c2b7;
+  --border: rgba(11, 11, 11, 0.1);
+
+  --event: #2a78d6;
+  --landmark: #eda100;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) {
+    color-scheme: dark;
+
+    --surface-1: #1a1a19;
+    --plane: #0d0d0d;
+    --text-primary: #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted: #898781;
+    --gridline: #2c2c2a;
+    --baseline: #383835;
+    --border: rgba(255, 255, 255, 0.1);
+
+    --event: #3987e5;
+    --landmark: #c98500;
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+
+  --surface-1: #1a1a19;
+  --plane: #0d0d0d;
+  --text-primary: #ffffff;
+  --text-secondary: #c3c2b7;
+  --text-muted: #898781;
+  --gridline: #2c2c2a;
+  --baseline: #383835;
+  --border: rgba(255, 255, 255, 0.1);
+
+  --event: #3987e5;
+  --landmark: #c98500;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  background: var(--plane);
+  color: var(--text-primary);
+}
+
+.viz-root {
+  background: var(--plane);
+  min-height: 100vh;
+  padding: 32px clamp(16px, 4vw, 48px) 64px;
+  max-width: 1600px;
+  margin-inline: auto;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+/* ---------- header ---------- */
+
+.page-header h1 {
+  margin: 0 0 6px;
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  letter-spacing: -0.01em;
+}
+
+.subtitle {
+  margin: 0 0 20px;
+  max-width: 62ch;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+.stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 28px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--border);
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+}
+
+.stat-value {
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.1;
+}
+
+.stat-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
+
+.status {
+  margin: 20px 0;
+  padding: 12px 16px;
+  border-radius: 8px;
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+}
+
+.status.is-error {
+  border-color: #d03b3b;
+  color: var(--text-primary);
+}
+
+/* ---------- panels ---------- */
+
+.panel {
+  margin: 24px 0;
+}
+
+.panel h2 {
+  margin: 0 0 4px;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+}
+
+.panel-note {
+  margin: 0 0 12px;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface-1);
+  color: var(--text-secondary);
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.chip:hover {
+  color: var(--text-primary);
+  border-color: var(--baseline);
+}
+
+.chip[aria-pressed="true"] {
+  border-color: var(--event);
+  color: var(--text-primary);
+  box-shadow: inset 0 0 0 1px var(--event);
+}
+
+.chip-count {
+  font-variant-numeric: tabular-nums;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+/* ---------- chart ---------- */
+
+.chart-section {
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px;
+}
+
+.legend {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 8px;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.legend-swatch {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.swatch-event {
+  background: var(--event);
+}
+
+.swatch-landmark {
+  background: var(--landmark);
+  width: 13px;
+  height: 13px;
+}
+
+.chart {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.chart-svg {
+  display: block;
+}
+
+.grid-line {
+  stroke: var(--gridline);
+  stroke-width: 1;
+}
+
+.density-area {
+  fill: var(--event);
+  fill-opacity: 0.1;
+}
+
+.density-line {
+  fill: none;
+  stroke: var(--event);
+  stroke-width: 2;
+  stroke-opacity: 0.55;
+  stroke-linejoin: round;
+}
+
+.event-dot {
+  fill: var(--event);
+  /* 2px surface ring keeps overlapping dots separable in dense columns. */
+  stroke: var(--surface-1);
+  stroke-width: 1.2;
+  cursor: pointer;
+  transition: opacity 120ms ease, r 120ms ease;
+}
+
+.event-dot.is-landmark {
+  fill: var(--landmark);
+}
+
+.event-dot:hover,
+.event-dot:focus-visible {
+  outline: none;
+  stroke: var(--text-primary);
+  stroke-width: 2;
+}
+
+/* Transparent pointer target covering the plot; the nearest dot is resolved
+   in JS, so no single mark needs to be hit precisely. */
+.hit-layer {
+  fill: transparent;
+  cursor: crosshair;
+}
+
+.event-dot.is-active {
+  stroke: var(--text-primary);
+  stroke-width: 2;
+  r: 5;
+}
+
+.event-dot.is-dimmed {
+  opacity: 0.12;
+}
+
+/* Grow rather than outline, so the fill colour still carries landmark identity. */
+.event-dot.is-emphasised {
+  r: 3.6;
+  stroke: var(--text-primary);
+  stroke-width: 0.8;
+}
+
+.event-dot.is-emphasised.is-landmark {
+  r: 4.6;
+}
+
+.axis text {
+  fill: var(--text-muted);
+  font-size: 11px;
+  font-variant-numeric: tabular-nums;
+}
+
+.axis path,
+.axis line {
+  stroke: var(--baseline);
+}
+
+.axis-title {
+  fill: var(--text-muted);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.axis-note {
+  fill: var(--text-muted);
+  font-size: 10px;
+  font-style: italic;
+}
+
+/* The pre-2323 stretch has no stardate scale — dashed, not blank, so it reads
+   as "no mapping exists" rather than "data missing". */
+.axis-void {
+  stroke: var(--baseline);
+  stroke-width: 1;
+  stroke-dasharray: 3 4;
+}
+
+/* ---------- tooltip ---------- */
+
+.tooltip {
+  position: absolute;
+  z-index: 20;
+  max-width: 340px;
+  padding: 12px 14px;
+  border-radius: 10px;
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.28);
+  pointer-events: none;
+  font-size: 0.85rem;
+  line-height: 1.45;
+}
+
+.tooltip-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+
+.tooltip-year {
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-primary);
+}
+
+.tooltip-timeline,
+.tooltip-landmark {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  padding: 2px 7px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+}
+
+.tooltip-landmark {
+  border-color: var(--landmark);
+  color: var(--landmark);
+}
+
+.tooltip-summary {
+  margin: 0 0 10px;
+  color: var(--text-primary);
+}
+
+.tooltip-meta {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 2px 12px;
+  margin: 0 0 10px;
+  font-size: 0.8rem;
+}
+
+.tooltip-meta dt {
+  color: var(--text-muted);
+}
+
+.tooltip-meta dd {
+  margin: 0;
+  color: var(--text-secondary);
+}
+
+.tooltip-episodes {
+  list-style: none;
+  margin: 0;
+  padding: 8px 0 0;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.tooltip-episodes li {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.badge {
+  flex: none;
+  min-width: 34px;
+  text-align: center;
+  padding: 1px 5px;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  color: var(--text-secondary);
+}
+
+.episode-title {
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+/* ---------- table view ---------- */
+
+.table-section {
+  margin-top: 24px;
+}
+
+.button {
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface-1);
+  color: var(--text-primary);
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.button:hover {
+  border-color: var(--baseline);
+}
+
+#table-view {
+  margin-top: 16px;
+  max-height: 60vh;
+  overflow: auto;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+#event-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.82rem;
+}
+
+#event-table caption {
+  padding: 10px 12px;
+  text-align: left;
+  color: var(--text-muted);
+  font-size: 0.78rem;
+}
+
+#event-table th,
+#event-table td {
+  padding: 7px 12px;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+
+#event-table th {
+  position: sticky;
+  top: 0;
+  background: var(--surface-1);
+  color: var(--text-muted);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+#event-table td:first-child,
+#event-table td:nth-child(2),
+#event-table td:nth-child(3) {
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+/* ---------- footer ---------- */
+
+.page-footer {
+  margin-top: 32px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.page-footer a {
+  color: var(--text-secondary);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .event-dot {
+    transition: none;
+  }
+}
