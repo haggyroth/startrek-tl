@@ -77,16 +77,18 @@ independently from the extracted fact record rather than paraphrased.
 Everything shipped so far is unverified beyond spot checks. This phase makes
 the current state trustworthy before the surface area grows.
 
-- [ ] Resolve the 2 `timelineConflict` events by hand
-- [ ] Review `data/unmatched-overlay.json` (65 entries) — some are phrasing
-      mismatches that should have matched, some are genuinely absent upstream
-- [ ] Unit tests for the pipeline: `wikitext` cleaning, `parse-year`, overlay
-      matching, `state` hash round-trip, stardate conversion
-- [ ] Fixture-based regression test so a parser change that silently drops
-      events fails the suite
-- [ ] CI on GitHub Actions: tests + a build that must reproduce `events.json`
-      byte-for-byte (the pipeline is meant to be idempotent)
+- [x] Unit tests for the pipeline: `wikitext`, `parse-year`, overlay matching,
+      `state` hash round-trip, stardate conversion, summaries
+- [x] Fixture-based regression test — synthetic, so no wiki prose is committed
+- [x] Corpus invariants that run against the local cache and skip in CI
+- [x] `scripts/validate-data.js` — schema, ordering, and coverage checks
+- [x] CI on GitHub Actions: tests + dataset validation. CI cannot rebuild
+      `events.json` (the cache is gitignored and re-scraping on every push
+      would be rude), so it validates the committed dataset instead
 - [ ] Branch protection on `main`: require CI green, no force-push
+- [ ] Resolve the 2 `timelineConflict` events by hand
+- [ ] Review `data/unmatched-overlay.json` — some are phrasing mismatches that
+      should have matched, some are genuinely absent upstream
 
 ## Phase 9 — Comprehensive code review
 

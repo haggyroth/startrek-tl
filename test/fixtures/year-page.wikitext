@@ -1,0 +1,55 @@
+{{multiple}}
+{{sidebar year
+|image=Example.jpg
+|caption=An example year
+|sd=41000.0 &ndash; 41986.0
+|other=[[Year of Kahless]]
+}}
+
+==Events ==
+===By starship or station ===
+;[[Deep Space 9]]
+*[[Kira Nerys]] negotiates with the [[Bajoran Provisional Government]]. ({{DS9|Example One}})
+*A [[runabout]] is lost near the [[wormhole]]. ({{DS9|Example Two}}; {{DS9|Example Three}})
+
+;{{USS|Defiant|2370}}
+*The {{USS|Defiant|2370}} surveys the [[Gamma Quadrant]]. ({{DS9|Example Four}})
+
+;{{USS|Enterprise|NCC-1701-D|-D}}
+*The {{USS|Enterprise|NCC-1701-D|-D}} maps a [[nebula]] near {{dis|Vulcan|planet}}. ({{TNG|Example Five}})
+*A {{dis|Starfleet uniform|2370s-early 2380s|design}} enters service. ({{film|8}}; {{TNG|Example Six}})
+
+== Other events ==
+* January 4 (stardate 41001.1) &ndash; [[Tarquin Vale]] is born on [[Betazed]]. ({{TNG|Example Seven}})
+* April 11: The [[USS Example]] is launched. ({{TNG|Example Eight}} ''[[dedication plaque]]'')''
+* {{dis|March|month}}
+:* A survey team reaches [[Minos Korva]]. ({{TNG|Example Nine}})
+:* Contact is lost with [[Outpost 4]]. ({{TNG|Example Ten}})
+* Stardate 41500.5
+:* The [[Tholian Assembly]] closes its borders. ({{TNG|Example Eleven}})
+* In an [[alternate timeline]], the outpost survives. ({{TNG|Example Twelve}})
+* The [[USS Sample]] (NCC-9999) completes a refit. ({{VOY|Example Thirteen|Example Fourteen}})
+* None yet
+* A [[runabout]] is lost near the [[wormhole]]. ({{DS9|Example Seventeen}})
+* The [[Krios]] delegation departs, escorted by [[Worf]]. ({{TNG|Example Fifteen}}, [[List of plaques#USS Sample (NCC-9999)|''Sample'' plaque]])
+
+== Appendices ==
+=== Episodes ===
+<div class="appear">
+* {{TNG}}
+** {{e|Should Not Be An Event}}
+** {{e|Nor Should This}}
+** {{DS9|Definitely Not This}}
+</div>
+
+=== Background information ===
+This section is commentary and must not be parsed as events. The [[USS Example]]
+appears here again. ({{TNG|Example Sixteen}})
+
+=== External link ===
+*{{mbeta}}
+
+{{timeline nav}}
+
+[[de:2364]]
+[[fr:2364]]

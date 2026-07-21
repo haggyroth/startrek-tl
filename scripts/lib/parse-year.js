@@ -49,7 +49,7 @@ export function extractDatePrefix(text, year) {
   // Both separators occur: "January 4 (stardate 2233.04) – ..." and
   // "April 11: ...". Stardate also appears bare: "Stardate 8615.2: ...".
   const m = text.match(
-    /^\s*(?:([A-Z][a-z]+)\s+(\d{1,2}))?\s*(?:\(?stardate\s+([\d.]+)\s*\)?)?\s*(?:[–—-]\s+|:\s+)(.*)$/is,
+    /^\s*(?:([A-Z][a-z]+)\s+(\d{1,2}))?\s*(?:\(?stardate\s+(\d+(?:\.\d+)?)\.?\s*\)?)?\s*(?:[–—-]\s+|:\s+)(.*)$/is,
   );
   if (!m) return { date: null, stardate: null, text };
 
@@ -160,10 +160,13 @@ export function parseYearPage(wikitext, year) {
       continue;
     }
 
-    // Top-level bullets are events. ":*" is an indented continuation bullet —
-    // used under month headings — and carries real events, so it counts too.
-    const bullet = line.match(/^(?::\*|\*)(?!\*)\s*(.+)$/);
+    // Top-level "*" bullets are events. Nested bullets — written as "**" or
+    // ":*" — sit under a month or stardate heading and are events too, not
+    // sub-details: 35 of them carry their own episode citations, including the
+    // Battle of the Binary Stars. Skipping them silently lost real records.
+    const bullet = line.match(/^(?:\*\*(?!\*)|:\*|\*(?!\*))\s*(.+)$/);
     if (!bullet) continue;
+    const indented = line.startsWith(":*") || line.startsWith("**");
 
     let source = bullet[1];
 
@@ -180,7 +183,9 @@ export function parseYearPage(wikitext, year) {
 
     // Some years group bullets under a stardate instead of a month:
     // "* Stardate 1739.12" or "* Stardate 2259.42 (February 11)".
-    const sdHeading = headingText.match(/^stardate\s+([\d.]+)\s*(?:\(([A-Z][a-z]+)\s+(\d{1,2})\))?$/i);
+    const sdHeading = headingText.match(
+      /^stardate\s+(\d+(?:\.\d+)?)\.?\s*(?:\(([A-Z][a-z]+)\s+(\d{1,2})\))?$/i,
+    );
     if (sdHeading) {
       sdContext = sdHeading[1];
       if (sdHeading[2] && sdHeading[2].toLowerCase() in MONTHS) {
@@ -192,6 +197,15 @@ export function parseYearPage(wikitext, year) {
 
     // Placeholder bullets on stub year pages.
     if (/^none yet$/i.test(headingText)) continue;
+
+    // A month or stardate heading scopes only the indented bullets beneath it.
+    // A new top-level bullet ends that scope — without this, everything after
+    // a heading inherits a date the page never claimed for it.
+    if (!indented) {
+      month = null;
+      day = null;
+      sdContext = null;
+    }
 
     // Citations come from the full bullet, before any trimming.
     const citations = extractCitations(source);
