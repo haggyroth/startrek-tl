@@ -18,3 +18,6 @@ npm-debug.log*
 # Scrape cache — large, regenerable, and re-fetching it hits Memory Alpha.
 # Kept out of git; run `node scripts/build-events.js` to rebuild.
 data/events.raw.json
+
+# Spike output — inspection artifacts, regenerable per-year
+data/spike-*.json
