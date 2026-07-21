@@ -223,8 +223,8 @@ export function parseYearPage(wikitext, year) {
       continue;
     }
 
-    // Placeholder bullets on stub year pages.
-    if (/^none yet$/i.test(headingText)) continue;
+    // Placeholder bullets on stub year pages, written both ways.
+    if (/^none(\s+yet)?$/i.test(headingText)) continue;
 
     // A month or stardate heading scopes only the indented bullets beneath it.
     // A new top-level bullet ends that scope — without this, everything after
@@ -244,8 +244,16 @@ export function parseYearPage(wikitext, year) {
     // Clean first, then strip the date prefix — the prefix contains wiki links
     // ("[[January 4]]") that must be resolved before it can be matched.
     const { date, stardate, text } = extractDatePrefix(cleanText(source), year);
+    const facts = extractFacts(source, text);
     const summary = text;
     if (!summary) continue;
+
+    // A bullet that is nothing but a linked name, with no citation, is a list
+    // entry rather than an event — the 2087 memorial roll from "The Royale"
+    // is eight such lines. An event needs something to have happened.
+    if (!citations.length && facts.entities.length === 1 && summary === facts.entities[0]) {
+      continue;
+    }
 
     const series = [...new Set(citations.map((c) => c.series))];
 
@@ -254,8 +262,6 @@ export function parseYearPage(wikitext, year) {
     const n = (usedIds.get(id) ?? 0) + 1;
     usedIds.set(id, n);
     if (n > 1) id = `${id}-${n}`;
-
-    const facts = extractFacts(source, summary);
 
     events.push({
       id,

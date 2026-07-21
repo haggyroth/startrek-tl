@@ -81,10 +81,27 @@ function describe(state, events, domain) {
 
 function renderTable(events) {
   const body = document.querySelector("#event-table tbody");
+
   const rows = events.map((e) => {
     const tr = document.createElement("tr");
+
+    // The year links to the source page. In the table the link is clickable,
+    // which the tooltip cannot be — it is pointer-transparent by design.
+    const yearCell = document.createElement("td");
+    const source = e.sources?.[0];
+    if (source) {
+      const link = document.createElement("a");
+      link.href = source;
+      link.textContent = e.year;
+      link.rel = "noopener noreferrer";
+      link.target = "_blank";
+      yearCell.appendChild(link);
+    } else {
+      yearCell.textContent = e.year;
+    }
+    tr.appendChild(yearCell);
+
     for (const value of [
-      e.year,
       e.date ?? "—",
       e.stardate ?? "—",
       e.group ?? "—",
@@ -95,8 +112,11 @@ function renderTable(events) {
       td.textContent = value;
       tr.appendChild(td);
     }
+
+    if (e.prose !== "authored") tr.classList.add("is-stub");
     return tr;
   });
+
   body.replaceChildren(...rows);
 }
 

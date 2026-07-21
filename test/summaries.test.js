@@ -46,9 +46,23 @@ test("strict mode emits no scraped prose", () => {
 test("strict fallbacks are built from the fact record", () => {
   const events = scraped();
   applySummaries(events, {}, { strict: true });
-  assert.match(events[0].summary, /birth/);
   assert.match(events[0].summary, /James T\. Kirk/);
   assert.match(events[1].summary, /2233/);
+});
+
+// Kind-based templates were tried and produced confident fabrications, because
+// the first entity is not reliably the event's subject. The stub must not
+// assert a relationship the fact record does not establish.
+test("strict fallbacks never phrase the event", () => {
+  const events = [
+    { id: "a", year: 2064, summary: "scraped", kind: "birth", entities: ["Tycho City"] },
+    { id: "b", year: 2065, summary: "scraped", kind: "graduation", entities: ["San Francisco"] },
+  ];
+  applySummaries(events, {}, { strict: true });
+
+  assert.doesNotMatch(events[0].summary, /Birth of/i);
+  assert.doesNotMatch(events[1].summary, /graduates/i);
+  for (const e of events) assert.match(e.summary, /not yet written/i);
 });
 
 test("non-strict builds leave unauthored prose in place", () => {

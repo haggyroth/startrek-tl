@@ -89,6 +89,16 @@ Discovery season 1 take place". Those are not in-universe events. They are
 stripped sentence-wise at parse time, keeping any real event appended after
 them; discarding whole entries cost three legitimate landmark matches.
 
+**Never generate prose that asserts a relationship the facts don't establish.**
+The strict-build fallback originally used per-kind templates and produced
+"Birth of Tycho City" (a place) and "San Francisco graduates" — the first
+entity is not reliably the subject. A stub that admits it is a stub beats a
+sentence that is wrong.
+
+**Zero-argument templates are name shortcuts**, not noise: `{{EnterpriseNX}}`,
+`{{Shran}}`, `{{Trip Tucker}}`. Dropping them deletes the subject of the
+sentence. Only genuinely structural ones belong in the drop list.
+
 ## Event schema
 
 ```jsonc

@@ -16,6 +16,18 @@ All notable changes to this project are documented here.
   real event appended after it — landmark matches 47 -> 49, unmatched 65 -> 43
 - feat(data): validator now checks overrides and fails on open conflicts
 
+## [1.4.0]
+
+- feat(ui): source link in the tooltip and on the table's year cell
+- feat(data): honest stub text for unauthored events in strict builds
+- feat(data): entity extraction drops ranks and lowercase common nouns
+- data: far future authored in full; 389 of 2,040 summaries (19%)
+- fix(data): zero-argument alias templates ({{EnterpriseNX}}, {{Shran}}) were
+  deleted along with the sentence's subject
+- fix(data): {{anchor|...}} leaked its argument into prose
+- fix(data): bare "None" placeholders and eight name-only list entries were
+  being emitted as events
+
 ## [1.3.0]
 
 - feat(data): expand to 2063–3269 — 2,049 events, up from 1,570

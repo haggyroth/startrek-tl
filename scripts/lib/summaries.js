@@ -63,13 +63,25 @@ export function applySummaries(events, authored, { strict = false } = {}) {
 }
 
 /**
- * Last-resort description built only from structured facts, for strict builds
- * of events nobody has written yet. Deliberately terse and obviously generated
- * — it is a placeholder, not a substitute for an authored line.
+ * Last-resort description for an event nobody has rewritten yet.
+ *
+ * Built only from the fact record, so it carries no Memory Alpha expression.
+ *
+ * It deliberately does NOT try to phrase the event. Kind-based templates were
+ * tried and abandoned: entity order does not reliably identify the subject, so
+ * they produced confident fabrications — "Birth of Tycho City" (a place),
+ * "San Francisco graduates", "First contact with Zefram Cochrane". A stub that
+ * admits it is a stub is worth more than a sentence that is wrong, and `kind`
+ * remains available as structured data for anything that wants it.
  */
 function describeFromFacts(event) {
-  const subject = event.entities?.slice(0, 3).join(", ");
-  const kind = event.kind ? event.kind.replace(/-/g, " ") : "event";
-  if (subject) return `${kind}: ${subject} (${event.year})`;
-  return `${kind} recorded in ${event.year}`;
+  const names = (event.entities ?? []).slice(0, 3);
+  if (!names.length) return `Summary not yet written for this ${event.year} event.`;
+
+  const list =
+    names.length === 1
+      ? names[0]
+      : `${names.slice(0, -1).join(", ")} and ${names[names.length - 1]}`;
+
+  return `Summary not yet written — involves ${list}.`;
 }
