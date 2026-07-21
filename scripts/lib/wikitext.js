@@ -35,6 +35,18 @@ export const FILMS = {
 
 const SERIES_ALT = SERIES_CODES.join("|");
 
+/** Zero-argument templates that carry no text of their own. */
+const STRUCTURAL_TEMPLATES = new Set([
+  "multiple", "mbeta", "timeline nav", "bginfo", "decades", "century nav",
+  "sidebar year", "clear", "reflist", "stub", "incomplete",
+]);
+
+/** Zero-argument shortcuts whose name is not the text a reader wants. */
+const TEMPLATE_ALIASES = {
+  EnterpriseNX: "Enterprise NX-01",
+  ColumbiaNX: "Columbia NX-02",
+};
+
 /**
  * Template flags that appear as trailing arguments and are not episode titles.
  * Real titles are Title Case; these are lowercase directives.
@@ -98,6 +110,20 @@ export function cleanText(text) {
 
   // Possessive-after-italics helper.
   s = s.replace(/\{\{'\}\}/g, "’");
+
+  // Anchors are invisible link targets. Their argument is not display text —
+  // leaving it in produced "April_5thApril 5th – ...".
+  s = s.replace(/\{\{\s*(?:visible\s+)?anchors?\s*\|[^}]*\}\}/gi, "");
+
+  // Zero-argument templates are almost all name shortcuts: {{EnterpriseNX}},
+  // {{Shran}}, {{Trip Tucker}}. Deleting them removed the subject of the
+  // sentence outright — "The keel of, Earth's first warp 5-capable starship,
+  // is laid". Only genuinely structural ones are dropped.
+  s = s.replace(/\{\{([^}|]+)\}\}/g, (_, name) => {
+    const key = name.trim();
+    if (STRUCTURAL_TEMPLATES.has(key.toLowerCase())) return "";
+    return TEMPLATE_ALIASES[key] ?? key;
+  });
 
   // Disambiguation links. Argument count changes which part is displayed:
   //   {{dis|Vulcan|planet}}                      -> "Vulcan"  (2 args: page, qualifier)

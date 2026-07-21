@@ -77,6 +77,18 @@ export class Tooltip {
       n.appendChild(list);
     }
 
+    // The source is shown for every event, but it matters most for the ones
+    // whose summary has not been rewritten yet — it is where the detail is.
+    const source = event.sources?.[0];
+    if (source) {
+      const foot = el("p", "tooltip-source");
+      foot.append(
+        el("span", null, event.prose === "authored" ? "Source" : "Read on"),
+        el("span", "tooltip-source-name", " Memory Alpha"),
+      );
+      n.appendChild(foot);
+    }
+
     n.hidden = false;
     this.#position(target);
   }

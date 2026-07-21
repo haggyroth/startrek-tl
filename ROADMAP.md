@@ -132,14 +132,35 @@ Known and accepted:
   stretch the axis by centuries for a handful of events; the era presets make
   it feasible later if wanted.
 
-## Phase 11 — Complete the rewrite
+## Phase 11 — Complete the rewrite (in progress)
 
-- [ ] Author the remaining summaries (222 / 1,533 done, plus whatever
-      Phase 10 adds)
-- [ ] Switch the committed build to `--strict` so the repo holds no scraped
-      prose at all
-- [ ] Surface a "Read on Memory Alpha" link per event, so unauthored events
-      still lead somewhere useful
+- [x] "Read on Memory Alpha" surfaced in the tooltip and as a link on the
+      table's year cell; stub rows are styled distinctly
+- [x] Strict-mode fallback rewritten. Kind-based templates were tried and
+      abandoned — entity order does not identify the subject, so they produced
+      fabrications ("Birth of Tycho City", "San Francisco graduates"). The
+      fallback now says plainly that it is a stub
+- [x] Entity extraction filters ranks and lowercase common nouns
+- [x] Far future (2411–3269) authored in full — 133 events, the first era at
+      100%
+- [ ] Author the remaining summaries — **389 / 2,040 (19%)**
+- [ ] Switch the committed build to `--strict`
+
+On the strict flip: the capability works and is tested, but flipping it now
+would replace real prose with stubs for 81% of events while the repo is still
+private and nothing is published. It belongs immediately before publication,
+in Phase 14/15, not before the authoring is much further along.
+
+Coverage by era:
+
+| Era | Authored |
+|---|---|
+| 2063–2100 | 6 / 53 |
+| ENT (2101–2161) | 11 / 216 |
+| Gap (2162–2232) | 9 / 60 |
+| 23rd century | 138 / 453 |
+| 24th century | 92 / 1,125 |
+| Far future | 133 / 133 |
 
 ## Phase 12 — Verification pass
 

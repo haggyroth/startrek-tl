@@ -13,12 +13,37 @@
 
 import { SERIES_CODES } from "./wikitext.js";
 
-/** Link targets that are structural rather than subjects of the event. */
+/**
+ * Link targets that are structural rather than subjects of the event.
+ *
+ * Memory Alpha links generously, so a bullet's links include the setting
+ * ("Earth", "Starfleet"), ranks, and plain nouns. None of those identify what
+ * happened, and they crowd out the names that do.
+ */
 const IGNORED_LINKS = new Set([
+  // Setting
   "Earth", "Federation", "United Federation of Planets", "Starfleet",
-  "stardate", "year", "Alpha Quadrant", "Beta Quadrant", "Gamma Quadrant",
-  "Delta Quadrant", "time travel", "alternate timeline", "mirror universe",
+  "Starfleet Command", "Alpha Quadrant", "Beta Quadrant", "Gamma Quadrant",
+  "Delta Quadrant", "Milky Way Galaxy", "Sol system",
+  // Measures and meta
+  "stardate", "Stardate", "year", "time travel", "alternate timeline",
+  "mirror universe", "first contact",
+  // Ranks and honorifics
+  "Captain", "Commander", "Lieutenant", "Lieutenant Commander", "Admiral",
+  "Vice admiral", "Rear admiral", "Commodore", "Ensign", "Doctor", "Dr.",
+  "Chief medical officer", "first officer", "Chief engineer", "General",
+  "Colonel", "Major", "Ambassador", "Professor", "Chancellor", "President",
+  "Crewman", "Cadet", "Constable", "Legate", "Gul", "Maje", "Kai", "Vedek",
 ]);
+
+/**
+ * Proper nouns identify subjects; plain nouns ("starship", "colony") do not.
+ * Memory Alpha capitalises the former and not the latter, which separates them
+ * cleanly without a vocabulary list.
+ */
+function isProperNoun(target) {
+  return /^[A-Z0-9]/.test(target);
+}
 
 /**
  * Event kinds we can identify with confidence. These are facts about the event
@@ -59,6 +84,7 @@ export function extractEntities(rawBullet) {
   for (const m of rawBullet.matchAll(/\[\[([^\]]+)\]\]/g)) {
     const target = linkTarget(m[1]);
     if (!target || IGNORED_LINKS.has(target)) continue;
+    if (!isProperNoun(target)) continue;
     // Date links ("January 4", "2233") are captured as date fields already.
     if (/^\d{1,4}$/.test(target)) continue;
     if (seen.has(target)) continue;

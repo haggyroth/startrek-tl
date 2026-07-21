@@ -707,6 +707,20 @@ body {
   font-style: italic;
 }
 
+.tooltip-source {
+  margin: 8px 0 0;
+  padding-top: 8px;
+  border-top: 1px solid var(--border);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+}
+
+.tooltip-source-name {
+  color: var(--lcars-barley);
+}
+
 /* ---------- table ---------- */
 
 #table-view {
@@ -749,6 +763,17 @@ body {
   font-size: 0.68rem;
   text-transform: uppercase;
   letter-spacing: 0.12em;
+}
+
+#event-table a {
+  color: var(--lcars-almond-creme);
+  text-underline-offset: 2px;
+}
+
+/* Rows whose summary is still a generated stub. */
+#event-table tr.is-stub td:last-child {
+  color: var(--text-muted);
+  font-style: italic;
 }
 
 #event-table td:first-child,
