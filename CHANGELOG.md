@@ -2,7 +2,7 @@
 
 All notable changes to this project are documented here.
 
-## [Unreleased]
+## [0.2.0]
 
 - chore: scaffold project — repo layout, README, roadmap, event schema
 - feat(data): Memory Alpha API client with rate limiting and local caching
