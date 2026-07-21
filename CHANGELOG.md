@@ -2,7 +2,7 @@
 
 All notable changes to this project are documented here.
 
-## [Unreleased]
+## [0.5.0]
 
 - feat(ui): LCARS chrome — elbow frames, header/footer bars, sidebar rail
 - feat(ui): filters restyled as LCARS pill buttons with a non-colour selected marker
