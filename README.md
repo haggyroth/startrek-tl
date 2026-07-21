@@ -48,6 +48,30 @@ npm run serve
 Then open <http://localhost:8000/src/>. The server must run from the repository
 root, not from `src/` — the page fetches `../data/events.json`.
 
+## Tests
+
+```sh
+npm test              # unit, fixture and corpus tests
+npm run validate:data # schema and consistency checks on the committed dataset
+```
+
+No dependencies — the suite runs on `node:test`. The corpus tests need the
+local scrape cache and skip without it, so CI runs a subset.
+
+## Git hooks
+
+`main` cannot be protected server-side: GitHub gates branch protection and
+rulesets behind a paid plan for private repositories. A committed pre-push hook
+enforces the same rules locally instead. Enable it once per clone:
+
+```sh
+git config core.hooksPath .githooks
+```
+
+It refuses to force-push or delete `main`, and runs the tests first. It is a
+local gate, not real protection — `--no-verify` bypasses it. Server-side rules
+go in when the repo becomes public.
+
 ## Regenerating the dataset
 
 ```sh

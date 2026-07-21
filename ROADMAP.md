@@ -85,7 +85,10 @@ the current state trustworthy before the surface area grows.
 - [x] CI on GitHub Actions: tests + dataset validation. CI cannot rebuild
       `events.json` (the cache is gitignored and re-scraping on every push
       would be rude), so it validates the committed dataset instead
-- [ ] Branch protection on `main`: require CI green, no force-push
+- [~] Branch protection on `main` — **blocked**: GitHub requires a paid plan
+      for branch protection and rulesets on private repos. `.githooks/pre-push`
+      enforces no-force-push, no-delete and green tests locally in the
+      meantime. Apply server-side rules in Phase 15, when the repo goes public
 - [ ] Resolve the 2 `timelineConflict` events by hand
 - [ ] Review `data/unmatched-overlay.json` — some are phrasing mismatches that
       should have matched, some are genuinely absent upstream
