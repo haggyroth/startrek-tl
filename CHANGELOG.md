@@ -16,6 +16,18 @@ All notable changes to this project are documented here.
   real event appended after it — landmark matches 47 -> 49, unmatched 65 -> 43
 - feat(data): validator now checks overrides and fails on open conflicts
 
+## [1.3.0]
+
+- feat(data): expand to 2063–3269 — 2,049 events, up from 1,570
+- feat(data): century-page parser for eras whose years are redirects
+- feat(data): SA (Starfleet Academy) series code and ECS ship prefix
+- feat(ui): era presets, with a default view of 2063–2410
+- fix(data): ordinal date prefixes ("July 13th") were unparsed
+- fix(data): universe subheadings now set the timeline; "alternate reality" is
+  the Kelvin timeline and was being filed as a generic alternate one
+- fix(data): {{visible anchors|3160|3160s}} blocks were skipped entirely
+- fix(dev): serve with no-store so edited modules are never served stale
+
 ## [1.2.0]
 
 - fix(state): coalesce hash writes; zoom called replaceState once per wheel

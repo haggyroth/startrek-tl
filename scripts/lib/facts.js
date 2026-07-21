@@ -67,7 +67,7 @@ export function extractEntities(rawBullet) {
   }
 
   // Ship templates name a subject without using a wiki link.
-  for (const m of rawBullet.matchAll(/\{\{(USS|IKS|ISS|IRW|SS)\|([^}|]+)(?:\|[^}]*)?\}\}/g)) {
+  for (const m of rawBullet.matchAll(/\{\{(USS|IKS|ISS|IRW|SS|ECS)\|([^}|]+)(?:\|[^}]*)?\}\}/g)) {
     const name = `${m[1]} ${m[2].trim()}`;
     if (seen.has(name)) continue;
     seen.add(name);

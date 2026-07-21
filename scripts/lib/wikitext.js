@@ -13,7 +13,7 @@
 /** Series codes that appear as citation templates. */
 export const SERIES_CODES = [
   "TOS", "TAS", "TNG", "DS9", "VOY", "ENT",
-  "DIS", "PIC", "LD", "PRO", "SNW", "ST",
+  "DIS", "PIC", "LD", "PRO", "SNW", "ST", "SA",
 ];
 
 /** Films by production number, as used by {{film|N}}. */
@@ -94,7 +94,7 @@ export function cleanText(text) {
   s = s.replace(/\{\{small\|\(([^)]*)\)\}\}/g, "");
 
   // Ship templates: {{USS|Defiant|2370}} -> USS Defiant, {{IKS|Rotarran}} -> IKS Rotarran.
-  s = s.replace(/\{\{(USS|IKS|ISS|IRW|SS|HMS)\|([^}|]+)(?:\|[^}]*)?\}\}/g, "$1 $2");
+  s = s.replace(/\{\{(USS|IKS|ISS|IRW|SS|HMS|ECS)\|([^}|]+)(?:\|[^}]*)?\}\}/g, "$1 $2");
 
   // Possessive-after-italics helper.
   s = s.replace(/\{\{'\}\}/g, "’");

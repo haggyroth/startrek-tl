@@ -25,7 +25,29 @@ import {
 import { extractFacts } from "./facts.js";
 
 /** Sections whose bullets are events. Anything else is skipped. */
-const EVENT_SECTIONS = /^(events|other events|births|deaths)$/i;
+const EVENT_SECTIONS = /^(events|other events|births|deaths|alternate timeline events)$/i;
+
+/**
+ * Some pages split events by universe as H3 subsections — 2063 has both
+ * "Prime universe" and "Mirror universe". That heading is a far stronger
+ * signal than prose detection, so it sets the timeline for everything under it.
+ */
+const UNIVERSE_SECTIONS = [
+  [/mirror\s+universe/i, "mirror"],
+  // "Alternate reality" is Memory Alpha's name for the Kelvin timeline, so it
+  // must be tested before the generic alternate-timeline pattern — otherwise
+  // every Kelvin section is filed as a nondescript alternate timeline.
+  [/kelvin|alternate\s+realit/i, "kelvin"],
+  [/alternate\s+(?:timeline|universe)/i, "alternate"],
+  [/prime\s+universe/i, "prime"],
+];
+
+function sectionTimeline(heading) {
+  for (const [pattern, timeline] of UNIVERSE_SECTIONS) {
+    if (pattern.test(heading)) return timeline;
+  }
+  return null;
+}
 
 const MONTHS = {
   january: 1, february: 2, march: 3, april: 4, may: 5, june: 6,
@@ -49,7 +71,7 @@ export function extractDatePrefix(text, year) {
   // Both separators occur: "January 4 (stardate 2233.04) – ..." and
   // "April 11: ...". Stardate also appears bare: "Stardate 8615.2: ...".
   const m = text.match(
-    /^\s*(?:([A-Z][a-z]+)\s+(\d{1,2}))?\s*(?:\(?stardate\s+(\d+(?:\.\d+)?)\.?\s*\)?)?\s*(?:[–—-]\s+|:\s+)(.*)$/is,
+    /^\s*(?:([A-Z][a-z]+)\s+(\d{1,2})(?:st|nd|rd|th)?)?\s*(?:\(?stardate\s+(\d+(?:\.\d+)?)\.?\s*\)?)?\s*(?:[–—-]\s+|:\s+)(.*)$/is,
   );
   if (!m) return { date: null, stardate: null, text };
 
@@ -133,6 +155,7 @@ export function parseYearPage(wikitext, year) {
   let day = null;       // day from a "* Stardate N (March 4)" heading
   let sdContext = null; // current "* Stardate N" heading, if any
   let inEventSection = false;
+  let universe = null;
   const usedIds = new Map();
 
   for (const rawLine of wikitext.split("\n")) {
@@ -141,13 +164,18 @@ export function parseYearPage(wikitext, year) {
     const heading = line.match(/^(=+)\s*(.+?)\s*=+\s*$/);
     if (heading) {
       const level = heading[1].length;
+      const text = heading[2].trim();
       if (level === 2) {
-        section = heading[2].trim();
+        section = text;
         inEventSection = EVENT_SECTIONS.test(section);
         group = null;
         month = null;
+        universe = sectionTimeline(section);
+      } else if (level === 3) {
+        // H3 subsections inherit their parent's event status, but a universe
+        // heading ("Mirror universe") overrides the timeline beneath it.
+        universe = sectionTimeline(text) ?? sectionTimeline(section);
       }
-      // H3 subsections ("By starship or station") inherit their parent's status.
       continue;
     }
 
@@ -237,7 +265,8 @@ export function parseYearPage(wikitext, year) {
       // rather than guessing a day.
       date: date ?? contextDate(year, month, day),
       stardate: stardate ?? sdContext,
-      timeline: detectTimeline(source),
+      // A universe subheading is authoritative; prose detection is the fallback.
+      timeline: universe ?? detectTimeline(source),
       summary,
       entities: facts.entities,
       kind: facts.kind,

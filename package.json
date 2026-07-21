@@ -8,6 +8,6 @@
     "test": "node --test 'test/*.test.js'",
     "validate:data": "node scripts/validate-data.js",
     "build:data": "node scripts/build-events.js",
-    "serve": "python3 -m http.server 8000"
+    "serve": "node scripts/serve.js"
   }
 }

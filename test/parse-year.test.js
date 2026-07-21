@@ -138,3 +138,48 @@ test("events carry extracted facts", () => {
   assert.equal(e.kind, "birth");
   assert.ok(e.entities.includes("James T. Kirk"));
 });
+
+// Regression: "July 13th – Jean-Luc Picard is born" left the whole prefix in
+// the summary and lost the date. Ordinal suffixes are common on ENT-era pages.
+test("extractDatePrefix accepts ordinal day suffixes", () => {
+  for (const [input, date] of [
+    ["April 4th – A thing happens.", "2063-04-04"],
+    ["July 13th – A thing happens.", "2063-07-13"],
+    ["August 1st – A thing happens.", "2063-08-01"],
+    ["March 22nd – A thing happens.", "2063-03-22"],
+    ["May 3rd – A thing happens.", "2063-05-03"],
+  ]) {
+    const out = extractDatePrefix(input, 2063);
+    assert.equal(out.date, date, input);
+    assert.equal(out.text, "A thing happens.", input);
+  }
+});
+
+// Some pages split events by universe as H3 subsections. That heading is a
+// much stronger signal than prose detection and must win.
+test("universe subheadings set the timeline beneath them", () => {
+  const wikitext = `== Events ==
+=== Prime universe ===
+* A prime event. ({{TNG|A}})
+=== Mirror universe ===
+* A mirror event with no telltale wording. ({{ENT|B}})
+=== Alternate reality ===
+* A Kelvin event with no telltale wording. ({{TOS|C}})
+`;
+  const { events } = parseYearPage(wikitext, 2063);
+  assert.deepEqual(
+    events.map((e) => e.timeline),
+    // "Alternate reality" is Memory Alpha's name for the Kelvin timeline, so it
+    // must not be filed as a generic alternate timeline.
+    ["prime", "mirror", "kelvin"],
+  );
+});
+
+test("an alternate-timeline events section is recognised", () => {
+  const { events } = parseYearPage(
+    "== Alternate timeline events ==\n* Something that never happened. ({{TNG|A}})\n",
+    2364,
+  );
+  assert.equal(events.length, 1);
+  assert.equal(events[0].timeline, "alternate");
+});

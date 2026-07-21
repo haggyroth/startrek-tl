@@ -13,7 +13,7 @@
         <div class="elbow elbow-top" aria-hidden="true"></div>
         <header class="header-bar">
           <h1>Star Trek Timeline</h1>
-          <span class="header-code" aria-hidden="true">LCARS 47<span class="dim">·</span>2233<span class="dim">–</span>2402</span>
+          <span class="header-code" aria-hidden="true">LCARS 47<span class="dim">·</span>2063<span class="dim">–</span>3269</span>
         </header>
       </div>
 
@@ -21,6 +21,11 @@
       <div class="lcars-body">
         <nav class="lcars-sidebar" aria-label="Timeline and view controls">
           <div class="sidebar-stem" aria-hidden="true"></div>
+
+          <h2 class="sidebar-label">Era</h2>
+          <div id="era-filter" class="chips chips-stack"></div>
+
+          <div class="sidebar-gap" aria-hidden="true"></div>
 
           <h2 class="sidebar-label" id="timeline-heading">Timeline</h2>
           <div id="timeline-filter" class="chips chips-stack"></div>
@@ -43,9 +48,11 @@
 
         <main class="lcars-main">
           <p class="subtitle">
-            Canon events from 2233 to 2402. Curve height is the number of events
-            recorded in each year; every dot is one event. Filters re-bin the
-            curve, so the waveform reshapes to whatever you select.
+            Canon events from 2063 to the 33rd century. Curve height is the
+            number of events recorded in each year; every dot is one event.
+            Filters re-bin the curve, so the waveform reshapes to whatever you
+            select. The view opens on 2063–2410, where canon is dense — use the
+            era presets to reach the far future.
           </p>
 
           <div id="stats" class="stats"></div>

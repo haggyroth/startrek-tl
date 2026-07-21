@@ -13,9 +13,10 @@ waveform reshapes to whatever subset you're looking at.
 
 ## Status
 
-Phases 1–4 complete. The chart renders 1,486 prime-timeline events across
-2233–2402 with hover tooltips, timeline/series/location filters that re-bin the
+Phases 1–10 complete. The chart renders 2,049 events across 2063–3269 with
+hover tooltips, era presets, timeline/series/location filters that re-bin the
 curve, zoom and pan, shareable URLs, LCARS chrome, and keyboard navigation.
+The view opens on 2063–2410, where canon is dense.
 
 Views are linkable — for example
 `#timeline=all&series=DS9&years=2370-2380`.

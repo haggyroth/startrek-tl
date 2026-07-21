@@ -56,10 +56,34 @@ function withCount(label, count) {
  * @param {() => object} options.getState
  * @param {(patch: object) => void} options.update
  */
-export function buildControls({ getState, update, seriesCounts, locationCounts, timelineCounts }) {
+export function buildControls({
+  getState,
+  update,
+  seriesCounts,
+  locationCounts,
+  timelineCounts,
+  eras,
+}) {
+  const eraRow = document.querySelector("#era-filter");
   const timelineRow = document.querySelector("#timeline-filter");
   const seriesRow = document.querySelector("#series-filter");
   const locationRow = document.querySelector("#locations");
+
+  // ---- eras (view presets, not filters) ----
+  // These set the visible year range. Zoom is a view control, so choosing an
+  // era never changes which events are in the filter set.
+  const eraButtons = new Map();
+  for (const era of eras) {
+    const node = button("chip", era.label);
+    node.addEventListener("click", () => {
+      const current = getState().years;
+      const same =
+        current && current[0] === era.years[0] && current[1] === era.years[1];
+      update({ years: same ? null : [...era.years] });
+    });
+    eraButtons.set(era.id, node);
+    eraRow.appendChild(node);
+  }
 
   // ---- timeline (single-select) ----
   const timelineButtons = new Map();
@@ -106,6 +130,13 @@ export function buildControls({ getState, update, seriesCounts, locationCounts, 
 
   /** Reflect state into the controls. Called after every state change. */
   return function sync(state) {
+    for (const era of eras) {
+      const active =
+        Boolean(state.years) &&
+        state.years[0] === era.years[0] &&
+        state.years[1] === era.years[1];
+      eraButtons.get(era.id).setAttribute("aria-pressed", String(active));
+    }
     for (const [value, node] of timelineButtons) {
       node.setAttribute("aria-pressed", String(state.timeline === value));
     }
