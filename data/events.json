@@ -5,9 +5,9 @@
       2233,
       2402
     ],
-    "eventCount": 1533,
+    "eventCount": 1570,
     "strict": false,
-    "authoredSummaries": 222,
+    "authoredSummaries": 229,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -151,7 +151,7 @@
         "start": "1207.3",
         "end": "2137.2"
       },
-      "count": 16
+      "count": 22
     },
     {
       "year": 2257,
@@ -175,7 +175,7 @@
         "start": "1739.12",
         "end": "2259.55"
       },
-      "count": 35
+      "count": 54
     },
     {
       "year": 2260,
@@ -228,7 +228,7 @@
         "start": "1329.1",
         "end": "2817.6"
       },
-      "count": 20
+      "count": 21
     },
     {
       "year": 2267,
@@ -759,7 +759,7 @@
         "start": "39355",
         "end": "40999"
       },
-      "count": 18
+      "count": 22
     },
     {
       "year": 2363,
@@ -791,7 +791,7 @@
         "start": "43125.8",
         "end": "43989.1"
       },
-      "count": 38
+      "count": 40
     },
     {
       "year": 2367,
@@ -940,7 +940,7 @@
         "start": "62083.5",
         "end": "62314.8"
       },
-      "count": 8
+      "count": 10
     },
     {
       "year": 2386,
@@ -965,7 +965,7 @@
     {
       "year": 2390,
       "stardateRange": null,
-      "count": 3
+      "count": 6
     },
     {
       "year": 2391,
@@ -5036,6 +5036,39 @@
       "prose": "source"
     },
     {
+      "id": "2256-michael-burnham-is-found-guilty-of-mutiny-strippe",
+      "year": 2256,
+      "date": "2256-05",
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "Michael Burnham is found guilty of mutiny, stripped of her rank, and sentenced to life imprisonment.",
+      "entities": [],
+      "kind": null,
+      "group": "USS Shenzhou",
+      "section": "Events",
+      "series": [
+        "DIS"
+      ],
+      "episodes": [
+        {
+          "series": "DIS",
+          "title": "The Vulcan Hello",
+          "kind": "episode"
+        },
+        {
+          "series": "DIS",
+          "title": "Battle at the Binary Stars",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2256"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
       "id": "2256-michael-burnham-joins-the-crew-of-the-discovery",
       "year": 2256,
       "date": null,
@@ -5085,6 +5118,41 @@
         {
           "series": "DIS",
           "title": "Context Is for Kings",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2256"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2256-the-battle-of-the-binary-stars-occurs-between-star",
+      "year": 2256,
+      "date": "2256-05",
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "The Battle of the Binary Stars occurs between Starfleet and Klingon forces; Captain Georgiou and T'Kuvma are killed. The Federation-Klingon War begins.",
+      "entities": [
+        "Battle of the Binary Stars"
+      ],
+      "kind": "death",
+      "group": "USS Shenzhou",
+      "section": "Events",
+      "series": [
+        "DIS"
+      ],
+      "episodes": [
+        {
+          "series": "DIS",
+          "title": "The Vulcan Hello",
+          "kind": "episode"
+        },
+        {
+          "series": "DIS",
+          "title": "Battle at the Binary Stars",
           "kind": "episode"
         }
       ],
@@ -5160,6 +5228,117 @@
       "prose": "source"
     },
     {
+      "id": "2256-the-shenzhou-is-called-to-a-binary-star-system-to",
+      "year": 2256,
+      "date": "2256-05",
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "The Shenzhou is called to a binary star system to investigate damage done to an interstellar relay by T'Kuvma's faction. First Officer Michael Burnham attempts a mutiny against Captain Philippa Georgiou in the hopes of defusing the crisis.",
+      "entities": [
+        "binary star system",
+        "interstellar relay",
+        "First Officer",
+        "Michael Burnham",
+        "mutiny",
+        "Captain",
+        "Philippa Georgiou"
+      ],
+      "kind": null,
+      "group": "USS Shenzhou",
+      "section": "Events",
+      "series": [
+        "DIS"
+      ],
+      "episodes": [
+        {
+          "series": "DIS",
+          "title": "The Vulcan Hello",
+          "kind": "episode"
+        },
+        {
+          "series": "DIS",
+          "title": "Battle at the Binary Stars",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2256"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2256-the-torchbearer-voq-attempts-to-continue-t-kuvma-s",
+      "year": 2256,
+      "date": "2256-05",
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "The Torchbearer Voq attempts to continue T'Kuvma's ideology, but is largely sidelined by the Klingon Empire.",
+      "entities": [
+        "Torchbearer",
+        "Voq",
+        "Klingon Empire"
+      ],
+      "kind": null,
+      "group": "USS Shenzhou",
+      "section": "Events",
+      "series": [],
+      "episodes": [],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2256"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2256-the-uss-buran-is-ambushed-and-all-hands-except-for",
+      "year": 2256,
+      "date": "2256-06",
+      "stardate": null,
+      "timeline": "mirror",
+      "summary": "The USS Buran is ambushed with only Gabriel Lorca surviving — though the survivor is his mirror-universe counterpart.",
+      "entities": [
+        "Gabriel Lorca",
+        "Gabriel Lorca (mirror)"
+      ],
+      "kind": null,
+      "group": "USS Buran",
+      "section": "Events",
+      "series": [
+        "DIS"
+      ],
+      "episodes": [
+        {
+          "series": "DIS",
+          "title": "Context Is for Kings",
+          "kind": "episode"
+        },
+        {
+          "series": "DIS",
+          "title": "Choose Your Pain",
+          "kind": "episode"
+        },
+        {
+          "series": "DIS",
+          "title": "Into the Forest I Go",
+          "kind": "episode"
+        },
+        {
+          "series": "DIS",
+          "title": "What's Past Is Prologue",
+          "kind": "episode"
+        }
+      ],
+      "significance": 4,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2256"
+      ],
+      "landmark": false,
+      "prose": "authored"
+    },
+    {
       "id": "2256-the-uss-gagarin-is-ambushed-simultaneously-while-p",
       "year": 2256,
       "date": null,
@@ -5180,6 +5359,36 @@
         {
           "series": "DIS",
           "title": "Si Vis Pacem, Para Bellum",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2256"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2256-the-uss-shenzhou-visits-the-crepusculan-homeworld",
+      "year": 2256,
+      "date": "2256-05",
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "The USS Shenzhou visits the Crepusculan homeworld and saves them from a drought.",
+      "entities": [
+        "Crepusculan homeworld"
+      ],
+      "kind": null,
+      "group": "USS Shenzhou",
+      "section": "Events",
+      "series": [
+        "DIS"
+      ],
+      "episodes": [
+        {
+          "series": "DIS",
+          "title": "The Vulcan Hello",
           "kind": "episode"
         }
       ],
@@ -6298,7 +6507,7 @@
       "id": "2259-a-new-first-servant-is-selected-on-majalis",
       "year": 2259,
       "date": null,
-      "stardate": "2291.6",
+      "stardate": null,
       "timeline": "prime",
       "summary": "A new First Servant is selected on Majalis.",
       "entities": [
@@ -6329,7 +6538,7 @@
       "id": "2259-a-new-variant-of-starfleet-uniform-is-introduced",
       "year": 2259,
       "date": null,
-      "stardate": "2291.6",
+      "stardate": null,
       "timeline": "prime",
       "summary": "A new variant of Starfleet uniform is introduced.",
       "entities": [
@@ -6360,7 +6569,7 @@
       "id": "2259-a-new-variant-of-the-starfleet-communicator-is-int",
       "year": 2259,
       "date": null,
-      "stardate": "2291.6",
+      "stardate": null,
       "timeline": "prime",
       "summary": "A new variant of the Starfleet communicator is introduced.",
       "entities": [
@@ -6390,7 +6599,7 @@
       "id": "2259-a-new-variant-of-the-starfleet-flag-officer-unifor",
       "year": 2259,
       "date": null,
-      "stardate": "2291.6",
+      "stardate": null,
       "timeline": "prime",
       "summary": "A new variant of the Starfleet flag officer uniform is introduced.",
       "entities": [
@@ -6420,7 +6629,7 @@
       "id": "2259-a-new-variant-of-the-starfleet-tricorder-is-introd",
       "year": 2259,
       "date": null,
-      "stardate": "2291.6",
+      "stardate": null,
       "timeline": "prime",
       "summary": "A new variant of the Starfleet tricorder is introduced.",
       "entities": [
@@ -6450,7 +6659,7 @@
       "id": "2259-a-new-variant-of-the-type-2-phaser-is-introduced",
       "year": 2259,
       "date": null,
-      "stardate": "2291.6",
+      "stardate": null,
       "timeline": "prime",
       "summary": "A new variant of the Type 2 phaser is introduced.",
       "entities": [
@@ -6480,7 +6689,7 @@
       "id": "2259-after-crash-landing-on-valeo-beta-v-the-crew-is-k",
       "year": 2259,
       "date": null,
-      "stardate": "2291.6",
+      "stardate": null,
       "timeline": "prime",
       "summary": "After crash landing on Valeo Beta V, the crew is killed by Gorn hatchlings. The Peregrine is later salvaged by the Enterprise.",
       "entities": [
@@ -6512,7 +6721,7 @@
     {
       "id": "2259-as-of-this-year-the-ketha-province-has-been-uninh",
       "year": 2259,
-      "date": "2259-02-11",
+      "date": null,
       "stardate": null,
       "timeline": "prime",
       "summary": "The Ketha Province has stood empty for decades by this point.",
@@ -6543,7 +6752,7 @@
     {
       "id": "2259-at-starfleet-headquarters-marcus-convenes-a-summi",
       "year": 2259,
-      "date": "2259-02-11",
+      "date": null,
       "stardate": null,
       "timeline": "prime",
       "summary": "Harrison attacks a Starfleet summit, killing Pike, then escapes by transwarp beam to Qo'noS.",
@@ -6579,7 +6788,7 @@
     {
       "id": "2259-both-damaged-ships-begin-falling-to-earth-kirk-en",
       "year": 2259,
-      "date": "2259-02-11",
+      "date": "2259-02",
       "stardate": null,
       "timeline": "prime",
       "summary": "Kirk dies repairing the Enterprise's warp core as both ships fall toward Earth.",
@@ -6608,10 +6817,42 @@
       "prose": "authored"
     },
     {
+      "id": "2259-cadet-nyota-uhura-is-assigned-to-the-uss-enterpris",
+      "year": 2259,
+      "date": null,
+      "stardate": "1739.12",
+      "timeline": "prime",
+      "summary": "Cadet Nyota Uhura is assigned to the USS Enterprise as a communications officer.",
+      "entities": [
+        "Cadet",
+        "Nyota Uhura",
+        "communications officer"
+      ],
+      "kind": "appointment",
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "Strange New Worlds",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
       "id": "2259-cadet-uhura-is-promoted-to-ensign",
       "year": 2259,
-      "date": "2259-02-11",
-      "stardate": "2510.6.",
+      "date": null,
+      "stardate": null,
       "timeline": "prime",
       "summary": "Cadet Uhura is promoted to Ensign.",
       "entities": [
@@ -6638,10 +6879,101 @@
       "prose": "source"
     },
     {
+      "id": "2259-captain-pike-celebrates-his-birthday",
+      "year": 2259,
+      "date": null,
+      "stardate": "2291.6",
+      "timeline": "prime",
+      "summary": "Captain Pike celebrates his birthday",
+      "entities": [],
+      "kind": null,
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "Those Old Scientists",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2259-carol-marcus-comes-aboard-the-enterprise-montgome",
+      "year": 2259,
+      "date": "2259-02",
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "Carol Marcus joins the Enterprise; Scott and Keenser resign over the sealed torpedoes, and Chekov takes engineering.",
+      "entities": [
+        "Keenser",
+        "Chief engineering officer"
+      ],
+      "kind": null,
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "FILM"
+      ],
+      "episodes": [
+        {
+          "series": "FILM",
+          "title": "Star Trek Into Darkness",
+          "kind": "film",
+          "number": 12
+        }
+      ],
+      "significance": 4,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "authored"
+    },
+    {
+      "id": "2259-christine-chapel-is-assigned-to-the-uss-enterprise",
+      "year": 2259,
+      "date": null,
+      "stardate": "1739.12",
+      "timeline": "prime",
+      "summary": "Christine Chapel is assigned to the USS Enterprise as a nurse.",
+      "entities": [
+        "Christine Chapel",
+        "nurse"
+      ],
+      "kind": "appointment",
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "Strange New Worlds",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
       "id": "2259-commander-chin-riley-is-cleared-of-all-charges-aga",
       "year": 2259,
-      "date": "2259-02-11",
-      "stardate": "2510.6.",
+      "date": null,
+      "stardate": null,
       "timeline": "prime",
       "summary": "Commander Chin-Riley is cleared of all charges against her and resumes her duties aboard the Enterprise.",
       "entities": [],
@@ -6668,8 +7000,8 @@
     {
       "id": "2259-commander-pelia-joins-the-enterprise-as-chief-engi",
       "year": 2259,
-      "date": "2259-02-11",
-      "stardate": "2510.6.",
+      "date": null,
+      "stardate": null,
       "timeline": "prime",
       "summary": "Commander Pelia joins the Enterprise as chief engineer.",
       "entities": [
@@ -6696,10 +7028,104 @@
       "prose": "source"
     },
     {
-      "id": "2259-general-order-1-is-renamed-the-prime-directive",
+      "id": "2259-doctor-joseph-m-benga-is-assigned-to-the-uss-enter",
+      "year": 2259,
+      "date": null,
+      "stardate": "1739.12",
+      "timeline": "prime",
+      "summary": "Doctor Joseph M'Benga is assigned to the USS Enterprise as chief medical officer.",
+      "entities": [
+        "Doctor",
+        "Joseph M'Benga",
+        "chief medical officer"
+      ],
+      "kind": "appointment",
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "Strange New Worlds",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2259-ensigns-brad-boimler-and-beckett-mariner-are-unwit",
       "year": 2259,
       "date": null,
       "stardate": "2291.6",
+      "timeline": "prime",
+      "summary": "Ensigns Brad Boimler and Beckett Mariner are unwittingly transported to this time briefly",
+      "entities": [
+        "Brad Boimler",
+        "Beckett Mariner"
+      ],
+      "kind": null,
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "Those Old Scientists",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2259-erica-ortegas-is-assigned-to-the-uss-enterprise-as",
+      "year": 2259,
+      "date": null,
+      "stardate": "1739.12",
+      "timeline": "prime",
+      "summary": "Erica Ortegas is assigned to the USS Enterprise as a helmsman.",
+      "entities": [
+        "Erica Ortegas",
+        "helmsman"
+      ],
+      "kind": "appointment",
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "Strange New Worlds",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2259-general-order-1-is-renamed-the-prime-directive",
+      "year": 2259,
+      "date": null,
+      "stardate": null,
       "timeline": "prime",
       "summary": "General Order 1 is renamed the \"Prime Directive\".",
       "entities": [
@@ -6708,6 +7134,68 @@
       ],
       "kind": null,
       "group": "USS Peregrine",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "Strange New Worlds",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2259-george-samuel-kirk-is-assigned-to-the-uss-enterpri",
+      "year": 2259,
+      "date": "2259-02-11",
+      "stardate": "2259.42",
+      "timeline": "prime",
+      "summary": "George Samuel Kirk is assigned to the USS Enterprise as a sciences division member.",
+      "entities": [
+        "George Samuel Kirk",
+        "sciences division"
+      ],
+      "kind": "appointment",
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "Strange New Worlds",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2259-hemmer-is-assigned-to-the-uss-enterprise-as-chief",
+      "year": 2259,
+      "date": "2259-02-11",
+      "stardate": "2259.42",
+      "timeline": "prime",
+      "summary": "Hemmer is assigned to the USS Enterprise as chief engineer.",
+      "entities": [
+        "Hemmer",
+        "chief engineer"
+      ],
+      "kind": "appointment",
+      "group": "USS Enterprise",
       "section": "Events",
       "series": [
         "SNW"
@@ -6762,7 +7250,7 @@
       "id": "2259-james-t-kirk-is-promoted-to-first-officer",
       "year": 2259,
       "date": null,
-      "stardate": "2291.6",
+      "stardate": null,
       "timeline": "prime",
       "summary": "James T. Kirk is promoted to First officer.",
       "entities": [
@@ -6790,10 +7278,47 @@
       "prose": "source"
     },
     {
+      "id": "2259-james-t-kirk-violates-the-prime-directive-while-s",
+      "year": 2259,
+      "date": "2259-02",
+      "stardate": null,
+      "timeline": "kelvin",
+      "summary": "Kirk breaches the Prime Directive to save Spock on Nibiru and is sent back to the Academy; Spock transfers to the USS Bradbury.",
+      "entities": [
+        "Prime Directive",
+        "Nibiru",
+        "demote",
+        "Starfleet Academy",
+        "Frank Abbott",
+        "first officer",
+        "USS Bradbury"
+      ],
+      "kind": null,
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "FILM"
+      ],
+      "episodes": [
+        {
+          "series": "FILM",
+          "title": "Star Trek Into Darkness",
+          "kind": "film",
+          "number": 12
+        }
+      ],
+      "significance": 4,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "authored"
+    },
+    {
       "id": "2259-january-the-crew-of-the-uss-enterprise-become-inv",
       "year": 2259,
       "date": null,
-      "stardate": "2291.6",
+      "stardate": null,
       "timeline": "kelvin",
       "summary": "The Enterprise crew are caught up in the Mudd Incident and seize a K'normian trading ship.",
       "entities": [
@@ -6862,10 +7387,170 @@
       "prose": "authored"
     },
     {
+      "id": "2259-la-an-noonien-singh-is-assigned-to-the-uss-enterpr",
+      "year": 2259,
+      "date": null,
+      "stardate": "1739.12",
+      "timeline": "prime",
+      "summary": "La'An Noonien-Singh is assigned to the USS Enterprise as acting first officer and later chief of security.",
+      "entities": [
+        "La'An Noonien-Singh",
+        "acting first officer",
+        "chief of security"
+      ],
+      "kind": "appointment",
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "Strange New Worlds",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2259-lieutenant-hemmer-commits-suicide-on-valeo-beta-v",
+      "year": 2259,
+      "date": null,
+      "stardate": "2510.6",
+      "timeline": "prime",
+      "summary": "Lieutenant Hemmer commits suicide on Valeo Beta V to prevent Gorn eggs from hatching.",
+      "entities": [
+        "suicide",
+        "Valeo Beta V",
+        "Gorn"
+      ],
+      "kind": null,
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "All Those Who Wander",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2259-lieutenant-la-an-noonien-singh-takes-a-leave-of-ab",
+      "year": 2259,
+      "date": null,
+      "stardate": "2510.6",
+      "timeline": "prime",
+      "summary": "Lieutenant La'An Noonien-Singh takes a leave of absence from Starfleet to help Oriana find her family.",
+      "entities": [
+        "leave of absence",
+        "Oriana"
+      ],
+      "kind": null,
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "All Those Who Wander",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2259-meanwhile-in-the-sol-system-scott-having-been-r",
+      "year": 2259,
+      "date": "2259-02",
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "Following Kirk's coordinates, Scott finds the hidden yard where the USS Vengeance is being built and stows away aboard her.",
+      "entities": [
+        "Sol system",
+        "USS Vengeance"
+      ],
+      "kind": "launch",
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "FILM"
+      ],
+      "episodes": [
+        {
+          "series": "FILM",
+          "title": "Star Trek Into Darkness",
+          "kind": "film",
+          "number": 12
+        }
+      ],
+      "significance": 4,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "authored"
+    },
+    {
+      "id": "2259-on-a-nearby-planetoid-following-harrison-s-sugges",
+      "year": 2259,
+      "date": "2259-02",
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "McCoy and Marcus open one of the long-range torpedoes and find a cryogenically preserved human inside.",
+      "entities": [
+        "planetoid",
+        "cryo-tube",
+        "SS Botany Bay"
+      ],
+      "kind": null,
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "FILM"
+      ],
+      "episodes": [
+        {
+          "series": "FILM",
+          "title": "Star Trek Into Darkness",
+          "kind": "film",
+          "number": 12
+        }
+      ],
+      "significance": 4,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "authored"
+    },
+    {
       "id": "2259-rukiya-is-cured-of-her-illness-and-is-transformed",
       "year": 2259,
       "date": null,
-      "stardate": "2291.6",
+      "stardate": null,
       "timeline": "prime",
       "summary": "Rukiya is cured of her illness and is transformed into a state of pure energy.",
       "entities": [
@@ -6895,7 +7580,7 @@
       "id": "2259-spock-and-t-pring-get-engaged",
       "year": 2259,
       "date": null,
-      "stardate": "2291.6",
+      "stardate": null,
       "timeline": "prime",
       "summary": "Spock and T'Pring get engaged.",
       "entities": [
@@ -6926,8 +7611,8 @@
     {
       "id": "2259-stardate-1224-3-the-enterprise-travels-to-hetemit",
       "year": 2259,
-      "date": "2259-02-11",
-      "stardate": "2259.42",
+      "date": null,
+      "stardate": null,
       "timeline": "prime",
       "summary": "The Enterprise investigates an abandoned Illyrian colony on Hetemit IX, stranding Pike and Spock planetside.",
       "entities": [
@@ -6961,8 +7646,8 @@
     {
       "id": "2259-stardate-1457-9-lieutenant-commander-chin-riley-i",
       "year": 2259,
-      "date": "2259-02-11",
-      "stardate": "2510.6.",
+      "date": null,
+      "stardate": null,
       "timeline": "prime",
       "summary": "Stardate 1457.9. Lieutenant Commander Chin-Riley is taken into custody for violating the Starfleet code of Conduct.",
       "entities": [
@@ -6991,8 +7676,8 @@
     {
       "id": "2259-stardate-1630-1-the-enterprise-returns-to-rigel-v",
       "year": 2259,
-      "date": "2259-02-11",
-      "stardate": "2510.6.",
+      "date": null,
+      "stardate": null,
       "timeline": "prime",
       "summary": "Stardate 1630.1. The Enterprise returns to Rigel VII under suspicion of cultural contamination, discovering and arresting former yeoman Zac Nguyen in the process.",
       "entities": [
@@ -7023,8 +7708,8 @@
     {
       "id": "2259-stardate-2394-8-captain-pike-is-promoted-to-fleet",
       "year": 2259,
-      "date": "2259-02-11",
-      "stardate": "2510.6.",
+      "date": null,
+      "stardate": null,
       "timeline": "prime",
       "summary": "Stardate 2394.8. Captain Pike is promoted to Fleet captain.",
       "entities": [
@@ -7054,7 +7739,7 @@
       "id": "2259-stardate-2394-8-fleet-captain-pike-is-temporarily",
       "year": 2259,
       "date": null,
-      "stardate": "2291.6",
+      "stardate": null,
       "timeline": "prime",
       "summary": "Stardate 2394.8. Fleet captain Pike is temporarily given command of the Farragut.",
       "entities": [],
@@ -7081,8 +7766,8 @@
     {
       "id": "2259-stardate-2912-4-the-enterprise-makes-first-contac",
       "year": 2259,
-      "date": "2259-02-11",
-      "stardate": "2259.42",
+      "date": null,
+      "stardate": null,
       "timeline": "prime",
       "summary": "Stardate 2912.4. The Enterprise makes first contact with the Shepherds.",
       "entities": [],
@@ -7109,8 +7794,8 @@
     {
       "id": "2259-stardate-3177-3-3177-9-the-first-known-contact-be",
       "year": 2259,
-      "date": "2259-02-11",
-      "stardate": "2259.42",
+      "date": null,
+      "stardate": null,
       "timeline": "prime",
       "summary": "Stardate 3177.3-3177.9. The first known contact between vessels representing the United Federation of Planets and the Gorn Hegemony occurs after Enterprise encounters several Gorn ships after they attack the Finibus III colony. Actual contact between crews is not made.",
       "entities": [
@@ -7171,10 +7856,68 @@
       "prose": "source"
     },
     {
+      "id": "2259-the-enterprise-departs-starbase-1",
+      "year": 2259,
+      "date": "2259-02-11",
+      "stardate": "2259.42",
+      "timeline": "prime",
+      "summary": "The Enterprise departs Starbase 1.",
+      "entities": [
+        "Starbase 1"
+      ],
+      "kind": null,
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "Strange New Worlds",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2259-the-enterprise-makes-official-first-contact-with-t",
+      "year": 2259,
+      "date": null,
+      "stardate": "1739.12",
+      "timeline": "prime",
+      "summary": "The Enterprise makes official first contact with the Kiley.",
+      "entities": [],
+      "kind": "first-contact",
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "Strange New Worlds",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
       "id": "2259-the-farragut-is-stationed-at-starbase-1",
       "year": 2259,
       "date": null,
-      "stardate": "2291.6",
+      "stardate": null,
       "timeline": "prime",
       "summary": "The Farragut is stationed at Starbase 1.",
       "entities": [
@@ -7204,7 +7947,7 @@
       "id": "2259-the-planet-cerberus-is-stricken-by-crop-failure-du",
       "year": 2259,
       "date": null,
-      "stardate": "2291.6",
+      "stardate": null,
       "timeline": "prime",
       "summary": "The planet Cerberus is stricken by crop failure during Joanna McCoy's schooling there. Carter Winston uses his personal fortune to save the colony.",
       "entities": [
@@ -7239,7 +7982,7 @@
       "id": "2259-the-r-ongovian-protectorate-joins-the-united-feder",
       "year": 2259,
       "date": null,
-      "stardate": "2291.6",
+      "stardate": null,
       "timeline": "prime",
       "summary": "The R'ongovian Protectorate joins the United Federation of Planets.",
       "entities": [
@@ -7269,7 +8012,7 @@
       "id": "2259-the-stamets-type-shuttlecraft-is-introduced",
       "year": 2259,
       "date": null,
-      "stardate": "2291.6",
+      "stardate": null,
       "timeline": "prime",
       "summary": "The Stamets-type shuttlecraft is introduced.",
       "entities": [
@@ -7296,9 +8039,79 @@
       "prose": "source"
     },
     {
+      "id": "2259-the-uss-enterprise-s-warp-core-breaks-down-just-af",
+      "year": 2259,
+      "date": "2259-02",
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "The Enterprise's warp core fails past the Neutral Zone; Kirk's landing party is intercepted by Klingons while hunting Harrison.",
+      "entities": [
+        "warp core",
+        "Neutral Zone",
+        "away team",
+        "Klingon"
+      ],
+      "kind": null,
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "FILM"
+      ],
+      "episodes": [
+        {
+          "series": "FILM",
+          "title": "Star Trek Into Darkness",
+          "kind": "film",
+          "number": 12
+        }
+      ],
+      "significance": 4,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "authored"
+    },
+    {
+      "id": "2259-the-vengeance-pursues-the-enterprise-and-attacks",
+      "year": 2259,
+      "date": "2259-02",
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "The Vengeance overhauls the Enterprise near Luna; Marcus orders her destroyed, but Scott disables the attacker's weapons.",
+      "entities": [
+        "Luna",
+        "beam",
+        "thruster suit",
+        "Spock",
+        "New Vulcan",
+        "Khan Noonien Singh"
+      ],
+      "kind": "battle",
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "FILM"
+      ],
+      "episodes": [
+        {
+          "series": "FILM",
+          "title": "Star Trek Into Darkness",
+          "kind": "film",
+          "number": 12
+        }
+      ],
+      "significance": 4,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "authored"
+    },
+    {
       "id": "2259-this-is-the-year-james-t-kirk-was-expected-to-gra",
       "year": 2259,
-      "date": "2259-02-11",
+      "date": null,
       "stardate": null,
       "timeline": "prime",
       "summary": "The year Kirk would have finished the Academy had he taken the usual four years.",
@@ -7329,7 +8142,7 @@
     {
       "id": "2259-two-weeks-later-kirk-is-fully-revived-khan-is-pl",
       "year": 2259,
-      "date": "2259-03-11",
+      "date": "2259-03",
       "stardate": null,
       "timeline": "prime",
       "summary": "Kirk recovers, and Khan is returned to cryogenic storage.",
@@ -9390,6 +10203,36 @@
         {
           "series": "TOS",
           "title": "What Are Little Girls Made Of?",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2266"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2266-in-an-alternative-timeline-where-enterprise-is-ca",
+      "year": 2266,
+      "date": null,
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "In an alternative timeline, where Enterprise is captained by Captain Christopher Pike, this resulted in open warfare between Federation and Romulans.",
+      "entities": [
+        "Christopher Pike"
+      ],
+      "kind": null,
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "A Quality of Mercy",
           "kind": "episode"
         }
       ],
@@ -26287,6 +27130,40 @@
       "prose": "source"
     },
     {
+      "id": "2362-a-federation-soldier-miles-o-brien-kills-a-carda",
+      "year": 2362,
+      "date": null,
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "A Federation soldier, Miles O'Brien, kills a Cardassian soldier during the massacre.",
+      "entities": [
+        "soldier",
+        "Miles O'Brien",
+        "kill",
+        "Cardassian",
+        "Unnamed Cardassians"
+      ],
+      "kind": null,
+      "group": "USS Rutledge",
+      "section": "Events",
+      "series": [
+        "TNG"
+      ],
+      "episodes": [
+        {
+          "series": "TNG",
+          "title": "The Wounded",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2362"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
       "id": "2362-beverly-crusher-is-promoted-to-commander-after-pas",
       "year": 2362,
       "date": null,
@@ -26454,6 +27331,36 @@
       "prose": "source"
     },
     {
+      "id": "2362-he-later-operates-a-field-transporter-for-the-firs",
+      "year": 2362,
+      "date": null,
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "He later operates a field transporter for the first time and saves thirteen men.",
+      "entities": [
+        "transporter"
+      ],
+      "kind": null,
+      "group": "USS Rutledge",
+      "section": "Events",
+      "series": [
+        "DS9"
+      ],
+      "episodes": [
+        {
+          "series": "DS9",
+          "title": "Paradise",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2362"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
       "id": "2362-in-an-alternate-timeline-in-which-the-uss-enterpri",
       "year": 2362,
       "date": null,
@@ -26476,6 +27383,37 @@
         {
           "series": "TNG",
           "title": "Yesterday's Enterprise",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2362"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2362-o-brien-is-declared-the-hero-of-setlik-iii-after",
+      "year": 2362,
+      "date": null,
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "O'Brien is declared the \"Hero of Setlik III\" after leading a group of two dozen men against a Cardassian regiment at the Barrica encampment.",
+      "entities": [
+        "Setlik III",
+        "Barrica encampment"
+      ],
+      "kind": null,
+      "group": "USS Rutledge",
+      "section": "Events",
+      "series": [
+        "DS9"
+      ],
+      "episodes": [
+        {
+          "series": "DS9",
+          "title": "Empok Nor",
           "kind": "episode"
         }
       ],
@@ -26635,6 +27573,36 @@
         {
           "series": "DS9",
           "title": "Cardassians",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2362"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2362-several-prisoners-including-raymond-boone-are-ta",
+      "year": 2362,
+      "date": null,
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "Several prisoners, including Raymond Boone, are taken by the Cardassians.",
+      "entities": [
+        "Raymond Boone"
+      ],
+      "kind": null,
+      "group": "USS Rutledge",
+      "section": "Events",
+      "series": [
+        "DS9"
+      ],
+      "episodes": [
+        {
+          "series": "DS9",
+          "title": "Tribunal",
           "kind": "episode"
         }
       ],
@@ -30508,6 +31476,31 @@
       "prose": "source"
     },
     {
+      "id": "2366-six-months-before-alexana-devos-is-promoted-to-di",
+      "year": 2366,
+      "date": null,
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "Six months before, Alexana Devos is promoted to director of security. She replaces the former director who was murdered by the Ansata. Within a few days of her assuming command, Director Devos is confronted by the brutality of the separatist group with the terrific bombing of a shuttlebus carrying sixty children. There are no survivors of the attack.",
+      "entities": [
+        "Alexana Devos",
+        "murder",
+        "Ansata",
+        "shuttlebus"
+      ],
+      "kind": "appointment",
+      "group": "Terok Nor",
+      "section": "Events",
+      "series": [],
+      "episodes": [],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2366"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
       "id": "2366-six-months-before-stardate-43997-commander-elizab",
       "year": 2366,
       "date": null,
@@ -30987,6 +31980,37 @@
         {
           "series": "TNG",
           "title": "The Survivors",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2366"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2366-two-months-before-a-cell-of-the-ansata-first-use",
+      "year": 2366,
+      "date": null,
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "Two months before, a cell of the Ansata first use the inverter for their attacks on civilian centers. These attacks precipitate the need for the Rutian government to request medical supplies from the Federation.",
+      "entities": [
+        "inverter",
+        "Rutian"
+      ],
+      "kind": "battle",
+      "group": "Terok Nor",
+      "section": "Events",
+      "series": [
+        "TNG"
+      ],
+      "episodes": [
+        {
+          "series": "TNG",
+          "title": "The High Ground",
           "kind": "episode"
         }
       ],
@@ -49246,6 +50270,76 @@
       "prose": "source"
     },
     {
+      "id": "2385-in-the-aftermath-of-this-attack-starfleet-command",
+      "year": 2385,
+      "date": null,
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "In the aftermath of this attack, Starfleet Command was asked to \"scale back\" operations, ceasing all exploratory missions and focusing on protecting Federation citizens. Admirals Janeway and Picard both opposed the move, but Fleet admiral Jellico stated in a meeting with several Starfleet Officers that, with the loss of the A500s, resource shortages, and a lack of engineers, that Starfleet's mission of \"peace\" would have to wait.",
+      "entities": [
+        "Starfleet Command",
+        "Admiral",
+        "Kathryn Janeway",
+        "Jean-Luc Picard",
+        "Fleet admiral",
+        "Edward Jellico"
+      ],
+      "kind": null,
+      "group": "USS Voyager",
+      "section": "Events",
+      "series": [
+        "PRO"
+      ],
+      "episodes": [
+        {
+          "series": "PRO",
+          "title": "Ouroboros, Part II",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2385"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2385-starfleet-abandons-its-plans-to-aid-the-romulan-ev",
+      "year": 2385,
+      "date": null,
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "Starfleet abandons its plans to aid the Romulan evacuation, a decision leading Admiral Picard to resign his commission. The decision is informed by concerns that the Federation might implode over support for the Romulans, as even before the attack, fourteen species within the Federation have threatened to pull out over the issue. Also as a result of the attack, synthetic lifeforms are banned throughout the Federation and research is halted, which was the Zhat Vash’s original goal.",
+      "entities": [
+        "Admiral"
+      ],
+      "kind": null,
+      "group": "USS Voyager",
+      "section": "Events",
+      "series": [
+        "PIC"
+      ],
+      "episodes": [
+        {
+          "series": "PIC",
+          "title": "Remembrance",
+          "kind": "episode"
+        },
+        {
+          "series": "PIC",
+          "title": "The End is the Beginning",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2385"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
       "id": "2385-starfleet-is-in-the-process-of-resettling-romulans",
       "year": 2385,
       "date": null,
@@ -49705,6 +50799,74 @@
       "prose": "source"
     },
     {
+      "id": "2390-after-being-confronted-by-his-first-officer-over-h",
+      "year": 2390,
+      "date": null,
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "After being confronted by his first officer over his actions, Commander Cristóbal Rios, Vandermeer commits suicide.",
+      "entities": [
+        "Commander",
+        "Cristóbal Rios",
+        "suicide"
+      ],
+      "kind": null,
+      "group": null,
+      "section": "Events",
+      "series": [
+        "PIC"
+      ],
+      "episodes": [
+        {
+          "series": "PIC",
+          "title": "Broken Pieces",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2390"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2390-captain-alonzo-vandermeer-of-the-uss-ibn-majid-rec",
+      "year": 2390,
+      "date": null,
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "Captain Alonzo Vandermeer of the USS Ibn Majid receives a black flag directive from Commodore Oh of Starfleet Security, ordering him to kill Beautiful Flower and Jana.",
+      "entities": [
+        "Captain",
+        "Alonzo Vandermeer",
+        "black flag directive",
+        "Commodore",
+        "Oh",
+        "Starfleet Security",
+        "kill"
+      ],
+      "kind": null,
+      "group": null,
+      "section": "Events",
+      "series": [
+        "PIC"
+      ],
+      "episodes": [
+        {
+          "series": "PIC",
+          "title": "Broken Pieces",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2390"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
       "id": "2390-jean-luc-picard-and-worf-will-last-see-one-another",
       "year": 2390,
       "date": null,
@@ -49725,6 +50887,36 @@
         {
           "series": "PIC",
           "title": "The Bounty",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2390"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2390-rios-follows-through-on-the-directive-purging-the",
+      "year": 2390,
+      "date": null,
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "Rios follows through on the directive, purging the transporter log and dumping the bodies into space. Subsequently, he is given a medical discharge from Starfleet.",
+      "entities": [
+        "transporter log"
+      ],
+      "kind": null,
+      "group": null,
+      "section": "Events",
+      "series": [
+        "PIC"
+      ],
+      "episodes": [
+        {
+          "series": "PIC",
+          "title": "Broken Pieces",
           "kind": "episode"
         }
       ],

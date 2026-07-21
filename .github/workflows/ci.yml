@@ -1,0 +1,53 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    name: Tests and data validation
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # No install step: the site has no runtime dependencies and the pipeline
+      # uses only the Node standard library. If a package.json dependency ever
+      # appears, this is the step that has to change.
+      - name: Assert the project stays dependency-free
+        run: |
+          if node -e "const p=require('./package.json');process.exit(p.dependencies||p.devDependencies?1:0)"; then
+            echo "No dependencies declared."
+          else
+            echo "::error::package.json declares dependencies; the project is meant to have none."
+            exit 1
+          fi
+
+      - name: Unit and fixture tests
+        run: npm test
+
+      # The scrape cache is gitignored, so CI cannot rebuild events.json and
+      # must not re-fetch Memory Alpha on every push. Instead the committed
+      # dataset is checked for internal consistency against the schema.
+      - name: Validate the committed dataset
+        run: npm run validate:data
+
+      - name: Check the dataset is regenerable in principle
+        run: |
+          test -f scripts/build-events.js || { echo "::error::pipeline entrypoint missing"; exit 1; }
+          node --check scripts/build-events.js
+          for f in scripts/lib/*.js src/js/*.js; do node --check "$f"; done

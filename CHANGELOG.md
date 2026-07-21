@@ -9,6 +9,19 @@ All notable changes to this project are documented here.
 - feat(data): --strict build mode that never emits scraped prose
 - data: 222 authored summaries — all 175 landmark and widely-cited events, plus 2233-2245
 
+## [1.1.0]
+
+- test: 78-test suite on node:test — no dependencies
+- test: synthetic year-page fixture pinning exact parse output
+- test: corpus invariants that run against the local scrape and skip in CI
+- feat(ci): GitHub Actions running tests and dataset validation
+- feat(data): scripts/validate-data.js — schema, ordering and coverage checks
+- fix(data): nested "**" bullets were dropped, losing 37 events including the
+  Battle of the Binary Stars
+- fix(data): month and stardate headings leaked their date onto later
+  top-level bullets, fabricating 31 stardate attributions
+- fix(data): a stardate heading ending in a period captured the period
+
 ## [1.0.0]
 
 - feat(a11y): keyboard navigation with a roving tabindex and arrow/Home/End keys
