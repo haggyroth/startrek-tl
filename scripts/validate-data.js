@@ -24,6 +24,7 @@ const fail = (message) => problems.push(message);
 
 const dataset = JSON.parse(await readFile("data/events.json", "utf8"));
 const authored = JSON.parse(await readFile("data/summaries.json", "utf8"));
+const overrides = JSON.parse(await readFile("data/timeline-overrides.json", "utf8"));
 const { events, meta } = dataset;
 
 // ---- shape ----
@@ -109,12 +110,31 @@ if (unauthoredLandmarks.length) {
   );
 }
 
+// ---- hand-reviewed timeline resolutions ----
+
+for (const [id, decision] of Object.entries(overrides)) {
+  if (!ids.has(id)) fail(`timeline-overrides.json references an unknown event: ${id}`);
+  if (!TIMELINES.has(decision?.timeline)) fail(`${id}: override has an invalid timeline`);
+  // The reasoning is the point of the file — an override without it is just an
+  // unexplained edit that nobody can review later.
+  if (!decision?.note?.trim()) fail(`${id}: override has no explanatory note`);
+}
+
+const openConflicts = events.filter((e) => e.timelineConflict);
+if (openConflicts.length) {
+  fail(
+    `${openConflicts.length} unresolved timelineConflict event(s); resolve them in ` +
+      `data/timeline-overrides.json (first: ${openConflicts[0].id})`,
+  );
+}
+
 // ---- report ----
 
 const coverage = ((100 * authoredEvents.length) / events.length).toFixed(1);
 console.log(`events    : ${events.length}`);
 console.log(`authored  : ${authoredEvents.length} (${coverage}%)`);
 console.log(`range     : ${meta.range[0]}–${meta.range[1]}`);
+console.log(`overrides : ${Object.keys(overrides).length} hand-reviewed timeline resolutions`);
 
 if (problems.length) {
   console.error(`\n${problems.length} problem(s):`);
