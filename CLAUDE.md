@@ -12,9 +12,10 @@ framework.** `src/index.html` is served statically; ES modules are loaded
 natively by the browser. Do not introduce npm dependencies for the site itself —
 Node is used only for the offline data pipeline in `scripts/`.
 
-D3 is **vendored** at `src/vendor/d3.min.js` rather than loaded from a CDN, so
-the page works offline and under a strict CSP. Update it by re-downloading the
-file; there is nothing to build.
+Third-party assets are **vendored**, never loaded from a CDN, so the page works
+offline and under a strict CSP: `src/vendor/d3.min.js` and the Antonio variable
+webfont at `src/vendor/fonts/` (SIL OFL 1.1 — keep `OFL.txt` beside it). Update
+either by re-downloading; there is nothing to build.
 
 **Serve from the repository root**, not from `src/` — the page fetches
 `../data/events.json`. `npm run serve`, then open `/src/`.
@@ -139,6 +140,17 @@ low-opacity text, so measure rather than assume.
   domain (rows are capped at 26px). Without the cap a max-of-1 view strands a
   lone dot halfway up a 520px plot.
 - Filter and zoom state serializes to the URL hash so views are linkable.
+
+## Accessibility
+
+- The chart SVG is `role="group"`, **not** `role="img"` — `img` makes assistive
+  tech treat the subtree as one opaque graphic and hides the focusable marks.
+- Tabindex on the marks is **roving**: exactly one is in the tab order, and
+  arrow keys move the cursor. ~1,500 tab stops is not navigation, and skipping
+  the chart entirely would make it unreachable.
+- Keyboard handlers drive the tooltip directly rather than relying on the focus
+  event as a side channel. `event.target` / `currentTarget` are only populated
+  during a real dispatch, so look nodes up by id instead.
 
 ## State
 
