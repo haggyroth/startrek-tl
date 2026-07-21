@@ -13,6 +13,7 @@ import { fetchWikitext, isCached } from "./lib/api.js";
 import { parseYearPage } from "./lib/parse-year.js";
 import { fetchOverlay } from "./lib/wikipedia.js";
 import { applyOverlay, assignBaselineSignificance, OVERLAY_SOURCE } from "./lib/overlay.js";
+import { loadSummaries, applySummaries } from "./lib/summaries.js";
 
 const args = process.argv.slice(2);
 const flag = (name, fallback) => {
@@ -23,6 +24,8 @@ const flag = (name, fallback) => {
 const FROM = Number(flag("from", 2233));
 const TO = Number(flag("to", 2402));
 const FORCE = args.includes("--force");
+/** Strict builds refuse to emit scraped prose — see lib/summaries.js. */
+const STRICT = args.includes("--strict");
 
 const events = [];
 const years = [];
@@ -56,6 +59,9 @@ console.log(`  ${overlay.length} overlay entries`);
 const { matched, unmatched, reclassified, conflicts } = applyOverlay(events, overlay);
 assignBaselineSignificance(events);
 
+const authored = await loadSummaries();
+const coverage = applySummaries(events, authored, { strict: STRICT });
+
 // Stable ordering: chronological, then by id so unchanged records never move.
 events.sort((a, b) => a.year - b.year || a.id.localeCompare(b.id));
 
@@ -71,6 +77,8 @@ const output = {
     generated: new Date().toISOString().slice(0, 10),
     range: [FROM, TO],
     eventCount: events.length,
+    strict: STRICT,
+    authoredSummaries: coverage.covered,
     sources: [
       {
         name: "Memory Alpha",
@@ -100,6 +108,8 @@ console.log(`reclassified  : ${reclassified} events moved off the prime timeline
 console.log(`conflicts     : ${conflicts} flagged for manual timeline review`);
 console.log(`timelines     : ${Object.entries(timelines).map(([k, v]) => `${k}=${v}`).join("  ")}`);
 console.log(`series        : ${Object.entries(seriesCounts).sort((a, b) => b[1] - a[1]).map(([k, v]) => `${k}=${v}`).join("  ")}`);
+const pct = ((100 * coverage.covered) / coverage.total).toFixed(1);
+console.log(`authored      : ${coverage.covered}/${coverage.total} summaries (${pct}%)${STRICT ? " — strict" : ""}`);
 console.log(`\nWrote data/events.json`);
 
 if (unmatched.length) {
