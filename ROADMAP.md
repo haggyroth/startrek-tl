@@ -6,17 +6,23 @@
 - [x] Directory layout: `data/`, `scripts/`, `src/`
 - [x] Event schema defined (see `CLAUDE.md`)
 
-## Phase 2 — Data pipeline
+## Phase 2 — Data pipeline ✅
 
-The project's main risk. Wiki year pages are inconsistently formatted, so the
-parser gets tuned against a single year before the full range is scraped.
+- [x] MediaWiki API client with rate limiting and a local response cache
+- [x] Single-year spike (2373) to tune the parser before the full scrape
+- [x] Year-page parser for the full 2233–2402 range
+- [x] Normalize to the event schema; emit `data/events.json` — 1,533 events
+- [x] Wikipedia overlay for timeline classification and landmark tiers
+- [x] Tag events with `timeline` (`prime` / `kelvin` / `mirror` / `alternate`)
 
-- [ ] MediaWiki API client with rate limiting and a local response cache
-- [ ] Single-year spike: fetch and parse one year, review output quality
-- [ ] Year-page parser for the full 2233–2402 range
-- [ ] Normalize to the event schema; emit `data/events.json`
-- [ ] Manual verification pass over the generated dataset
-- [ ] Tag events with `timeline` (`prime` / `kelvin` / `mirror`)
+Outstanding:
+
+- [ ] Review the 2 events in `timelineConflict` and resolve by hand
+- [ ] Review `data/unmatched-overlay.json` (65 entries) — some are phrasing
+      mismatches that should have matched, some are genuinely absent from
+      Memory Alpha year pages
+- [ ] Sampled verification pass (exhaustive review of 1,533 records isn't
+      realistic; spot-check by era instead)
 
 ## Phase 3 — Chart core
 

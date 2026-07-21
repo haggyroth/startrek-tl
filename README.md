@@ -13,7 +13,8 @@ waveform reshapes to whatever subset you're looking at.
 
 ## Status
 
-Early. Phase 1 (scaffold) complete — nothing renders yet.
+Phases 1–2 complete: the data pipeline is built and `data/events.json` holds
+1,533 events across 2233–2402. Nothing renders yet — the chart is Phase 3.
 
 See [ROADMAP.md](ROADMAP.md) for the build plan.
 

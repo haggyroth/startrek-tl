@@ -43,29 +43,48 @@ scraping. Rate-limit requests and always read from `data/events.raw.json` when
 present so re-runs don't re-hit the wiki.
 
 **Alternate timelines are separate.** Every event carries a `timeline` field
-(`prime`, `kelvin`, `mirror`, …). The UI defaults to prime-only. Kelvin and
-Mirror events must never be binned into the same density curve as prime canon by
-default.
+(`prime`, `kelvin`, `mirror`, `alternate`). The UI defaults to prime-only. Kelvin
+and Mirror events must never be binned into the same density curve as prime canon
+by default.
+
+**Never reclassify a timeline on a fuzzy match alone.** Prime and divergent
+versions of the same event are often near-identical in prose — Kirk is born in
+Iowa in the prime timeline and aboard the USS Kelvin in the Kelvin one. The
+Wikipedia overlay may only move an event off `prime` when the event's own
+citations corroborate it; otherwise the pipeline sets `timelineConflict` and
+leaves the classification alone. Citing a Kelvin film is not corroboration on its
+own, because Star Trek (2009) opens before the divergence and is cited for
+prime-timeline events too. Only *exclusively* Kelvin-cited events are Kelvin.
 
 ## Event schema
 
 ```jsonc
 {
-  "id": "string",              // stable slug
-  "year": 2364,                // integer, required — drives binning
-  "date": "2364-03-15",        // optional, when canon gives a specific date
-  "stardate": "41153.7",       // optional, literal from the episode — string
-  "timeline": "prime",
-  "title": "string",
+  "id": "2364-slug-of-the-summary",  // stable, collision-suffixed
+  "year": 2364,                      // required — drives binning
+  "date": "2364-03-15",              // optional; may be partial ("2364-03")
+  "stardate": "41153.7",             // optional, literal — string, never computed
+  "timeline": "prime",               // prime | kelvin | mirror | alternate
   "summary": "string",
-  "series": ["TNG"],           // one or more series codes
-  "episodes": [{ "series": "TNG", "code": "S01E01", "title": "Encounter at Farpoint" }],
-  "significance": 3,           // 1–5
+  "group": "USS Enterprise",         // ship/station subheading, when present
+  "section": "Events",
+  "series": ["TNG"],
+  "episodes": [{ "series": "TNG", "title": "Encounter at Farpoint", "kind": "episode" }],
+  "significance": 3,                 // 5 landmark, 4 widely cited, 3 default
+  "landmark": false,                 // matched a Wikipedia overlay entry
+  "timelineConflict": null,          // set when the overlay's claim couldn't be corroborated
   "sources": ["https://memory-alpha.fandom.com/wiki/2364"]
 }
 ```
 
-Series codes: `TOS TAS SNW DIS TNG DS9 VOY LD PRO PIC` plus `FILM`.
+Series codes: `TOS TAS SNW DIS TNG DS9 VOY LD PRO PIC ENT ST` plus `FILM`.
+
+`date` is deliberately variable-precision. A "January 4" prefix gives a full
+date; a bare "* March" heading gives `YYYY-MM`. Never widen a partial date by
+guessing a day — the UI must handle both lengths.
+
+Coverage is sparse and that is expected: of ~1,530 events, roughly 40 carry a
+date and 90 a stardate. The tooltip must degrade gracefully.
 
 ## Chart behavior
 

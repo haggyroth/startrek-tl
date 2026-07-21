@@ -99,10 +99,14 @@ export function cleanText(text) {
   // Possessive-after-italics helper.
   s = s.replace(/\{\{'\}\}/g, "’");
 
-  // {{dis|Page|qualifier|display text}} — the display text is the LAST argument.
+  // Disambiguation links. Argument count changes which part is displayed:
+  //   {{dis|Vulcan|planet}}                      -> "Vulcan"  (2 args: page, qualifier)
+  //   {{dis|Starfleet uniform|2370s|design}}     -> "design"  (3+ args: last is display)
+  // Getting this backwards silently rewrites prose ("exile on planet"), so the
+  // two cases are handled separately rather than with one "last argument" rule.
   s = s.replace(/\{\{dis\|([^}]*)\}\}/gi, (_, args) => {
-    const parts = args.split("|");
-    return parts[parts.length - 1].trim();
+    const parts = args.split("|").map((p) => p.trim());
+    return parts.length <= 2 ? parts[0] : parts[parts.length - 1];
   });
 
   // Any remaining template: keep the last argument, which is the display text

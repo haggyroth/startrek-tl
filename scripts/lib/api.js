@@ -1,10 +1,12 @@
 /**
- * Memory Alpha MediaWiki API client.
+ * MediaWiki API client for the two sources this project draws on.
  *
  * Rate-limited and cache-backed: every page fetched is written to
  * data/events.raw.json (gitignored), and cached pages are never re-fetched
  * unless the caller explicitly forces a refresh. Re-running the pipeline
  * should cost zero network requests.
+ *
+ * Cache keys are namespaced by site, so "ma:2373" and "wp:2373" can't collide.
  */
 
 import { readFile, writeFile, mkdir } from "node:fs/promises";
@@ -14,7 +16,18 @@ import { fileURLToPath } from "node:url";
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "../..");
 const CACHE_PATH = resolve(ROOT, "data/events.raw.json");
 
-const API = "https://memory-alpha.fandom.com/api.php";
+/** Supported sources. `ma` drives event density; `wp` is the classification overlay. */
+export const SITES = {
+  ma: {
+    api: "https://memory-alpha.fandom.com/api.php",
+    wiki: "https://memory-alpha.fandom.com/wiki",
+  },
+  wp: {
+    api: "https://en.wikipedia.org/w/api.php",
+    wiki: "https://en.wikipedia.org/wiki",
+  },
+};
+
 const USER_AGENT = "startrek-tl/0.1 (personal project; contact via repo owner)";
 
 /** Minimum milliseconds between network requests. Be a good citizen. */
@@ -48,16 +61,17 @@ async function throttle() {
  * Fetch the raw wikitext of a page. Returns null if the page does not exist.
  *
  * @param {string} title Page title, e.g. "2373"
- * @param {{ force?: boolean }} [options]
+ * @param {{ force?: boolean, site?: keyof SITES }} [options]
  * @returns {Promise<string|null>}
  */
-export async function fetchWikitext(title, { force = false } = {}) {
+export async function fetchWikitext(title, { force = false, site = "ma" } = {}) {
   const store = await loadCache();
-  if (!force && title in store) return store[title];
+  const key = `${site}:${title}`;
+  if (!force && key in store) return store[key];
 
   await throttle();
 
-  const url = new URL(API);
+  const url = new URL(SITES[site].api);
   url.search = new URLSearchParams({
     action: "parse",
     page: title,
@@ -73,12 +87,12 @@ export async function fetchWikitext(title, { force = false } = {}) {
   // Missing pages come back as a structured error, not an HTTP failure.
   const wikitext = body.error ? null : body.parse.wikitext;
 
-  store[title] = wikitext;
+  store[key] = wikitext;
   await saveCache();
   return wikitext;
 }
 
 /** True if the page is already cached locally. */
-export async function isCached(title) {
-  return title in (await loadCache());
+export async function isCached(title, site = "ma") {
+  return `${site}:${title}` in (await loadCache());
 }
