@@ -52,14 +52,19 @@ Outstanding:
 - [x] Responsive fallback for narrow viewports
 - [x] Contrast audit — all text clears WCAG AA against its block
 
-## Phase 6 — Polish
+## Phase 6 — Polish ✅
 
-- [ ] Keyboard navigation through events (marks are focusable; needs
-      arrow-key traversal and a roving tabindex — 1,486 tab stops is not usable)
+- [x] Keyboard navigation: roving tabindex plus arrow/Home/End traversal
+- [x] Antonio vendored as a variable woff2 (SIL OFL 1.1)
 - [x] `prefers-reduced-motion` support
 - [x] Contrast audit on the LCARS palette
-- [ ] Consider the Antonio webfont, vendored — currently falling back to a
-      condensed system stack
+
+## Possible next steps
+
+- Resolve the 2 `timelineConflict` events and review
+  `data/unmatched-overlay.json`
+- Extend beyond 2233–2402 (the schema already allows it)
+- Sampled verification pass over the dataset by era
 
 ## Deferred decisions
 

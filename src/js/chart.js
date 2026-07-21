@@ -40,6 +40,7 @@ export class DensityChart {
   #dotRadius = 2.6;
   #plotHeight = MAX_PLOT_HEIGHT;
   #activeId = null;
+  #cursorId = null;
   #zoom = null;
   #clipId = `plot-clip-${clipSeq++}`;
 
@@ -54,8 +55,13 @@ export class DensityChart {
       .select(root)
       .append("svg")
       .attr("class", "chart-svg")
-      .attr("role", "img")
-      .attr("aria-label", "Star Trek event density over time");
+      // "group", not "img": role="img" makes assistive tech treat the subtree
+      // as a single opaque graphic, which would hide the focusable marks.
+      .attr("role", "group")
+      .attr(
+        "aria-label",
+        "Star Trek event density over time. Use arrow keys to move between events.",
+      );
 
     this.#svg
       .append("defs")
@@ -73,6 +79,7 @@ export class DensityChart {
     }
 
     this.#initZoom();
+    this.#initKeyboard();
 
     // d3-zoom stores its transform in pixels, so a resize would otherwise
     // reinterpret the same transform as a different year range.
@@ -279,12 +286,21 @@ export class DensityChart {
       .attr("cy", (d) => y(d.stackIndex) - rowHeight / 2)
       .attr("r", (d) => (d.landmark ? r * 1.5 : r))
       // Pointer hits go through the overlay; focus stays on the marks so the
-      // chart is still traversable by keyboard.
-      .attr("tabindex", 0)
+      // chart is still traversable by keyboard. Tabindex is roving — see
+      // #applyRovingTabIndex — because 1,486 tab stops is not navigation.
       .attr("role", "button")
-      .attr("aria-label", (d) => `${d.year}: ${d.summary}`)
-      .on("focus", (event, d) => this.#onHover(d, event))
-      .on("blur", () => this.#onHover(null));
+      .attr("aria-label", (d) => this.#describeEvent(d))
+      .on("focus", (event, d) => {
+        this.#cursorId = d.id;
+        this.#applyRovingTabIndex();
+        // Look the node up rather than reading it off the event: target and
+        // currentTarget are only populated during a real dispatch, which made
+        // the tooltip silently skip rendering on keyboard focus.
+        this.#onHover(d, this.#dotNode(d.id));
+      })
+      .on("blur", () => this.#onHover(null, null));
+
+    this.#applyRovingTabIndex();
   }
 
   #drawAxes(width, height, x, y) {
@@ -400,7 +416,7 @@ export class DensityChart {
           this.#activeId = hit.id;
           this.#markActive();
         }
-        this.#onHover(hit, { currentTarget: this.#dotNode(hit.id) });
+        this.#onHover(hit, this.#dotNode(hit.id));
       })
       .on("pointerleave", () => this.#clearActive());
   }
@@ -417,6 +433,93 @@ export class DensityChart {
     return bin.events[index] ?? null;
   }
 
+  // ---------- keyboard navigation ----------
+
+  /**
+   * Exactly one mark is in the tab order at a time; arrow keys move the cursor
+   * within the chart. Tabbing through ~1,500 focusable circles would be
+   * unusable, and skipping the chart entirely would make it unreachable.
+   */
+  #applyRovingTabIndex() {
+    const dots = this.#svg.select(".layer-dots").selectAll("circle");
+    const ids = dots.data().map((d) => d.id);
+    if (!ids.length) return;
+
+    // If the cursor's event was filtered or scrolled out, adopt the first mark.
+    if (!this.#cursorId || !ids.includes(this.#cursorId)) this.#cursorId = ids[0];
+
+    dots.attr("tabindex", (d) => (d.id === this.#cursorId ? 0 : -1));
+  }
+
+  #describeEvent(d) {
+    const bits = [`${d.year}`];
+    if (d.stardate) bits.push(`stardate ${d.stardate}`);
+    if (d.group) bits.push(d.group);
+    if (d.landmark) bits.push("landmark");
+    return `${bits.join(", ")}. ${d.summary}`;
+  }
+
+  #initKeyboard() {
+    this.#svg.on("keydown", (event) => {
+      const handled = this.#moveCursor(event.key);
+      if (!handled) return;
+      event.preventDefault();
+
+      const node = this.#dotNode(this.#cursorId);
+      if (!node) return;
+
+      this.#applyRovingTabIndex();
+      node.focus();
+
+      // Drive the tooltip and the active mark directly rather than relying on
+      // the focus event as a side channel. Idempotent with the focus handler.
+      const target = this.#bins
+        .flatMap((b) => b.events)
+        .find((e) => e.id === this.#cursorId);
+      this.#activeId = this.#cursorId;
+      this.#markActive();
+      this.#onHover(target, node);
+    });
+  }
+
+  /** @returns {boolean} whether the key was a navigation key we consumed. */
+  #moveCursor(key) {
+    const current = this.#bins.flatMap((b) => b.events).find((e) => e.id === this.#cursorId);
+    if (!current) return false;
+
+    // Only bins with marks on screen are navigable; the rest have no DOM node.
+    const populated = this.#visibleBins().filter((b) => b.count);
+    if (!populated.length) return false;
+
+    const binIndex = populated.findIndex((b) => b.year === current.year);
+    const bin = populated[binIndex];
+
+    const pick = (b, stackIndex) => {
+      const i = Math.max(0, Math.min(b.count - 1, stackIndex));
+      this.#cursorId = b.events[i].id;
+      return true;
+    };
+
+    switch (key) {
+      case "ArrowUp":
+        return pick(bin, current.stackIndex + 1);
+      case "ArrowDown":
+        return pick(bin, current.stackIndex - 1);
+      case "ArrowRight":
+        return binIndex < populated.length - 1
+          ? pick(populated[binIndex + 1], current.stackIndex)
+          : true;
+      case "ArrowLeft":
+        return binIndex > 0 ? pick(populated[binIndex - 1], current.stackIndex) : true;
+      case "Home":
+        return pick(populated[0], 0);
+      case "End":
+        return pick(populated[populated.length - 1], 0);
+      default:
+        return false;
+    }
+  }
+
   #dotNode(id) {
     return this.#svg.select(".layer-dots").selectAll("circle").filter((d) => d.id === id).node();
   }
@@ -425,7 +528,7 @@ export class DensityChart {
     if (this.#activeId === null) return;
     this.#activeId = null;
     this.#markActive();
-    this.#onHover(null);
+    this.#onHover(null, null);
   }
 
   #markActive() {

@@ -15,7 +15,7 @@ waveform reshapes to whatever subset you're looking at.
 
 Phases 1–4 complete. The chart renders 1,486 prime-timeline events across
 2233–2402 with hover tooltips, timeline/series/location filters that re-bin the
-curve, zoom and pan, shareable URLs, and LCARS chrome.
+curve, zoom and pan, shareable URLs, LCARS chrome, and keyboard navigation.
 
 Views are linkable — for example
 `#timeline=all&series=DS9&years=2370-2380`.
@@ -35,6 +35,7 @@ offline data pipeline in `scripts/`.
 | `data/` | `events.json` — the generated, committed dataset |
 | `scripts/` | Node data pipeline: fetch → parse → normalize → emit |
 | `src/` | The site itself |
+| `src/vendor/` | D3 and the Antonio webfont, vendored — no CDN, no build |
 
 ## Running it
 

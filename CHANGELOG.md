@@ -2,6 +2,13 @@
 
 All notable changes to this project are documented here.
 
+## [Unreleased]
+
+- feat(a11y): keyboard navigation with a roving tabindex and arrow/Home/End keys
+- feat(ui): vendor the Antonio variable webfont (SIL OFL 1.1)
+- fix(a11y): chart used role="img", hiding its focusable marks from assistive tech
+- fix(chart): tooltip skipped rendering on keyboard focus
+
 ## [0.5.0]
 
 - feat(ui): LCARS chrome — elbow frames, header/footer bars, sidebar rail
