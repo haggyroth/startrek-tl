@@ -2,6 +2,13 @@
 
 All notable changes to this project are documented here.
 
+## [Unreleased]
+
+- feat(ui): LCARS chrome — elbow frames, header/footer bars, sidebar rail
+- feat(ui): filters restyled as LCARS pill buttons with a non-colour selected marker
+- feat(ui): responsive fallback that drops the elbow geometry below 720px
+- fix(ui): Reset zoom ignored its hidden attribute because .chip set display
+
 ## [0.4.0]
 
 - feat(filters): timeline, series and location filters that re-bin the curve

@@ -45,17 +45,21 @@ Outstanding:
 - [x] `hashchange` handling, so pasted links and back/forward work
 - [x] Live view summary, empty state, and reset-zoom control
 
-## Phase 5 — LCARS chrome
+## Phase 5 — LCARS chrome ✅
 
-- [ ] Elbow frames and panel layout
-- [ ] Series filters as LCARS pill buttons
-- [ ] Responsive fallback for narrow viewports
+- [x] Elbow frames, header/footer bars, full-height sidebar rail
+- [x] Filters as LCARS pill buttons, with a non-colour selected marker
+- [x] Responsive fallback for narrow viewports
+- [x] Contrast audit — all text clears WCAG AA against its block
 
 ## Phase 6 — Polish
 
-- [ ] Keyboard navigation through events
-- [ ] `prefers-reduced-motion` support
-- [ ] Contrast audit on the LCARS palette (the purples especially)
+- [ ] Keyboard navigation through events (marks are focusable; needs
+      arrow-key traversal and a roving tabindex — 1,486 tab stops is not usable)
+- [x] `prefers-reduced-motion` support
+- [x] Contrast audit on the LCARS palette
+- [ ] Consider the Antonio webfont, vendored — currently falling back to a
+      condensed system stack
 
 ## Deferred decisions
 
