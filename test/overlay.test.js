@@ -4,8 +4,10 @@ import assert from "node:assert/strict";
 import {
   applyOverlay,
   assignBaselineSignificance,
+  applyTimelineOverrides,
   OVERLAY_SOURCE,
 } from "../scripts/lib/overlay.js";
+import { stripProductionMetadata } from "../scripts/lib/wikipedia.js";
 
 const event = (over = {}) => ({
   id: "e1",
@@ -134,4 +136,60 @@ test("baseline significance never overwrites a landmark", () => {
   const landmark = event({ significance: 5, landmark: true });
   assignBaselineSignificance([landmark]);
   assert.equal(landmark.significance, 5);
+});
+
+// ---- production metadata ----
+
+test("production-level entries are stripped, real remainders kept", () => {
+  // Whole-line metadata: nothing in-universe survives.
+  assert.equal(stripProductionMetadata("The events of \"The Cage\"."), "");
+  assert.equal(stripProductionMetadata("The events of Star Trek: The Original Series take place."), "");
+  assert.equal(stripProductionMetadata("Prologue scene of Star Trek."), "");
+
+  // A real event appended after the metadata sentence must survive — throwing
+  // the whole entry away cost three landmark matches.
+  assert.equal(
+    stripProductionMetadata(
+      "The events of Star Trek Into Darkness take place. Khan is returned to suspended animation.",
+    ),
+    "Khan is returned to suspended animation.",
+  );
+  assert.equal(
+    stripProductionMetadata("The events of Discovery season 1 take place. The Klingon-Federation War."),
+    "The Klingon-Federation War.",
+  );
+
+  // Ordinary entries pass through untouched.
+  const plain = "Boothby, groundskeeper at Starfleet Academy, is born.";
+  assert.equal(stripProductionMetadata(plain), plain);
+});
+
+// ---- hand-reviewed timeline resolutions ----
+
+test("overrides resolve a conflict and record the reasoning", () => {
+  const e = event({ timelineConflict: { claimed: "alternate", source: "wikipedia" } });
+  const result = applyTimelineOverrides([e], {
+    e1: { timeline: "prime", note: "false positive; cited by TOS and ENT" },
+  });
+
+  assert.equal(result.applied, 1);
+  assert.equal(e.timeline, "prime");
+  assert.equal(e.timelineConflict, null);
+  assert.match(e.timelineNote, /false positive/);
+  assert.deepEqual(result.unresolved, []);
+});
+
+test("an override for a vanished event is reported as stale", () => {
+  const result = applyTimelineOverrides([event()], {
+    "does-not-exist": { timeline: "prime", note: "" },
+  });
+  assert.deepEqual(result.stale, ["does-not-exist"]);
+  assert.equal(result.applied, 0);
+});
+
+test("conflicts without an override stay unresolved", () => {
+  const e = event({ timelineConflict: { claimed: "mirror", source: "wikipedia" } });
+  const result = applyTimelineOverrides([e], {});
+  assert.equal(result.unresolved.length, 1);
+  assert.equal(result.unresolved[0].id, "e1");
 });

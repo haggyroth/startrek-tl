@@ -9,6 +9,13 @@ All notable changes to this project are documented here.
 - feat(data): --strict build mode that never emits scraped prose
 - data: 222 authored summaries — all 175 landmark and widely-cited events, plus 2233-2245
 
+## [Unreleased]
+
+- data: resolve both timelineConflict events via data/timeline-overrides.json
+- feat(data): strip Wikipedia production metadata from the overlay, keeping any
+  real event appended after it — landmark matches 47 -> 49, unmatched 65 -> 43
+- feat(data): validator now checks overrides and fails on open conflicts
+
 ## [1.1.0]
 
 - test: 78-test suite on node:test — no dependencies

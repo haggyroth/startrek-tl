@@ -89,9 +89,13 @@ the current state trustworthy before the surface area grows.
       for branch protection and rulesets on private repos. `.githooks/pre-push`
       enforces no-force-push, no-delete and green tests locally in the
       meantime. Apply server-side rules in Phase 15, when the repo goes public
-- [ ] Resolve the 2 `timelineConflict` events by hand
-- [ ] Review `data/unmatched-overlay.json` — some are phrasing mismatches that
-      should have matched, some are genuinely absent upstream
+- [x] Resolve the `timelineConflict` events — recorded with reasoning in
+      `data/timeline-overrides.json`, enforced by the validator
+- [x] Review `data/unmatched-overlay.json`. 30 entries were production metadata
+      ("The events of Discovery season 1 take place") and are now stripped at
+      parse time, keeping any real event appended after them. The remaining 43
+      are in-universe events Wikipedia lists that Memory Alpha's year pages do
+      not — a gap in the density source, not a matching failure
 
 ## Phase 9 — Comprehensive code review
 

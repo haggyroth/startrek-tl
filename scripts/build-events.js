@@ -8,11 +8,16 @@
  * Usage: node scripts/build-events.js [--force] [--from YEAR] [--to YEAR]
  */
 
-import { writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 import { fetchWikitext, isCached } from "./lib/api.js";
 import { parseYearPage } from "./lib/parse-year.js";
 import { fetchOverlay } from "./lib/wikipedia.js";
-import { applyOverlay, assignBaselineSignificance, OVERLAY_SOURCE } from "./lib/overlay.js";
+import {
+  applyOverlay,
+  assignBaselineSignificance,
+  applyTimelineOverrides,
+  OVERLAY_SOURCE,
+} from "./lib/overlay.js";
 import { loadSummaries, applySummaries } from "./lib/summaries.js";
 
 const args = process.argv.slice(2);
@@ -58,6 +63,9 @@ console.log(`  ${overlay.length} overlay entries`);
 
 const { matched, unmatched, reclassified, conflicts } = applyOverlay(events, overlay);
 assignBaselineSignificance(events);
+
+const overrides = JSON.parse(await readFile("data/timeline-overrides.json", "utf8"));
+const resolved = applyTimelineOverrides(events, overrides);
 
 const authored = await loadSummaries();
 const coverage = applySummaries(events, authored, { strict: STRICT });
@@ -105,7 +113,10 @@ console.log(`events        : ${events.length}`);
 console.log(`years covered : ${years.length}${missing.length ? ` (${missing.length} with no page)` : ""}`);
 console.log(`landmarks     : ${matched} matched, ${unmatched.length} overlay entries unmatched`);
 console.log(`reclassified  : ${reclassified} events moved off the prime timeline`);
-console.log(`conflicts     : ${conflicts} flagged for manual timeline review`);
+console.log(`conflicts     : ${conflicts} flagged, ${resolved.applied} resolved by hand, ${resolved.unresolved.length} open`);
+if (resolved.stale.length) {
+  console.log(`  stale overrides (no such event): ${resolved.stale.join(", ")}`);
+}
 console.log(`timelines     : ${Object.entries(timelines).map(([k, v]) => `${k}=${v}`).join("  ")}`);
 console.log(`series        : ${Object.entries(seriesCounts).sort((a, b) => b[1] - a[1]).map(([k, v]) => `${k}=${v}`).join("  ")}`);
 const pct = ((100 * coverage.covered) / coverage.total).toFixed(1);

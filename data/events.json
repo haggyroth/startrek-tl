@@ -7,7 +7,7 @@
     ],
     "eventCount": 1570,
     "strict": false,
-    "authoredSummaries": 229,
+    "authoredSummaries": 230,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -1180,10 +1180,8 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "timelineConflict": {
-        "claimed": "alternate",
-        "source": "wikipedia"
-      },
+      "timelineConflict": null,
+      "timelineNote": "Wikipedia marks its second 2233 block as alternate-timeline, covering Kirk's birth aboard the Kelvin. This Memory Alpha record is the prime-timeline birth in Riverside, Iowa, cited by TOS, ENT, SNW and Star Trek IV. Overlay match was a false positive.",
       "prose": "authored"
     },
     {
@@ -5134,7 +5132,7 @@
       "date": "2256-05",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Battle of the Binary Stars occurs between Starfleet and Klingon forces; Captain Georgiou and T'Kuvma are killed. The Federation-Klingon War begins.",
+      "summary": "Starfleet and Klingon fleets clash at the binary stars; Georgiou and T'Kuvma both die and the Federation-Klingon War opens.",
       "entities": [
         "Battle of the Binary Stars"
       ],
@@ -5156,12 +5154,13 @@
           "kind": "episode"
         }
       ],
-      "significance": 3,
+      "significance": 5,
       "sources": [
-        "https://memory-alpha.fandom.com/wiki/2256"
+        "https://memory-alpha.fandom.com/wiki/2256",
+        "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
-      "landmark": false,
-      "prose": "source"
+      "landmark": true,
+      "prose": "authored"
     },
     {
       "id": "2256-the-enterprise-is-ordered-to-sit-out-the-klingon-w",
@@ -5968,10 +5967,8 @@
         "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
       "landmark": true,
-      "timelineConflict": {
-        "claimed": "alternate",
-        "source": "wikipedia"
-      },
+      "timelineConflict": null,
+      "timelineNote": "Cited only by DIS 'Such Sweet Sorrow', which is prime canon. The overlay's alternate-timeline claim came from an adjacent Wikipedia block and does not apply.",
       "prose": "authored"
     },
     {
@@ -14335,11 +14332,12 @@
           "number": 3
         }
       ],
-      "significance": 4,
+      "significance": 5,
       "sources": [
-        "https://memory-alpha.fandom.com/wiki/2285"
+        "https://memory-alpha.fandom.com/wiki/2285",
+        "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
       ],
-      "landmark": false,
+      "landmark": true,
       "prose": "authored"
     },
     {

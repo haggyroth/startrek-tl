@@ -27,6 +27,30 @@ import { cleanText } from "./wikitext.js";
 
 const PAGE = "Timeline of Star Trek";
 
+/**
+ * Wikipedia's chronology mixes in production-level entries — "The events of
+ * Star Trek: Discovery season 1 take place" — which map a show to a year rather
+ * than describing something that happened in it. Memory Alpha year pages have
+ * no equivalent, so these can never match and only add noise to the unmatched
+ * list. They are not in-universe events and are dropped at parse time.
+ */
+const PRODUCTION_METADATA =
+  /^\s*(?:the events of\b|prologue scene\b)[^.]*\.?\s*/i;
+
+/**
+ * Drop the production-metadata sentence and keep whatever real event follows.
+ * Entries often read "The events of Star Trek Into Darkness take place. Khan is
+ * returned to suspended animation." — discarding the whole line would throw the
+ * second sentence away with the first.
+ *
+ * @returns {string} the in-universe remainder, empty if there is none
+ */
+export function stripProductionMetadata(text) {
+  const sentences = text.split(/(?<=\.)\s+/);
+  const kept = sentences.filter((s) => s.trim() && !PRODUCTION_METADATA.test(s));
+  return kept.join(" ").trim();
+}
+
 /** Century sections spanning 2233–2402. */
 const SECTIONS = ["23rd century", "24th century", "25th century"];
 
@@ -74,7 +98,7 @@ export async function fetchOverlay({ minYear, maxYear }) {
       if (header) {
         year = Number(header[1]);
         timeline = markerToTimeline(header[2]);
-        const inline = header[3] ? cleanText(header[3]) : "";
+        const inline = header[3] ? stripProductionMetadata(cleanText(header[3])) : "";
         if (inline && year >= minYear && year <= maxYear) {
           entries.push({ year, text: inline, timeline });
         }
@@ -86,7 +110,7 @@ export async function fetchOverlay({ minYear, maxYear }) {
       if (!bullet || year === null) continue;
       if (year < minYear || year > maxYear) continue;
 
-      const text = cleanText(bullet[1]);
+      const text = stripProductionMetadata(cleanText(bullet[1]));
       if (text) entries.push({ year, text, timeline });
     }
   }

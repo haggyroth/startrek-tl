@@ -64,6 +64,17 @@ leaves the classification alone. Citing a Kelvin film is not corroboration on it
 own, because Star Trek (2009) opens before the divergence and is cited for
 prime-timeline events too. Only *exclusively* Kelvin-cited events are Kelvin.
 
+**Timeline conflicts are resolved by hand, once.** When the overlay's claim
+can't be corroborated the pipeline records `timelineConflict`; a human then
+decides and the decision goes in `data/timeline-overrides.json` *with its
+reasoning*. The validator fails on any open conflict and on any override
+lacking a note, so resolutions are never silently re-litigated.
+
+**Wikipedia's chronology mixes in production metadata** — "The events of
+Discovery season 1 take place". Those are not in-universe events. They are
+stripped sentence-wise at parse time, keeping any real event appended after
+them; discarding whole entries cost three legitimate landmark matches.
+
 ## Event schema
 
 ```jsonc

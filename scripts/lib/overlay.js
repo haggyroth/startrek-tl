@@ -149,3 +149,35 @@ export function assignBaselineSignificance(events) {
     e.landmark = false;
   }
 }
+
+/**
+ * Apply hand-reviewed timeline resolutions.
+ *
+ * `applyOverlay` deliberately refuses to reclassify on a fuzzy match, recording
+ * `timelineConflict` instead. A human then decides, and the decision is
+ * recorded in data/timeline-overrides.json so it survives every rebuild rather
+ * than being re-litigated. Each entry carries the reasoning.
+ *
+ * @param {object[]} events mutated in place
+ * @param {Record<string, {timeline: string, note: string}>} overrides
+ */
+export function applyTimelineOverrides(events, overrides) {
+  const byId = new Map(events.map((e) => [e.id, e]));
+  const applied = [];
+  const stale = [];
+
+  for (const [id, decision] of Object.entries(overrides)) {
+    const event = byId.get(id);
+    if (!event) {
+      stale.push(id);
+      continue;
+    }
+    event.timeline = decision.timeline;
+    event.timelineConflict = null;
+    event.timelineNote = decision.note;
+    applied.push(id);
+  }
+
+  const unresolved = events.filter((e) => e.timelineConflict);
+  return { applied: applied.length, stale, unresolved };
+}
