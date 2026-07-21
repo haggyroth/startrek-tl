@@ -10,7 +10,15 @@ import { loadEvents, locationsByFrequency, seriesByFrequency } from "./data.js";
 import { DensityChart } from "./chart.js";
 import { Tooltip } from "./tooltip.js";
 import { buildControls } from "./controls.js";
-import { applyFilters, readHash, writeHash, scheduleHashWrite, FULL_RANGE } from "./state.js";
+import {
+  applyFilters,
+  readHash,
+  writeHash,
+  scheduleHashWrite,
+  FULL_RANGE,
+  DEFAULT_VIEW,
+  ERAS,
+} from "./state.js";
 
 const chartRoot = document.querySelector("#chart");
 const statusNode = document.querySelector("#status");
@@ -52,7 +60,7 @@ function renderStats(events) {
  * Zoom is a view control, not a filter, so the counts are kept distinct: the
  * filter total first, then how many of those the zoomed window actually shows.
  */
-function describe(state, events, domain, isZoomed) {
+function describe(state, events, domain) {
   const parts = [`${events.length.toLocaleString()} event${events.length === 1 ? "" : "s"}`];
 
   parts.push(state.timeline === "all" ? "across all timelines" : `on the ${state.timeline} timeline`);
@@ -61,8 +69,10 @@ function describe(state, events, domain, isZoomed) {
 
   let text = `${parts.join(" ")}.`;
 
-  if (isZoomed) {
-    const inView = events.filter((e) => e.year >= domain[0] && e.year <= domain[1]).length;
+  // The default view is narrower than the dataset, so the range clause appears
+  // whenever anything is out of view — not only when the user has zoomed.
+  const inView = events.filter((e) => e.year >= domain[0] && e.year <= domain[1]).length;
+  if (inView !== events.length) {
     text += ` Showing ${inView.toLocaleString()} in ${domain[0]}–${domain[1]}.`;
   }
 
@@ -113,6 +123,7 @@ async function init() {
   const tooltip = new Tooltip(document.body);
   const chart = new DensityChart(chartRoot, {
     range: FULL_RANGE,
+    defaultDomain: DEFAULT_VIEW,
     onHover: (event, node) => {
       if (!event || !node) tooltip.hide();
       else tooltip.show(event, node);
@@ -143,6 +154,7 @@ async function init() {
     seriesCounts: seriesByFrequency(data.events),
     locationCounts: locationsByFrequency(data.events),
     timelineCounts,
+    eras: ERAS,
   });
 
   let filtered = [];
@@ -151,9 +163,8 @@ async function init() {
   const tableWrap = document.querySelector("#table-view");
 
   function refreshChrome() {
-    const zoomed = chart.isZoomed();
-    summaryNode.textContent = describe(state, filtered, chart.domain, zoomed);
-    resetNode.hidden = !zoomed;
+    summaryNode.textContent = describe(state, filtered, chart.domain);
+    resetNode.hidden = !chart.isZoomed();
   }
 
   function apply() {

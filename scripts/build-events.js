@@ -11,6 +11,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { fetchWikitext, isCached, saveCache } from "./lib/api.js";
 import { parseYearPage } from "./lib/parse-year.js";
+import { parseCenturyPage } from "./lib/parse-century.js";
 import { fetchOverlay } from "./lib/wikipedia.js";
 import {
   applyOverlay,
@@ -26,8 +27,20 @@ const flag = (name, fallback) => {
   return i === -1 ? fallback : args[i + 1];
 };
 
-const FROM = Number(flag("from", 2233));
-const TO = Number(flag("to", 2402));
+const FROM = Number(flag("from", 2063));
+const TO = Number(flag("to", 2410));
+
+/**
+ * Where canon is thin Memory Alpha keeps no per-year pages — 3189 redirects to
+ * "32nd century#3189" — so those eras are read from century pages instead.
+ * They only contribute years beyond the per-year range, so nothing is counted
+ * twice.
+ */
+const CENTURY_PAGES = [
+  "25th century", "26th century", "27th century", "28th century",
+  "29th century", "30th century", "31st century", "32nd century",
+  "33rd century",
+];
 const FORCE = args.includes("--force");
 /** Strict builds refuse to emit scraped prose — see lib/summaries.js. */
 const STRICT = args.includes("--strict");
@@ -42,7 +55,8 @@ for (let year = FROM; year <= TO; year++) {
   const cached = await isCached(String(year));
   const wikitext = await fetchWikitext(String(year), { force: FORCE });
 
-  if (!wikitext) {
+  // Sparse years redirect to their century page; the century pass picks them up.
+  if (!wikitext || /^\s*#redirect/i.test(wikitext)) {
     missing.push(year);
     continue;
   }
@@ -56,6 +70,19 @@ for (let year = FROM; year <= TO; year++) {
     process.stdout.write(`\r${mark} ${year}: ${parsed.events.length} events   `);
   }
 }
+
+console.log(`\n\nFetching century pages…`);
+let centuryEvents = 0;
+for (const title of CENTURY_PAGES) {
+  const wikitext = await fetchWikitext(title);
+  if (!wikitext) continue;
+  const url = `https://memory-alpha.fandom.com/wiki/${encodeURIComponent(title)}`;
+  const parsed = parseCenturyPage(wikitext, url, { minYear: TO + 1 });
+  events.push(...parsed.events);
+  centuryEvents += parsed.events.length;
+  if (parsed.events.length) process.stdout.write(`\r  ${title}: ${parsed.events.length} events   `);
+}
+console.log(`\n  ${centuryEvents} events from century pages`);
 
 // Flush whatever the checkpointing left pending.
 await saveCache();
@@ -86,7 +113,7 @@ for (const e of events) {
 const output = {
   meta: {
     generated: new Date().toISOString().slice(0, 10),
-    range: [FROM, TO],
+    range: [FROM, events.length ? Math.max(...events.map((e) => e.year)) : TO],
     eventCount: events.length,
     strict: STRICT,
     authoredSummaries: coverage.covered,
@@ -114,7 +141,8 @@ await writeFile("data/events.json", JSON.stringify(output, null, 2) + "\n");
 
 console.log(`\n=== summary ===`);
 console.log(`events        : ${events.length}`);
-console.log(`years covered : ${years.length}${missing.length ? ` (${missing.length} with no page)` : ""}`);
+console.log(`years covered : ${years.length}${missing.length ? ` (${missing.length} with no page or redirecting)` : ""}`);
+console.log(`century pages : ${centuryEvents} events beyond ${TO}`);
 console.log(`landmarks     : ${matched} matched, ${unmatched.length} overlay entries unmatched`);
 console.log(`reclassified  : ${reclassified} events moved off the prime timeline`);
 console.log(`conflicts     : ${conflicts} flagged, ${resolved.applied} resolved by hand, ${resolved.unresolved.length} open`);

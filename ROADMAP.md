@@ -117,17 +117,20 @@ Known and accepted:
 - `throttle()` in `api.js` is not concurrency-safe. The pipeline is strictly
   sequential, so this is latent; revisit only if fetching is parallelised.
 
-## Phase 10 — Timeline expansion
+## Phase 10 — Timeline expansion ✅
 
-Deliberately after hardening: expanding first would multiply the cost of every
-bug found in Phase 8. The schema and pipeline already allow any year range.
+- [x] Re-tuned the parser against sample pages before the full run, as planned
+- [x] 2063–2410 from year pages: First Contact, the ENT era, the 2160s–2232 gap
+- [x] 25th–33rd centuries from **century pages** — sparse years are redirects
+      (`3189` → `32nd century#3189`), so those eras needed a second parser
+- [x] Era presets, and a default view of 2063–2410 distinct from the full range
+- [x] Dev server that sends `no-store`, ending a recurring stale-module trap
 
-- [ ] 22nd century (ENT, 2151–2161) and the 2160s–2232 gap
-- [ ] 25th century beyond 2402, and the 32nd (DIS seasons 3–5)
-- [ ] Pre-2151 milestones (First Contact 2063, the Eugenics Wars)
-- [ ] Decide how a non-contiguous range renders — a 900-year gap on a linear
-      axis is mostly whitespace; likely needs era segmentation
-- [ ] Re-tune the parser against the new pages before a full run
+2,049 events across 2063–3269. Deliberately *not* done:
+
+- Pre-2063 milestones (the Eugenics Wars, ancient history). Adding them would
+  stretch the axis by centuries for a handful of events; the era presets make
+  it feasible later if wanted.
 
 ## Phase 11 — Complete the rewrite
 

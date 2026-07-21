@@ -46,6 +46,20 @@ project is ever published. The repo is intentionally private and intentionally
 has no LICENSE file — that is a pending decision, not an oversight. Do not add
 one without discussing it.
 
+**Two page types, two parsers.** Dense eras have per-year pages
+(`parse-year.js`). Sparse ones don't — `3189` redirects to `32nd century#3189` —
+so those come from century pages (`parse-century.js`), where a `;` subheading is
+the *year*, not a ship. Never reuse one parser for the other page type.
+
+**"Alternate reality" means the Kelvin timeline** in Memory Alpha's vocabulary.
+A section matcher that tests a generic alternate-timeline pattern first will
+silently misfile every Kelvin event.
+
+**The default view is narrower than the data.** `FULL_RANGE` is 2063–3269 but
+the chart opens on `DEFAULT_VIEW` (2063–2410): beyond 2410 there are about a
+hundred events across 860 years, and on one linear axis they would squeeze the
+populated timeline into a third of the width.
+
 **Scrape via the MediaWiki API** (`memory-alpha.fandom.com/api.php`), never HTML
 scraping. Rate-limit requests and always read from `data/events.raw.json` when
 present so re-runs don't re-hit the wiki.

@@ -16,7 +16,7 @@ import { readFile } from "node:fs/promises";
 const TIMELINES = new Set(["prime", "kelvin", "mirror", "alternate"]);
 const SERIES = new Set([
   "TOS", "TAS", "TNG", "DS9", "VOY", "ENT",
-  "DIS", "PIC", "LD", "PRO", "SNW", "ST", "FILM",
+  "DIS", "PIC", "LD", "PRO", "SNW", "ST", "SA", "FILM",
 ]);
 
 const problems = [];

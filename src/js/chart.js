@@ -20,7 +20,9 @@ const MIN_PLOT_HEIGHT = 170;
     halfway up a 520px plot; instead the plot shrinks to fit the data. */
 const MAX_ROW_HEIGHT = 26;
 const MAX_DOT_RADIUS = 7;
-const MAX_ZOOM = 24;
+/** Deepest zoom. Sized so the floor stays about a decade across the full
+    2063-3269 range; the old 24x cap bottomed out at fifty years. */
+const MAX_ZOOM = 120;
 
 let clipSeq = 0;
 
@@ -32,6 +34,7 @@ export class DensityChart {
   #bins = [];
   #range;
   #domain;
+  #defaultDomain;
   #highlight = null;
   #x = null;
   #y = null;
@@ -44,10 +47,11 @@ export class DensityChart {
   #zoom = null;
   #clipId = `plot-clip-${clipSeq++}`;
 
-  constructor(root, { range, onHover, onDomainChange }) {
+  constructor(root, { range, defaultDomain, onHover, onDomainChange }) {
     this.#root = root;
     this.#range = range;
-    this.#domain = [...range];
+    this.#defaultDomain = defaultDomain ? [...defaultDomain] : [...range];
+    this.#domain = [...this.#defaultDomain];
     this.#onHover = onHover;
     this.#onDomainChange = onDomainChange ?? (() => {});
 
@@ -94,9 +98,9 @@ export class DensityChart {
     return this;
   }
 
-  /** Visible year range. Pass null to reset to the full range. */
+  /** Visible year range. Pass null to return to the default view. */
   setDomain(domain) {
-    this.#domain = domain ? [...domain] : [...this.#range];
+    this.#domain = domain ? [...domain] : [...this.#defaultDomain];
     this.#syncZoomTransform();
     return this;
   }
@@ -105,8 +109,11 @@ export class DensityChart {
     return [...this.#domain];
   }
 
+  /** True when the view differs from the default the chart opens on. */
   isZoomed() {
-    return this.#domain[0] !== this.#range[0] || this.#domain[1] !== this.#range[1];
+    return (
+      this.#domain[0] !== this.#defaultDomain[0] || this.#domain[1] !== this.#defaultDomain[1]
+    );
   }
 
   /** Dim everything not matching the predicate. Null clears the highlight. */

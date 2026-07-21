@@ -5,7 +5,27 @@
  *   #timeline=prime&series=DS9,TNG&location=Deep+Space+9&years=2360-2380
  */
 
-export const FULL_RANGE = [2233, 2402];
+export const FULL_RANGE = [2063, 3269];
+
+/**
+ * The view the chart opens on.
+ *
+ * The dataset runs to the 33rd century, but 2411 onward holds about a hundred
+ * events spread over 860 years, with gaps of up to 95 years. Rendered on one
+ * linear axis the populated timeline would be squeezed into under a third of
+ * the width and the rest would be whitespace. The far future is still there —
+ * the era presets and zoom reach it — it just isn't the default.
+ */
+export const DEFAULT_VIEW = [2063, 2410];
+
+/** Named spans, offered as one-click view presets. */
+export const ERAS = [
+  { id: "enterprise", label: "22nd c.", years: [2063, 2200] },
+  { id: "tos", label: "23rd c.", years: [2200, 2300] },
+  { id: "tng", label: "24th c.", years: [2300, 2410] },
+  { id: "far", label: "Far future", years: [2411, 3269] },
+  { id: "all", label: "All time", years: FULL_RANGE },
+];
 
 export const DEFAULT_STATE = {
   timeline: "prime",
