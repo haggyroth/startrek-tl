@@ -167,9 +167,26 @@ re-derives from it — so the URL, the controls and the chart cannot disagree.
   whenever the domain is set in code — otherwise the same transform silently
   means a different year range.
 
+## Testing
+
+`npm test` (node:test, no dependencies) and `npm run validate:data`. Both run in
+CI on every push and pull request.
+
+- Fixtures are **synthetic**. Never commit real Memory Alpha wikitext as a test
+  fixture — that reintroduces the licensing problem the rewrite exists to solve.
+- `test/corpus.test.js` runs against the local scrape cache and skips when it is
+  absent, which is why CI cannot run it.
+- CI cannot rebuild `events.json` (the cache is gitignored, and re-scraping on
+  every push would be rude), so it validates the committed dataset instead.
+- The fixture asserts exact event count and ids on purpose: the parser bugs in
+  this project have all been silent ones that dropped records without erroring.
+
 ## Conventions
 
 - Conventional Commits; feature branches off `main`; no force-push to `main`.
+- Branch protection is unavailable (private repo on a free plan), so
+  `.githooks/pre-push` enforces it locally — enable with
+  `git config core.hooksPath .githooks`.
 - Data changes and site changes go in separate commits — `data/events.json` is
   generated, and mixing it with hand-written code obscures both diffs.
 - Regenerating data is `node scripts/build-events.js`; it must be idempotent and
