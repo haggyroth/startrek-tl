@@ -2,7 +2,7 @@
 
 All notable changes to this project are documented here.
 
-## [Unreleased]
+## [0.3.0]
 
 - feat(chart): stacked-dot density chart with year and stardate axes
 - feat(chart): nearest-dot hover tooltip with date, stardate, location and episodes
