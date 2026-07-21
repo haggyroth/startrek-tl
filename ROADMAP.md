@@ -143,7 +143,8 @@ Known and accepted:
 - [x] Entity extraction filters ranks and lowercase common nouns
 - [x] Far future (2411–3269) authored in full — 133 events, the first era at
       100%
-- [ ] Author the remaining summaries — **389 / 2,040 (19%)**
+- [x] ENT era (2101–2161) authored in full — 213 events
+- [ ] Author the remaining summaries — **591 / 2,037 (29%)**
 - [ ] Switch the committed build to `--strict`
 
 On the strict flip: the capability works and is tested, but flipping it now
@@ -156,53 +157,8 @@ Coverage by era:
 | Era | Authored |
 |---|---|
 | 2063–2100 | 6 / 53 |
-| ENT (2101–2161) | 11 / 216 |
+| **ENT (2101–2161)** | **213 / 213 ✅** |
 | Gap (2162–2232) | 9 / 60 |
 | 23rd century | 138 / 453 |
 | 24th century | 92 / 1,125 |
-| Far future | 133 / 133 |
-
-## Phase 12 — Verification pass
-
-- [ ] Sampled accuracy check by era against the source, with a recorded
-      error rate — exhaustive review of 1,500+ records is not realistic
-- [ ] Verify every authored summary states the same facts as its source
-- [ ] Check date and stardate fields against episode references
-- [ ] Publish the sampling method and result in the README
-
-## Phase 13 — Licensing
-
-Blocked on Phases 11 and 12 — licensing terms can only describe what the
-repository actually contains.
-
-- [ ] Confirm the dataset carries no Memory Alpha expression
-- [ ] `LICENSE` for the code (MIT is the likely choice)
-- [ ] `data/LICENSE` describing the dataset's provenance and terms
-- [ ] Attribution for Memory Alpha (CC BY-NC-SA) and Wikipedia (CC BY-SA 4.0)
-- [ ] Decide whether the dataset can be released permissively or must stay
-      share-alike
-
-## Phase 14 — Git history rewrite
-
-Must be the last step before publishing, and cannot be undone.
-
-- [ ] Squash the data history so no commit contains the verbatim scrape
-      (commits from `c1b4aa9` onward currently do)
-- [ ] Verify with `git log -p -- data/events.json` that nothing survives
-- [ ] Force-push the rewritten history *before* the repo is made public
-
-## Phase 15 — Documentation and publish
-
-- [ ] README, CLAUDE.md and ROADMAP reconciled with the shipped state
-- [ ] Document the pipeline end to end, including how to add summaries
-- [ ] Contributor notes: how to run tests, how the build must stay idempotent
-- [ ] Flip the repo to public
-
-## Deferred decisions
-
-- **Licensing** — owned by Phase 13. No LICENSE file until the dataset's
-  contents are settled; terms have to describe what is actually in the repo.
-- **Hosting.** The repo is private on GitHub. No deploy target chosen; the site
-  is static, so GitHub Pages is the obvious candidate once it is public.
-- **Era segmentation.** Phase 10 will likely force a decision about rendering
-  non-contiguous eras on one axis.
+| **Far future** | **133 / 133 ✅** |

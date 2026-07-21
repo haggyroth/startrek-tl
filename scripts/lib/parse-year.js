@@ -24,6 +24,14 @@ import {
 } from "./wikitext.js";
 import { extractFacts } from "./facts.js";
 
+/**
+ * Bullets that talk about the making of Star Trek rather than events in it.
+ * Deliberately narrow — only two exist in the corpus, and over-matching would
+ * silently drop real records.
+ */
+const PRODUCTION_NOTE =
+  /^the (?:aborted|unproduced|proposed|cancell?ed)\s+(?:film|series|episode|game)\b|^the storyline for\b/i;
+
 /** Sections whose bullets are events. Anything else is skipped. */
 const EVENT_SECTIONS = /^(events|other events|births|deaths|alternate timeline events)$/i;
 
@@ -67,7 +75,24 @@ const MONTHS = {
  *
  * @returns {{ date: string|null, stardate: string|null, text: string }}
  */
-export function extractDatePrefix(text, year) {
+export function extractDatePrefix(text, year, contextMonth = null) {
+  // Under a month heading the bullet often gives only the day: "19th – ...".
+  // There is no month in the line itself, so this only resolves when a heading
+  // has already established one.
+  if (contextMonth) {
+    const dayOnly = text.match(/^\s*(\d{1,2})(?:st|nd|rd|th)?\s*(?:[–—-]\s+|:\s+)(.*)$/s);
+    if (dayOnly) {
+      const day = Number(dayOnly[1]);
+      if (day >= 1 && day <= 31) {
+        return {
+          date: `${year}-${String(contextMonth).padStart(2, "0")}-${String(day).padStart(2, "0")}`,
+          stardate: null,
+          text: dayOnly[2],
+        };
+      }
+    }
+  }
+
   // Both separators occur: "January 4 (stardate 2233.04) – ..." and
   // "April 11: ...". Stardate also appears bare: "Stardate 8615.2: ...".
   const m = text.match(
@@ -202,6 +227,16 @@ export function parseYearPage(wikitext, year) {
     // event. It scopes the bullets beneath it: "* {{dis|March|month}}".
     const headingText = cleanText(source).trim().replace(/:$/, "");
 
+    // A span of months ("October-December") is a heading too, but it pins no
+    // single month, so it only clears the scope rather than setting one.
+    const range = headingText.match(/^([A-Z][a-z]+)\s*[-–—]\s*([A-Z][a-z]+)$/);
+    if (range && range[1].toLowerCase() in MONTHS && range[2].toLowerCase() in MONTHS) {
+      month = null;
+      day = null;
+      sdContext = null;
+      continue;
+    }
+
     // Written both as "* March" and "* February:".
     if (headingText.toLowerCase() in MONTHS) {
       month = MONTHS[headingText.toLowerCase()];
@@ -243,10 +278,15 @@ export function parseYearPage(wikitext, year) {
 
     // Clean first, then strip the date prefix — the prefix contains wiki links
     // ("[[January 4]]") that must be resolved before it can be matched.
-    const { date, stardate, text } = extractDatePrefix(cleanText(source), year);
+    const { date, stardate, text } = extractDatePrefix(cleanText(source), year, month);
     const facts = extractFacts(source, text);
     const summary = text;
     if (!summary) continue;
+
+    // A few bullets describe productions rather than canon: an unmade film's
+    // intended setting, a game's storyline. They are commentary about Star
+    // Trek, not events within it, and have no place on an in-universe timeline.
+    if (PRODUCTION_NOTE.test(summary)) continue;
 
     // A bullet that is nothing but a linked name, with no citation, is a list
     // entry rather than an event — the 2087 memorial roll from "The Royale"

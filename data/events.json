@@ -5,9 +5,9 @@
       2063,
       3269
     ],
-    "eventCount": 2040,
+    "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 389,
+    "authoredSummaries": 591,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -472,7 +472,7 @@
     {
       "year": 2152,
       "stardateRange": null,
-      "count": 25
+      "count": 24
     },
     {
       "year": 2153,
@@ -510,7 +510,7 @@
     {
       "year": 2159,
       "stardateRange": null,
-      "count": 4
+      "count": 2
     },
     {
       "year": 2160,
@@ -2999,12 +2999,12 @@
       "prose": "source"
     },
     {
-      "id": "2078-june-sup-the-ss-conestoga-reaches-terra-nova-and",
+      "id": "2078-the-ss-conestoga-reaches-terra-nova-and-founds-the",
       "year": 2078,
-      "date": null,
+      "date": "2078-06-23",
       "stardate": null,
       "timeline": "prime",
-      "summary": "June sup: The SS Conestoga reaches Terra Nova and founds the Terra Nova colony.",
+      "summary": "The SS Conestoga reaches Terra Nova and founds the Terra Nova colony.",
       "entities": [
         "June",
         "Terra Nova",
@@ -3524,7 +3524,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kolos begins serving as an advocate within the Klingon Empire.",
+      "summary": "Kolos takes up practice as an advocate in the Klingon Empire.",
       "entities": [
         "Klingon Empire"
       ],
@@ -3546,7 +3546,7 @@
         "https://memory-alpha.fandom.com/wiki/2102"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2102-soval-fires-a-weapon-for-the-last-time-until-2152",
@@ -3554,7 +3554,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Soval fires a weapon for the last time until 2152.",
+      "summary": "Soval will not fire a weapon again until 2152.",
       "entities": [
         "Soval"
       ],
@@ -3576,7 +3576,7 @@
         "https://memory-alpha.fandom.com/wiki/2102"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2102-the-earth-survey-ship-ss-hokule-a-is-launched-for",
@@ -3584,7 +3584,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Earth survey ship SS Hokule'a is launched for deep space exploration.",
+      "summary": "The survey ship SS Hokule'a sets out on deep space exploration.",
       "entities": [
         "SS Hokule'a"
       ],
@@ -3606,7 +3606,7 @@
         "https://memory-alpha.fandom.com/wiki/2102"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2102-the-ecs-horizon-an-earth-j-class-cargo-starship",
@@ -3614,7 +3614,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The ECS Horizon, an Earth J-class cargo starship, is commissioned.",
+      "summary": "The J-class cargo ship ECS Horizon enters service.",
       "entities": [
         "J class",
         "ECS Horizon"
@@ -3637,7 +3637,7 @@
         "https://memory-alpha.fandom.com/wiki/2102"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2103-the-first-human-colony-on-the-planet-mars-is-estab",
@@ -3645,7 +3645,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The first Human colony on the planet Mars is established, marking the birth of the Martian colonies.",
+      "summary": "Humanity's first Martian colony is founded.",
       "entities": [
         "Human",
         "Mars",
@@ -3669,7 +3669,7 @@
         "https://memory-alpha.fandom.com/wiki/2103"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2104-around-this-time-the-andorians-established-contac",
@@ -3677,7 +3677,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Around this time, the Andorians established contact with the Aenar, previously only known to the Andorians as creatures from ancient myths and stories.",
+      "summary": "The Andorians make contact with the Aenar, until now a figure of their own myth.",
       "entities": [
         "Andorian",
         "Aenar"
@@ -3700,7 +3700,7 @@
         "https://memory-alpha.fandom.com/wiki/2104"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2104-shortly-before-or-in-this-year-a-vulcan-science-v",
@@ -3708,7 +3708,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Shortly before or in this year, a Vulcan science vessel surveys Berengaria VII, describing its dragon-like reptiles as over two hundred meters in length and breathing fire.",
+      "summary": "A Vulcan survey of Berengaria VII records fire-breathing reptiles over two hundred metres long.",
       "entities": [
         "Vulcan 22nd science vessel 001",
         "Berengaria VII"
@@ -3731,7 +3731,7 @@
         "https://memory-alpha.fandom.com/wiki/2104"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2105-the-earth-colony-ship-yuri-gagarin-is-launched",
@@ -3739,7 +3739,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Earth colony ship Yuri Gagarin is launched.",
+      "summary": "The colony ship Yuri Gagarin departs Earth.",
       "entities": [],
       "kind": "launch",
       "group": null,
@@ -3759,7 +3759,7 @@
         "https://memory-alpha.fandom.com/wiki/2105"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2105-the-redjac-entity-incarnated-as-jack-the-ripper",
@@ -3767,7 +3767,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Redjac entity, incarnated as \"Jack the Ripper\", kills eight women at the Martian colonies.",
+      "summary": "The Redjac entity, wearing the guise of Jack the Ripper, kills eight women on the Martian colonies.",
       "entities": [
         "Redjac",
         "Redjac's Mars victims 001",
@@ -3791,7 +3791,7 @@
         "https://memory-alpha.fandom.com/wiki/2105"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2105-the-taurean-system-is-briefly-explored-and-a-space",
@@ -3799,7 +3799,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Taurean system is briefly explored and a spaceship is lost near there. Over the next 164 years, a ship will disappear in this region exactly every 27.346 years.",
+      "summary": "A ship is lost near the Taurean system, the first of a disappearance recurring every 27.346 years.",
       "entities": [
         "Taurean system"
       ],
@@ -3821,7 +3821,7 @@
         "https://memory-alpha.fandom.com/wiki/2105"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2111-gralik-durr-becomes-the-primary-technician-of-the",
@@ -3829,7 +3829,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Gralik Durr becomes the primary technician of the kemocite refining facility on a Xindi-Arboreal colony.",
+      "summary": "Gralik Durr takes charge of the kemocite refinery on a Xindi-Arboreal colony.",
       "entities": [
         "Gralik Durr",
         "Xindi-Arboreal colony"
@@ -3852,7 +3852,7 @@
         "https://memory-alpha.fandom.com/wiki/2111"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2112-jonathan-archer-is-born-in-upstate-new-york-on-ear",
@@ -3860,7 +3860,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jonathan Archer is born in Upstate New York on Earth.",
+      "summary": "Jonathan Archer born in upstate New York.",
       "entities": [
         "Jonathan Archer",
         "Upstate New York",
@@ -3884,7 +3884,7 @@
         "https://memory-alpha.fandom.com/wiki/2112"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2112-lela-is-born-on-trill",
@@ -3892,7 +3892,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lela is born on Trill.",
+      "summary": "Lela born on Trill.",
       "entities": [
         "Lela Dax"
       ],
@@ -3914,7 +3914,7 @@
         "https://memory-alpha.fandom.com/wiki/2112"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2112-vulcans-accuse-andorians-of-an-incursion-on-weytah",
@@ -3922,7 +3922,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Vulcans accuse Andorians of an incursion on Weytahn (which the Vulcans call Paan Mokar) and violation of the Treaty of 2097.",
+      "summary": "Vulcan accuses Andoria of seizing Weytahn in breach of the Treaty of 2097.",
       "entities": [
         "Vulcan",
         "Andorian",
@@ -3948,7 +3948,7 @@
         "https://memory-alpha.fandom.com/wiki/2112"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2113-by-this-time-on-earth-war-poverty-disease-and",
@@ -3999,7 +3999,7 @@
         "https://memory-alpha.fandom.com/wiki/2114"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2115-chris-tezber-raymond-dies",
@@ -4021,7 +4021,7 @@
         "https://memory-alpha.fandom.com/wiki/2115"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2115-doctor-phlox-becomes-a-physician",
@@ -4029,7 +4029,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Doctor Phlox becomes a physician.",
+      "summary": "Phlox qualifies as a physician.",
       "entities": [
         "Phlox"
       ],
@@ -4051,7 +4051,7 @@
         "https://memory-alpha.fandom.com/wiki/2115"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2119-the-earth-starship-ss-tomobiki-is-launched",
@@ -4059,7 +4059,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Earth starship SS Tomobiki is launched.",
+      "summary": "The starship SS Tomobiki departs Earth.",
       "entities": [
         "SS Tomobiki"
       ],
@@ -4081,7 +4081,7 @@
         "https://memory-alpha.fandom.com/wiki/2119"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2119-the-warp-five-complex-is-officially-opened-by-zefr",
@@ -4089,7 +4089,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Warp Five Complex is officially opened by Zefram Cochrane as part of the Warp Five program. During his dedication ceremony speech, he utters the phrase \"This engine will let us go boldly, where no man has gone before\", variations of which will adorn the dedication plaques of several future vessels.",
+      "summary": "Zefram Cochrane opens the Warp Five Complex, dedicating it with his much-quoted charge to the crew who will fly it.",
       "entities": [
         "Warp Five Complex",
         "Zefram Cochrane",
@@ -4114,7 +4114,7 @@
         "https://memory-alpha.fandom.com/wiki/2119"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2120-craig-weiss-raymond-dies",
@@ -4136,7 +4136,7 @@
         "https://memory-alpha.fandom.com/wiki/2120"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2120-on-his-eighth-birthday-jonathan-archer-receives-a",
@@ -4144,7 +4144,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On his eighth birthday, Jonathan Archer receives a copy of The Cosmos A to Z from his father Henry Archer. Jonathan spends hours staring at its front cover depicting the Arachnid Nebula.",
+      "summary": "For his eighth birthday Jonathan Archer is given The Cosmos A to Z by his father.",
       "entities": [
         "Jonathan Archer",
         "The Cosmos A to Z",
@@ -4169,7 +4169,7 @@
         "https://memory-alpha.fandom.com/wiki/2120"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2120-the-earth-survey-ships-hms-lord-nelson-and-ss-seat",
@@ -4177,7 +4177,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Earth survey ships HMS Lord Nelson and SS Seattle are launched.",
+      "summary": "HMS Lord Nelson and SS Seattle set out on survey duty.",
       "entities": [
         "SS Seattle"
       ],
@@ -4199,7 +4199,7 @@
         "https://memory-alpha.fandom.com/wiki/2120"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2120-wade-felker-raymond-dies",
@@ -4221,7 +4221,7 @@
         "https://memory-alpha.fandom.com/wiki/2120"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2121-charles-tucker-iii-future-chief-engineer-of-enter",
@@ -4271,7 +4271,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Mesrop Abrahamian is born on Mars.",
+      "summary": "Mesrop Abrahamian born on Mars.",
       "entities": [
         "Mars"
       ],
@@ -4285,7 +4285,7 @@
         "https://memory-alpha.fandom.com/wiki/2121"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2121-together-with-his-father-henry-archer-nine-year-o",
@@ -4293,7 +4293,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Together with his father Henry Archer, nine-year-old Jonathan builds a model spaceship.",
+      "summary": "Nine-year-old Jonathan Archer builds a model starship with his father.",
       "entities": [
         "Henry Archer",
         "Jonathan Archer"
@@ -4316,7 +4316,7 @@
         "https://memory-alpha.fandom.com/wiki/2121"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2122-henry-archer-starts-suffering-from-clarke-s-diseas",
@@ -4324,7 +4324,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Henry Archer starts suffering from Clarke's Disease.",
+      "summary": "Henry Archer's Clarke's Disease sets in.",
       "entities": [
         "Henry Archer",
         "Clarke's Disease"
@@ -4347,7 +4347,7 @@
         "https://memory-alpha.fandom.com/wiki/2122"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2122-in-2022-la-an-noonien-singh-told-a-version-of-jam",
@@ -4355,7 +4355,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In 2022, La'An Noonien-Singh told a version of James T. Kirk from an alternate future that the photonic bomb was invented about a century after that time. That would put it circa 2122.",
+      "summary": "The photonic bomb is invented around now, by La'An Noonien-Singh's reckoning given to Kirk in 2022.",
       "entities": [
         "La'An Noonien-Singh",
         "James T. Kirk"
@@ -4378,7 +4378,7 @@
         "https://memory-alpha.fandom.com/wiki/2122"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2122-t-pau-is-born-on-vulcan",
@@ -4386,7 +4386,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "T'Pau is born on Vulcan.",
+      "summary": "T'Pau born on Vulcan.",
       "entities": [
         "T'Pau"
       ],
@@ -4408,7 +4408,7 @@
         "https://memory-alpha.fandom.com/wiki/2122"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2122-the-vulcan-ministry-of-security-sends-109-surgical",
@@ -4416,7 +4416,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Vulcan Ministry of Security sends 109 surgically altered Vulcan operatives to Agaron to infiltrate various criminal organizations in order to topple them. However, Menos, Jossen, and seventeen other operatives do not return afterward.",
+      "summary": "The Vulcan Ministry of Security infiltrates 109 altered operatives into criminal networks on Agaron.",
       "entities": [
         "Vulcan",
         "Ministry of Security",
@@ -4442,7 +4442,7 @@
         "https://memory-alpha.fandom.com/wiki/2122"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2123-liana-the-daughter-of-ezral-and-maya-is-born",
@@ -4450,7 +4450,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Liana, the daughter of Ezral and Maya, is born.",
+      "summary": "Liana, daughter of Ezral and Maya, born.",
       "entities": [
         "Liana",
         "Ezral",
@@ -4474,7 +4474,7 @@
         "https://memory-alpha.fandom.com/wiki/2123"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2123-the-advanced-weather-control-station-opens",
@@ -4482,7 +4482,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Advanced Weather Control Station opens.",
+      "summary": "The Advanced Weather Control Station enters operation.",
       "entities": [
         "Advanced Weather Control Station"
       ],
@@ -4504,7 +4504,7 @@
         "https://memory-alpha.fandom.com/wiki/2123"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2123-the-colony-ship-ss-mariposa-is-launched-from-earth",
@@ -4512,7 +4512,7 @@
       "date": "2123-11-27",
       "stardate": null,
       "timeline": "prime",
-      "summary": "the colony ship SS Mariposa is launched from Earth's Baikonur Cosmodrome on a colonization mission to the Ficus sector.",
+      "summary": "The colony ship SS Mariposa leaves Baikonur bound for the Ficus sector.",
       "entities": [
         "Baikonur Cosmodrome",
         "Ficus sector",
@@ -4536,7 +4536,7 @@
         "https://memory-alpha.fandom.com/wiki/2123"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2123-the-european-hegemony-introduces-a-new-distress-be",
@@ -4544,7 +4544,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The European Hegemony introduces a new distress beacon for starships working for this Earth-based alliance.",
+      "summary": "The European Hegemony issues a new distress beacon for its starships.",
       "entities": [
         "European Hegemony"
       ],
@@ -4566,7 +4566,7 @@
         "https://memory-alpha.fandom.com/wiki/2123"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2124-according-to-benjamin-sisko-this-was-the-approxim",
@@ -4574,7 +4574,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "According to Benjamin Sisko, this was the approximate year that Earth's society underwent massive changes compared to a hundred years earlier. These changes were still present in society at least until the 24th century.",
+      "summary": "Roughly when Earth's society transformed, by Benjamin Sisko's account.",
       "entities": [
         "Benjamin Sisko",
         "24th century"
@@ -4597,7 +4597,7 @@
         "https://memory-alpha.fandom.com/wiki/2124"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2124-henry-archer-jonathan-archer-s-father-dies-of-cl",
@@ -4710,7 +4710,7 @@
         "https://memory-alpha.fandom.com/wiki/2127"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2128-birth-of-patricia-f-o-malley",
@@ -4718,7 +4718,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Birth of Patricia F. O'Malley.",
+      "summary": "Patricia F. O'Malley born.",
       "entities": [
         "Patricia F. O'Malley"
       ],
@@ -4740,7 +4740,7 @@
         "https://memory-alpha.fandom.com/wiki/2128"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2128-t-pol-s-teeth-are-sealed-with-a-trifluorinate-comp",
@@ -4748,7 +4748,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "T'Pol's teeth are sealed with a trifluorinate compound.",
+      "summary": "A trifluorinate compound is applied to seal T'Pol's teeth.",
       "entities": [
         "T'Pol"
       ],
@@ -4770,7 +4770,7 @@
         "https://memory-alpha.fandom.com/wiki/2128"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2128-trip-tucker-s-mother-buys-a-copy-of-emory-erickson",
@@ -4778,7 +4778,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Trip Tucker's mother buys a copy of Emory Erickson: Father of the Transporter for her seven-year-old son. For the next month, Trip makes her read it to him every night before bed.",
+      "summary": "Trip Tucker's mother buys him a biography of Emory Erickson, and reads it to him nightly for a month.",
       "entities": [
         "Tucker's mother 001",
         "Emory Erickson: Father of the Transporter"
@@ -4801,7 +4801,7 @@
         "https://memory-alpha.fandom.com/wiki/2128"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2129-a-kantare-supply-ship-crash-lands-on-an-uninhabite",
@@ -4809,7 +4809,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A Kantare supply ship crash lands on an uninhabited planet halfway between Kantare and Kotara Barath stranding its only two survivors, Ezral and Liana, on the planet's surface for the next twenty-two years.",
+      "summary": "A Kantare supply ship crashes between Kantare and Kotara Barath, leaving Ezral and Liana its only survivors.",
       "entities": [
         "Kantare",
         "Kotara Barath",
@@ -4834,7 +4834,7 @@
         "https://memory-alpha.fandom.com/wiki/2129"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2129-hoshi-sato-is-born-in-kyoto-japan",
@@ -4842,7 +4842,7 @@
       "date": "2129-07-09",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Hoshi Sato is born in Kyoto, Japan.",
+      "summary": "Hoshi Sato born in Kyoto.",
       "entities": [
         "Hoshi Sato",
         "Kyoto, Japan"
@@ -4865,7 +4865,7 @@
         "https://memory-alpha.fandom.com/wiki/2129"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2129-nicki-kreitzman-dies",
@@ -4885,7 +4885,7 @@
         "https://memory-alpha.fandom.com/wiki/2129"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2131-sarah-paul-raymond-dies",
@@ -4907,7 +4907,7 @@
         "https://memory-alpha.fandom.com/wiki/2131"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2132-a-starship-disappears-near-the-taurean-region",
@@ -4915,7 +4915,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A starship disappears near the Taurean region.",
+      "summary": "Another ship vanishes near the Taurean region.",
       "entities": [
         "Taurean system"
       ],
@@ -4937,7 +4937,7 @@
         "https://memory-alpha.fandom.com/wiki/2132"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2132-in-a-dream-jonathan-archer-has-in-2152-a-dog-name",
@@ -4945,7 +4945,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In a dream Jonathan Archer has in 2152, a dog named Duffy is born this year.",
+      "summary": "Archer's 2152 dream places the birth of a dog called Duffy in this year.",
       "entities": [
         "Jonathan Archer"
       ],
@@ -4967,7 +4967,7 @@
         "https://memory-alpha.fandom.com/wiki/2132"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2132-kolos-begins-his-service-as-an-advocate-on-narendr",
@@ -4975,7 +4975,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kolos begins his service as an advocate on Narendra III.",
+      "summary": "Kolos begins advocating on Narendra III.",
       "entities": [
         "Narendra III"
       ],
@@ -4997,7 +4997,7 @@
         "https://memory-alpha.fandom.com/wiki/2132"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2132-the-paraagan-mining-colony-on-paraagan-ii-is-estab",
@@ -5005,7 +5005,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Paraagan mining colony on Paraagan II is established by a group of thirty miners.",
+      "summary": "Thirty miners found the Paraagan colony on Paraagan II.",
       "entities": [
         "Paraagan",
         "Paraagan II"
@@ -5028,7 +5028,7 @@
         "https://memory-alpha.fandom.com/wiki/2132"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2133-a-klingon-vessel-emerges-from-the-delphic-expanse",
@@ -5036,7 +5036,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A Klingon vessel emerges from the Delphic Expanse with its crew being anatomically inverted, but still alive.",
+      "summary": "A Klingon ship leaves the Delphic Expanse with its crew anatomically inverted but alive.",
       "entities": [
         "Klingon 22nd vessel 001",
         "Delphic Expanse"
@@ -5059,7 +5059,7 @@
         "https://memory-alpha.fandom.com/wiki/2133"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2134-dr-arik-soong-steals-a-number-of-augment-embryos",
@@ -5067,7 +5067,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Arik Soong steals a number of Augment embryos from Cold Station 12..",
+      "summary": "Arik Soong steals Augment embryos from Cold Station 12.",
       "entities": [
         "Arik Soong",
         "Augment",
@@ -5091,7 +5091,7 @@
         "https://memory-alpha.fandom.com/wiki/2134"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2134-jonathan-archer-as-a-senior-undergraduate-compet",
@@ -5099,7 +5099,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jonathan Archer, as a senior undergraduate, competes – probably for Stanford University – in the 2134 North American Water Polo Regionals against Princeton University. His team's last-minute victory ensures them a place in the finals of the same tournament.",
+      "summary": "Archer competes in the North American Water Polo Regionals as a senior undergraduate.",
       "entities": [
         "Jonathan Archer",
         "Stanford University",
@@ -5124,7 +5124,7 @@
         "https://memory-alpha.fandom.com/wiki/2134"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2135-the-earth-starship-hms-new-zealand-is-launched",
@@ -5132,7 +5132,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Earth starship HMS New Zealand is launched.",
+      "summary": "The starship HMS New Zealand departs Earth.",
       "entities": [],
       "kind": "launch",
       "group": null,
@@ -5152,7 +5152,7 @@
         "https://memory-alpha.fandom.com/wiki/2135"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2135-working-for-the-ministry-of-security-t-pol-tracks",
@@ -5160,7 +5160,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Working for the Ministry of Security, T'Pol tracks down the fugitive Vulcan operatives Menos and Jossen to Risa and pursues them into the planet's jungles. She kills Jossen (thinking he was reaching for a weapon) but Menos escapes.",
+      "summary": "T'Pol hunts two Vulcan fugitives, Menos and Jossen, through the jungles of Risa.",
       "entities": [
         "Ministry of Security",
         "T'Pol",
@@ -5187,7 +5187,7 @@
         "https://memory-alpha.fandom.com/wiki/2135"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2136-at-age-24-and-in-flight-school-in-san-francisco",
@@ -5195,7 +5195,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "At age 24, and in flight school in San Francisco, Jonathan Archer meets Margaret Mullin, with whom he becomes romantically involved. The night before he graduates, he asked her to marry him. She turns him down, as she does not want to become a \"Starfleet widow.\"",
+      "summary": "At flight school in San Francisco, Archer meets Margaret Mullin, and the two become involved.",
       "entities": [
         "San Francisco",
         "Jonathan Archer",
@@ -5219,7 +5219,7 @@
         "https://memory-alpha.fandom.com/wiki/2136"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2136-the-vulcan-captain-vanik-assumes-command-of-the-st",
@@ -5227,7 +5227,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Vulcan Captain Vanik assumes command of the starship Ti'Mur.",
+      "summary": "Vanik takes command of the Vulcan starship Ti'Mur.",
       "entities": [
         "Vulcan",
         "Vanik",
@@ -5251,7 +5251,7 @@
         "https://memory-alpha.fandom.com/wiki/2136"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2137-syrran-discovers-a-katric-ark-on-vulcan-containing",
@@ -5259,7 +5259,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Syrran discovers a katric ark on Vulcan containing the katra of Surak, and takes Surak's katra into his own mind.",
+      "summary": "Syrran finds a katric ark holding Surak's katra, and takes it into his own mind.",
       "entities": [
         "Syrran",
         "Surak"
@@ -5282,7 +5282,7 @@
         "https://memory-alpha.fandom.com/wiki/2137"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2137-the-earth-starship-ss-buckaroo-banzai-is-launched",
@@ -5290,7 +5290,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Earth starship SS Buckaroo Banzai is launched.",
+      "summary": "The starship SS Buckaroo Banzai departs Earth.",
       "entities": [
         "SS Buckaroo Banzai"
       ],
@@ -5312,7 +5312,7 @@
         "https://memory-alpha.fandom.com/wiki/2137"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2137-the-nexus-is-estimated-to-have-crossed-through-the",
@@ -5351,7 +5351,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Yolen starts his studies in geology.",
+      "summary": "Yolen begins studying geology.",
       "entities": [
         "Yolen"
       ],
@@ -5373,7 +5373,7 @@
         "https://memory-alpha.fandom.com/wiki/2138"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2139-charles-tucker-iii-joins-starfleet",
@@ -5381,7 +5381,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Charles Tucker III joins Starfleet.",
+      "summary": "Charles Tucker III enters Starfleet.",
       "entities": [
         "Charles Tucker III"
       ],
@@ -5403,7 +5403,7 @@
         "https://memory-alpha.fandom.com/wiki/2139"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2139-emory-erickson-attempts-to-top-his-earlier-achieve",
@@ -5411,7 +5411,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Emory Erickson attempts to top his earlier achievement by inventing a sub-quantum teleportation device, which was intended to make his transporter obsolete. However, his invention is a failure when he loses his son in subspace.",
+      "summary": "Emory Erickson tries to better the transporter with a sub-quantum teleportation device.",
       "entities": [
         "Emory Erickson",
         "Quinn Erickson"
@@ -5434,7 +5434,7 @@
         "https://memory-alpha.fandom.com/wiki/2139"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2141-hoshi-sato-has-a-pen-pal-from-brisbane-australia",
@@ -5442,7 +5442,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Hoshi Sato has a pen pal from Brisbane, Australia.",
+      "summary": "Hoshi Sato corresponds with a pen pal in Brisbane.",
       "entities": [
         "Hoshi Sato",
         "Sato's pen pal 001",
@@ -5467,7 +5467,7 @@
         "https://memory-alpha.fandom.com/wiki/2141"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2141-the-ecs-horizon-encounters-a-group-of-stranded-del",
@@ -5475,7 +5475,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The ECS Horizon encounters a group of stranded Deltans. Fifteen-year-old Travis Mayweather finds them very attractive and very open, so he tries to overcome his feelings with a hard workout.",
+      "summary": "The ECS Horizon takes in stranded Deltans, to the acute embarrassment of fifteen-year-old Travis Mayweather.",
       "entities": [
         "Deltan stranded 001",
         "Deltan",
@@ -5500,7 +5500,7 @@
         "https://memory-alpha.fandom.com/wiki/2141"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2142-commander-shran-assumes-command-of-the-andorian-im",
@@ -5508,7 +5508,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Commander Shran assumes command of the Andorian Imperial Warship Kumari.",
+      "summary": "Shran takes command of the Andorian warship Kumari.",
       "entities": [
         "Andorian Empire",
         "Andorian battle cruiser",
@@ -5532,7 +5532,7 @@
         "https://memory-alpha.fandom.com/wiki/2142"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2142-wendy-ruiz-raymond-dies",
@@ -5554,7 +5554,7 @@
         "https://memory-alpha.fandom.com/wiki/2142"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2143-a-group-of-v-tosh-ka-tur-vulcans-who-wished-to-no",
@@ -5562,7 +5562,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A group of V'tosh ka'tur, Vulcans who wished to no longer suppress their emotions, leave Vulcan aboard the Vahklas under the command of Captain Tavin.",
+      "summary": "V'tosh ka'tur, Vulcans who reject emotional suppression, leave Vulcan aboard the Vahklas under Tavin.",
       "entities": [
         "V'tosh ka'tur",
         "Vahklas",
@@ -5586,7 +5586,7 @@
         "https://memory-alpha.fandom.com/wiki/2143"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2143-arik-soong-is-raising-his-group-of-augment-childre",
@@ -5594,7 +5594,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Arik Soong is raising his group of Augment children on Trialas IV during this time.",
+      "summary": "Arik Soong is raising his Augment children on Trialas IV.",
       "entities": [
         "Arik Soong",
         "Augment",
@@ -5618,7 +5618,7 @@
         "https://memory-alpha.fandom.com/wiki/2143"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2143-jonathan-archer-meets-charles-tucker-iii-for-the-f",
@@ -5666,7 +5666,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Phlox and his son Mettus stop speaking to each other over a disagreement on Denobulan prejudices about Antarans.",
+      "summary": "Phlox and his son Mettus fall out over Denobulan prejudice against Antarans, and stop speaking.",
       "entities": [
         "Phlox",
         "Mettus",
@@ -5691,7 +5691,7 @@
         "https://memory-alpha.fandom.com/wiki/2143"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2143-the-nx-program-breaks-the-warp-2-barrier-with-the",
@@ -5699,7 +5699,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The NX Program breaks the warp 2 barrier with the NX-Alpha pathfinder starship. Piloted by A.G. Robinson, NX-Alpha breaks apart after it reaches warp 2.2. Shortly after, Jonathan Archer and Robinson achieve warp 2.5 with NX-Beta on an unauthorized flight. The NX prototypes are grounded for three months after the incident.",
+      "summary": "The NX Program passes warp 2 with NX-Alpha, which breaks apart at warp 2.2 under A.G. Robinson.",
       "entities": [
         "NX Program",
         "NX-Alpha",
@@ -5726,7 +5726,7 @@
         "https://memory-alpha.fandom.com/wiki/2143"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2144-arik-soong-is-found-and-captured-leaving-the-augm",
@@ -5734,7 +5734,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Arik Soong is found and captured, leaving the Augments he was raising by themselves in the Trialas system.",
+      "summary": "Arik Soong is captured, leaving his Augment children to themselves in the Trialas system.",
       "entities": [
         "Arik Soong",
         "Augment",
@@ -5758,7 +5758,7 @@
         "https://memory-alpha.fandom.com/wiki/2144"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2144-the-cabal-begins-a-war-against-the-tandarans-all",
@@ -5766,7 +5766,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Cabal begins a war against the Tandarans. All Suliban are subsequently rounded up and placed in detention camps, even those not in the Cabal.",
+      "summary": "The Cabal goes to war with the Tandarans, who intern all Suliban regardless of allegiance.",
       "entities": [
         "Tandaran",
         "Suliban",
@@ -5790,7 +5790,7 @@
         "https://memory-alpha.fandom.com/wiki/2144"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2145-duvall-becomes-the-first-human-to-break-warp-3-in",
@@ -5798,7 +5798,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Duvall becomes the first Human to break warp 3 in the NX-Delta.",
+      "summary": "Duvall takes NX-Delta past warp 3, the first human to do so.",
       "entities": [
         "Duvall",
         "Warp factor",
@@ -5822,7 +5822,7 @@
         "https://memory-alpha.fandom.com/wiki/2145"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2145-in-a-dream-jonathan-archer-has-a-dog-named-duffy",
@@ -5830,7 +5830,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In a dream Jonathan Archer has, a dog named Duffy dies this year.",
+      "summary": "In Archer's dream, the dog Duffy dies this year.",
       "entities": [
         "Jonathan Archer"
       ],
@@ -5852,7 +5852,7 @@
         "https://memory-alpha.fandom.com/wiki/2145"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2145-the-borg-discover-the-existence-of-the-omega-molec",
@@ -5860,7 +5860,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Borg discover the existence of the Omega molecule.",
+      "summary": "The Borg learn of the Omega molecule.",
       "entities": [
         "Borg",
         "Omega molecule"
@@ -5883,7 +5883,7 @@
         "https://memory-alpha.fandom.com/wiki/2145"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2146-the-earth-ship-ss-urusei-yatsura-is-launched",
@@ -5891,7 +5891,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Earth ship SS Urusei Yatsura is launched.",
+      "summary": "The ship SS Urusei Yatsura departs Earth.",
       "entities": [
         "SS Urusei Yatsura"
       ],
@@ -5913,7 +5913,7 @@
         "https://memory-alpha.fandom.com/wiki/2146"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2147-marvin-hildebrandt-dies",
@@ -5935,7 +5935,7 @@
         "https://memory-alpha.fandom.com/wiki/2147"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2147-starfleet-begins-research-on-force-fields",
@@ -5943,7 +5943,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet begins research on force fields.",
+      "summary": "Starfleet opens research into force fields.",
       "entities": [],
       "kind": null,
       "group": null,
@@ -5963,7 +5963,7 @@
         "https://memory-alpha.fandom.com/wiki/2147"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2147-the-omega-training-mission-is-held-on-titan-jonat",
@@ -5971,7 +5971,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Omega training mission is held on Titan; Jonathan Archer and Charles Tucker III participate. Archer saves Tucker's life during a malfunction with his environmental suit.",
+      "summary": "On the Omega training mission at Titan, Archer saves Tucker from a failing environment suit.",
       "entities": [
         "Omega training mission",
         "Titan",
@@ -6001,7 +6001,7 @@
         "https://memory-alpha.fandom.com/wiki/2147"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2147-the-verteron-array-is-used-to-direct-comet-burke-o",
@@ -6009,7 +6009,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The verteron array is used to direct Comet Burke on a course to impact the Martian North Pole in January 2155.",
+      "summary": "The verteron array is used to steer Comet Burke toward the Martian north pole.",
       "entities": [
         "Comet",
         "Mars",
@@ -6034,7 +6034,7 @@
         "https://memory-alpha.fandom.com/wiki/2147"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2148-phlox-sees-his-second-wife-feezal-for-the-last-t",
@@ -6042,7 +6042,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Phlox sees his second wife, Feezal, for the last time, until they both attend a medical conference on Dekendi III in 2152.",
+      "summary": "Phlox sees his second wife Feezal for the last time before their 2152 reunion on Dekendi III.",
       "entities": [
         "Phlox",
         "Feezal",
@@ -6066,7 +6066,7 @@
         "https://memory-alpha.fandom.com/wiki/2148"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2149-a-horse-of-good-stock-is-born-in-the-skagaran-colo",
@@ -6074,7 +6074,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A horse of good stock is born in the Skagaran colony.",
+      "summary": "A well-bred horse is foaled in the Skagaran colony.",
       "entities": [
         "Skagaran colony"
       ],
@@ -6096,7 +6096,7 @@
         "https://memory-alpha.fandom.com/wiki/2149"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2149-according-to-garos-he-led-a-survey-mission-to-stu",
@@ -6104,7 +6104,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "According to Garos, he led a survey mission to study the Akaali this year.",
+      "summary": "Garos claims to have led a survey of the Akaali this year.",
       "entities": [
         "Garos",
         "Akaali"
@@ -6127,7 +6127,7 @@
         "https://memory-alpha.fandom.com/wiki/2149"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2149-doctor-phlox-attends-an-interspecies-medical-excha",
@@ -6135,7 +6135,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Doctor Phlox attends an Interspecies Medical Exchange conference on Tiburon. The Klingon doctor Antaak also attends the conference, disguised as a member of the Mazarite delegation.",
+      "summary": "Phlox attends an Interspecies Medical Exchange on Tiburon, where the Klingon doctor Antaak is present in disguise.",
       "entities": [
         "Phlox",
         "Interspecies Medical Exchange",
@@ -6162,7 +6162,7 @@
         "https://memory-alpha.fandom.com/wiki/2149"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2149-emory-erickson-first-attempts-to-re-materialize-hi",
@@ -6170,7 +6170,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Emory Erickson first attempts to re-materialize his son Quinn aboard his research ship.",
+      "summary": "Emory Erickson makes his first attempt to rematerialise his son Quinn.",
       "entities": [
         "Emory Erickson",
         "Quinn Erickson",
@@ -6194,7 +6194,7 @@
         "https://memory-alpha.fandom.com/wiki/2149"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2149-harris-quits-his-service-at-starfleet-security",
@@ -6202,7 +6202,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Harris quits his service at Starfleet Security.",
+      "summary": "Harris leaves Starfleet Security.",
       "entities": [
         "Starfleet Security"
       ],
@@ -6224,7 +6224,7 @@
         "https://memory-alpha.fandom.com/wiki/2149"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2149-on-valakis-twelve-million-valakians-die-this-year",
@@ -6232,7 +6232,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On Valakis, twelve million Valakians die this year due to a genetic disease.",
+      "summary": "A genetic disease kills twelve million Valakians this year.",
       "entities": [
         "Valakis",
         "Valakian"
@@ -6255,7 +6255,7 @@
         "https://memory-alpha.fandom.com/wiki/2149"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2149-patricia-f-o-malley-graduates-from-starfleet-acad",
@@ -6263,7 +6263,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Patricia F. O'Malley graduates from Starfleet Academy.",
+      "summary": "Patricia F. O'Malley passes out of Starfleet Academy.",
       "entities": [
         "Patricia F. O'Malley",
         "Graduation",
@@ -6287,7 +6287,7 @@
         "https://memory-alpha.fandom.com/wiki/2149"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2149-t-pol-begins-working-at-the-vulcan-compound-in-sau",
@@ -6295,7 +6295,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "T'Pol begins working at the Vulcan compound in Sausalito on Earth.",
+      "summary": "T'Pol takes a posting at the Vulcan compound in Sausalito.",
       "entities": [
         "T'Pol",
         "Vulcan",
@@ -6319,7 +6319,7 @@
         "https://memory-alpha.fandom.com/wiki/2149"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2149-t-pol-takes-a-five-day-leave-and-visits-carbon-cre",
@@ -6327,7 +6327,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "T'Pol takes a five-day leave and visits Carbon Creek, Pennsylvania.",
+      "summary": "T'Pol spends five days' leave in Carbon Creek, Pennsylvania.",
       "entities": [
         "Carbon Creek",
         "Pennsylvania"
@@ -6350,7 +6350,7 @@
         "https://memory-alpha.fandom.com/wiki/2149"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2150-doctor-phlox-begins-living-on-earth-in-san-francis",
@@ -6358,7 +6358,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Doctor Phlox begins living on Earth in San Francisco, California.",
+      "summary": "Phlox settles in San Francisco.",
       "entities": [
         "Phlox",
         "San Francisco",
@@ -6387,7 +6387,7 @@
         "https://memory-alpha.fandom.com/wiki/2150"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2150-earth-becomes-fully-unified-when-all-nation-states",
@@ -6395,7 +6395,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Earth becomes fully unified when all nation-states join the World Government, completing a process initiated earlier in the century by the European Hegemony.",
+      "summary": "The last nation-states join the World Government, completing Earth's unification.",
       "entities": [
         "United Earth",
         "Country",
@@ -6425,7 +6425,7 @@
         "https://memory-alpha.fandom.com/wiki/2150"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2150-february-matthew-ryan-had-his-last-steak-until-h",
@@ -6433,7 +6433,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "February – Matthew Ryan had his last steak until he ate another one in August 2151.",
+      "summary": "Matthew Ryan eats his last steak until August 2151.",
       "entities": [
         "February",
         "Matthew Ryan",
@@ -6457,7 +6457,7 @@
         "https://memory-alpha.fandom.com/wiki/2150"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2150-seeking-out-medical-aid-by-more-advanced-species",
@@ -6465,7 +6465,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Seeking out medical aid by more advanced species, the Valakians launch four sub-warp ships.",
+      "summary": "The Valakians send four sub-warp ships out in search of medical help.",
       "entities": [
         "Valakian",
         "Valakian shuttle"
@@ -6488,7 +6488,7 @@
         "https://memory-alpha.fandom.com/wiki/2150"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2150-the-akaali-apothecary-riaan-learned-the-first-time",
@@ -6496,7 +6496,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Akaali apothecary Riaan learned the first time about the epidemic disease spread among her people.",
+      "summary": "The Akaali apothecary Riaan first hears of the epidemic spreading among her people.",
       "entities": [
         "Akaali",
         "Riaan",
@@ -6520,7 +6520,7 @@
         "https://memory-alpha.fandom.com/wiki/2150"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2150-the-keel-of-enterprise-nx-01-earth-s-first-warp-5",
@@ -6528,7 +6528,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The keel of Enterprise NX-01, Earth's first warp 5-capable starship, is laid. In October, Jonathan Archer is selected as her captain over A.G. Robinson by Admiral Maxwell Forrest, despite Gardner having been considered a more suitable choice by Ambassador Soval.",
+      "summary": "Enterprise NX-01's keel is laid; in October Archer is chosen to command her over A.G. Robinson.",
       "entities": [
         "Warp five engine",
         "October",
@@ -6561,7 +6561,7 @@
         "https://memory-alpha.fandom.com/wiki/2150"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2150-three-suliban-detainees-attempt-to-escape-the-tand",
@@ -6569,7 +6569,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Three Suliban detainees attempt to escape the Tandaran Detention Complex 26, but were killed before they could succeed after Colonel Grat claimed they were all armed.",
+      "summary": "Three Suliban die attempting to escape Tandaran Detention Complex 26.",
       "entities": [
         "Suliban",
         "Suliban escapees 001",
@@ -6595,7 +6595,7 @@
         "https://memory-alpha.fandom.com/wiki/2150"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2150-travis-mayweather-s-father-sends-a-letter-to-arche",
@@ -6603,7 +6603,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Travis Mayweather's father sends a letter to Archer strongly recommending his son for the helmsman position on Enterprise.",
+      "summary": "Travis Mayweather's father writes to Archer recommending his son as helmsman.",
       "entities": [
         "Travis Mayweather"
       ],
@@ -6625,7 +6625,7 @@
         "https://memory-alpha.fandom.com/wiki/2150"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2151-archer-s-comet-is-discovered-by-the-crew-of-the-en",
@@ -6633,7 +6633,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Archer's Comet is discovered by the crew of the Enterprise NX-01 and named after the ship's captain, Jonathan Archer.",
+      "summary": "Enterprise's crew find a comet, which is named for their captain.",
       "entities": [
         "Archer's Comet",
         "Jonathan Archer"
@@ -6656,7 +6656,7 @@
         "https://memory-alpha.fandom.com/wiki/2151"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2151-captain-jonathan-archer-is-instrumental-in-the-lib",
@@ -6664,7 +6664,7 @@
       "date": "2151-12",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Jonathan Archer is instrumental in the liberation of Detention Complex 26 on Tandar Prime which later gives him a reputation of legendary proportions as an invincible warrior.",
+      "summary": "Archer's part in freeing Detention Complex 26 on Tandar Prime earns him a reputation with the Suliban.",
       "entities": [
         "Jonathan Archer",
         "Detention Complex 26",
@@ -6693,7 +6693,7 @@
         "https://memory-alpha.fandom.com/wiki/2151"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2151-duvall-is-promoted-to-captain-and-is-given-command",
@@ -6701,7 +6701,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Duvall is promoted to Captain and is given command of the Shenandoah.",
+      "summary": "Duvall is promoted to captain and given the Shenandoah.",
       "entities": [
         "Duvall"
       ],
@@ -6723,7 +6723,7 @@
         "https://memory-alpha.fandom.com/wiki/2151"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2151-earth-reestablishes-contact-with-the-lost-terra-no",
@@ -6731,7 +6731,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Earth reestablishes contact with the lost Terra Nova colony.",
+      "summary": "Earth regains contact with the lost Terra Nova colony.",
       "entities": [
         "Terra Nova colony"
       ],
@@ -6753,7 +6753,7 @@
         "https://memory-alpha.fandom.com/wiki/2151"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2151-earth-starfleet-launches-enterprise-nx-01-its-fir",
@@ -6761,7 +6761,7 @@
       "date": "2151-04",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Earth Starfleet launches Enterprise NX-01, its first starship to use the warp five engine, opening up a new age of exploration for Earth. Enterprise also begins Humanity's involvement in the Temporal Cold War with the first encounter with the Cabal.",
+      "summary": "Earth Starfleet launches Enterprise NX-01, its first warp five ship, opening a new age of exploration.",
       "entities": [
         "Temporal Cold War"
       ],
@@ -6783,7 +6783,7 @@
         "https://memory-alpha.fandom.com/wiki/2151"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2151-enterprise-has-an-encounter-with-the-ferengi-thou",
@@ -6791,7 +6791,7 @@
       "date": "2151-12",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise has an encounter with the Ferengi, though the name of the species is not discovered until 2364.",
+      "summary": "Enterprise meets the Ferengi, though the species will not be named until 2364.",
       "entities": [
         "Ferengi"
       ],
@@ -6819,7 +6819,7 @@
         "https://memory-alpha.fandom.com/wiki/2151"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2151-enterprise-nx-01-arrives-on-a-planet-to-scavenge-m",
@@ -6827,7 +6827,7 @@
       "date": "2151-12",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise NX-01 arrives on a planet to scavenge material from a derelict Kantare supply ship. They offer the castaways repairs and ultimately rescue Ezral and Liana.",
+      "summary": "Enterprise salvages from a derelict Kantare ship and offers its castaways repairs.",
       "entities": [
         "Kantare supply ship",
         "Ezral",
@@ -6851,7 +6851,7 @@
         "https://memory-alpha.fandom.com/wiki/2151"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2151-enterprise-nx-01-makes-contact-with-sluggo-whom-t",
@@ -6859,7 +6859,7 @@
       "date": "2151-05",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise NX-01 makes contact with Sluggo, whom they relocate to another planet after it has difficulty adjusting to the environment on the ship.",
+      "summary": "Enterprise takes in Sluggo and moves it to a world it can live on.",
       "entities": [
         "Sluggo"
       ],
@@ -6881,7 +6881,7 @@
         "https://memory-alpha.fandom.com/wiki/2151"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2151-enterprise-nx-01-ran-along-a-protostar-a-week-befo",
@@ -6889,7 +6889,7 @@
       "date": "2151-06",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise NX-01 ran along a protostar a week before the incident at P'Jem.",
+      "summary": "Enterprise runs alongside a protostar, a week before the P'Jem affair.",
       "entities": [],
       "kind": null,
       "group": "Enterprise NX-01",
@@ -6909,7 +6909,7 @@
         "https://memory-alpha.fandom.com/wiki/2151"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2151-hernandez-begins-to-move-away-from-an-explorer-s-m",
@@ -6917,7 +6917,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Hernandez begins to move away from an explorer's mindset.",
+      "summary": "Hernandez begins to set aside an explorer's outlook.",
       "entities": [
         "Hernandez"
       ],
@@ -6939,7 +6939,40 @@
         "https://memory-alpha.fandom.com/wiki/2151"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
+    },
+    {
+      "id": "2151-humanity-makes-first-contact-with-the-andorians-t",
+      "year": 2151,
+      "date": "2151-06-19",
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "Humanity meets the Andorians, whose Imperial Guard confirms the Vulcan listening post beneath P'Jem.",
+      "entities": [
+        "Andorian",
+        "Andorian Imperial Guard",
+        "Vulcan",
+        "P'Jem"
+      ],
+      "kind": "first-contact",
+      "group": "Enterprise NX-01",
+      "section": "Events",
+      "series": [
+        "ENT"
+      ],
+      "episodes": [
+        {
+          "series": "ENT",
+          "title": "The Andorian Incident",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2151"
+      ],
+      "landmark": false,
+      "prose": "authored"
     },
     {
       "id": "2151-humanity-unofficially-makes-first-contact-with-the",
@@ -6947,7 +6980,7 @@
       "date": "2151-04",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Humanity unofficially makes first contact with the Klingon Empire when Klaang crash-lands in Broken Bow, Oklahoma.",
+      "summary": "Humanity's unofficial first contact with the Klingons comes when Klaang crashes at Broken Bow, Oklahoma.",
       "entities": [
         "Human",
         "Klingon Empire",
@@ -6973,7 +7006,7 @@
         "https://memory-alpha.fandom.com/wiki/2151"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2151-other-earth-first-contacts-this-year-include-the-a",
@@ -7034,45 +7067,12 @@
       "prose": "authored"
     },
     {
-      "id": "2151-sup-humanity-makes-first-contact-with-the-andori",
-      "year": 2151,
-      "date": "2151-06",
-      "stardate": null,
-      "timeline": "prime",
-      "summary": "sup – Humanity makes first contact with the Andorians; the Andorian Imperial Guard finally corroborates the existence of a Vulcan surveillance listening post on P'Jem.",
-      "entities": [
-        "Andorian",
-        "Andorian Imperial Guard",
-        "Vulcan",
-        "P'Jem"
-      ],
-      "kind": "first-contact",
-      "group": "Enterprise NX-01",
-      "section": "Events",
-      "series": [
-        "ENT"
-      ],
-      "episodes": [
-        {
-          "series": "ENT",
-          "title": "The Andorian Incident",
-          "kind": "episode"
-        }
-      ],
-      "significance": 3,
-      "sources": [
-        "https://memory-alpha.fandom.com/wiki/2151"
-      ],
-      "landmark": false,
-      "prose": "source"
-    },
-    {
       "id": "2151-t-pol-confides-in-commander-charles-tucker-iii-tha",
       "year": 2151,
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "T'Pol confides in Commander Charles Tucker III that she had been arranged to be married, a situation that was causing her some concern.",
+      "summary": "T'Pol confides to Tucker her unease about an arranged marriage.",
       "entities": [
         "T'Pol",
         "Charles Tucker III"
@@ -7095,7 +7095,7 @@
         "https://memory-alpha.fandom.com/wiki/2151"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2151-the-andorians-destroy-the-facility-on-p-jem-thoug",
@@ -7103,7 +7103,7 @@
       "date": "2151-10",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Andorians destroy the facility on P'Jem, though they give sufficient warning for personnel present to evacuate first.",
+      "summary": "The Andorians destroy the P'Jem facility, warning its personnel out first.",
       "entities": [],
       "kind": null,
       "group": "Enterprise NX-01",
@@ -7123,7 +7123,7 @@
         "https://memory-alpha.fandom.com/wiki/2151"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2151-the-crew-of-enterprise-prevent-the-crew-of-the-ecs",
@@ -7131,7 +7131,7 @@
       "date": "2151-08",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The crew of Enterprise prevent the crew of the ECS Fortunate initiating hostilities between the Nausicaans and Earth Cargo Service freighters.",
+      "summary": "Enterprise's crew head off a war between the ECS Fortunate's crew and the Nausicaans.",
       "entities": [
         "Nausicaan",
         "Earth Cargo Service",
@@ -7155,7 +7155,7 @@
         "https://memory-alpha.fandom.com/wiki/2151"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2151-the-paraagan-colony-on-paraagan-ii-was-visited-by",
@@ -7163,7 +7163,7 @@
       "date": "2151-10",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Paraagan colony on Paraagan II was visited by outsiders. The foreman of the colony would later inform T'Pol of this fact during the Enterprise NX-01's visit to the planet six months later.",
+      "summary": "Outsiders visit the Paraagan colony, a fact its foreman later reports to T'Pol.",
       "entities": [
         "Paraagan",
         "Paraagan II",
@@ -7188,7 +7188,7 @@
         "https://memory-alpha.fandom.com/wiki/2151"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2151-travis-mayweather-and-gannet-meet-each-for-the-las",
@@ -7196,7 +7196,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Travis Mayweather and Gannet meet each for the last time before the Coalition of Planets talks on Earth in 2155.",
+      "summary": "Travis Mayweather and Gannet meet for the last time before the 2155 Coalition talks.",
       "entities": [
         "Travis Mayweather",
         "Gannet",
@@ -7220,7 +7220,7 @@
         "https://memory-alpha.fandom.com/wiki/2151"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2151-trip-tucker-experiences-what-is-believed-to-be-the",
@@ -7228,7 +7228,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Trip Tucker experiences what is believed to be the first inter-species pregnancy involving a Human.",
+      "summary": "Trip Tucker undergoes what is thought to be the first interspecies pregnancy involving a human.",
       "entities": [
         "Human"
       ],
@@ -7250,7 +7250,7 @@
         "https://memory-alpha.fandom.com/wiki/2151"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-after-the-damage-inflicted-by-the-romulan-minefiel",
@@ -7258,7 +7258,7 @@
       "date": "2152-04",
       "stardate": null,
       "timeline": "prime",
-      "summary": "After the damage inflicted by the Romulan minefield, Enterprise visits a mysterious automated repair station. During the repairs, Travis Mayweather is abducted.",
+      "summary": "Enterprise, damaged by the Romulan minefield, puts in at an automated repair station.",
       "entities": [
         "Travis Mayweather"
       ],
@@ -7280,7 +7280,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-captain-archer-and-commander-tucker-visit-keto-eno",
@@ -7288,7 +7288,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Archer and Commander Tucker visit Keto-Enol and initiate a successful first contact with the Enolians. On their way out, they are arrested for possessing what the Enolian Guard believes to be contraband. As Archer and Tucker travel to Canamar on an Enolian transport, Kuroda hijacks the ship. With the help of an official, Enterprise finds the transport and rescues the crew.",
+      "summary": "Archer and Tucker open relations with the Enolians at Keto-Enol.",
       "entities": [
         "Keto-Enol",
         "Enolian",
@@ -7315,7 +7315,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-enterprise-answers-a-distress-call-from-a-retellia",
@@ -7323,7 +7323,7 @@
       "date": "2152-09",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise answers a distress call from a Retellian freighter. Tucker goes to help with the repairs but discovers the abduction of Kaitaama, the First Monarch of Krios Prime. The two end up on a planet until rescued by the crew of Enterprise. Eventually (September 12), a Krios Battlecruiser transports Kaitaama back to her planet.",
+      "summary": "Answering a Retellian freighter's distress call, Tucker uncovers an abduction.",
       "entities": [
         "Retellian freighter",
         "Kaitaama",
@@ -7349,7 +7349,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-enterprise-approaches-a-trinary-star-system-housin",
@@ -7357,7 +7357,7 @@
       "date": "2152-08",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise approaches a trinary star system housing a class IV black hole for observations. The radiation affects the behavior of the crew, except for T'Pol. When the rest of the crew is unconscious, T'Pol revives Archer and together they pilot the ship outside the stellar influence. However, Reed's earlier obsession with the ship's security results in a system that becomes standard procedure on the ship: tactical alert.",
+      "summary": "Radiation from a trinary system's black hole alters the crew's behaviour during observations.",
       "entities": [],
       "kind": null,
       "group": null,
@@ -7377,7 +7377,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-enterprise-arrives-at-risa-and-some-of-her-crew-me",
@@ -7385,7 +7385,7 @@
       "date": "2152-02",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise arrives at Risa and some of her crew members take shore leave. Archer is approached by an attractive Tandaran agent, Keyla; Tucker and Reed are robbed; Mayweather breaks his leg, necessitating waking Phlox from his hibernation; Sato flirts with an alien man.",
+      "summary": "On shore leave at Risa, Archer is approached by a Tandaran agent.",
       "entities": [
         "Tandaran",
         "Keyla",
@@ -7412,7 +7412,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-enterprise-finds-a-small-craft-from-the-future-adr",
@@ -7420,7 +7420,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise finds a small craft from the future adrift in space, and both the Suliban and the mysterious Tholians are intent on retrieving it. First contact between an Earth vessel and the Tholian Assembly occurs.",
+      "summary": "Enterprise recovers a craft from the future that both the Suliban and the Tholians want back.",
       "entities": [
         "Tholian",
         "Tholian Assembly"
@@ -7443,7 +7443,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-enterprise-is-apprehended-by-the-wisp-ship-the-wi",
@@ -7451,7 +7451,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise is apprehended by the Wisp ship. The Wisps attempt to take over her crew to continue their existence. Dr. Phlox, advised by T'Pol, floods the ship with CO2 and frees all the crew of the Wisps' influence. Enterprise quickly pulls away from their ship and destroys it by firing two spatial torpedoes into the interior.",
+      "summary": "The Wisps seize Enterprise and try to take her crew to prolong their own existence.",
       "entities": [
         "Wisp ship",
         "Wisp"
@@ -7474,7 +7474,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-enterprise-makes-first-contact-with-the-kreetassan",
@@ -7482,7 +7482,7 @@
       "date": "2152-01",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise makes first contact with the Kreetassans, which ends in a misunderstanding. During their departure, a symbiotic lifeform attaches to Enterprise. It captures and assimilates four of the crew (Archer, Tucker, Rostov, and Kelly) but eventually it is transported to its homeworld.",
+      "summary": "First contact with the Kreetassans ends in misunderstanding, and a symbiotic lifeform comes aboard as they leave.",
       "entities": [
         "Kreetassan",
         "Charles Tucker III",
@@ -7507,7 +7507,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-enterprise-picks-up-a-distress-call-from-an-alien",
@@ -7515,7 +7515,7 @@
       "date": "2152-02",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise picks up a distress call from an alien craft. After rescue and repairs, Zobral invites Archer and Tucker for a meal in the desert of Cygniai Expanse. In the process, he requests their assistance with the war against the Torothans. In the process, the Torothans attack the encampment. Archer and Tucker are lost in the desert before being rescued by a shuttlepod.",
+      "summary": "After Enterprise rescues him, Zobral invites Archer and Tucker to dine in the desert.",
       "entities": [
         "Zobral",
         "Cygniai Expanse",
@@ -7539,7 +7539,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-enterprise-visits-a-pre-warp-planet-reed-loses-hi",
@@ -7547,7 +7547,7 @@
       "date": "2152-04",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise visits a pre-warp planet. Reed loses his communicator, which causes him and Archer to be arrested as spies of \"The Alliance\". To avoid cultural contamination, they play along until a cloaked Suliban cell ship, piloted by Tucker, rescues them.",
+      "summary": "Reed's lost communicator sees him and Archer arrested as spies on a pre-warp world.",
       "entities": [
         "Gosis' species homeworld"
       ],
@@ -7569,7 +7569,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-enterprise-visits-kreetassa-in-a-failed-attempt-to",
@@ -7577,7 +7577,7 @@
       "date": "2152-04",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise visits Kreetassa in a failed attempt to trade plasma injectors only to end in another misunderstanding after Porthos \"waters\" their Alvera trees. Archer eventually proceeds with a long and ritualistic apology, which is accepted.",
+      "summary": "A second Kreetassan visit collapses into fresh offence over Porthos.",
       "entities": [
         "Kreetassa",
         "Porthos",
@@ -7601,7 +7601,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-enterprise-visits-tessik-prime-crewman-fisher-com",
@@ -7609,7 +7609,7 @@
       "date": "2152-03",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise visits Tessik Prime. Crewman Fisher comes down with a case of Rigelian fever, necessitating the inoculation of the entire crew by Doctor Phlox with a vaccine containing millions of genetically-altered microbes.",
+      "summary": "Crewman Fisher's Rigelian fever at Tessik Prime forces the whole crew to be inoculated.",
       "entities": [
         "Tessik Prime",
         "Rigelian fever",
@@ -7633,7 +7633,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-in-need-of-deuterium-the-crew-of-enterprise-instr",
@@ -7641,7 +7641,7 @@
       "date": "2152-04",
       "stardate": null,
       "timeline": "prime",
-      "summary": "In need of deuterium, the crew of Enterprise instructs alien mining colonists in how to defend themselves against Klingon harassers.",
+      "summary": "Short of deuterium, Enterprise's crew teach alien miners to hold off Klingon raiders.",
       "entities": [
         "Tessic's species",
         "Klingon"
@@ -7664,7 +7664,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-interspecies-medical-exchange-on-dekendi-iii-feez",
@@ -7672,7 +7672,7 @@
       "date": "2152-09",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Interspecies Medical Exchange on Dekendi III. Feezal Phlox comes on board Enterprise and reunites with her husband; she helps Tucker install a neutron microscope. T'Pol's Pa'nar Syndrome is revealed and Archer tries to secure her position on the ship.",
+      "summary": "At the Dekendi III medical exchange Feezal joins Enterprise and helps Tucker with a microscope.",
       "entities": [
         "Interspecies Medical Exchange",
         "Dekendi III",
@@ -7697,7 +7697,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-jonathan-archer-is-convicted-in-a-klingon-tribunal",
@@ -7705,7 +7705,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jonathan Archer is convicted in a Klingon tribunal of assisting Arin'Sen renegades fleeing from Raatooras. He is incarcerated on Rura Penthe but flees. Relationships between the Klingon Empire and Earth continue to deteriorate.",
+      "summary": "A Klingon tribunal convicts Archer of aiding Arin'Sen renegades and sends him to Rura Penthe.",
       "entities": [
         "Arin'Sen",
         "Raatooras",
@@ -7730,30 +7730,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
-    },
-    {
-      "id": "2152-october-december",
-      "year": 2152,
-      "date": null,
-      "stardate": null,
-      "timeline": "prime",
-      "summary": "October-December",
-      "entities": [
-        "October",
-        "December"
-      ],
-      "kind": null,
-      "group": null,
-      "section": "Events",
-      "series": [],
-      "episodes": [],
-      "significance": 3,
-      "sources": [
-        "https://memory-alpha.fandom.com/wiki/2152"
-      ],
-      "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-on-its-way-to-risa-enterprise-is-ordered-to-retri",
@@ -7761,7 +7738,7 @@
       "date": "2152-02",
       "stardate": null,
       "timeline": "prime",
-      "summary": "On its way to Risa, Enterprise is ordered to retrieve Vulcan Ambassador V'Lar, who stands accused of criminal misconduct, from the planet Mazar. Enterprise becomes the first Earth starship to reach the speed of warp 5 while fleeing from Mazarite vessels.",
+      "summary": "Diverted en route to Risa, Enterprise collects Vulcan Ambassador V'Lar, accused of misconduct.",
       "entities": [
         "Risa",
         "Vulcan",
@@ -7787,7 +7764,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-on-pernaia-prime-archer-helps-t-pol-apprehend-men",
@@ -7795,7 +7772,7 @@
       "date": "2152-04",
       "stardate": null,
       "timeline": "prime",
-      "summary": "On Pernaia Prime, Archer helps T'Pol apprehend Menos, a Vulcan fugitive.",
+      "summary": "On Pernaia Prime, Archer helps T'Pol take the fugitive Menos.",
       "entities": [
         "Pernaia Prime",
         "T'Pol",
@@ -7819,7 +7796,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-other-earth-alien-first-contacts-this-year-include",
@@ -7827,7 +7804,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Other Earth-alien first contacts this year include the Arkonians, the Kriosians, the Kreetassans, the Retellians, the Risians, Wisps, and the Takret.",
+      "summary": "Earth also meets the Arkonians, Kriosians, Kreetassans, Retellians, Risians and Wisps this year.",
       "entities": [
         "Arkonian",
         "Kriosian",
@@ -7847,15 +7824,46 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
-      "id": "2152-sup-the-crew-of-enterprise-attempts-to-visit-an",
+      "id": "2152-t-pau-begins-searching-for-the-kir-shara",
       "year": 2152,
-      "date": "2152-09",
+      "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "sup - The crew of Enterprise attempts to visit an unexplored planet when a group of Takret fugitives warns them about a perilous neutronic wave front. The crew retires to the safety of the ship's reinforced catwalk while members of the Takret Militia board the ship looking for the fugitives.",
+      "summary": "T'Pau begins her search for the Kir'Shara.",
+      "entities": [
+        "T'Pau",
+        "Kir'Shara"
+      ],
+      "kind": null,
+      "group": null,
+      "section": "Events",
+      "series": [
+        "ENT"
+      ],
+      "episodes": [
+        {
+          "series": "ENT",
+          "title": "Awakening",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2152"
+      ],
+      "landmark": false,
+      "prose": "authored"
+    },
+    {
+      "id": "2152-the-crew-of-enterprise-attempts-to-visit-an-unexpl",
+      "year": 2152,
+      "date": "2152-09-18",
+      "stardate": null,
+      "timeline": "prime",
+      "summary": "Takret fugitives warn Enterprise off an unexplored world and its dangerous neutronic storm.",
       "entities": [
         "Binary system planet 001",
         "Takret",
@@ -7879,38 +7887,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
-    },
-    {
-      "id": "2152-t-pau-begins-searching-for-the-kir-shara",
-      "year": 2152,
-      "date": null,
-      "stardate": null,
-      "timeline": "prime",
-      "summary": "T'Pau begins searching for the Kir'Shara.",
-      "entities": [
-        "T'Pau",
-        "Kir'Shara"
-      ],
-      "kind": null,
-      "group": null,
-      "section": "Events",
-      "series": [
-        "ENT"
-      ],
-      "episodes": [
-        {
-          "series": "ENT",
-          "title": "Awakening",
-          "kind": "episode"
-        }
-      ],
-      "significance": 3,
-      "sources": [
-        "https://memory-alpha.fandom.com/wiki/2152"
-      ],
-      "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-the-first-known-contact-between-vessels-representi",
@@ -7918,7 +7895,7 @@
       "date": "2152-04",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The first known contact between vessels representing Earth and the Romulan Star Empire occurs after Enterprise encounters an outer-space minefield laid by the latter. Visual contact between crews is not made.",
+      "summary": "Earth and the Romulan Star Empire first meet when Enterprise strays into an outer marker.",
       "entities": [
         "Romulan Star Empire"
       ],
@@ -7940,7 +7917,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-the-mining-colony-on-paraagan-ii-is-destroyed-by-t",
@@ -7948,7 +7925,7 @@
       "date": "2152-03",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The mining colony on Paraagan II is destroyed by the Cabal in an effort to frame the crew of Enterprise and discredit their mission.",
+      "summary": "The Cabal destroys the Paraagan colony to frame Enterprise and discredit her mission.",
       "entities": [
         "Paraagan II"
       ],
@@ -7970,7 +7947,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-while-testing-a-prototype-auto-pilot-tucker-s-shu",
@@ -7978,7 +7955,7 @@
       "date": "2152-09",
       "stardate": null,
       "timeline": "prime",
-      "summary": "While testing a prototype auto-pilot, Tucker's shuttle is downed by an Arkonian pilot on one of a gas giant's 62 moons. Both men try to fix their respective ships but are stalled by the alien's distrust and hostile nature. Enterprise’s search efforts are further hampered by the selenium isotope on the moons' atmospheres, but eventually Tucker manages to use the alien's transceiver to contact the ship.",
+      "summary": "An Arkonian downs Tucker's shuttle on a gas giant's moon, stranding both pilots together.",
       "entities": [
         "Arkonian"
       ],
@@ -8000,7 +7977,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2152-with-the-help-of-archer-as-a-mediator-between-the",
@@ -8008,7 +7985,7 @@
       "date": "2152-09",
       "stardate": null,
       "timeline": "prime",
-      "summary": "With the help of Archer as a mediator between the Andorians and Vulcans, Ambassador Soval and Commander Shran agree on a cease fire between the Vulcans and Andorians on Paan Mokar. Enterprise, under Tucker's command, stops an orbital conflict between the two forces. Shran and Soval end their negotiations in a positive mood, setting the stage for future negotiations.",
+      "summary": "With Archer mediating, Soval and Shran agree a cease fire over Weytahn.",
       "entities": [
         "Andorian",
         "Soval",
@@ -8032,7 +8009,7 @@
         "https://memory-alpha.fandom.com/wiki/2152"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-an-alternate-timeline-enterprise-commanded-by-lori",
@@ -8040,7 +8017,7 @@
       "date": "2153-03",
       "stardate": null,
       "timeline": "alternate",
-      "summary": "An alternate timeline Enterprise commanded by Lorian attempts to stop the Xindi weapon from attacking Earth in the Delphic Expanse. The weapons are ineffective against the probe and Lorian has no choice but to set a collision course. His emotions take over and by the time he realizes his mistake, the probe had gone.",
+      "summary": "In an alternate timeline, Lorian's Enterprise tries to stop the Xindi weapon reaching Earth.",
       "entities": [
         "Lorian",
         "Xindi",
@@ -8065,7 +8042,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-archer-and-t-pol-study-the-robinson-nebula-as-the",
@@ -8073,7 +8050,7 @@
       "date": "2153-03",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Archer and T'Pol study the Robinson Nebula, as they name it, composed of dark matter.",
+      "summary": "Archer and T'Pol survey a dark matter nebula and name it the Robinson.",
       "entities": [
         "T'Pol",
         "Robinson Nebula"
@@ -8096,7 +8073,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-earth-is-attacked-by-the-xindi-probe-from-the-delp",
@@ -8104,7 +8081,7 @@
       "date": "2153-03",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Earth is attacked by the Xindi probe from the Delphic Expanse. The attack decimates a large area between Florida and Venezuela, killing seven million people. Enterprise is recalled to Earth by Starfleet Command.",
+      "summary": "A Xindi probe cuts a swathe from Florida to Venezuela, killing seven million.",
       "entities": [
         "Florida",
         "Venezuela"
@@ -8127,7 +8104,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-enterprise-destroys-duras-bird-of-prey-during-his",
@@ -8135,7 +8112,7 @@
       "date": "2153-04",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise destroys Duras' Bird-of-Prey during his final attempt to capture Archer seven weeks after leaving Earth and begins its search for the Xindi weapon in the Delphic Expanse.",
+      "summary": "Enterprise destroys Duras' Bird-of-Prey on his last attempt to take Archer.",
       "entities": [],
       "kind": null,
       "group": null,
@@ -8155,7 +8132,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-enterprise-discovers-the-descendants-of-abducted-h",
@@ -8163,7 +8140,7 @@
       "date": "2153-10",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise discovers the descendants of abducted Humans on a former Skagaran colony in the Delphic Expanse.",
+      "summary": "In the Delphic Expanse, Enterprise meets people descended from humans the Skagarans took.",
       "entities": [
         "Skagaran"
       ],
@@ -8185,7 +8162,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-enterprise-enters-the-orbital-drydock-facility-for",
@@ -8193,7 +8170,7 @@
       "date": "2153-04",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise enters the Orbital Drydock Facility for repairs and retrofits.",
+      "summary": "Enterprise puts into the Orbital Drydock Facility for repairs and refit.",
       "entities": [
         "Orbital Drydock Facility",
         "Refit"
@@ -8208,7 +8185,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-enterprise-makes-a-detour-to-gather-scientific-dat",
@@ -8216,7 +8193,7 @@
       "date": "2153-01",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise makes a detour to gather scientific data on a planet that recently shifted orbit to relocate between two gas giants and where there is a lot of volcanic activity to be expected. Travis Mayweather asks for a leave to visit ECS Horizon. The cargo ship is attacked by pirates.",
+      "summary": "Enterprise detours to study a planet newly shifted into orbit between two gas giants.",
       "entities": [
         "Travis Mayweather",
         "ECS Horizon"
@@ -8239,7 +8216,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-enterprise-reaches-earth-the-iks-bortas-s-former",
@@ -8247,7 +8224,7 @@
       "date": "2153-04",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise reaches Earth. The IKS Bortas's, former captain: Duras, is given command of a Bird of Prey by the high council so he can regain his honor by capturing Jonathan Archer, Duras' Bird-of-Prey attacks Enterprise at the edge of the sol system and is chased off by three Starfleet ships.",
+      "summary": "Enterprise reaches Earth; the High Council gives Duras a Bird-of-Prey to hunt Archer down.",
       "entities": [
         "Duras, son of Toral",
         "Duras' Bird-of-Prey",
@@ -8264,7 +8241,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-in-an-alternate-timeline-enterprise-captain-jonat",
@@ -8272,7 +8249,7 @@
       "date": "2153-10",
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate timeline, Enterprise captain Jonathan Archer's brain is infected by interspatial parasites, causing him to contract anterograde amnesia.",
+      "summary": "In an alternate timeline, interspatial parasites infect Archer's brain and derange his judgement.",
       "entities": [
         "Jonathan Archer"
       ],
@@ -8294,7 +8271,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-kaitaama-is-set-to-become-first-monarch-on-krios-p",
@@ -8302,7 +8279,7 @@
       "date": "2153-05",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kaitaama is set to become First Monarch on Krios Prime.",
+      "summary": "Kaitaama is due to become First Monarch of Krios Prime.",
       "entities": [
         "Kaitaama",
         "First Monarch",
@@ -8326,7 +8303,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-other-first-contacts-made-by-earth-this-year-inclu",
@@ -8382,7 +8359,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Romulan agents kidnap the Aenar Gareb from Andoria Prime in order to use him as the pilot for their drone ship.",
+      "summary": "Romulan agents seize the Aenar Gareb from Andoria to pilot their drone ship.",
       "entities": [
         "Romulan",
         "Aenar",
@@ -8408,7 +8385,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-t-pol-secretly-begins-to-inject-herself-with-trell",
@@ -8416,7 +8393,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "T'Pol secretly begins to inject herself with Trellium.",
+      "summary": "T'Pol begins secretly injecting herself with trellium.",
       "entities": [
         "Trellium"
       ],
@@ -8438,7 +8415,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-the-construction-of-the-second-nx-starship-columb",
@@ -8446,7 +8423,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The construction of the second NX starship, Columbia, begins.",
+      "summary": "Work begins on Columbia, the second NX starship.",
       "entities": [],
       "kind": null,
       "group": null,
@@ -8466,7 +8443,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-the-enterprise-explores-an-uninhabited-planet-on-w",
@@ -8474,7 +8451,7 @@
       "date": "2153-03",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise explores an uninhabited planet on which Phlox and T'Pol are contaminated. Archer is captured by Skalaar who intends to give him back to the Klingons. However in the process he helps him escape and return to the Enterprise.",
+      "summary": "Phlox and T'Pol are contaminated on an uninhabited world while Skalaar takes Archer captive.",
       "entities": [
         "Phlox",
         "T'Pol",
@@ -8498,7 +8475,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-the-enterprise-makes-first-contact-with-the-vissia",
@@ -8506,7 +8483,7 @@
       "date": "2153-01",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise makes first contact with the Vissians when they both study a hypergiant. Relations are tainted by Trip Tucker's interest in one cogenitor in the Vissian starship.",
+      "summary": "First contact with the Vissians over a hypergiant sours after Tucker interferes in their affairs.",
       "entities": [
         "Vissian",
         "Charles",
@@ -8530,7 +8507,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-the-enterprise-rescues-three-denobulan-scientist",
@@ -8538,7 +8515,7 @@
       "date": "2153-01",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise \"rescues\" three Denobulan scientists of the Denobulan Science Academy from the caves of Xantoras; meanwhile the Enterprise aids a ship which has problems with a reactor leak above the planet.",
+      "summary": "Enterprise lifts three Denobulan scientists out of the caves of Xantoras.",
       "entities": [
         "Denobulan",
         "Denobulan Science Academy"
@@ -8561,7 +8538,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-the-war-between-the-various-triannon-factions-come",
@@ -8569,7 +8546,7 @@
       "date": "2153-03",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The war between the various Triannon factions comes to an end with the destruction of the surface of the planet Triannon.",
+      "summary": "The Triannon factions' war ends with their planet's surface destroyed.",
       "entities": [
         "Triannon War",
         "Triannon"
@@ -8592,7 +8569,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-the-wreckage-of-a-borg-sphere-is-discovered-at-the",
@@ -8600,7 +8577,7 @@
       "date": "2153-03",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The wreckage of a Borg sphere is discovered at the Arctic Circle on Earth having been buried there for 90 years. Two Borg drones are revived and manage to acquire a transport and escape Earth before they are intercepted. Enterprise catches up with them and manages to destroy the Borg-assimilated transport, but the Borg manage to send a subspace message to the Delta Quadrant that will take 200 years to arrive.",
+      "summary": "A Borg sphere's wreckage, ninety years buried, is dug out of the Arctic ice with two drones aboard.",
       "entities": [
         "Borg sphere",
         "Arctic Circle",
@@ -8626,7 +8603,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-the-xindi-reptilian-scientist-damron-travels-to-ea",
@@ -8634,7 +8611,7 @@
       "date": "2153-11",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Xindi-Reptilian scientist Damron travels to Earth in the year 2004 in an attempt to wipe out the Humans, though he is foiled by the intervention of Daniels.",
+      "summary": "The Xindi-Reptilian Damron travels to 2004 to wipe out humanity, and is stopped.",
       "entities": [
         "Xindi-Reptilian",
         "Damron"
@@ -8657,7 +8634,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2153-udar-leaves-the-augment-camp-on-trialas-iv",
@@ -8665,7 +8642,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Udar leaves the Augment camp on Trialas IV.",
+      "summary": "Udar walks away from the Augment camp on Trialas IV.",
       "entities": [
         "Udar",
         "Augment",
@@ -8689,7 +8666,7 @@
         "https://memory-alpha.fandom.com/wiki/2153"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-administrator-v-las-of-the-vulcan-high-command-wh",
@@ -8745,7 +8722,7 @@
       "date": "2154-02",
       "stardate": null,
       "timeline": "alternate",
-      "summary": "After the intervention of Enterprise in 1944 of an alternate timeline, the Temporal Cold War ostensibly comes to an end.",
+      "summary": "Enterprise's intervention in an alternate 1944 apparently closes the Temporal Cold War.",
       "entities": [
         "Temporal Cold War"
       ],
@@ -8767,7 +8744,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-arik-soong-gives-up-his-work-in-genetics-and-begin",
@@ -8775,7 +8752,7 @@
       "date": "2154-05",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Arik Soong gives up his work in genetics and begins research in cybernetics.",
+      "summary": "Arik Soong abandons genetics for cybernetics.",
       "entities": [],
       "kind": null,
       "group": null,
@@ -8795,7 +8772,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-as-the-crew-of-enterprise-repairs-the-ship-archer",
@@ -8803,7 +8780,7 @@
       "date": "2154-01",
       "stardate": null,
       "timeline": "prime",
-      "summary": "As the crew of Enterprise repairs the ship, Archer is delivered by the Xindi-Aquatics in an escape pod. After he is recovered, Hoshi Sato discovers a hidden message by Degra in the pod, inviting him to a meeting in three days. Unable to arrive in time, Archer decides to pirate an Illyrian starship to steal its primary warp coil.",
+      "summary": "The Xindi-Aquatics return Archer to Enterprise by escape pod as his crew repair the ship.",
       "entities": [
         "Xindi-Aquatic",
         "Hoshi Sato",
@@ -8827,7 +8804,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-columbia-nx-02-is-launched-from-drydock",
@@ -8835,7 +8812,7 @@
       "date": "2154-11",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Columbia NX-02 is launched from drydock.",
+      "summary": "Columbia NX-02 leaves drydock.",
       "entities": [],
       "kind": "launch",
       "group": null,
@@ -8855,7 +8832,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-corporal-f-hawkins-is-killed-while-defending-t-po",
@@ -8863,7 +8840,7 @@
       "date": "2154-02",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Corporal F. Hawkins is killed while defending T'Pol and Lieutenant Reed inside a Delphic Expanse sphere.",
+      "summary": "Corporal Hawkins dies defending T'Pol and Reed inside a Delphic Expanse sphere.",
       "entities": [
         "Corporal",
         "F. Hawkins"
@@ -8886,7 +8863,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-degra-dies-after-being-stabbed-by-dolim-in-his-qua",
@@ -8894,7 +8871,7 @@
       "date": "2154-02",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Degra dies after being stabbed by Dolim in his quarters on February 12th.",
+      "summary": "Dolim stabs Degra to death in his quarters.",
       "entities": [
         "Degra",
         "Dolim",
@@ -8918,7 +8895,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-en-route-to-the-red-giant-azati-prime-enterprise",
@@ -8926,7 +8903,7 @@
       "date": "2154-01",
       "stardate": null,
       "timeline": "prime",
-      "summary": "En route to the red giant Azati Prime, Enterprise NX-01 discovers a derelict Xindi-Insectoid starship on the surface of an uninhabited planet and apprehends a Xindi-Insectoid assault shuttle. The Enterprise crew discovers a hatchery, containing Xindi-Insectoid eggs, aboard the Insectoid ship; one of multiple tendrils attached to one of the eggs squirts Enterprise Captain Jonathan Archer with a mild neurotoxin, which makes him obsessive about their protection. He authorizes MACOs to be put in place, until T'Pol, Commander Charles Tucker III and Lieutenant Malcolm Reed lead a successful mutiny against Archer. Once he is cleared of the neurotoxin, though, he resumes command.",
+      "summary": "En route to Azati Prime, Enterprise finds a derelict Xindi-Insectoid ship.",
       "entities": [
         "Xindi-Insectoid starship",
         "Xindi-Insectoid assault shuttle",
@@ -8954,7 +8931,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-enterprise-arrives-at-azati-prime-and-thanks-to-t",
@@ -8962,7 +8939,7 @@
       "date": "2154-01",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise arrives at Azati Prime and, thanks to the Xindi-Insectoid assault shuttle, the Enterprise crew manages to inspect the installation. Jonathan Archer decides to sabotage the Xindi weapon but is apprehended. In the process of his imprisonment, he gains Degra's trust. Enterprise is heavily damaged in the Battle of Azati Prime, where approximately eighteen crewmembers are killed. However, the attack is recalled by the Xindi-Primates.",
+      "summary": "Reaching Azati Prime, Enterprise uses the captured Insectoid shuttle to inspect the Xindi weapon.",
       "entities": [
         "Xindi weapon",
         "Degra",
@@ -8992,7 +8969,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-enterprise-doctor-phlox-is-kidnapped-and-forced-to",
@@ -9000,7 +8977,7 @@
       "date": "2154-11",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise doctor Phlox is kidnapped and forced to help the Klingons discover a cure for a virus spreading through the Empire.",
+      "summary": "Phlox is abducted and made to find a cure for the virus spreading through the Klingon Empire.",
       "entities": [
         "Phlox",
         "Klingon augment virus"
@@ -9023,7 +9000,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-enterprise-finally-returns-to-earth-after-the-conc",
@@ -9031,7 +9008,7 @@
       "date": "2154-02",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise finally returns to Earth after the conclusion of the Xindi incident.",
+      "summary": "Enterprise returns to Earth with the Xindi crisis behind her.",
       "entities": [
         "Xindi incident"
       ],
@@ -9053,7 +9030,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-enterprise-travels-to-the-barrens-there-the-inve",
@@ -9061,7 +9038,7 @@
       "date": "2154-07",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise travels to the Barrens. There, the inventor of the transporter, Emory Erickson, tries to search for his lost son, Quinn, who is recovered but dies moments later.",
+      "summary": "At the Barrens, Emory Erickson resumes the search for the son lost in his transporter.",
       "entities": [
         "Emory Erickson",
         "Quinn Erickson"
@@ -9084,7 +9061,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-in-an-alternate-timeline-earth-is-destroyed-by-th",
@@ -9092,7 +9069,7 @@
       "date": "2154-02",
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate timeline, Earth is destroyed by the Xindi, who then proceed to wipe out most of the rest of Humanity.",
+      "summary": "In an alternate timeline the Xindi destroy Earth and hunt most of humanity down.",
       "entities": [
         "Xindi"
       ],
@@ -9114,7 +9091,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-major-j-hayes-is-killed-on-february-13th-of-this",
@@ -9122,7 +9099,7 @@
       "date": "2154-02",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Major J. Hayes is killed on February 13th of this year.",
+      "summary": "Major Hayes is killed on 13 February.",
       "entities": [
         "J. Hayes",
         "February"
@@ -9145,7 +9122,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-notable-earth-first-contacts-this-year-include-the",
@@ -9153,7 +9130,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Notable Earth first contacts this year include the Illyrians, the Na'kuhl, and the Orions.",
+      "summary": "Earth meets the Illyrians, the Na'kuhl and the Orions this year.",
       "entities": [
         "Illyrian",
         "Na'kuhl",
@@ -9169,7 +9146,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-preparing-to-use-a-subspace-corridor-to-travel-to",
@@ -9177,7 +9154,7 @@
       "date": "2154-01",
       "stardate": null,
       "timeline": "alternate",
-      "summary": "Preparing to use a subspace corridor to travel to the Xindi Council planet, Enterprise encounters a version of itself from an alternate timeline generated by the subspace corridor, a duplicate under the command of Lorian, who is the offspring of Tucker and T'Pol. The crew of the two versions of the ship disagree on the proper way to pass through a nebula controlled by a hostile species called the Kovaalans. T'Pol is unable to achieve more than an eighty-six percent reduction of the particle wake with impulse manifold modifications, but an elder version of herself shows her where to place an isomagnetic collector (a piece of Ikaaran technology) to reduce any residual particles. Lorian's Enterprise helps Archer's Enterprise to pass the corridor but doesn't emerge from the other side itself. Under Archer's command, Enterprise meets with Degra.",
+      "summary": "Approaching a subspace corridor, Enterprise meets a version of herself from another timeline.",
       "entities": [
         "Xindi Council planet",
         "Lorian",
@@ -9202,7 +9179,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-relations-between-earth-and-the-klingon-empire-nea",
@@ -9210,7 +9187,7 @@
       "date": "2154-05",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Relations between Earth and the Klingon Empire nearly boil over into war because of intervention by Arik Soong and a group of Augments who regard him as their father.",
+      "summary": "Arik Soong's Augments bring Earth and the Klingon Empire close to war.",
       "entities": [
         "Klingon Empire",
         "Arik Soong"
@@ -9238,7 +9215,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-t-pol-offically-joins-starfleet-and-is-commissione",
@@ -9246,7 +9223,7 @@
       "date": "2154-05-12",
       "stardate": null,
       "timeline": "prime",
-      "summary": "T'Pol offically joins Starfleet and is commissioned with the rank of Commander.",
+      "summary": "T'Pol takes a Starfleet commission as a commander.",
       "entities": [],
       "kind": "launch",
       "group": null,
@@ -9266,7 +9243,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-the-crew-holds-a-memorial-for-their-dead-shipmates",
@@ -9274,7 +9251,7 @@
       "date": "2154-01",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The crew holds a memorial for their dead shipmates. Enterprise arrives at a Delphic Expanse sphere, where it meets with Degra's ship. Archer briefs Degra about what he knows regarding the Delphic Expanse and the Sphere-Builders who are planning an invasion. Degra and Jannar offer to stop the launch of the weapon if Archer can prove the Xindi have been manipulated. After Archer reveals to them knowledge about the Xindi bio-weapon and other discoveries, Degra invites Archer to meet the Xindi Council to share this information. A Xindi-Reptilian warship arrives at the sphere, but is destroyed by Degra's ship, at Degra's instruction.",
+      "summary": "After a memorial for the dead, Enterprise meets Degra at a Delphic Expanse sphere.",
       "entities": [
         "Delphic Expanse sphere",
         "Degra's ship",
@@ -9304,7 +9281,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-the-organians-observe-the-crew-of-enterprise-react",
@@ -9312,7 +9289,7 @@
       "date": "2154-07",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Organians observe the crew of Enterprise reacting to an infection on board. Though Commander Tucker and Ensign Hoshi Sato die from the infection, Archer ultimately persuades the Organians to resurrect them. Owing to Organian influence, the Enterprise crew members retain no memories of their encounters with the species.",
+      "summary": "The Organians watch Enterprise's crew handle an outbreak aboard.",
       "entities": [
         "Organian",
         "Hoshi Sato"
@@ -9335,7 +9312,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-the-romulans-continue-attempts-to-destabilize-eart",
@@ -9343,7 +9320,7 @@
       "date": "2154-11",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Romulans continue attempts to destabilize Earth's region of space. A Romulan drone ship attacks Andorian and Tellarite travelers to a planned peace conference on Babel. Other ships attacked include a Rigelian scoutship. A Human, Vulcan, Andorian, and Tellarite alliance is formed to help the species work together to locate the drone ship and lead to talks on board Enterprise.",
+      "summary": "A Romulan drone preys on Andorian and Tellarite ships, seeding distrust across the region.",
       "entities": [
         "Romulan drone ship",
         "Andorian",
@@ -9375,7 +9352,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-the-xindi-weapon-is-destroyed-by-jonathan-archer-a",
@@ -9383,7 +9360,7 @@
       "date": "2154-02",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Xindi weapon is destroyed by Jonathan Archer and his crew as it approaches Earth, thereby blighting the plan of the Sphere-Builders to annihilate Humanity and to prevent the Federation from forming in 2161.",
+      "summary": "Archer and his crew destroy the Xindi weapon in sight of Earth, undoing the Sphere-Builders' plan.",
       "entities": [
         "Human"
       ],
@@ -9405,7 +9382,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2154-two-unarmed-augments-single-handedly-hijack-a-klin",
@@ -9413,7 +9390,7 @@
       "date": "2154-05",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Two unarmed Augments single-handedly hijack a Klingon Bird-of-Prey and kill its crew, setting in motion events that will significantly alter Klingon physiology for a period of time.",
+      "summary": "Two unarmed Augments take a Klingon Bird-of-Prey and kill its crew, with lasting consequences.",
       "entities": [
         "Augment",
         "Klingon"
@@ -9436,7 +9413,7 @@
         "https://memory-alpha.fandom.com/wiki/2154"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2155-another-draft-of-the-geneva-protocol-went-into-eff",
@@ -9444,7 +9421,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Another draft of the Geneva Protocol went into effect on Earth.",
+      "summary": "A further draft of the Geneva Protocol takes effect on Earth.",
       "entities": [
         "Geneva Protocol of 2155"
       ],
@@ -9466,7 +9443,7 @@
         "https://memory-alpha.fandom.com/wiki/2155"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2155-charles-tucker-iii-and-t-pol-s-intimate-relation",
@@ -9474,7 +9451,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Charles Tucker III and T'Pol's \"intimate\" relationship ends.",
+      "summary": "Tucker and T'Pol's relationship ends.",
       "entities": [
         "Charles Tucker III",
         "T'Pol",
@@ -9498,7 +9475,7 @@
         "https://memory-alpha.fandom.com/wiki/2155"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2155-decontamination-of-cold-station-12-is-completed",
@@ -9506,7 +9483,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Decontamination of Cold Station 12 is completed.",
+      "summary": "Cold Station 12 finishes decontamination.",
       "entities": [
         "Cold Station 12"
       ],
@@ -9528,7 +9505,7 @@
         "https://memory-alpha.fandom.com/wiki/2155"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2155-hoshi-sato-declares-herself-empress-of-the-terran",
@@ -9536,7 +9513,7 @@
       "date": null,
       "stardate": null,
       "timeline": "mirror",
-      "summary": "Hoshi Sato declares herself Empress of the Terran Empire after seizing control of the Defiant and ordering Starfleet's unconditional surrender.",
+      "summary": "Hoshi Sato seizes the Defiant, demands Starfleet's surrender and declares herself Empress.",
       "entities": [
         "Empress",
         "Terran Empire"
@@ -9559,7 +9536,7 @@
         "https://memory-alpha.fandom.com/wiki/2155"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2155-in-the-alternate-timeline-where-earth-was-destroye",
@@ -9567,7 +9544,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In the alternate timeline where Earth was destroyed by the Xindi, Enterprise NX-01 begins leading a fugitive convoy to the Ceti Alpha system.",
+      "summary": "In the timeline where Earth fell, Enterprise leads a fugitive convoy toward Ceti Alpha.",
       "entities": [
         "Xindi",
         "Ceti Alpha system"
@@ -9590,7 +9567,7 @@
         "https://memory-alpha.fandom.com/wiki/2155"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2155-talks-about-the-formation-of-a-coalition-of-planet",
@@ -9598,7 +9575,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Talks about the formation of a Coalition of Planets take place on Earth. Participating representatives include Humans, Vulcans, Andorians, Tellarites, Rigelians, Denobulans, and Coridanites.",
+      "summary": "Humans, Vulcans, Andorians and Tellarites meet on Earth to discuss a Coalition of Planets.",
       "entities": [
         "Coalition of Planets",
         "Human",
@@ -9632,7 +9609,7 @@
         "https://memory-alpha.fandom.com/wiki/2155"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2155-the-iss-enterprise-travels-into-tholian-space-in-s",
@@ -9640,7 +9617,7 @@
       "date": null,
       "stardate": null,
       "timeline": "mirror",
-      "summary": "The ISS Enterprise travels into Tholian space in search of a Terran vessel – the Constitution USS Defiant. The Enterprise is destroyed and most of the senior staff retrieve the Defiant.",
+      "summary": "The ISS Enterprise enters Tholian space hunting the Constitution-class USS Defiant.",
       "entities": [
         "Tholian",
         "Terran",
@@ -9665,7 +9642,7 @@
         "https://memory-alpha.fandom.com/wiki/2155"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2155-the-terra-prime-movement-under-the-leadership-of",
@@ -9673,7 +9650,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Terra Prime movement, under the leadership of John Frederick Paxton, attempts to expel all non-Humans from the Sol system by commandeering the verteron array on Mars. Their plan is foiled by the crew of the starship Enterprise.",
+      "summary": "John Frederick Paxton's Terra Prime movement tries to drive all non-humans out of the Sol system.",
       "entities": [
         "Terra Prime",
         "John Frederick Paxton",
@@ -9690,7 +9667,7 @@
         "https://memory-alpha.fandom.com/wiki/2155"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2155-thy-lek-shran-s-second-antennae-is-set-to-grow-bac",
@@ -9698,7 +9675,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Thy'lek Shran's second antennae is set to grow back.",
+      "summary": "Shran's second antenna is due to regrow.",
       "entities": [
         "Thy'lek Shran"
       ],
@@ -9720,7 +9697,7 @@
         "https://memory-alpha.fandom.com/wiki/2155"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2156-in-an-alternate-timeline-in-which-the-xindi-destro",
@@ -9728,7 +9705,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate timeline in which the Xindi destroyed Earth, Enterprise NX-01 and its rag-tag fugitive fleet reach Ceti Alpha V.",
+      "summary": "In the Xindi-destroyed timeline, Enterprise's fugitive fleet reaches Ceti Alpha.",
       "entities": [
         "Xindi",
         "Ceti Alpha V"
@@ -9751,7 +9728,7 @@
         "https://memory-alpha.fandom.com/wiki/2156"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2156-in-an-alternate-timeline-in-which-the-xindi-destro-2",
@@ -9759,7 +9736,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate timeline in which the Xindi destroyed Earth, T'Pol resigns her commission and Charles Tucker III is promoted to Captain and assumes command of the Enterprise.",
+      "summary": "In that same timeline T'Pol resigns her commission and Tucker is promoted.",
       "entities": [
         "Xindi",
         "T'Pol",
@@ -9783,7 +9760,7 @@
         "https://memory-alpha.fandom.com/wiki/2156"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2156-talla-the-daughter-of-shran-an-andorian-and-jha",
@@ -9791,7 +9768,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Talla, the daughter of Shran, an Andorian, and Jhamel, an Aenar, is born. Shran leaves the Andorian Imperial Guard around this time.",
+      "summary": "Talla, daughter of Shran and the Aenar Jhamel, is born; Shran leaves the Imperial Guard.",
       "entities": [
         "Talla",
         "Andorian",
@@ -9817,7 +9794,7 @@
         "https://memory-alpha.fandom.com/wiki/2156"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2156-the-earth-romulan-war-begins",
@@ -9847,7 +9824,7 @@
         "https://memory-alpha.fandom.com/wiki/2156"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2156-the-redjac-entity-incarnated-as-jack-the-ripper",
@@ -9855,7 +9832,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Redjac entity, incarnated as \"Jack the Ripper\", kills ten women in Heliopolis on Alpha Eridani II.",
+      "summary": "Redjac, again as Jack the Ripper, kills ten women at Heliopolis on Alpha Eridani II.",
       "entities": [
         "Redjac",
         "Heliopolis",
@@ -9879,7 +9856,7 @@
         "https://memory-alpha.fandom.com/wiki/2156"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2157-janice-lee-raymond-dies",
@@ -9901,7 +9878,7 @@
         "https://memory-alpha.fandom.com/wiki/2157"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2157-the-illyrian-ship-disabled-by-enterprise-nx-01-in",
@@ -9909,7 +9886,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Illyrian ship disabled by Enterprise NX-01 in 2154 was slated to have returned to the Illyrian star system in this year.",
+      "summary": "The Illyrian ship Enterprise crippled in 2154 was due home this year.",
       "entities": [
         "Illyrian"
       ],
@@ -9931,7 +9908,7 @@
         "https://memory-alpha.fandom.com/wiki/2157"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2158-shran-fakes-his-own-death-in-order-to-protect-his",
@@ -9939,7 +9916,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Shran fakes his own death in order to protect his family from criminals, business partners who believe he stole a Tenebian amethyst from them.",
+      "summary": "Shran fakes his death to shield his family from partners who believe he stole a Tenebian amethyst.",
       "entities": [
         "Tenebian amethyst"
       ],
@@ -9961,7 +9938,7 @@
         "https://memory-alpha.fandom.com/wiki/2158"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2159-a-starship-disappears-near-the-taurean-region",
@@ -9969,7 +9946,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A starship disappears near the Taurean region.",
+      "summary": "Another ship is lost near the Taurean region.",
       "entities": [
         "Taurean system"
       ],
@@ -9991,29 +9968,7 @@
         "https://memory-alpha.fandom.com/wiki/2159"
       ],
       "landmark": false,
-      "prose": "source"
-    },
-    {
-      "id": "2159-the-aborted-film-star-trek-the-beginning-was-to-b",
-      "year": 2159,
-      "date": null,
-      "stardate": null,
-      "timeline": "prime",
-      "summary": "The aborted film Star Trek: The Beginning was to be set during August and September of this year.",
-      "entities": [
-        "Star Trek: The Beginning"
-      ],
-      "kind": null,
-      "group": null,
-      "section": "Events",
-      "series": [],
-      "episodes": [],
-      "significance": 3,
-      "sources": [
-        "https://memory-alpha.fandom.com/wiki/2159"
-      ],
-      "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2159-the-leaders-of-two-opposing-factions-on-kiley-279",
@@ -10021,7 +9976,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The leaders of two opposing factions on Kiley 279 meet in the same room. It will be the last time for a century.",
+      "summary": "Two rival Kiley 279 factions meet face to face for the last time in a century.",
       "entities": [
         "Kiley 279"
       ],
@@ -10043,30 +9998,7 @@
         "https://memory-alpha.fandom.com/wiki/2159"
       ],
       "landmark": false,
-      "prose": "source"
-    },
-    {
-      "id": "2159-the-storyline-for-star-trek-legacy-begins-on-9-ma",
-      "year": 2159,
-      "date": null,
-      "stardate": null,
-      "timeline": "prime",
-      "summary": "The storyline for Star Trek: Legacy begins on 9 May of this year.",
-      "entities": [
-        "Star Trek: Legacy",
-        "May"
-      ],
-      "kind": null,
-      "group": null,
-      "section": "Events",
-      "series": [],
-      "episodes": [],
-      "significance": 3,
-      "sources": [
-        "https://memory-alpha.fandom.com/wiki/2159"
-      ],
-      "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2160-the-earth-survey-ship-velikan-is-launched",
@@ -10074,7 +10006,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Earth survey ship Velikan is launched.",
+      "summary": "The survey ship Velikan departs Earth.",
       "entities": [],
       "kind": "launch",
       "group": null,
@@ -10094,7 +10026,7 @@
         "https://memory-alpha.fandom.com/wiki/2160"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2160-the-humiliating-defeat-of-the-romulans-at-the-batt",
@@ -10102,7 +10034,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The humiliating defeat of the Romulans at the Battle of Cheron effectively ends the Earth-Romulan War. This victory was achieved by an alliance comprised of Earth, Vulcan, Andorian, and Tellarite forces.",
+      "summary": "The rout of the Romulans at Cheron ends the Earth-Romulan War.",
       "entities": [
         "Romulan",
         "Battle of Cheron",
@@ -10129,7 +10061,7 @@
         "https://memory-alpha.fandom.com/wiki/2160"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2161-charles-tucker-iii-dies",
@@ -10159,7 +10091,7 @@
         "https://memory-alpha.fandom.com/wiki/2161"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2161-enterprise-nx-01-is-retired-from-service",
@@ -10167,7 +10099,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Enterprise NX-01 is retired from service.",
+      "summary": "Enterprise NX-01 is retired.",
       "entities": [],
       "kind": null,
       "group": "Enterprise NX-01",
@@ -10187,7 +10119,7 @@
         "https://memory-alpha.fandom.com/wiki/2161"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2161-starfleet-academy-is-established",
@@ -10195,7 +10127,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet Academy is established.",
+      "summary": "Starfleet Academy is founded.",
       "entities": [
         "Starfleet Academy"
       ],
@@ -10223,7 +10155,7 @@
         "https://memory-alpha.fandom.com/wiki/2161"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2161-the-macos-are-disbanded-and-maco-personnel-are-abs",

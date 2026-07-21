@@ -183,3 +183,33 @@ test("an alternate-timeline events section is recognised", () => {
   assert.equal(events.length, 1);
   assert.equal(events[0].timeline, "alternate");
 });
+
+// Under a month heading a bullet may give only the day — "19th – ..." — which
+// has no month of its own to match on.
+test("a bare day resolves against the month heading in scope", () => {
+  const { events } = parseYearPage(
+    page("* {{dis|July|month}}\n:* 19th – A thing happens. ({{ENT|Q}})"),
+    2151,
+  );
+  assert.equal(events.length, 1);
+  assert.equal(events[0].date, "2151-07-19");
+  assert.equal(events[0].summary, "A thing happens.");
+});
+
+test("a bare day without a month heading is left alone", () => {
+  const { events } = parseYearPage(page("* 19th – A thing happens. ({{ENT|Q}})"), 2151);
+  assert.equal(events[0].date, null);
+  assert.match(events[0].summary, /^19th/);
+});
+
+// Commentary about the making of Star Trek is not an event within it.
+test("production notes are not events", () => {
+  const wikitext = page(
+    "* The aborted film Star Trek: The Beginning was to be set this year. ({{ENT|Q}})\n" +
+      "* The storyline for a video game begins this year. ({{ENT|Q}})\n" +
+      "* A real event happens. ({{ENT|Q}})",
+  );
+  const { events } = parseYearPage(wikitext, 2159);
+  assert.equal(events.length, 1);
+  assert.equal(events[0].summary, "A real event happens.");
+});
