@@ -41,7 +41,31 @@ export function readHash() {
   };
 }
 
+let pendingWrite = null;
+
+/**
+ * Coalesce hash writes.
+ *
+ * A single trackpad zoom emits dozens of wheel events, and writing the hash on
+ * each one hits the browser's replaceState rate limit — Safari throws a
+ * SecurityError past ~100 calls in 30 seconds. Callers that fire continuously
+ * use this; discrete changes like a filter click can write immediately.
+ */
+export function scheduleHashWrite(state) {
+  if (pendingWrite !== null) clearTimeout(pendingWrite);
+  pendingWrite = setTimeout(() => {
+    pendingWrite = null;
+    writeHash(state);
+  }, 150);
+}
+
 export function writeHash(state) {
+  // A queued coalesced write would otherwise land after this one and undo it.
+  if (pendingWrite !== null) {
+    clearTimeout(pendingWrite);
+    pendingWrite = null;
+  }
+
   const params = new URLSearchParams();
 
   if (state.timeline !== DEFAULT_STATE.timeline) params.set("timeline", state.timeline);

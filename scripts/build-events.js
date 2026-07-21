@@ -9,7 +9,7 @@
  */
 
 import { readFile, writeFile } from "node:fs/promises";
-import { fetchWikitext, isCached } from "./lib/api.js";
+import { fetchWikitext, isCached, saveCache } from "./lib/api.js";
 import { parseYearPage } from "./lib/parse-year.js";
 import { fetchOverlay } from "./lib/wikipedia.js";
 import {
@@ -56,6 +56,9 @@ for (let year = FROM; year <= TO; year++) {
     process.stdout.write(`\r${mark} ${year}: ${parsed.events.length} events   `);
   }
 }
+
+// Flush whatever the checkpointing left pending.
+await saveCache();
 
 console.log(`\n\nFetching Wikipedia overlay…`);
 const overlay = await fetchOverlay({ minYear: FROM, maxYear: TO });
@@ -106,6 +109,7 @@ const output = {
   events,
 };
 
+await saveCache();
 await writeFile("data/events.json", JSON.stringify(output, null, 2) + "\n");
 
 console.log(`\n=== summary ===`);

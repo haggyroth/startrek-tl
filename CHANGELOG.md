@@ -16,6 +16,16 @@ All notable changes to this project are documented here.
   real event appended after it — landmark matches 47 -> 49, unmatched 65 -> 43
 - feat(data): validator now checks overrides and fails on open conflicts
 
+## [1.2.0]
+
+- fix(state): coalesce hash writes; zoom called replaceState once per wheel
+  event and could hit the browser's rate limit
+- perf(ui): render the data table only when visible, not on every filter change
+- perf(data): checkpoint the scrape cache instead of rewriting it per fetch
+- fix(data): write the cache atomically so a crash cannot truncate it
+- fix(data): guard against unexpected API response shapes
+- test: 84 tests
+
 ## [1.1.0]
 
 - test: 78-test suite on node:test — no dependencies

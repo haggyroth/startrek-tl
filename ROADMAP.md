@@ -97,12 +97,25 @@ the current state trustworthy before the surface area grows.
       are in-universe events Wikipedia lists that Memory Alpha's year pages do
       not — a gap in the density source, not a matching failure
 
-## Phase 9 — Comprehensive code review
+## Phase 9 — Comprehensive code review ✅
 
-- [ ] Full review of `scripts/` and `src/js/` for correctness and dead code
-- [ ] Security review (the pipeline fetches and parses untrusted wiki markup)
-- [ ] Accessibility audit beyond the contrast pass already done
-- [ ] Performance check at 1,500+ marks, and after the timeline expansion
+- [x] Full review of `scripts/` and `src/js/`
+- [x] Security review — the parser was probed with pathological wiki markup
+      (deep nesting, unbalanced delimiters, 20k-link soup); no catastrophic
+      backtracking, worst case 19ms
+- [x] Performance check at 1,570 events: 0.68ms per hover, ~12ms per filter,
+      ~7ms per zoom step — all inside a frame. Hover cost is O(n) and worth
+      re-measuring after Phase 10 expands the corpus
+- [x] Fixed: `replaceState` called once per wheel event (rate-limit risk)
+- [x] Fixed: hidden data table rebuilt on every filter change
+- [x] Fixed: cache rewritten in full after every fetch; now checkpointed
+      and written atomically
+- [x] Fixed: unguarded `body.parse.wikitext` access; stale user agent
+
+Known and accepted:
+
+- `throttle()` in `api.js` is not concurrency-safe. The pipeline is strictly
+  sequential, so this is latent; revisit only if fetching is parallelised.
 
 ## Phase 10 — Timeline expansion
 

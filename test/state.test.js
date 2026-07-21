@@ -16,9 +16,19 @@ function stubBrowser(hash = "") {
 }
 
 stubBrowser();
-const { readHash, writeHash, applyFilters, DEFAULT_STATE, FULL_RANGE } = await import(
-  "../src/js/state.js"
-);
+const { readHash, writeHash, scheduleHashWrite, applyFilters, DEFAULT_STATE, FULL_RANGE } =
+  await import("../src/js/state.js");
+
+function countingBrowser() {
+  stubBrowser("");
+  const inner = globalThis.history.replaceState;
+  const state = { calls: 0 };
+  globalThis.history.replaceState = (...args) => {
+    state.calls++;
+    return inner(...args);
+  };
+  return state;
+}
 
 test("an empty hash yields the defaults", () => {
   stubBrowser("");
@@ -107,4 +117,31 @@ test("filters combine", () => {
 test("the year range does not filter events", () => {
   const withYears = applyFilters(events, { ...DEFAULT_STATE, years: [2400, 2402] });
   assert.equal(withYears.length, applyFilters(events, { ...DEFAULT_STATE }).length);
+});
+
+// A single trackpad zoom emits dozens of wheel events. Writing the hash on each
+// one hit the browser's replaceState rate limit — Safari throws past ~100 calls
+// in 30 seconds — so bursts must coalesce.
+test("scheduleHashWrite coalesces a burst into one write", async () => {
+  const counter = countingBrowser();
+
+  for (let i = 0; i < 40; i++) {
+    scheduleHashWrite({ ...DEFAULT_STATE, years: [2300 + i, 2400] });
+  }
+  assert.equal(counter.calls, 0, "must not write synchronously during the burst");
+
+  await new Promise((r) => setTimeout(r, 250));
+  assert.equal(counter.calls, 1, "the burst must settle to exactly one write");
+  assert.equal(globalThis.location.hash, "#years=2339-2400", "the last state wins");
+});
+
+test("an immediate write cancels a queued one", async () => {
+  const counter = countingBrowser();
+
+  scheduleHashWrite({ ...DEFAULT_STATE, years: [2300, 2400] });
+  writeHash({ ...DEFAULT_STATE, series: new Set(["DS9"]) });
+
+  await new Promise((r) => setTimeout(r, 250));
+  assert.equal(counter.calls, 1, "the queued write must not fire after the direct one");
+  assert.equal(globalThis.location.hash, "#series=DS9", "the direct write must win");
 });

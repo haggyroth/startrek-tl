@@ -9,7 +9,7 @@
  * Cache keys are namespaced by site, so "ma:2373" and "wp:2373" can't collide.
  */
 
-import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir, rename } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -28,13 +28,23 @@ export const SITES = {
   },
 };
 
-const USER_AGENT = "startrek-tl/0.1 (personal project; contact via repo owner)";
+const USER_AGENT = "startrek-tl (personal project; https://github.com/haggyroth/startrek-tl)";
 
 /** Minimum milliseconds between network requests. Be a good citizen. */
 const RATE_LIMIT_MS = 1000;
 
 let cache = null;
 let lastRequest = 0;
+let dirty = 0;
+
+/**
+ * Fetches between cache flushes.
+ *
+ * Writing the whole cache after every page made a cold run quadratic: 175
+ * rewrites of a file that grows to half a megabyte. Checkpointing keeps the
+ * cost linear while still bounding how much a crash can lose.
+ */
+const FLUSH_EVERY = 25;
 
 async function loadCache() {
   if (cache) return cache;
@@ -46,9 +56,18 @@ async function loadCache() {
   return cache;
 }
 
-async function saveCache() {
+/**
+ * Write the cache atomically — a crash mid-write would otherwise leave a
+ * truncated JSON file that the next run cannot parse, silently discarding
+ * every cached page and re-scraping the whole wiki.
+ */
+export async function saveCache() {
+  if (!cache) return;
   await mkdir(dirname(CACHE_PATH), { recursive: true });
-  await writeFile(CACHE_PATH, JSON.stringify(cache, null, 2) + "\n");
+  const tmp = `${CACHE_PATH}.tmp`;
+  await writeFile(tmp, JSON.stringify(cache, null, 2) + "\n");
+  await rename(tmp, CACHE_PATH);
+  dirty = 0;
 }
 
 async function throttle() {
@@ -84,11 +103,13 @@ export async function fetchWikitext(title, { force = false, site = "ma" } = {}) 
   if (!res.ok) throw new Error(`${title}: HTTP ${res.status}`);
 
   const body = await res.json();
-  // Missing pages come back as a structured error, not an HTTP failure.
-  const wikitext = body.error ? null : body.parse.wikitext;
+  // Missing pages come back as a structured error, not an HTTP failure. Read
+  // defensively: an unexpected shape should not crash a 170-page run with a
+  // bare TypeError.
+  const wikitext = body?.error ? null : (body?.parse?.wikitext ?? null);
 
   store[key] = wikitext;
-  await saveCache();
+  if (++dirty >= FLUSH_EVERY) await saveCache();
   return wikitext;
 }
 

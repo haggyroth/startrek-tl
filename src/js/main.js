@@ -10,7 +10,7 @@ import { loadEvents, locationsByFrequency, seriesByFrequency } from "./data.js";
 import { DensityChart } from "./chart.js";
 import { Tooltip } from "./tooltip.js";
 import { buildControls } from "./controls.js";
-import { applyFilters, readHash, writeHash, FULL_RANGE } from "./state.js";
+import { applyFilters, readHash, writeHash, scheduleHashWrite, FULL_RANGE } from "./state.js";
 
 const chartRoot = document.querySelector("#chart");
 const statusNode = document.querySelector("#status");
@@ -120,7 +120,9 @@ async function init() {
     // Zoom gestures write straight back into state so the URL keeps up.
     onDomainChange: (years) => {
       state = { ...state, years };
-      writeHash(state);
+      // Zoom fires continuously; coalesce so the browser's replaceState rate
+      // limit is never reached.
+      scheduleHashWrite(state);
       refreshChrome();
     },
   });
@@ -144,6 +146,9 @@ async function init() {
   });
 
   let filtered = [];
+  let tableStale = true;
+  const toggle = document.querySelector("#table-toggle");
+  const tableWrap = document.querySelector("#table-view");
 
   function refreshChrome() {
     const zoomed = chart.isZoomed();
@@ -158,7 +163,10 @@ async function init() {
 
     sync(state);
     renderStats(filtered);
-    renderTable(filtered);
+    // The table is built on demand: rendering ~9,000 hidden cells on every
+    // filter change was about half the cost of the interaction.
+    tableStale = true;
+    if (!tableWrap.hidden) renderTable(filtered);
     writeHash(state);
     refreshChrome();
 
@@ -178,13 +186,15 @@ async function init() {
     apply();
   });
 
-  const toggle = document.querySelector("#table-toggle");
-  const tableWrap = document.querySelector("#table-view");
   toggle.addEventListener("click", () => {
     const showing = tableWrap.hidden;
     tableWrap.hidden = !showing;
     toggle.setAttribute("aria-expanded", String(showing));
     toggle.textContent = showing ? "Hide data table" : "Show data table";
+    if (showing && tableStale) {
+      renderTable(filtered);
+      tableStale = false;
+    }
   });
 
   apply();
