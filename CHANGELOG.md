@@ -2,7 +2,7 @@
 
 All notable changes to this project are documented here.
 
-## [Unreleased]
+## [0.4.0]
 
 - feat(filters): timeline, series and location filters that re-bin the curve
 - feat(chart): wheel zoom and drag pan on the year axis, with reset control
