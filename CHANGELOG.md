@@ -2,7 +2,7 @@
 
 All notable changes to this project are documented here.
 
-## [Unreleased]
+## [1.0.0]
 
 - feat(a11y): keyboard navigation with a roving tabindex and arrow/Home/End keys
 - feat(ui): vendor the Antonio variable webfont (SIL OFL 1.1)
