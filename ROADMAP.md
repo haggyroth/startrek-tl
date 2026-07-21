@@ -35,13 +35,15 @@ Outstanding:
 - [x] Location panel driven by the `group` field, with highlight on select
 - [x] Accessible data table view; light and dark themes
 
-## Phase 4 — Filters and interaction
+## Phase 4 — Filters and interaction ✅
 
-- [ ] Series toggles that re-bin the curve live
-- [ ] Promote the location panel from highlight to a real filter
-- [ ] Timeline filter, defaulting to prime-only
-- [ ] X-axis zoom and pan, with the stardate axis tracking
-- [ ] Filter and zoom state serialized to the URL hash
+- [x] Series toggles that re-bin the curve live
+- [x] Location promoted from highlight to a real filter
+- [x] Timeline filter, defaulting to prime-only
+- [x] X-axis zoom and pan, with the stardate axis tracking
+- [x] Filter and zoom state serialized to the URL hash
+- [x] `hashchange` handling, so pasted links and back/forward work
+- [x] Live view summary, empty state, and reset-zoom control
 
 ## Phase 5 — LCARS chrome
 

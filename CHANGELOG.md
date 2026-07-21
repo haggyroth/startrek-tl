@@ -2,6 +2,15 @@
 
 All notable changes to this project are documented here.
 
+## [Unreleased]
+
+- feat(filters): timeline, series and location filters that re-bin the curve
+- feat(chart): wheel zoom and drag pan on the year axis, with reset control
+- feat(state): filter and zoom state serialized to the URL hash
+- feat(a11y): live view summary and empty state
+- fix(chart): re-sync the zoom transform on resize
+- fix(chart): cap stack row height so sparse filters render compactly
+
 ## [0.3.0]
 
 - feat(chart): stacked-dot density chart with year and stardate axes

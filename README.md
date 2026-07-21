@@ -13,9 +13,12 @@ waveform reshapes to whatever subset you're looking at.
 
 ## Status
 
-Phases 1–3 complete. The chart renders 1,486 prime-timeline events across
-2233–2402, with hover tooltips and a location highlight. Series filtering and
-zoom are Phase 4; the LCARS chrome is Phase 5.
+Phases 1–4 complete. The chart renders 1,486 prime-timeline events across
+2233–2402 with hover tooltips, timeline/series/location filters that re-bin the
+curve, zoom and pan, and shareable URLs. The LCARS chrome is Phase 5.
+
+Views are linkable — for example
+`#timeline=all&series=DS9&years=2370-2380`.
 
 See [ROADMAP.md](ROADMAP.md) for the build plan.
 
