@@ -118,7 +118,25 @@ changing them.
   conversion, not a dual-axis chart. Never add a second *measure* axis.
 - Series filters re-bin the curve live; they do not merely hide points. The
   waveform must respond to the active filter set.
+- The Y domain follows the *filtered* data, and plot height follows the Y
+  domain (rows are capped at 26px). Without the cap a max-of-1 view strands a
+  lone dot halfway up a 520px plot.
 - Filter and zoom state serializes to the URL hash so views are linkable.
+
+## State
+
+`state.js` owns filter state and URL serialization; `main.js` is the only place
+that mutates it. State flows one way — `update()` patches state, then everything
+re-derives from it — so the URL, the controls and the chart cannot disagree.
+
+- Writes use `replaceState`, so filter changes don't fill up the back button.
+- A `hashchange` listener re-reads state, which is what makes pasted links and
+  browser back/forward work. `replaceState` doesn't fire it, so there's no loop.
+- Zoom is a **view** control, not a filter: it never changes which events are in
+  the filter set, so counts are reported separately from the visible range.
+- d3-zoom's transform is in pixel space, so it must be re-synced on resize and
+  whenever the domain is set in code — otherwise the same transform silently
+  means a different year range.
 
 ## Conventions
 

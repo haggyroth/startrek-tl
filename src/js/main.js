@@ -1,19 +1,21 @@
 /**
- * Wiring: load the dataset, render the chart, and hook up the location panel
- * and the accessible table view.
+ * Wiring: load the dataset, hold filter state, and keep the chart, controls,
+ * summary and table in sync with it.
  *
- * Series filtering and zoom belong to Phase 4; the chart already accepts a
- * filtered event list, so those hook in here without touching chart.js.
+ * State flows one way — update() mutates state, then re-derives everything from
+ * it — so the URL, the controls and the chart can never disagree.
  */
 
-import { loadEvents, locationsByFrequency } from "./data.js";
+import { loadEvents, locationsByFrequency, seriesByFrequency } from "./data.js";
 import { DensityChart } from "./chart.js";
 import { Tooltip } from "./tooltip.js";
-
-const RANGE = [2233, 2402];
+import { buildControls } from "./controls.js";
+import { applyFilters, readHash, writeHash, FULL_RANGE } from "./state.js";
 
 const chartRoot = document.querySelector("#chart");
 const statusNode = document.querySelector("#status");
+const summaryNode = document.querySelector("#summary");
+const resetNode = document.querySelector("#reset-zoom");
 
 function setStatus(message, isError = false) {
   statusNode.textContent = message;
@@ -21,14 +23,11 @@ function setStatus(message, isError = false) {
   statusNode.hidden = !message;
 }
 
-function renderStats(events, meta) {
-  const withDate = events.filter((e) => e.date).length;
-  const landmarks = events.filter((e) => e.landmark).length;
+function renderStats(events) {
   const stats = [
     ["Events", events.length.toLocaleString()],
-    ["Years", `${RANGE[0]}–${RANGE[1]}`],
-    ["Landmarks", landmarks],
-    ["Dated", withDate],
+    ["Landmarks", events.filter((e) => e.landmark).length],
+    ["Dated", events.filter((e) => e.date).length],
   ];
 
   const list = document.querySelector("#stats");
@@ -45,46 +44,29 @@ function renderStats(events, meta) {
     item.append(v, l);
     list.appendChild(item);
   }
-
-  document.querySelector("#generated").textContent = meta.generated;
 }
 
 /**
- * The location panel. `group` is Memory Alpha's per-year ship/station
- * subheading — about three quarters of events carry one — which makes it a
- * usable second axis alongside series.
+ * A plain-language description of the current view, for sighted and AT users.
+ *
+ * Zoom is a view control, not a filter, so the counts are kept distinct: the
+ * filter total first, then how many of those the zoomed window actually shows.
  */
-function renderLocations(events, chart) {
-  const panel = document.querySelector("#locations");
-  panel.replaceChildren();
+function describe(state, events, domain, isZoomed) {
+  const parts = [`${events.length.toLocaleString()} event${events.length === 1 ? "" : "s"}`];
 
-  let active = null;
+  parts.push(state.timeline === "all" ? "across all timelines" : `on the ${state.timeline} timeline`);
+  if (state.series) parts.push(`in ${[...state.series].sort().join(", ")}`);
+  if (state.location) parts.push(`at ${state.location}`);
 
-  for (const { name, count } of locationsByFrequency(events)) {
-    const chip = document.createElement("button");
-    chip.type = "button";
-    chip.className = "chip";
-    chip.setAttribute("aria-pressed", "false");
+  let text = `${parts.join(" ")}.`;
 
-    const label = document.createElement("span");
-    label.textContent = name;
-    const badge = document.createElement("span");
-    badge.className = "chip-count";
-    badge.textContent = count;
-    chip.append(label, badge);
-
-    chip.addEventListener("click", () => {
-      const isActive = active === name;
-      active = isActive ? null : name;
-
-      for (const other of panel.querySelectorAll(".chip")) {
-        other.setAttribute("aria-pressed", String(!isActive && other === chip));
-      }
-      chart.setHighlight(active ? (d) => d.group === active : null);
-    });
-
-    panel.appendChild(chip);
+  if (isZoomed) {
+    const inView = events.filter((e) => e.year >= domain[0] && e.year <= domain[1]).length;
+    text += ` Showing ${inView.toLocaleString()} in ${domain[0]}–${domain[1]}.`;
   }
+
+  return text;
 }
 
 function renderTable(events) {
@@ -124,25 +106,77 @@ async function init() {
   }
 
   setStatus("");
+  document.querySelector("#generated").textContent = data.meta.generated;
 
-  // Prime timeline only by default. Kelvin, Mirror and alternate-timeline
-  // events must never be binned into the same curve as prime canon.
-  const events = data.events.filter((e) => e.timeline === "prime");
+  let state = readHash();
 
   const tooltip = new Tooltip(document.body);
   const chart = new DensityChart(chartRoot, {
-    range: RANGE,
+    range: FULL_RANGE,
     onHover: (event, domEvent) => {
-      if (!event) tooltip.hide();
+      if (!event || !domEvent?.currentTarget) tooltip.hide();
       else tooltip.show(event, domEvent.currentTarget);
+    },
+    // Zoom gestures write straight back into state so the URL keeps up.
+    onDomainChange: (years) => {
+      state = { ...state, years };
+      writeHash(state);
+      refreshChrome();
     },
   });
 
-  chart.setData(events).render();
+  // Control options are derived from the whole dataset, not the filtered view,
+  // so filtering never makes a control disappear out from under the pointer.
+  const timelineCounts = new Map();
+  for (const e of data.events) {
+    timelineCounts.set(e.timeline, (timelineCounts.get(e.timeline) ?? 0) + 1);
+  }
 
-  renderStats(events, data.meta);
-  renderLocations(events, chart);
-  renderTable(events);
+  const sync = buildControls({
+    getState: () => state,
+    update: (patch) => {
+      state = { ...state, ...patch };
+      apply();
+    },
+    seriesCounts: seriesByFrequency(data.events),
+    locationCounts: locationsByFrequency(data.events),
+    timelineCounts,
+  });
+
+  let filtered = [];
+
+  function refreshChrome() {
+    const zoomed = chart.isZoomed();
+    summaryNode.textContent = describe(state, filtered, chart.domain, zoomed);
+    resetNode.hidden = !zoomed;
+  }
+
+  function apply() {
+    filtered = applyFilters(data.events, state);
+
+    chart.setData(filtered).setDomain(state.years).render();
+
+    sync(state);
+    renderStats(filtered);
+    renderTable(filtered);
+    writeHash(state);
+    refreshChrome();
+
+    document.querySelector("#empty").hidden = filtered.length > 0;
+  }
+
+  resetNode.addEventListener("click", () => {
+    state = { ...state, years: null };
+    apply();
+  });
+
+  // A pasted link or a back/forward step changes the hash without reloading the
+  // document. Our own writeHash uses replaceState, which does not fire this, so
+  // there is no feedback loop.
+  window.addEventListener("hashchange", () => {
+    state = readHash();
+    apply();
+  });
 
   const toggle = document.querySelector("#table-toggle");
   const tableWrap = document.querySelector("#table-view");
@@ -152,6 +186,8 @@ async function init() {
     toggle.setAttribute("aria-expanded", String(showing));
     toggle.textContent = showing ? "Hide data table" : "Show data table";
   });
+
+  apply();
 }
 
 init();
