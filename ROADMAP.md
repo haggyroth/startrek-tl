@@ -59,32 +59,104 @@ Outstanding:
 - [x] `prefers-reduced-motion` support
 - [x] Contrast audit on the LCARS palette
 
-## Possible next steps
+## Phase 7 — Fact extraction ✅ (priority tier)
 
-- Resolve the 2 `timelineConflict` events and review
-  `data/unmatched-overlay.json`
-- Extend beyond 2233–2402 (the schema already allows it)
-- Sampled verification pass over the dataset by era
-
-## Phase 7 — Fact extraction and licensing (in progress)
-
-Memory Alpha's *prose* is theirs; the facts are not. To license the project
-cleanly, every summary must be written independently from the extracted fact
-record rather than paraphrased from the source.
+Memory Alpha's *prose* is theirs; the facts are not. Summaries are written
+independently from the extracted fact record rather than paraphrased.
 
 - [x] Fact extractor: entities from wiki-link targets, event kind, quoted names
-- [x] `data/summaries.json` — authored summaries merged over the scrape
+- [x] `data/summaries.json` — authored summaries merged at build time
 - [x] `--strict` build mode that refuses to emit scraped prose
-- [x] Originality check comparing authored lines against the source
-- [ ] Author the remaining summaries (47 / 1,533 done)
-- [ ] Rewrite git history before publishing — earlier commits still contain
-      the verbatim scrape
-- [ ] Add LICENSE (code) and data/LICENSE once the rewrite is complete
+- [x] Originality check against the pre-rewrite scrape
+- [x] All 175 priority events (significance >= 4) authored — 222/1,533 total
+
+---
+
+## Phase 8 — Correctness and hardening
+
+Everything shipped so far is unverified beyond spot checks. This phase makes
+the current state trustworthy before the surface area grows.
+
+- [ ] Resolve the 2 `timelineConflict` events by hand
+- [ ] Review `data/unmatched-overlay.json` (65 entries) — some are phrasing
+      mismatches that should have matched, some are genuinely absent upstream
+- [ ] Unit tests for the pipeline: `wikitext` cleaning, `parse-year`, overlay
+      matching, `state` hash round-trip, stardate conversion
+- [ ] Fixture-based regression test so a parser change that silently drops
+      events fails the suite
+- [ ] CI on GitHub Actions: tests + a build that must reproduce `events.json`
+      byte-for-byte (the pipeline is meant to be idempotent)
+- [ ] Branch protection on `main`: require CI green, no force-push
+
+## Phase 9 — Comprehensive code review
+
+- [ ] Full review of `scripts/` and `src/js/` for correctness and dead code
+- [ ] Security review (the pipeline fetches and parses untrusted wiki markup)
+- [ ] Accessibility audit beyond the contrast pass already done
+- [ ] Performance check at 1,500+ marks, and after the timeline expansion
+
+## Phase 10 — Timeline expansion
+
+Deliberately after hardening: expanding first would multiply the cost of every
+bug found in Phase 8. The schema and pipeline already allow any year range.
+
+- [ ] 22nd century (ENT, 2151–2161) and the 2160s–2232 gap
+- [ ] 25th century beyond 2402, and the 32nd (DIS seasons 3–5)
+- [ ] Pre-2151 milestones (First Contact 2063, the Eugenics Wars)
+- [ ] Decide how a non-contiguous range renders — a 900-year gap on a linear
+      axis is mostly whitespace; likely needs era segmentation
+- [ ] Re-tune the parser against the new pages before a full run
+
+## Phase 11 — Complete the rewrite
+
+- [ ] Author the remaining summaries (222 / 1,533 done, plus whatever
+      Phase 10 adds)
+- [ ] Switch the committed build to `--strict` so the repo holds no scraped
+      prose at all
+- [ ] Surface a "Read on Memory Alpha" link per event, so unauthored events
+      still lead somewhere useful
+
+## Phase 12 — Verification pass
+
+- [ ] Sampled accuracy check by era against the source, with a recorded
+      error rate — exhaustive review of 1,500+ records is not realistic
+- [ ] Verify every authored summary states the same facts as its source
+- [ ] Check date and stardate fields against episode references
+- [ ] Publish the sampling method and result in the README
+
+## Phase 13 — Licensing
+
+Blocked on Phases 11 and 12 — licensing terms can only describe what the
+repository actually contains.
+
+- [ ] Confirm the dataset carries no Memory Alpha expression
+- [ ] `LICENSE` for the code (MIT is the likely choice)
+- [ ] `data/LICENSE` describing the dataset's provenance and terms
+- [ ] Attribution for Memory Alpha (CC BY-NC-SA) and Wikipedia (CC BY-SA 4.0)
+- [ ] Decide whether the dataset can be released permissively or must stay
+      share-alike
+
+## Phase 14 — Git history rewrite
+
+Must be the last step before publishing, and cannot be undone.
+
+- [ ] Squash the data history so no commit contains the verbatim scrape
+      (commits from `c1b4aa9` onward currently do)
+- [ ] Verify with `git log -p -- data/events.json` that nothing survives
+- [ ] Force-push the rewritten history *before* the repo is made public
+
+## Phase 15 — Documentation and publish
+
+- [ ] README, CLAUDE.md and ROADMAP reconciled with the shipped state
+- [ ] Document the pipeline end to end, including how to add summaries
+- [ ] Contributor notes: how to run tests, how the build must stay idempotent
+- [ ] Flip the repo to public
 
 ## Deferred decisions
 
-- **Licensing.** The dataset is CC BY-NC-SA via Memory Alpha, so no LICENSE file
-  has been added. Must be resolved deliberately before publishing.
-- **Hosting.** Repo is private and local-only; no remote, no CI, no deploy.
-- **Pre-2233 and post-2402 events.** Out of scope for the first pass; the
-  schema doesn't preclude them.
+- **Licensing** — owned by Phase 13. No LICENSE file until the dataset's
+  contents are settled; terms have to describe what is actually in the repo.
+- **Hosting.** The repo is private on GitHub. No deploy target chosen; the site
+  is static, so GitHub Pages is the obvious candidate once it is public.
+- **Era segmentation.** Phase 10 will likely force a decision about rendering
+  non-contiguous eras on one axis.
