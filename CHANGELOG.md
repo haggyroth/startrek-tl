@@ -16,6 +16,14 @@ All notable changes to this project are documented here.
   real event appended after it — landmark matches 47 -> 49, unmatched 65 -> 43
 - feat(data): validator now checks overrides and fails on open conflicts
 
+## [1.5.0]
+
+- data: ENT era (2101–2161) authored in full; 591 of 2,037 summaries (29%)
+- fix(data): {{nth|23|sup}} rendered as "sup" instead of an ordinal
+- fix(data): month-range headings ("October-December") became events
+- feat(data): bare day prefixes ("19th – ...") resolve against the month heading
+- feat(data): production notes about unmade films and games are not events
+
 ## [1.4.0]
 
 - feat(ui): source link in the tooltip and on the table's year cell

@@ -35,10 +35,18 @@ export const FILMS = {
 
 const SERIES_ALT = SERIES_CODES.join("|");
 
+/** English ordinal suffix: 1 -> 1st, 23 -> 23rd, 111 -> 111th. */
+function ordinal(n) {
+  const mod100 = n % 100;
+  if (mod100 >= 11 && mod100 <= 13) return `${n}th`;
+  return `${n}${{ 1: "st", 2: "nd", 3: "rd" }[n % 10] ?? "th"}`;
+}
+
 /** Zero-argument templates that carry no text of their own. */
 const STRUCTURAL_TEMPLATES = new Set([
   "multiple", "mbeta", "timeline nav", "bginfo", "decades", "century nav",
   "sidebar year", "clear", "reflist", "stub", "incomplete",
+  "sup", "sub", "nowrap", "small",
 ]);
 
 /** Zero-argument shortcuts whose name is not the text a reader wants. */
@@ -114,6 +122,10 @@ export function cleanText(text) {
   // Anchors are invisible link targets. Their argument is not display text —
   // leaving it in produced "April_5thApril 5th – ...".
   s = s.replace(/\{\{\s*(?:visible\s+)?anchors?\s*\|[^}]*\}\}/gi, "");
+
+  // {{nth|23|sup}} renders an ordinal number. The last-argument rule read the
+  // formatting hint instead, leaving "June sup:" where "June 23rd" belonged.
+  s = s.replace(/\{\{\s*nth\s*\|\s*(\d+)[^}]*\}\}/gi, (_, n) => ordinal(Number(n)));
 
   // Zero-argument templates are almost all name shortcuts: {{EnterpriseNX}},
   // {{Shran}}, {{Trip Tucker}}. Deleting them removed the subject of the
