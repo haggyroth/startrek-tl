@@ -145,7 +145,9 @@ Known and accepted:
       100%
 - [x] ENT era (2101–2161) authored in full — 213 events
 - [x] 2063–2100 authored in full — 53 events
-- [ ] Author the remaining summaries — **638 / 2,037 (31%)**
+- [x] 2162–2232 gap authored in full — 51 events. Everything before the
+      23rd century is now authored
+- [ ] Author the remaining summaries — **689 / 2,037 (34%)**
 - [ ] Switch the committed build to `--strict`
 
 On the strict flip: the capability works and is tested, but flipping it now
@@ -159,7 +161,7 @@ Coverage by era:
 |---|---|
 | **2063–2100** | **53 / 53 ✅** |
 | **ENT (2101–2161)** | **213 / 213 ✅** |
-| Gap (2162–2232) | 9 / 60 |
+| **Gap (2162–2232)** | **60 / 60 ✅** |
 | 23rd century | 138 / 453 |
 | 24th century | 92 / 1,125 |
 | **Far future** | **133 / 133 ✅** |
