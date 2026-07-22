@@ -88,6 +88,14 @@ decides and the decision goes in `data/timeline-overrides.json` *with its
 reasoning*. The validator fails on any open conflict and on any override
 lacking a note, so resolutions are never silently re-litigated.
 
+`data/timeline-overrides.json` isn't limited to overlay conflicts — it's a
+general hand-reviewed corrections file. `detectTimeline()`'s phrase matching
+also gets fooled directly (not via the overlay) by a same-timeline
+back-reference bullet, or by a mirror/alternate mention buried in an
+italicized aside on an otherwise-prime event. Confirm a pattern is a genuine
+one-off (`grep -c` the phrase across `data/events.raw.json`) before adding an
+override; if it recurs, fix the parser instead.
+
 **Wikipedia's chronology mixes in production metadata** — "The events of
 Discovery season 1 take place". Those are not in-universe events. They are
 stripped sentence-wise at parse time, keeping any real event appended after

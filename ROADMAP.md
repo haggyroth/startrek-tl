@@ -157,8 +157,13 @@ Known and accepted:
 - [x] Fixed the verifier's stardate-range check, which had no epoch floor and
       flagged real, correctly-authored summaries in pre-2323 years — where
       `CLAUDE.md` already documents stardates as non-monotonic by design
-- [ ] Author the remaining summaries — **824 / 2,037 (40%)**, 23rd century at
-      60% (273/453)
+- [x] Found and corrected two `detectTimeline()` misclassifications while
+      reading source for authoring (a same-timeline back-reference, and a
+      mirror-universe mention inside an italicized aside on an otherwise-prime
+      event) — recorded in `data/timeline-overrides.json`, each confirmed as
+      the only occurrence of its pattern dataset-wide
+- [ ] Author the remaining summaries — **869 / 2,037 (43%)**, 23rd century at
+      70% (318/453)
 - [ ] Switch the committed build to `--strict`
 
 On the strict flip: the capability works and is tested, but flipping it now
@@ -173,6 +178,6 @@ Coverage by era:
 | **2063–2100** | **53 / 53 ✅** |
 | **ENT (2101–2161)** | **213 / 213 ✅** |
 | **Gap (2162–2232)** | **60 / 60 ✅** |
-| 23rd century | 273 / 453 |
+| 23rd century | 318 / 453 |
 | 24th century | 92 / 1,125 |
 | **Far future** | **133 / 133 ✅** |

@@ -1,6 +1,6 @@
 # Authoring summaries
 
-How to write the remaining summaries. 824 of 2,037 are done; the rest follow
+How to write the remaining summaries. 869 of 2,037 are done; the rest follow
 the same procedure.
 
 ## Why summaries are authored at all
@@ -86,6 +86,31 @@ If a flag is a deliberate deviation, record it in
 Whether the sentence *means* the same thing. That needs a person, and the
 sampling procedure is in the README under "Verification".
 
+## Watch for `timeline` while you read the source
+
+Authoring means reading every bullet's full context, which is a good vantage
+point to notice a wrong `timeline` tag — `detectTimeline()` is a phrase-matching
+heuristic and gets fooled by two patterns found so far, both one-off enough to
+fix as manual corrections rather than parser changes:
+
+- **A back-reference bullet.** "In the same timeline, Commander Thelin becomes
+  first officer..." only makes sense next to the alternate-timeline bullet
+  immediately before it; `detectTimeline()` has no notion of "same as the
+  previous one" and defaults such bullets to `prime`.
+- **A mirror/alternate universe mentioned only in an aside.** "Dr. McCoy spills
+  acid in sickbay, *an event which also apparently happens in the mirror
+  universe...*" is a prime event — the phrase-match saw "mirror universe" and
+  tagged the whole bullet `mirror`. Check which ship/station heading the raw
+  wikitext actually groups the bullet under; that's a stronger signal than the
+  prose.
+
+`data/timeline-overrides.json` isn't limited to Wikipedia-overlay conflicts —
+it's a general hand-reviewed corrections file. Before adding an entry, grep the
+raw cache for the suspicious phrase (`grep -c` across `data/events.raw.json`)
+to confirm it's rare enough to be a one-off; if it recurs, that's a parser fix
+instead. Every entry needs a note explaining the reasoning — `validate:data`
+enforces this.
+
 ## Ids change when summaries change
 
 An event's id is derived from its scraped summary. If a parser fix changes that
@@ -104,10 +129,10 @@ increment — a complete era means an era preset that is entirely clean.
 | 2063–2100 | 53 / 53 ✅ |
 | ENT (2101–2161) | 213 / 213 ✅ |
 | Gap (2162–2232) | 60 / 60 ✅ |
-| 23rd century | 273 / 453 |
+| 23rd century | 318 / 453 |
 | 24th century | 92 / 1,125 |
 | Far future | 133 / 133 ✅ |
 
-Everything before the 23rd century is fully authored, and the 23rd is at 60%
-(180 events remaining, 2259 onward — the SNW/TOS era). The 24th century
-(1,033 remaining) is the last big chunk.
+Everything before the 23rd century is fully authored, and the 23rd is at 70%
+(135 events remaining, 2266 onward). The 24th century (1,033 remaining) is
+the last big chunk.
