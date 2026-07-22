@@ -171,8 +171,8 @@ Known and accepted:
 - [x] 23rd century authored in full — 453 events. Everything through the 23rd
       century is now authored; the 24th century (1,125 events) is the last
       big chunk
-- [ ] Author the remaining summaries — **1,094 / 2,037 (54%)**, 24th century
-      at 182/1,125
+- [ ] Author the remaining summaries — **1,139 / 2,037 (56%)**, 24th century
+      at 227/1,125
 - [ ] Switch the committed build to `--strict`
 
 On the strict flip: the capability works and is tested, but flipping it now
@@ -188,5 +188,5 @@ Coverage by era:
 | **ENT (2101–2161)** | **213 / 213 ✅** |
 | **Gap (2162–2232)** | **60 / 60 ✅** |
 | **23rd century** | **453 / 453 ✅** |
-| 24th century | 182 / 1,125 |
+| 24th century | 227 / 1,125 |
 | **Far future** | **133 / 133 ✅** |
