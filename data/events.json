@@ -7,7 +7,7 @@
     ],
     "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 638,
+    "authoredSummaries": 689,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -10246,7 +10246,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Bethany is set to be released from prison had she served her full sentence.",
+      "summary": "Bethany would have been released from prison this year, had she served her full sentence.",
       "entities": [
         "Bethany"
       ],
@@ -10268,7 +10268,7 @@
         "https://memory-alpha.fandom.com/wiki/2163"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2164-in-this-year-or-shortly-before-a-federation-scout",
@@ -10276,7 +10276,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In this year or shortly before, a Federation scout contacts the civilizations of Ornara and Brekka in the Delos system. The ship reports that Ornara is on the brink of spaceflight. Shortly afterwards, a plague erupts on Ornara. The plague kills many until a cure, felicium, is discovered on Brekka.",
+      "summary": "A Federation scout finds Ornara nearing spaceflight, and a plague that follows is later cured by felicium from neighboring Brekka.",
       "entities": [
         "Delos system scout",
         "Ornara",
@@ -10302,7 +10302,7 @@
         "https://memory-alpha.fandom.com/wiki/2164"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2164-jonathan-archer-is-made-an-honorary-member-of-the",
@@ -10310,7 +10310,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jonathan Archer is made an honorary member of the Andorian Imperial Guard by General Thy'lek Shran.",
+      "summary": "General Thy'lek Shran makes Jonathan Archer an honorary member of the Andorian Imperial Guard.",
       "entities": [
         "Jonathan Archer",
         "Andorian Imperial Guard",
@@ -10334,7 +10334,7 @@
         "https://memory-alpha.fandom.com/wiki/2164"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2164-on-ligon-ii-supersedence-is-challenged-by-the-fir",
@@ -10342,7 +10342,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On Ligon II, supersedence is challenged by the First One, the ruling female of her planet.",
+      "summary": "On Ligon II, the ruling First One sees her hold on supersedence challenged.",
       "entities": [
         "Ligon II",
         "First One"
@@ -10365,7 +10365,7 @@
         "https://memory-alpha.fandom.com/wiki/2164"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2164-the-uss-franklin-under-the-command-of-balthazar-e",
@@ -10407,7 +10407,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Federation starship Archon visits the planet Beta III. The ship is destroyed and its crew is absorbed into the planet's society by the powerful computer Landru.",
+      "summary": "The starship Archon is destroyed at Beta III, its crew absorbed into the society ruled by the computer Landru.",
       "entities": [
         "Beta III",
         "Landru"
@@ -10436,7 +10436,7 @@
         "https://memory-alpha.fandom.com/wiki/2167"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2167-the-federation-starship-uss-essex-is-destroyed-by",
@@ -10444,7 +10444,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Federation starship USS Essex is destroyed by an electromagnetic storm caused by noncorporeal beings in orbit of a class M moon of Mab-Bu VI.",
+      "summary": "The USS Essex is destroyed by an electromagnetic storm raised by noncorporeal beings near a moon of Mab-Bu VI.",
       "entities": [
         "Mab-Bu VI",
         "USS Essex"
@@ -10467,7 +10467,7 @@
         "https://memory-alpha.fandom.com/wiki/2167"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2168-briam-of-krios-prime-is-born",
@@ -10475,7 +10475,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Briam of Krios Prime is born.",
+      "summary": "Briam of Krios Prime born.",
       "entities": [
         "Briam",
         "Krios Prime"
@@ -10498,7 +10498,7 @@
         "https://memory-alpha.fandom.com/wiki/2168"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2168-the-starship-horizon-visits-sigma-iotia-ii-a-plan",
@@ -10506,7 +10506,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The starship Horizon visits Sigma Iotia II, a planet that is home to the pre-warp Iotians. One of the starship's crew members accidentally leaves behind a book, Chicago Mobs of the Twenties. The Horizon is lost shortly after leaving the planet, but transmits a radio frequency distress call that is not received by Starfleet until almost a hundred years later.",
+      "summary": "The Horizon visits the pre-warp Iotians of Sigma Iotia II, leaves behind a book on Chicago gangs, and is lost soon after; its distress call goes unheard for nearly a century.",
       "entities": [
         "Sigma Iotia II",
         "Iotian",
@@ -10530,7 +10530,7 @@
         "https://memory-alpha.fandom.com/wiki/2168"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2169-flint-acquires-a-bottle-of-saurian-brandy-from-thi",
@@ -10538,7 +10538,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Flint acquires a bottle of Saurian brandy from this year.",
+      "summary": "Flint acquires a bottle of Saurian brandy from this vintage.",
       "entities": [
         "Flint",
         "Saurian brandy"
@@ -10561,7 +10561,7 @@
         "https://memory-alpha.fandom.com/wiki/2169"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2169-jonathan-archer-is-named-federation-ambassador-to",
@@ -10592,7 +10592,7 @@
         "https://memory-alpha.fandom.com/wiki/2169"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2169-starfleet-introduces-a-laser-weapon-which-will-not",
@@ -10600,7 +10600,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet introduces a laser weapon which will not be superseded for at least one hundred years.",
+      "summary": "Starfleet introduces a laser weapon that will remain in service for at least a century.",
       "entities": [],
       "kind": null,
       "group": null,
@@ -10620,7 +10620,7 @@
         "https://memory-alpha.fandom.com/wiki/2169"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2170-a-group-of-north-american-indians-leave-earth-in-o",
@@ -10628,7 +10628,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A group of North American Indians leave Earth in order to preserve their cultural identity and to find a new home. One hundred and eighty years later, they eventually settle on Dorvan V near the Cardassian border.",
+      "summary": "A group of Native Americans leave Earth to preserve their culture, eventually settling Dorvan V near the Cardassian border a hundred and eighty years later.",
       "entities": [
         "Native American",
         "Dorvan V",
@@ -10652,7 +10652,7 @@
         "https://memory-alpha.fandom.com/wiki/2170"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2170-a-neutron-star-in-a-binary-star-system-located-in",
@@ -10660,7 +10660,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A neutron star in a binary star system located in the Kavis Alpha sector explodes.",
+      "summary": "A neutron star explodes in a binary system in the Kavis Alpha sector.",
       "entities": [
         "Kavis Alpha sector"
       ],
@@ -10682,7 +10682,7 @@
         "https://memory-alpha.fandom.com/wiki/2170"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2170-the-dax-symbiont-first-serves-as-a-field-docent-fo",
@@ -10690,7 +10690,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Dax symbiont first serves as a field docent for a Trill initiate.",
+      "summary": "The Dax symbiont serves for the first time as a field docent to a Trill initiate.",
       "entities": [
         "Trill symbiont",
         "Trill initiate"
@@ -10713,7 +10713,7 @@
         "https://memory-alpha.fandom.com/wiki/2170"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2172-human-children-may-well-be-growing-up-on-earth-col",
@@ -10721,7 +10721,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Human children may well be growing up on Earth colonies as far from Earth as Paraagan II by this date, according to Trip Tucker, who tentatively christens one of the hypothetical settlements \"New Sausalito\".",
+      "summary": "Trip Tucker muses that human children may be growing up on colonies as distant as Paraagan II by now, tentatively naming one settlement New Sausalito.",
       "entities": [
         "Human",
         "Paraagan II",
@@ -10745,7 +10745,7 @@
         "https://memory-alpha.fandom.com/wiki/2172"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2173-tieran-s-rule-as-autarch-of-ilari-ends-with-tieran",
@@ -10753,7 +10753,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Tieran's rule as Autarch of Ilari ends with Tieran forced into exile.",
+      "summary": "Tieran's rule as Autarch of Ilari ends when he is forced into exile.",
       "entities": [
         "Tieran",
         "Autarch"
@@ -10776,7 +10776,7 @@
         "https://memory-alpha.fandom.com/wiki/2173"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2174-approximate-year-that-slug-o-cola-begins-using-its",
@@ -10784,7 +10784,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Approximate year that Slug-o-Cola begins using its famous slogan, \"The slimiest cola in the galaxy\" according to Rom.",
+      "summary": "Around now, by Rom's account, Slug-o-Cola adopts its famous slogan.",
       "entities": [
         "Slug-o-Cola",
         "Rom"
@@ -10807,7 +10807,7 @@
         "https://memory-alpha.fandom.com/wiki/2174"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2174-work-begins-on-the-krenim-weapon-ship-sometime-aro",
@@ -10815,7 +10815,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Work begins on the Krenim weapon ship sometime around this year. However, the weapon is never built.",
+      "summary": "Work begins around now on the Krenim weapon ship, though it is never completed.",
       "entities": [
         "Krenim weapon ship"
       ],
@@ -10842,7 +10842,7 @@
         "https://memory-alpha.fandom.com/wiki/2174"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2175-a-batch-of-single-malt-whisky-is-made-the-species",
@@ -10850,7 +10850,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A batch of single malt whisky is made. The Species 8472 Boothby replicant enjoyed a glass of whisky claimed to be from this year in 2375.",
+      "summary": "A batch of whisky is made; a Species 8472 infiltrator posing as Boothby drinks a glass claimed to be from this vintage in 2375.",
       "entities": [
         "Species 8472"
       ],
@@ -10872,7 +10872,7 @@
         "https://memory-alpha.fandom.com/wiki/2175"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2175-jonathan-archer-becomes-a-member-of-the-federation",
@@ -10903,7 +10903,7 @@
         "https://memory-alpha.fandom.com/wiki/2175"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2176-the-nexus-is-estimated-to-have-crossed-through-the",
@@ -10942,7 +10942,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jonathan Archer finishes an eight year tenure as Federation Councilman representing United Earth.",
+      "summary": "Jonathan Archer completes eight years as the Federation Councilman representing United Earth.",
       "entities": [
         "Jonathan Archer",
         "Federation Council",
@@ -10966,7 +10966,7 @@
         "https://memory-alpha.fandom.com/wiki/2183"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2183-the-earth-colony-ship-eagle-valley-is-launched",
@@ -10974,7 +10974,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Earth colony ship Eagle Valley is launched.",
+      "summary": "The colony ship Eagle Valley launches from Earth.",
       "entities": [],
       "kind": "launch",
       "group": null,
@@ -10994,7 +10994,7 @@
         "https://memory-alpha.fandom.com/wiki/2183"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2184-jonathan-archer-is-elected-federation-president",
@@ -11025,7 +11025,7 @@
         "https://memory-alpha.fandom.com/wiki/2184"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2185-according-to-a-statement-made-by-doctor-carol-marc",
@@ -11064,7 +11064,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A starship disappears near the Taurean region.",
+      "summary": "A further starship vanishes near the Taurean region.",
       "entities": [
         "Taurean system"
       ],
@@ -11086,7 +11086,7 @@
         "https://memory-alpha.fandom.com/wiki/2187"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2187-the-earth-survey-ship-ss-hatteras-is-launched",
@@ -11094,7 +11094,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Earth survey ship SS Hatteras is launched.",
+      "summary": "The survey ship SS Hatteras departs Earth.",
       "entities": [
         "SS Hatteras"
       ],
@@ -11116,7 +11116,7 @@
         "https://memory-alpha.fandom.com/wiki/2187"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2189-the-federation-begins-to-sound-the-alarm-about-met",
@@ -11124,7 +11124,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Federation begins to sound the alarm about metal toxicity on Urna.",
+      "summary": "The Federation begins warning of metal toxicity on Urna.",
       "entities": [
         "Urna"
       ],
@@ -11146,7 +11146,7 @@
         "https://memory-alpha.fandom.com/wiki/2189"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2190-a-distress-beacon-first-used-by-starships-working",
@@ -11154,7 +11154,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A distress beacon, first used by starships working for the European Hegemony in 2123, is discontinued.",
+      "summary": "The distress beacon the European Hegemony introduced in 2123 is discontinued.",
       "entities": [
         "European Hegemony"
       ],
@@ -11176,7 +11176,7 @@
         "https://memory-alpha.fandom.com/wiki/2190"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2192-jonathan-archer-steps-down-as-president-of-the-uni",
@@ -11184,7 +11184,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jonathan Archer steps down as President of the United Federation of Planets.",
+      "summary": "Jonathan Archer steps down as Federation President.",
       "entities": [
         "Jonathan Archer",
         "President of the United Federation of Planets"
@@ -11207,7 +11207,7 @@
         "https://memory-alpha.fandom.com/wiki/2192"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2195-robert-april-is-born",
@@ -11215,7 +11215,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Robert April is born.",
+      "summary": "Robert April born.",
       "entities": [
         "Robert April"
       ],
@@ -11237,7 +11237,7 @@
         "https://memory-alpha.fandom.com/wiki/2195"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2196-starfleet-retires-the-last-daedalus-starship",
@@ -11245,7 +11245,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet retires the last Daedalus starship.",
+      "summary": "Starfleet retires its last Daedalus-class starship.",
       "entities": [],
       "kind": null,
       "group": null,
@@ -11265,7 +11265,7 @@
         "https://memory-alpha.fandom.com/wiki/2196"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2202-philippa-georgiou-is-born-on-earth",
@@ -11273,7 +11273,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Philippa Georgiou is born on Earth.",
+      "summary": "Philippa Georgiou born on Earth.",
       "entities": [
         "Philippa Georgiou"
       ],
@@ -11295,7 +11295,7 @@
         "https://memory-alpha.fandom.com/wiki/2202"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2204-george-kirk-is-born-to-tiberius-kirk",
@@ -11341,7 +11341,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "One of the Human males examined by Dr. McCoy in the Omicron colony was born in this year.",
+      "summary": "Birth of another Omicron colonist later examined by Leonard McCoy.",
       "entities": [
         "Human",
         "Leonard McCoy",
@@ -11365,7 +11365,7 @@
         "https://memory-alpha.fandom.com/wiki/2208"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2209-transporter-psychosis-is-first-diagnosed-on-delini",
@@ -11373,7 +11373,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Transporter psychosis is first diagnosed on Delinia II.",
+      "summary": "Transporter psychosis is first diagnosed, on Delinia II.",
       "entities": [
         "Transporter psychosis",
         "Delinia II"
@@ -11396,7 +11396,7 @@
         "https://memory-alpha.fandom.com/wiki/2209"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2210-harry-kim-s-uncle-jack-pilots-a-sleeper-ship-on",
@@ -11404,7 +11404,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Harry Kim's \"uncle\" Jack pilots a sleeper ship on a deep-space exploration trip to Beta Capricus. The rest of the crew go into stasis, while Jack spends the six months piloting the ship himself. Upon arrival, the \"star\" is found not to exist and to be only an electromagnetic echo of a distant galaxy. Jack chooses not to wake the rest of the crew before returning, after a further six-month journey, back to Earth.",
+      "summary": "Harry Kim's uncle Jack pilots a sleeper ship toward Beta Capricus alone while the crew sleep, only to find the target star an electromagnetic illusion, and turns back without waking them.",
       "entities": [
         "Harry Kim",
         "Beta Capricus"
@@ -11427,7 +11427,7 @@
         "https://memory-alpha.fandom.com/wiki/2210"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2211-jack-s-sleeper-ship-returns-to-earth-from-its-miss",
@@ -11435,7 +11435,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jack's sleeper ship returns to Earth from its mission to Beta Capricus and its puzzled crew is revived from stasis, asking why they had never left orbit.",
+      "summary": "Jack's sleeper ship returns to Earth from Beta Capricus, its crew waking from stasis unaware they had ever left orbit.",
       "entities": [
         "Beta Capricus"
       ],
@@ -11457,7 +11457,7 @@
         "https://memory-alpha.fandom.com/wiki/2211"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2214-a-starship-disappears-near-the-taurean-region",
@@ -11465,7 +11465,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A starship disappears near the Taurean region.",
+      "summary": "Yet another starship vanishes near the Taurean region.",
       "entities": [
         "Taurean system"
       ],
@@ -11487,7 +11487,7 @@
         "https://memory-alpha.fandom.com/wiki/2214"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2215-the-nexus-is-estimated-to-have-crossed-through-the",
@@ -11526,7 +11526,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The star systems in the Selcundi Drema sector are mapped for the first time by Federation unmanned probes. Drema V explodes in this year.",
+      "summary": "Federation probes first map the Selcundi Drema sector, the year Drema V explodes.",
       "entities": [
         "Selcundi Drema sector",
         "Drema V"
@@ -11549,7 +11549,7 @@
         "https://memory-alpha.fandom.com/wiki/2215"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2217-uss-valiant-makes-first-contact-with-eminiar-vii",
@@ -11557,7 +11557,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "USS Valiant makes first contact with Eminiar VII. Contact is lost with the Valiant when they become a casualty in the interplanetary war between Eminiar VII and Vendikar.",
+      "summary": "The USS Valiant makes first contact with Eminiar VII, and is lost when it is drawn into the planet's war with Vendikar.",
       "entities": [
         "Eminiar VII",
         "Vendikar",
@@ -11587,7 +11587,7 @@
         "https://memory-alpha.fandom.com/wiki/2217"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2218-according-to-a-speech-given-by-john-gill-the-zeon",
@@ -11595,7 +11595,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "According to a speech given by John Gill, the Zeon colony on Ekos was established shortly after this year. A half a century later, this colony is wiped out virtually overnight by a genocide purge ordered by Gill who was then under the influence of his deputy Melakon.",
+      "summary": "By John Gill's account, the Zeon colony on Ekos is founded shortly after this year, later wiped out in a genocide Gill orders under Melakon's influence.",
       "entities": [
         "John Gill",
         "Zeon",
@@ -11622,7 +11622,7 @@
         "https://memory-alpha.fandom.com/wiki/2218"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2219-richard-daystrom-is-born",
@@ -11630,7 +11630,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Richard Daystrom is born.",
+      "summary": "Richard Daystrom born.",
       "entities": [
         "Richard Daystrom"
       ],
@@ -11652,7 +11652,7 @@
         "https://memory-alpha.fandom.com/wiki/2219"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2220-philippa-georgiou-begins-attending-starfleet-acade",
@@ -11660,7 +11660,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Philippa Georgiou begins attending Starfleet Academy on Earth.",
+      "summary": "Philippa Georgiou begins attending Starfleet Academy.",
       "entities": [
         "Philippa Georgiou",
         "Starfleet Academy"
@@ -11683,7 +11683,7 @@
         "https://memory-alpha.fandom.com/wiki/2220"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2222-montgomery-scott-is-born",
@@ -11744,7 +11744,7 @@
         "https://memory-alpha.fandom.com/wiki/2222"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2223-joseph-m-benga-is-born-in-kenya-on-earth",
@@ -11752,7 +11752,7 @@
       "date": "2223-12-29",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Joseph M'Benga is born in Kenya on Earth.",
+      "summary": "Joseph M'Benga born in Kenya.",
       "entities": [
         "December",
         "Joseph M'Benga",
@@ -11776,7 +11776,7 @@
         "https://memory-alpha.fandom.com/wiki/2223"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2223-relations-between-the-united-federation-of-planets",
@@ -11784,7 +11784,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Relations between the United Federation of Planets and the Klingon Empire degenerate, giving rise to some seventy years of unremitting hostility as the two powers become embroiled in a tense cold war.",
+      "summary": "Federation-Klingon relations sour, opening seventy years of cold war between the two powers.",
       "entities": [
         "Klingon Empire",
         "Human-Klingon history"
@@ -11807,7 +11807,7 @@
         "https://memory-alpha.fandom.com/wiki/2223"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2224-philippa-georgiou-graduates-from-starfleet-academy",
@@ -11838,7 +11838,7 @@
         "https://memory-alpha.fandom.com/wiki/2224"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2226-lela-dax-dies-at-the-age-of-114-and-the-dax-symbio",
@@ -11846,7 +11846,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lela Dax dies at the age of 114 and the Dax symbiont is joined with Tobin.",
+      "summary": "Lela Dax dies at 114, and the Dax symbiont passes to Tobin.",
       "entities": [
         "Lela Dax",
         "Dax symbiont",
@@ -11875,7 +11875,7 @@
         "https://memory-alpha.fandom.com/wiki/2226"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2226-michael-burnham-is-born-on-earth",
@@ -11945,7 +11945,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Ash Tyler is born.",
+      "summary": "Ash Tyler born.",
       "entities": [
         "Ash Tyler"
       ],
@@ -11967,7 +11967,7 @@
         "https://memory-alpha.fandom.com/wiki/2228"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2228-la-an-noonien-singh-is-born-on-alpha-i",
@@ -11975,7 +11975,7 @@
       "date": "2228-12-08",
       "stardate": null,
       "timeline": "prime",
-      "summary": "La'An Noonien-Singh is born on Alpha I.",
+      "summary": "La'An Noonien-Singh born on Alpha I.",
       "entities": [
         "December",
         "La'An Noonien-Singh",
@@ -11999,7 +11999,7 @@
         "https://memory-alpha.fandom.com/wiki/2228"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2229-dax-attempts-to-solve-an-altonian-brain-teaser-for",
@@ -12007,7 +12007,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dax attempts to solve an Altonian brain teaser for the first time.",
+      "summary": "Dax makes a first attempt at the Altonian brain teaser.",
       "entities": [
         "Altonian brain teaser"
       ],
@@ -12029,7 +12029,7 @@
         "https://memory-alpha.fandom.com/wiki/2229"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2230-spock-is-born-on-vulcan-in-the-city-of-shikahr-to",
@@ -12096,7 +12096,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "T'Pring is born on Vulcan.",
+      "summary": "T'Pring born on Vulcan.",
       "entities": [
         "T'Pring"
       ],
@@ -12118,7 +12118,7 @@
         "https://memory-alpha.fandom.com/wiki/2230"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2232-finnegan-is-born",
@@ -12126,7 +12126,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Finnegan is born.",
+      "summary": "Finnegan born.",
       "entities": [
         "Finnegan"
       ],
@@ -12148,7 +12148,7 @@
         "https://memory-alpha.fandom.com/wiki/2232"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2233-attack-on-the-uss-kelvin-the-romulan-mining-vesse",
