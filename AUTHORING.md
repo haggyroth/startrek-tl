@@ -1,6 +1,6 @@
 # Authoring summaries
 
-How to write the remaining summaries. 869 of 2,037 are done; the rest follow
+How to write the remaining summaries. 914 of 2,037 are done; the rest follow
 the same procedure.
 
 ## Why summaries are authored at all
@@ -129,10 +129,10 @@ increment — a complete era means an era preset that is entirely clean.
 | 2063–2100 | 53 / 53 ✅ |
 | ENT (2101–2161) | 213 / 213 ✅ |
 | Gap (2162–2232) | 60 / 60 ✅ |
-| 23rd century | 318 / 453 |
+| 23rd century | 363 / 453 |
 | 24th century | 92 / 1,125 |
 | Far future | 133 / 133 ✅ |
 
-Everything before the 23rd century is fully authored, and the 23rd is at 70%
-(135 events remaining, 2266 onward). The 24th century (1,033 remaining) is
+Everything before the 23rd century is fully authored, and the 23rd is at 80%
+(90 events remaining, 2269 onward). The 24th century (1,033 remaining) is
 the last big chunk.

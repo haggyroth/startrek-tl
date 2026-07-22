@@ -162,8 +162,14 @@ Known and accepted:
       mirror-universe mention inside an italicized aside on an otherwise-prime
       event) — recorded in `data/timeline-overrides.json`, each confirmed as
       the only occurrence of its pattern dataset-wide
-- [ ] Author the remaining summaries — **869 / 2,037 (43%)**, 23rd century at
-      70% (318/453)
+- [x] Fixed a real bug in `detectTimeline()` found while authoring: the
+      "alternative" word form (as opposed to "alternate") went undetected
+      entirely and defaulted to prime. Confirmed two occurrences dataset-wide
+      before widening the regex, and deliberately kept "alternative reality"
+      out of the kelvin-classification branch, since it is generic wording
+      unrelated to Memory Alpha's "alternate reality" Kelvin idiom
+- [ ] Author the remaining summaries — **914 / 2,037 (45%)**, 23rd century at
+      80% (363/453)
 - [ ] Switch the committed build to `--strict`
 
 On the strict flip: the capability works and is tested, but flipping it now
@@ -178,6 +184,6 @@ Coverage by era:
 | **2063–2100** | **53 / 53 ✅** |
 | **ENT (2101–2161)** | **213 / 213 ✅** |
 | **Gap (2162–2232)** | **60 / 60 ✅** |
-| 23rd century | 318 / 453 |
+| 23rd century | 363 / 453 |
 | 24th century | 92 / 1,125 |
 | **Far future** | **133 / 133 ✅** |

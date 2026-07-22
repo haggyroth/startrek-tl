@@ -7,7 +7,7 @@
     ],
     "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 869,
+    "authoredSummaries": 914,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -21005,7 +21005,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Simon Van Gelder is assigned to the Tantalus Penal Colony as associate director, serving on Tristan Adams' staff.",
+      "summary": "Dr. Simon Van Gelder is assigned to the Tantalus Penal Colony as associate director under Tristan Adams.",
       "entities": [
         "Simon Van Gelder",
         "Tantalus Penal Colony",
@@ -21029,7 +21029,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-due-to-a-transporter-malfunction-captain-james-t",
@@ -21037,7 +21037,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Due to a transporter malfunction, Captain James T. Kirk is temporarily split into a positive and a negative half.",
+      "summary": "A transporter malfunction splits Captain Kirk into positive and negative halves.",
       "entities": [
         "James T. Kirk"
       ],
@@ -21059,7 +21059,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-famed-archeologist-roger-korby-is-found-alive-on-t",
@@ -21067,7 +21067,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Famed archeologist Roger Korby is found alive on the planet Exo III, where he discovered remains of ancient technology. However, it turns out Korby is actually an android duplicate of his former self. He perishes along with the other androids on the surface.",
+      "summary": "Roger Korby is found alive on Exo III among ancient technology, but proves to be an android duplicate, and perishes with the other androids there.",
       "entities": [
         "Roger Korby",
         "Exo III"
@@ -21090,15 +21090,15 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-in-an-alternative-timeline-where-enterprise-is-ca",
       "year": 2266,
       "date": null,
       "stardate": null,
-      "timeline": "prime",
-      "summary": "In an alternative timeline, where Enterprise is captained by Captain Christopher Pike, this resulted in open warfare between Federation and Romulans.",
+      "timeline": "alternate",
+      "summary": "In an alternate timeline where Pike commands the Enterprise, this leads to open war between the Federation and the Romulans.",
       "entities": [
         "Christopher Pike"
       ],
@@ -21120,7 +21120,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-kodos-the-executioner-is-discovered-to-still-be-al",
@@ -21128,7 +21128,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kodos the Executioner is discovered to still be alive, despite having been thought dead since 2246. While under surveillance by Kirk, Kodos is accidentally killed by his daughter Lenore before formal charges can be brought against him for crimes committed on Tarsus IV.",
+      "summary": "Kodos the Executioner, thought dead since 2246, is found alive; his daughter Lenore kills him under Kirk's surveillance before formal charges can be brought.",
       "entities": [
         "Kodos the Executioner",
         "Lenore Karidian",
@@ -21152,7 +21152,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-lieutenant-hikaru-sulu-transfers-from-staff-physic",
@@ -21160,7 +21160,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lieutenant Hikaru Sulu transfers from staff physicist to helm officer aboard the USS Enterprise.",
+      "summary": "Lieutenant Hikaru Sulu transfers from staff physicist to helm officer aboard the Enterprise.",
       "entities": [
         "Hikaru Sulu",
         "Helmsman"
@@ -21183,7 +21183,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-lieutenant-nyota-uhura-becomes-chief-communication",
@@ -21191,7 +21191,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lieutenant Nyota Uhura becomes chief communications officer and Janice Rand becomes the captain's yeoman on the USS Enterprise. Dave Bailey is promoted to lieutenant and chief navigator despite some concerns about his lack of experience.",
+      "summary": "Nyota Uhura becomes chief communications officer, Janice Rand the captain's yeoman, and Dave Bailey chief navigator aboard the Enterprise, despite doubts about his inexperience.",
       "entities": [
         "Nyota Uhura",
         "Janice Rand",
@@ -21215,7 +21215,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-on-board-the-uss-enterprise-dr-mccoy-in-his-qua",
@@ -21223,7 +21223,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On board the USS Enterprise, Dr. McCoy, in his quarters, kills the last M-113 creature as it tries to kill Kirk. The M-113 creature had already killed four Enterprise crewmen.",
+      "summary": "Aboard the Enterprise, McCoy kills the last M-113 creature in his quarters as it tries to kill Kirk, having already killed four crewmen.",
       "entities": [
         "M-113 creature"
       ],
@@ -21245,7 +21245,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-six-months-before-the-neutral-zone-incursion-an-a",
@@ -21253,7 +21253,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Six months before the Neutral Zone Incursion, an accident aboard a class J starship releases delta radiation, killing several Starfleet cadets and severely injuring Fleet Captain Christopher Pike, confining him to a wheelchair.",
+      "summary": "Six months before the Neutral Zone Incursion, an accident aboard a class J starship releases delta radiation, killing several cadets and confining Fleet Captain Pike to a wheelchair.",
       "entities": [
         "Fleet Captain",
         "Christopher Pike"
@@ -21282,7 +21282,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-the-antares-is-destroyed-with-all-hands-on-board",
@@ -21290,7 +21290,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Antares is destroyed, with all hands on board perishing, when Charles Evans with psionic powers makes a baffle plate on the shield of the ship's energy pile \"go away\".",
+      "summary": "The Antares is destroyed with all hands after the psionic Charles Evans makes a baffle plate vanish from its energy pile's shield.",
       "entities": [
         "Antares",
         "Charles Evans"
@@ -21313,7 +21313,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-the-colonists-of-janus-vi-create-a-detailed-series",
@@ -21321,7 +21321,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The colonists of Janus VI create a detailed series of charts for the twenty-two levels of the mine. These charts later prove useful in the search for the Horta in 2267.",
+      "summary": "The Janus VI colonists chart all twenty-two levels of their mine, charts that later prove useful in the 2267 search for the Horta.",
       "entities": [
         "Janus VI",
         "Horta"
@@ -21344,7 +21344,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-the-inhabitants-of-acamar-iii-establish-peace-afte",
@@ -21352,7 +21352,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The inhabitants of Acamar III establish peace after generations of wars. An exception are the Gatherers, who continue to be violent for a century.",
+      "summary": "Acamar III makes peace after generations of war, though the Gatherers remain violent for another century.",
       "entities": [
         "Acamarian",
         "Acamar III",
@@ -21376,7 +21376,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-the-planet-psi-2000-disintegrates-naturally",
@@ -21384,7 +21384,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The planet Psi 2000 disintegrates naturally.",
+      "summary": "Psi 2000 disintegrates naturally.",
       "entities": [
         "Psi 2000"
       ],
@@ -21406,7 +21406,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-the-redjac-entity-incarnated-as-beratis-kills",
@@ -21414,7 +21414,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Redjac entity, incarnated as \"Beratis\", kills several women on Rigel IV.",
+      "summary": "Redjac, this time as Beratis, kills several women on Rigel IV.",
       "entities": [
         "Redjac",
         "Rigel IV"
@@ -21437,7 +21437,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-the-ufp-makes-first-contact-with-the-first-federat",
@@ -21445,7 +21445,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The UFP makes first contact with the First Federation after an encounter with Balok, commander of the flagship Fesarius. As an intercultural exchange, Dave Bailey transfers to serve on the vessel.",
+      "summary": "The Federation makes first contact with the First Federation through Balok, commander of the Fesarius, and Dave Bailey transfers aboard as a cultural exchange.",
       "entities": [
         "First Federation",
         "Balok",
@@ -21469,7 +21469,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-the-uss-enterprise-charts-the-l-370-system",
@@ -21477,7 +21477,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Enterprise charts the L-370 system.",
+      "summary": "The Enterprise charts the L-370 system.",
       "entities": [
         "L-370"
       ],
@@ -21499,7 +21499,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-the-uss-enterprise-undergoes-a-refit-both-on-the-o",
@@ -21507,7 +21507,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Enterprise undergoes a refit both on the outside and the inside design sometime after 2265.",
+      "summary": "The Enterprise undergoes an internal and external refit.",
       "entities": [
         "USS Enterprise"
       ],
@@ -21534,7 +21534,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-a-transporter-accident-brings-four-uss-enterprise",
@@ -21542,7 +21542,7 @@
       "date": null,
       "stardate": null,
       "timeline": "mirror",
-      "summary": "A transporter accident brings four USS Enterprise personnel from the primary universe to the mirror universe. The primary Kirk encourages the mirror Spock to start a revolution against the Terran Empire. This eventually led to the conquest of that Empire by the Klingon-Cardassian Alliance in the late 23rd century.",
+      "summary": "A transporter accident sends four Enterprise crew into the mirror universe, where Kirk urges the mirror Spock toward revolution against the Terran Empire, a push that eventually leads to its conquest by the Klingon-Cardassian Alliance.",
       "entities": [
         "Terran Empire",
         "Klingon-Cardassian Alliance",
@@ -21572,7 +21572,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-although-not-generally-revealed-the-uss-enterpris",
@@ -21580,7 +21580,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Although not generally revealed, the USS Enterprise discovers warp drive inventor Zefram Cochrane, long believed dead, alive on a remote planetoid in the Gamma Canaris region.",
+      "summary": "Unbeknownst to most, the Enterprise finds Zefram Cochrane, long presumed dead, alive on a remote planetoid in the Gamma Canaris region.",
       "entities": [
         "Zefram Cochrane",
         "Gamma Canaris region"
@@ -21603,7 +21603,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-dr-janice-lester-leads-an-expedition-of-scientist",
@@ -21611,7 +21611,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Janice Lester leads an expedition of scientists to Camus II to investigate the civilization that once existed on that planet.",
+      "summary": "Dr. Janice Lester leads a scientific expedition to Camus II to study its extinct civilization.",
       "entities": [
         "Janice Lester",
         "Camus II"
@@ -21634,7 +21634,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-ensign-pavel-chekov-joins-the-crew-of-the-uss-ente",
@@ -21679,7 +21679,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Except for Captain Ronald Tracey, the entire crew of the USS Exeter is killed while in orbit around the planet Omega IV by an unknown disease, which turns them into dehydrated crystals composed of their base minerals.",
+      "summary": "An unknown disease turns the USS Exeter's crew to dehydrated mineral crystal in orbit of Omega IV, sparing only Captain Ronald Tracey.",
       "entities": [
         "Ronald Tracey",
         "Omega IV",
@@ -21703,7 +21703,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-fleet-captain-christopher-pike-is-taken-by-command",
@@ -21711,7 +21711,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Fleet Captain Christopher Pike is taken by Commander Spock and the USS Enterprise to the planet Talos IV, goes into retirement, and lives with Vina in illusory bliss.",
+      "summary": "Spock takes Fleet Captain Pike to Talos IV, where he retires into a life of illusory bliss with Vina.",
       "entities": [
         "Fleet Captain",
         "Christopher Pike",
@@ -21742,7 +21742,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-flying-parasites-invade-the-deneva-colony-kirk-an",
@@ -21750,7 +21750,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Flying parasites invade the Deneva colony. Kirk and the crew of the USS Enterprise discover their weakness and destroy them, ending the spread of mass insanity.",
+      "summary": "Flying parasites invade the Deneva colony; Kirk's crew finds their weakness and destroys them, ending the spreading insanity.",
       "entities": [
         "Flying parasite",
         "Deneva colony"
@@ -21773,7 +21773,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-helmsman-hikaru-sulu-s-command-console-explodes-in",
@@ -21781,7 +21781,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Helmsman Hikaru Sulu's command console explodes in his face aboard the USS Enterprise and Doctor Leonard McCoy accidentally gives himself an overdose of cordrazine which, although not generally revealed, nearly leads him to change history erasing the Federation and Starfleet from existence.",
+      "summary": "Sulu's console explodes in his face, and McCoy's accidental cordrazine overdose nearly leads him to erase the Federation and Starfleet from history.",
       "entities": [
         "Helmsman",
         "Hikaru Sulu"
@@ -21804,7 +21804,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-nimbus-iii-is-jointly-established-as-the-planet-o",
@@ -21845,7 +21845,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet loses contact with John Gill, a Federation cultural observer, on Ekos. They continue their attempts to contact him before sending the Enterprise there to investigate.",
+      "summary": "Starfleet loses contact with cultural observer John Gill on Ekos and eventually sends the Enterprise to investigate.",
       "entities": [
         "John Gill",
         "Ekos"
@@ -21868,7 +21868,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-the-enterprise-visits-a-mysterious-planet-in-the-o",
@@ -21876,7 +21876,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise visits a mysterious planet in the Omicron Delta region for some much needed shore leave. However, the planet is discovered to be more than the isolated world it appears to be. The planet contains multiple fantasy and wish-fulfillment elements found in the crew's minds. Dr. Leonard McCoy is believed to be killed by an illusory Black Knight. After Captain Kirk and Commander Spock come into contact with the Keeper, McCoy is revived and the Enterprise crew is ultimately able to rest and relax before departing.",
+      "summary": "On shore leave in the Omicron Delta region, the Enterprise crew finds a planet built from their own fantasies; McCoy is seemingly killed by an illusory Black Knight before the Keeper restores him and the crew finally rests.",
       "entities": [
         "Shore Leave Planet",
         "Omicron Delta region",
@@ -21903,7 +21903,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-the-federation-observation-outpost-on-the-planet-c",
@@ -21911,7 +21911,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Federation observation outpost on the planet Cestus III is destroyed which leads the USS Enterprise to make first contact with the Gorn, who are responsible for the outpost's destruction as well as the deaths of two Enterprise crewmen, because the Gorn claim the outpost was in their territory. The Enterprise also makes first contact with the Metrons, who become impressed with Humanity when Captain Kirk shows mercy and spares the life of a Gorn captain after the Metrons set up an arena-style conflict between the two of them.",
+      "summary": "The Gorn destroy the Cestus III outpost over a territorial dispute, leading to first contact with them and, through the Metrons' staged duel, first contact with the Metrons too, who are struck by Kirk's mercy toward his Gorn opponent.",
       "entities": [
         "Cestus III",
         "Gorn",
@@ -21936,7 +21936,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-the-klingons-provide-the-inhabitants-of-neural-wit",
@@ -21944,7 +21944,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Klingons provide the inhabitants of Neural with firearms, trying to influence local politics.",
+      "summary": "The Klingons arm the people of Neural with firearms to sway local politics.",
       "entities": [
         "Klingon",
         "Neural"
@@ -21967,7 +21967,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-the-original-uss-enterprise-shuttlecraft-galileo-i",
@@ -21975,7 +21975,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The original USS Enterprise shuttlecraft Galileo is incinerated and destroyed. Fortunately, the five crew members on board are saved before its destruction via the transporter.",
+      "summary": "The original Enterprise shuttlecraft Galileo is destroyed, its five-member crew saved by transporter beforehand.",
       "entities": [
         "USS Enterprise"
       ],
@@ -21997,7 +21997,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-the-population-of-the-federation-experimental-colo",
@@ -22005,7 +22005,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The population of the Federation experimental colony on planet Gamma Hydra IV is killed from rapid aging caused by radiation from a rogue comet. The USS Enterprise landing party, sent to investigate, also suffers from rapid aging, except for Ensign Chekov, including the ship's four senior officers which results in the death of a science division lieutenant. Fortunately, Kirk, Spock, Dr. McCoy, and Lieutenant Commander Montgomery Scott are cured of the rapid aging when McCoy, with the help of Spock, Nurse Christine Chapel, and Dr. Janet Wallace, discovers an adrenaline-based cure.",
+      "summary": "Radiation from a rogue comet ages the Gamma Hydra IV colony to death and afflicts the landing party sent to investigate, sparing only Chekov, until McCoy, aided by Spock, Chapel and Janet Wallace, finds an adrenaline-based cure.",
       "entities": [
         "Gamma Hydra IV",
         "Montgomery Scott",
@@ -22031,7 +22031,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-the-ss-botany-bay-is-discovered-by-the-uss-enterpr",
@@ -22039,7 +22039,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The SS Botany Bay is discovered by the USS Enterprise in the Mutara sector after drifting in space for two hundred and seventy-one years.",
+      "summary": "The Enterprise finds the SS Botany Bay adrift in the Mutara sector after two hundred and seventy-one years.",
       "entities": [
         "Mutara sector",
         "SS Botany Bay"
@@ -22062,7 +22062,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-the-treaty-of-organia-is-signed-by-the-klingon-emp",
@@ -22070,7 +22070,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Treaty of Organia is signed by the Klingon Empire and the United Federation of Planets, thereby preventing a destructive conflict between the two powers and paving the way for further approaches.",
+      "summary": "The Klingon Empire and the Federation sign the Treaty of Organia, averting war and opening the way to further diplomacy.",
       "entities": [
         "Treaty of Organia",
         "Klingon Empire"
@@ -22098,7 +22098,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-the-uss-constellation-is-destroyed-by-eliminating",
@@ -22106,7 +22106,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Constellation is destroyed by eliminating an alien planet killer. Commodore Matt Decker and his entire crew are killed by the planet killer.",
+      "summary": "The USS Constellation is lost destroying an alien planet killer, taking Commodore Matt Decker and his crew with it.",
       "entities": [
         "Matt Decker",
         "USS Constellation"
@@ -22129,7 +22129,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2267-the-uss-enterprise-uncovers-the-truth-behind-the-d",
@@ -22137,7 +22137,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Enterprise uncovers the truth behind the disappearance of the starship Archon that had been lost a hundred years earlier, when it visited the planet Beta III. The Enterprise is responsible for the destruction of the computer known as Landru which had ruled Beta III as a despot for six thousand years. The ship leaves behind its sociologist Lindstrom and a team of specialists to restore that planet's culture to a more Human form.",
+      "summary": "The Enterprise solves the century-old disappearance of the Archon at Beta III, destroys the despotic computer Landru that ruled it for six thousand years, and leaves behind a team to help the planet recover a more human culture.",
       "entities": [
         "Beta III",
         "Landru",
@@ -22161,7 +22161,7 @@
         "https://memory-alpha.fandom.com/wiki/2267"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-a-brief-alliance-between-the-klingon-empire-and-th",
@@ -22169,7 +22169,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A brief alliance between the Klingon Empire and the Romulan Star Empire occurs. This results in an exchange of technology and spacecraft design, most notably the cloaking device to the Klingons.",
+      "summary": "A brief Klingon-Romulan alliance trades technology, including the cloaking device passed to the Klingons.",
       "entities": [
         "Klingon Empire",
         "Romulan Star Empire"
@@ -22192,7 +22192,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-a-federation-vessel-makes-first-contact-with-the-c",
@@ -22200,7 +22200,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A Federation vessel makes first contact with the Children of Tama, but formal relations cannot be established due an inability to understand the Tamarian language, which is described as incomprehensible.",
+      "summary": "A Federation ship makes first contact with the Children of Tama, but their language proves too obscure for formal relations.",
       "entities": [
         "Children of Tama",
         "Tamarian language"
@@ -22223,7 +22223,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-a-slaver-stasis-box-is-discovered-by-archaeologist",
@@ -22231,7 +22231,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A Slaver stasis box is discovered by archaeologists on the planet Kzin.",
+      "summary": "Archaeologists discover a Slaver stasis box on Kzin.",
       "entities": [
         "Slaver",
         "Kzin"
@@ -22254,7 +22254,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-all-the-adults-of-the-starnes-exploration-party-ar",
@@ -22262,7 +22262,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "All the adults of the Starnes Exploration Party are killed, due to the alien Gorgan's influence on the children, on the Federation outpost planet Triacus. Gorgan is destroyed, a short time later, aboard the USS Enterprise.",
+      "summary": "The alien Gorgan turns the children of the Starnes Exploration Party against the adults, killing them all on Triacus, before Gorgan is destroyed aboard the Enterprise.",
       "entities": [
         "Starnes Exploration Party",
         "Gorgan",
@@ -22286,7 +22286,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-ceti-alpha-vi-explodes-and-turns-the-former-m-clas",
@@ -22327,7 +22327,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. McCoy contracts the rare illness xenopolycythemia but is cured a short time later via the Fabrini's vast database.",
+      "summary": "McCoy contracts the rare xenopolycythemia, cured soon after using the Fabrini's ancient database.",
       "entities": [
         "Fabrini"
       ],
@@ -22349,7 +22349,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-dr-mccoy-with-the-help-of-lieutenant-brent-and-a",
@@ -22357,7 +22357,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. McCoy, with the help of Lieutenant Brent and an operations division lieutenant, administers to the inmates/patients of Elba II asylum a revolutionary new medicine that potentially could eliminate mental illness.",
+      "summary": "With Lieutenant Brent and an operations officer, McCoy administers a new treatment to the inmates of the Elba II asylum that could cure mental illness outright.",
       "entities": [
         "Brent",
         "Elba II asylum"
@@ -22380,7 +22380,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-dr-miranda-jones-boards-a-medusan-vessel-to-help",
@@ -22388,7 +22388,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Miranda Jones boards a Medusan vessel to help ready Medusans to be navigators on Federation starships.",
+      "summary": "Dr. Miranda Jones boards a Medusan vessel to help train Medusans as Federation navigators.",
       "entities": [
         "Miranda Jones",
         "Medusan vessel"
@@ -22411,7 +22411,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-dr-richard-daystrom-suffers-a-mental-breakdown-ab",
@@ -22419,7 +22419,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Richard Daystrom suffers a mental breakdown aboard the USS Enterprise.",
+      "summary": "Richard Daystrom suffers a mental breakdown aboard the Enterprise.",
       "entities": [
         "Richard Daystrom"
       ],
@@ -22441,7 +22441,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-federation-cultural-observer-and-former-history-te",
@@ -22449,7 +22449,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Federation cultural observer and former history teacher of Captain Kirk, John Gill, is shot and killed on the planet Ekos by Melakon after Gill denounces his own idea of a Nazi regime set up on Ekos as well as their battle against the Zeon and the subjugation and extermination of Zeon's population on a star system wide television broadcast. Melakon is in turn shot and killed by Isak. Thereafter, Isak and Ekosians Daras and Eneg agree to end the violence and set Ekos on a more humane path.",
+      "summary": "John Gill, Kirk's former history teacher turned cultural observer, denounces his own Nazi regime on Ekos during a live broadcast and is shot dead by Melakon, who is in turn killed by Isak; Isak, Daras and Eneg then agree to set Ekos on a more humane path.",
       "entities": [
         "John Gill",
         "Ekos",
@@ -22477,7 +22477,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-harry-mudd-steals-a-spaceship-to-escape-the-androi",
@@ -22485,7 +22485,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Harry Mudd steals a spaceship to escape the androids from the Andromeda Galaxy.",
+      "summary": "Harry Mudd steals a ship to flee the androids of the Andromeda Galaxy.",
       "entities": [
         "Harcourt Mudd"
       ],
@@ -22507,7 +22507,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-james-t-kirk-oversees-a-landing-party-on-argus-x",
@@ -22515,7 +22515,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "James T. Kirk oversees a landing party on Argus X in order to search for the dikironium cloud creature. This expedition is assisted by Ensign Garrovick and security officers Bardoli and Swenson.",
+      "summary": "Kirk leads a landing party, with Ensign Garrovick and security officers Bardoli and Swenson, to hunt the dikironium cloud creature on Argus X.",
       "entities": [
         "James T. Kirk",
         "Argus X",
@@ -22540,7 +22540,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-kirk-and-spock-reprogram-the-yonada-s-course-to-th",
@@ -55477,7 +55477,7 @@
       "year": 2377,
       "date": null,
       "stardate": null,
-      "timeline": "prime",
+      "timeline": "alternate",
       "summary": "Janeway and Chakotay die in an alternative reality.",
       "entities": [
         "Chakotay"
