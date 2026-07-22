@@ -7,7 +7,7 @@
     ],
     "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 689,
+    "authoredSummaries": 779,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -13744,7 +13744,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "An exotic fungus destroys most of the planet Tarsus IV's food supply.",
+      "summary": "An exotic fungus destroys most of Tarsus IV's food supply.",
       "entities": [
         "Tarsus IV"
       ],
@@ -13766,7 +13766,7 @@
         "https://memory-alpha.fandom.com/wiki/2246"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2246-captain-robert-april-chooses-to-break-the-general",
@@ -13774,7 +13774,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Robert April chooses to break the General Order 1 and warn the Perricans about a possible apocalyptic meteor shower that was due to hit their planet.",
+      "summary": "Captain Robert April breaks General Order 1 to warn the Perricans of an approaching apocalyptic meteor shower.",
       "entities": [
         "Robert April",
         "Prime Directive",
@@ -13799,7 +13799,7 @@
         "https://memory-alpha.fandom.com/wiki/2246"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2246-doctor-tristan-adams-begins-to-revolutionize-and-h",
@@ -13807,7 +13807,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Doctor Tristan Adams begins to revolutionize and Humanize prisons and the treatment of prisoners by developing new methods to treat the criminally insane. Meanwhile, the Federation begins to convert a number of their penal colonies over to asylums to treat inmates, rather than to \"cage\" them up.",
+      "summary": "Doctor Tristan Adams begins reforming the treatment of the criminally insane, as the Federation converts penal colonies into asylums.",
       "entities": [
         "Tristan Adams"
       ],
@@ -13829,7 +13829,7 @@
         "https://memory-alpha.fandom.com/wiki/2246"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2246-james-t-kirk-at-the-age-of-thirteen-is-one-of",
@@ -13837,7 +13837,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "James T. Kirk – at the age of thirteen – is one of nine surviving eyewitnesses to a massacre of some four thousand colonists on Tarsus IV by Governor Kodos. After supply ships arrive, Earth Forces find a burned body that is assumed to be Kodos, the case is closed. Still alive, Kodos secretly assumes the identity of actor Anton Karidian.",
+      "summary": "At thirteen, James T. Kirk is one of nine survivors who witness Governor Kodos's massacre of some four thousand colonists on Tarsus IV; a body assumed to be his closes the case, but Kodos survives in hiding as the actor Anton Karidian.",
       "entities": [
         "James T. Kirk",
         "Governor",
@@ -13865,7 +13865,7 @@
         "https://memory-alpha.fandom.com/wiki/2246"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2247-as-he-claims-this-is-the-last-time-before-2267-t",
@@ -13873,7 +13873,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "As he claims, this is the last time before 2267, that Montgomery Scott sees a PXK pergium reactor.",
+      "summary": "By his own account, Montgomery Scott sees a PXK pergium reactor for what he claims is the last time before 2267.",
       "entities": [
         "Montgomery Scott",
         "PXK pergium reactor"
@@ -13896,7 +13896,7 @@
         "https://memory-alpha.fandom.com/wiki/2247"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2247-dusty-swender-is-born-in-syracuse-new-york-north",
@@ -13904,7 +13904,7 @@
       "date": "2247-01-10",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dusty Swender is born in Syracuse, New York, North America.",
+      "summary": "Dusty Swender born in Syracuse, New York.",
       "entities": [
         "January",
         "Dusty Swender",
@@ -13930,7 +13930,7 @@
         "https://memory-alpha.fandom.com/wiki/2247"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2247-lenore-karidian-is-born",
@@ -13938,7 +13938,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lenore Karidian is born.",
+      "summary": "Lenore Karidian born.",
       "entities": [
         "Lenore Karidian"
       ],
@@ -13960,7 +13960,7 @@
         "https://memory-alpha.fandom.com/wiki/2247"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2247-muliq-al-alcazar-is-born-in-the-tendara-colony",
@@ -13968,7 +13968,7 @@
       "date": "2247-12-08",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Muliq Al Alcazar is born in the Tendara Colony.",
+      "summary": "Muliq Al Alcazar born in the Tendara Colony.",
       "entities": [
         "December",
         "Muliq Al Alcazar",
@@ -13992,7 +13992,7 @@
         "https://memory-alpha.fandom.com/wiki/2247"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2247-oriana-is-born",
@@ -14000,7 +14000,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Oriana is born.",
+      "summary": "Oriana born.",
       "entities": [
         "Oriana"
       ],
@@ -14022,7 +14022,7 @@
         "https://memory-alpha.fandom.com/wiki/2247"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2247-sylvia-tilly-graduates-from-musk-junior-high-schoo",
@@ -14053,7 +14053,7 @@
         "https://memory-alpha.fandom.com/wiki/2247"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2247-t-quiel-dawn-is-born-in-north-continent-cerberus",
@@ -14061,7 +14061,7 @@
       "date": "2247-02-06",
       "stardate": null,
       "timeline": "prime",
-      "summary": "T'quiel Dawn is born in North Continent, Cerberus Colony.",
+      "summary": "T'quiel Dawn born in North Continent, Cerberus Colony.",
       "entities": [
         "February",
         "T'quiel Dawn",
@@ -14085,7 +14085,7 @@
         "https://memory-alpha.fandom.com/wiki/2247"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2247-the-first-of-many-thousands-of-lives-lost-in-the-e",
@@ -14093,7 +14093,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The first of many thousands of lives lost in the Eminiar-Vendikar War in a star system of NGC 321 is recorded by the United Federation of Planets. After suffering for nearly two decades this mounting loss of life, the Federation would seek permission from the planet Eminiar VII for the construction of a treaty port in their star system in 2267.",
+      "summary": "The Federation records the first of many thousands lost in the Eminiar-Vendikar War, a toll heavy enough that it will seek a treaty port at Eminiar VII by 2267.",
       "entities": [
         "Eminiar-Vendikar War",
         "Unnamed Alpha and Beta Quadrant star systems",
@@ -14118,7 +14118,7 @@
         "https://memory-alpha.fandom.com/wiki/2247"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2248-andrea-lopez-is-born-in-starbase-2",
@@ -14126,7 +14126,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Andrea Lopez is born in Starbase 2.",
+      "summary": "Andrea Lopez born at Starbase 2.",
       "entities": [
         "Andrea Lopez",
         "Starbase 2"
@@ -14149,7 +14149,7 @@
         "https://memory-alpha.fandom.com/wiki/2248"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2248-captain-april-recommends-that-una-chin-riley-recei",
@@ -14157,7 +14157,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain April recommends that Una Chin-Riley receive the Starfleet Medal of Gallantry for her actions during the Marcel disaster.",
+      "summary": "Captain April recommends Una Chin-Riley for the Starfleet Medal of Gallantry for her actions during the Marcel disaster.",
       "entities": [
         "Una Chin-Riley",
         "Starfleet Medal of Gallantry",
@@ -14181,7 +14181,7 @@
         "https://memory-alpha.fandom.com/wiki/2248"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2248-captain-robert-april-chooses-to-break-the-general",
@@ -14189,7 +14189,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Robert April chooses to break the General Order 1 by sharing Federation technology with the inhabitants of Nar'el, so they could avoid an extinction-level drought.",
+      "summary": "Captain Robert April again breaks General Order 1, sharing Federation technology with Nar'el to avert an extinction-level drought.",
       "entities": [
         "Robert April",
         "Prime Directive",
@@ -14213,7 +14213,7 @@
         "https://memory-alpha.fandom.com/wiki/2248"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2248-maat-al-salah-is-born-on-outpost-4",
@@ -14221,7 +14221,7 @@
       "date": "2248-06-28",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Maat Al-Salah is born on Outpost 4.",
+      "summary": "Maat Al-Salah born on Outpost 4.",
       "entities": [
         "June",
         "Maat Al-Salah",
@@ -14245,7 +14245,7 @@
         "https://memory-alpha.fandom.com/wiki/2248"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2248-rukiya-is-born",
@@ -14253,7 +14253,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Rukiya is born.",
+      "summary": "Rukiya born.",
       "entities": [
         "Rukiya"
       ],
@@ -14275,7 +14275,7 @@
         "https://memory-alpha.fandom.com/wiki/2248"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2248-starfleet-loses-contact-with-the-probe-friendship",
@@ -14305,7 +14305,7 @@
         "https://memory-alpha.fandom.com/wiki/2248"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2248-yuuto-hoshide-is-born-in-misawa-aomori-japan",
@@ -14313,7 +14313,7 @@
       "date": "2248-11-05",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Yuuto Hoshide is born in Misawa, Aomori, Japan.",
+      "summary": "Yuuto Hoshide born in Misawa, Aomori.",
       "entities": [
         "November",
         "Yuuto Hoshide",
@@ -14339,7 +14339,7 @@
         "https://memory-alpha.fandom.com/wiki/2248"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2249-as-a-lieutenant-christopher-pike-travels-to-majal",
@@ -14347,7 +14347,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "As a lieutenant, Christopher Pike travels to Majalan system and meets Alora when he rescues her from a shuttle accident.",
+      "summary": "As a lieutenant, Christopher Pike travels to the Majalan system and meets Alora while rescuing her from a shuttle accident.",
       "entities": [
         "Christopher Pike",
         "Majalan system",
@@ -14371,7 +14371,7 @@
         "https://memory-alpha.fandom.com/wiki/2249"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2249-charles-evans-is-born",
@@ -14379,7 +14379,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Charles Evans is born.",
+      "summary": "Charles Evans born.",
       "entities": [
         "Charles Evans"
       ],
@@ -14401,7 +14401,7 @@
         "https://memory-alpha.fandom.com/wiki/2249"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2249-joanna-mccoy-daughter-of-leonard-mccoy-is-born",
@@ -14409,7 +14409,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Joanna McCoy, daughter of Leonard McCoy, is born.",
+      "summary": "Joanna McCoy, daughter of Leonard McCoy, born.",
       "entities": [
         "Joanna McCoy",
         "Leonard McCoy"
@@ -14432,7 +14432,7 @@
         "https://memory-alpha.fandom.com/wiki/2249"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2249-me-hani-ika-hali-ka-po-builds-a-universal-translat",
@@ -14462,7 +14462,7 @@
         "https://memory-alpha.fandom.com/wiki/2249"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2249-michael-burnham-graduates-from-the-vulcan-science",
@@ -14544,7 +14544,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Sylvia Tilly, at the age of sixteen, went through a \"rebellious phase\" in her life, and she was involved with hacking.",
+      "summary": "At sixteen, Sylvia Tilly goes through a rebellious stretch that includes hacking.",
       "entities": [
         "Sylvia Tilly"
       ],
@@ -14566,7 +14566,7 @@
         "https://memory-alpha.fandom.com/wiki/2249"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2249-tina-lawton-is-born",
@@ -14574,7 +14574,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Tina Lawton is born.",
+      "summary": "Tina Lawton born.",
       "entities": [
         "Tina Lawton"
       ],
@@ -14596,7 +14596,7 @@
         "https://memory-alpha.fandom.com/wiki/2249"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2250-after-serving-as-first-officer-under-captain-april",
@@ -14604,7 +14604,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "After serving as first officer under Captain April, Christopher Pike receives a promotion to captain and assumes command of the Enterprise.",
+      "summary": "After serving as first officer under Captain April, Christopher Pike is promoted to captain and takes command of the Enterprise.",
       "entities": [
         "Christopher Pike"
       ],
@@ -14626,7 +14626,7 @@
         "https://memory-alpha.fandom.com/wiki/2250"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2250-captain-matthew-decker-finishes-his-first-five-yea",
@@ -14634,7 +14634,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Matthew Decker finishes his first five-year mission aboard the Constellation.",
+      "summary": "Captain Matthew Decker completes his first five-year mission aboard the Constellation.",
       "entities": [
         "Matthew Decker"
       ],
@@ -14656,7 +14656,7 @@
         "https://memory-alpha.fandom.com/wiki/2250"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2250-james-t-kirk-is-introduced-to-gary-mitchell-year",
@@ -14664,7 +14664,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "James T. Kirk is introduced to Gary Mitchell. Years later, they became friends when cadet Mitchell attended Lieutenant Kirk's philosophy class at Starfleet Academy.",
+      "summary": "James T. Kirk is introduced to Gary Mitchell, and the two become friends years later when cadet Mitchell attends Lieutenant Kirk's philosophy class.",
       "entities": [
         "James T. Kirk",
         "Gary Mitchell",
@@ -14688,7 +14688,7 @@
         "https://memory-alpha.fandom.com/wiki/2250"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2250-lucille-harewood-is-born-on-earth",
@@ -14727,7 +14727,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Robert April leaves the USS Enterprise as its commander for an appointment as Federation ambassador-at-large.",
+      "summary": "Robert April leaves the Enterprise to become a Federation ambassador-at-large.",
       "entities": [
         "Robert April",
         "USS Enterprise"
@@ -14750,7 +14750,7 @@
         "https://memory-alpha.fandom.com/wiki/2250"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2250-sarek-becomes-estranged-from-his-son-for-the-next",
@@ -14780,7 +14780,7 @@
         "https://memory-alpha.fandom.com/wiki/2250"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2250-spock-graduates-starfleet-academy-with-a-commissio",
@@ -14832,7 +14832,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Una Chin-Riley is made First officer.",
+      "summary": "Una Chin-Riley is made first officer.",
       "entities": [
         "Una Chin-Riley",
         "First officer"
@@ -14855,7 +14855,7 @@
         "https://memory-alpha.fandom.com/wiki/2250"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2251-leland-conducts-a-mission-to-deneva-that-unfortuna",
@@ -14863,7 +14863,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Leland conducts a mission to Deneva that unfortunately involves the wrong ambassador.",
+      "summary": "Leland's mission to Deneva goes wrong when he approaches the wrong ambassador.",
       "entities": [
         "Leland",
         "Deneva"
@@ -14886,7 +14886,7 @@
         "https://memory-alpha.fandom.com/wiki/2251"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2251-leonard-mccoy-heads-a-mass-inoculation-program-on",
@@ -14894,7 +14894,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Leonard McCoy heads a mass-inoculation program on the planet Dramia II. After his force leaves, a massive plague strikes the planet, killing most of its people. The Dramens hold him responsible and nineteen years later he is arrested, with Federation approval, and put on trial for the outbreak.",
+      "summary": "Leonard McCoy heads a mass inoculation program on Dramia II; after his team leaves, a plague kills most of the population, and nineteen years later the Dramens have him arrested for the outbreak.",
       "entities": [
         "Leonard McCoy",
         "Dramia II",
@@ -14919,7 +14919,7 @@
         "https://memory-alpha.fandom.com/wiki/2251"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2252-charles-evans-is-the-sole-survivor-of-his-ship-s-c",
@@ -14927,7 +14927,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Charles Evans is the sole survivor of his ship's crash landing on the planet Thasus.",
+      "summary": "Charles Evans is the sole survivor when his ship crash-lands on Thasus.",
       "entities": [
         "Charles Evans",
         "Charlie's transport",
@@ -14951,7 +14951,7 @@
         "https://memory-alpha.fandom.com/wiki/2252"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2252-james-t-kirk-begins-a-five-year-officer-training",
@@ -14959,7 +14959,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "James T. Kirk begins a five-year officer training program at Starfleet Academy. In his first year at the Academy, he develops a romantic relationship with Ruth and is tormented by an older cadet named Finnegan.",
+      "summary": "James T. Kirk begins a five-year officer training program at Starfleet Academy, where he falls for Ruth and clashes with the cadet Finnegan.",
       "entities": [
         "James T. Kirk",
         "Starfleet Academy",
@@ -14984,7 +14984,7 @@
         "https://memory-alpha.fandom.com/wiki/2252"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2252-kirk-befriends-lieutenant-commander-benjamin-finne",
@@ -15014,7 +15014,7 @@
         "https://memory-alpha.fandom.com/wiki/2252"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2252-may-ahearn-dies",
@@ -15045,7 +15045,7 @@
         "https://memory-alpha.fandom.com/wiki/2252"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2253-a-hypergiant-observed-one-hundred-years-previously",
@@ -15053,7 +15053,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A hypergiant observed one hundred years previously is expected to go supernova.",
+      "summary": "A hypergiant first observed a century earlier is expected to go supernova.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -15073,7 +15073,7 @@
         "https://memory-alpha.fandom.com/wiki/2253"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2253-a-new-variant-of-the-starfleet-uniform-is-introduc",
@@ -15081,7 +15081,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A new variant of the Starfleet uniform is introduced.",
+      "summary": "Starfleet introduces another uniform variant.",
       "entities": [
         "Starfleet uniform (late 2230s-2250s)"
       ],
@@ -15103,7 +15103,7 @@
         "https://memory-alpha.fandom.com/wiki/2253"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2253-doctor-leonard-mccoy-develops-a-medical-procedure",
@@ -15111,7 +15111,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Doctor Leonard McCoy develops a medical procedure involving brain tissue engrafting.",
+      "summary": "Leonard McCoy develops a medical procedure for engrafting brain tissue.",
       "entities": [
         "Leonard McCoy"
       ],
@@ -15133,7 +15133,7 @@
         "https://memory-alpha.fandom.com/wiki/2253"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2253-spock-is-assigned-to-the-uss-enterprise-as-science",
@@ -15184,7 +15184,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Commander Finney is reprimanded for the incident aboard the Republic.",
+      "summary": "Commander Finney is reprimanded over the incident aboard the Republic.",
       "entities": [],
       "kind": null,
       "group": "USS Republic",
@@ -15204,7 +15204,7 @@
         "https://memory-alpha.fandom.com/wiki/2254"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2254-commander-hansen-al-salah-begins-requesting-new-su",
@@ -15212,7 +15212,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Commander Hansen Al-Salah begins requesting new supplies for the Earth Outpost Stations along the Romulan Neutral Zone.",
+      "summary": "Commander Hansen Al-Salah begins requesting new supplies for the Earth outposts along the Romulan Neutral Zone.",
       "entities": [
         "Hansen Al-Salah",
         "Earth Outpost Station",
@@ -15236,7 +15236,7 @@
         "https://memory-alpha.fandom.com/wiki/2254"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2254-ensign-james-t-kirk-is-assigned-with-lieutenant-c",
@@ -15244,7 +15244,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Ensign James T. Kirk is assigned with Lieutenant Commander Benjamin Finney to the USS Republic.",
+      "summary": "Ensign James T. Kirk is assigned to the USS Republic under Lieutenant Commander Benjamin Finney.",
       "entities": [
         "James T. Kirk",
         "Benjamin Finney",
@@ -15268,7 +15268,7 @@
         "https://memory-alpha.fandom.com/wiki/2254"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2254-leonard-mccoy-becomes-romantically-involved-with-t",
@@ -15276,7 +15276,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Leonard McCoy becomes romantically involved with the future Nancy Crater.",
+      "summary": "Leonard McCoy becomes involved with the woman who will later be known as Nancy Crater.",
       "entities": [
         "Leonard McCoy",
         "Nancy Crater"
@@ -15299,7 +15299,7 @@
         "https://memory-alpha.fandom.com/wiki/2254"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2254-spock-begins-programming-the-kobayashi-maru-scenar",
@@ -15336,7 +15336,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Spock is promoted to Lieutenant.",
+      "summary": "Spock is promoted to lieutenant.",
       "entities": [
         "Spock"
       ],
@@ -15358,7 +15358,7 @@
         "https://memory-alpha.fandom.com/wiki/2254"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2254-the-enterprise-en-route-to-vega-colony-to-hospita",
@@ -15366,7 +15366,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise, en route to Vega colony to hospitalize the Rigel VII victims, is diverted by an eighteen-year old distress call from the SS Columbia, crashed on Talos IV.",
+      "summary": "Bound for Vega colony with Rigel VII casualties, the Enterprise diverts to an eighteen-year-old distress call from the SS Columbia, crashed on Talos IV.",
       "entities": [
         "Vega colony",
         "Talos IV",
@@ -15390,7 +15390,7 @@
         "https://memory-alpha.fandom.com/wiki/2254"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2254-the-enterprise-under-the-command-of-christopher-pi",
@@ -15398,7 +15398,7 @@
       "date": null,
       "stardate": "2498.4",
       "timeline": "prime",
-      "summary": "The Enterprise under the command of Christopher Pike, visits Rigel VII. While commanding the landing party, Pike enters an abandoned fortress and fights a Kalar warrior. The landing party's ambush leads to seven injuries and three deaths, including Pike's yeoman Zac Nguyen.",
+      "summary": "Visiting Rigel VII under Christopher Pike, the Enterprise's landing party is ambushed in an abandoned fortress, leaving seven hurt and three dead, including Pike's yeoman Zac Nguyen.",
       "entities": [
         "Christopher Pike",
         "Rigel VII",
@@ -15429,7 +15429,7 @@
         "https://memory-alpha.fandom.com/wiki/2254"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2254-the-terran-empire-rebellion-establishes-a-base-on",
@@ -15437,7 +15437,7 @@
       "date": null,
       "stardate": null,
       "timeline": "mirror",
-      "summary": "The Terran Empire rebellion establishes a base on Harlak.",
+      "summary": "In the mirror universe, the Terran Empire rebellion establishes a base on Harlak.",
       "entities": [
         "Terran Empire rebellion",
         "Harlak"
@@ -15460,7 +15460,7 @@
         "https://memory-alpha.fandom.com/wiki/2254"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2254-while-aboard-the-training-vessel-republic-during-a",
@@ -15468,7 +15468,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "While aboard the training vessel Republic during a change of watches, Ensign Kirk relieves Commander Finney and notes that a circuit, which should have been closed, to the atomic matter piles is opened. After closing the circuit, Kirk logs the incident.",
+      "summary": "Aboard the training vessel Republic, Ensign Kirk finds an open circuit to the atomic matter piles during a change of watch under Commander Finney, closes it, and logs the incident.",
       "entities": [],
       "kind": null,
       "group": "USS Republic",
@@ -15488,7 +15488,7 @@
         "https://memory-alpha.fandom.com/wiki/2254"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2255-captain-matthew-decker-finishes-his-second-five-ye",
@@ -15496,7 +15496,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Matthew Decker finishes his second five-year mission aboard the Constellation.",
+      "summary": "Captain Matthew Decker completes his second five-year mission aboard the Constellation.",
       "entities": [
         "Matthew Decker"
       ],
@@ -15518,7 +15518,7 @@
         "https://memory-alpha.fandom.com/wiki/2255"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2255-gabriel-lorca-and-michael-burnham-begin-their-atte",
@@ -15526,7 +15526,7 @@
       "date": null,
       "stardate": null,
       "timeline": "mirror",
-      "summary": "Gabriel Lorca and Michael Burnham begin their attempted coup d'état against Emperor Philippa Georgiou.",
+      "summary": "In the mirror universe, Gabriel Lorca and Michael Burnham begin their attempted coup against Emperor Philippa Georgiou.",
       "entities": [
         "Terran emperor"
       ],
@@ -15548,7 +15548,7 @@
         "https://memory-alpha.fandom.com/wiki/2255"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2255-james-t-kirk-gets-in-a-bar-fight-with-hendorff-an",
@@ -15590,7 +15590,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "James T. Kirk leaves Starfleet Academy. He is assigned to the phaser station aboard the USS Farragut.",
+      "summary": "James T. Kirk leaves Starfleet Academy and is assigned to the phaser station aboard the USS Farragut.",
       "entities": [
         "James T. Kirk",
         "Starfleet Academy",
@@ -15614,7 +15614,7 @@
         "https://memory-alpha.fandom.com/wiki/2255"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2255-leonard-mccoy-gets-divorced-from-his-wife-and-enli",
@@ -15653,7 +15653,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On his first planetary survey mission, Lieutenant Kirk visits the planet Neural, where he meets Tyree.",
+      "summary": "On his first planetary survey mission, Lieutenant Kirk visits Neural and meets Tyree.",
       "entities": [
         "Neural"
       ],
@@ -15675,7 +15675,7 @@
         "https://memory-alpha.fandom.com/wiki/2255"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2255-several-starfleet-academy-cadets-including-nyota",
@@ -15715,7 +15715,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Sheliak attempt to communicate with the Federation, something they will not do again until 2366.",
+      "summary": "The Sheliak attempt contact with the Federation, something they will not repeat until 2366.",
       "entities": [
         "Sheliak"
       ],
@@ -15737,7 +15737,7 @@
         "https://memory-alpha.fandom.com/wiki/2255"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2255-the-terran-empire-s-new-flagship-the-iss-charon",
@@ -15745,7 +15745,7 @@
       "date": null,
       "stardate": null,
       "timeline": "mirror",
-      "summary": "The Terran Empire's new flagship, the ISS Charon, is launched from the Imperial Shipyard at Epsilon Indi IV.",
+      "summary": "In the mirror universe, the Terran Empire launches its new flagship, the ISS Charon, from the Imperial Shipyard at Epsilon Indi IV.",
       "entities": [
         "Terran Empire",
         "Imperial Shipyard",
@@ -15770,7 +15770,7 @@
         "https://memory-alpha.fandom.com/wiki/2255"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2255-the-uss-enterprise-undergoes-construction-at-the-r",
@@ -15811,7 +15811,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A failed test of the USS Glenn’s experimental spore drive using a captured Tardigrade causes the crew to be mutilated. A group of Klingons try to take advantage of the disabled ship but are all killed by the tardigrade on board.",
+      "summary": "A failed test of the USS Glenn's experimental spore drive on a captured tardigrade mutilates the crew; Klingons trying to seize the disabled ship are killed by the creature instead.",
       "entities": [],
       "kind": null,
       "group": "USS Glenn",
@@ -15831,7 +15831,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-after-being-diverted-from-transfer-to-the-tellun-p",
@@ -15839,7 +15839,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "After being diverted from transfer to the Tellun penal colony, Michael Burnham and three other prisoners stay aboard the USS Discovery until their shuttle is fixed. While on board, Burnham learns about what the ship and her captain, Gabriel Lorca, are doing in their fight against the Klingons. Burnham is sent on an away mission with Sylvia Tilly and Paul Stamets to investigate the USS Glenn.",
+      "summary": "Diverted from a transfer to the Tellun penal colony, Michael Burnham and three other prisoners stay aboard the USS Discovery, where she learns of Captain Lorca's fight against the Klingons and is sent with Sylvia Tilly and Paul Stamets to investigate the USS Glenn.",
       "entities": [
         "Tellun",
         "Sylvia Tilly",
@@ -15863,7 +15863,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-after-finding-that-using-the-spore-drive-causes-r",
@@ -15871,7 +15871,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "After finding that using the spore drive causes \"Ripper\" extreme pain, Michael Burnham releases the tardigrade from the Discovery. Its role is taken by Lieutenant Stamets.",
+      "summary": "Finding the spore drive causes the tardigrade extreme pain, Michael Burnham has it released from the Discovery, and Lieutenant Stamets takes over its role.",
       "entities": [],
       "kind": null,
       "group": "USS Discovery",
@@ -15891,7 +15891,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-ambassador-sarek-departs-on-a-diplomatic-mission",
@@ -15899,7 +15899,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Ambassador Sarek departs on a diplomatic mission, a meeting with a supposed dissenting Klingon faction. however his ship is bombed by a Logic extremist, stranding him inside a nebula until he can be retrieved in an unauthorized rescue mission by Michael Burnham. Katrina Cornwell goes in Sarek's place to meet with the Klingons, but is captured by them when the overture turns out to be a trap.",
+      "summary": "Ambassador Sarek's ship is bombed by a Logic Extremist en route to meet a dissenting Klingon faction, stranding him in a nebula until Michael Burnham mounts an unauthorized rescue; Katrina Cornwell goes in his place and is captured when the meeting proves a trap.",
       "entities": [
         "Sarek",
         "Klingon",
@@ -15924,7 +15924,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-captain-lorca-has-the-glenn-scuttled-but-recovers",
@@ -15932,7 +15932,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Lorca has the Glenn scuttled, but recovers the tardigrade \"Ripper\" still on board and uses it to dramatically improve the Discovery’s spore drive.",
+      "summary": "Captain Lorca scuttles the Glenn but keeps the tardigrade aboard, using it to sharply improve the Discovery's spore drive.",
       "entities": [
         "Ripper"
       ],
@@ -15954,7 +15954,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-captain-lorca-is-captured-by-klingons-while-return",
@@ -15962,7 +15962,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Lorca is captured by Klingons while returning from a conference. During his captivity, he encounters Starfleet Lieutenant Ash Tyler and Harcourt Fenton Mudd. Lorca and Tyler escape, leaving Mudd behind for helping the Klingons and are beamed aboard the Discovery after it arrives to find Lorca.",
+      "summary": "Captain Lorca is captured by Klingons on his way back from a conference, where he meets fellow captives Ash Tyler and Harcourt Fenton Mudd; Lorca and Tyler escape and are beamed aboard the arriving Discovery, leaving Mudd behind.",
       "entities": [
         "Harcourt Fenton Mudd"
       ],
@@ -15984,7 +15984,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-harry-mudd-uses-a-time-crystal-to-trap-discovery-i",
@@ -15992,7 +15992,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Harry Mudd uses a time crystal to trap Discovery inside a time loop in a attempt to figure out the starship's secret and sell the ship to the Klingons. Paul Stamets is able to exist outside of the loop and figures out his plan. In the end, Mudd is handed over to his fiance Stella and her father.",
+      "summary": "Harry Mudd traps the Discovery in a time loop with a time crystal to learn the ship's secret and sell it to the Klingons, but Paul Stamets, immune to the loop, foils him, and Mudd is handed over to his fiancee Stella and her father.",
       "entities": [],
       "kind": null,
       "group": "USS Discovery",
@@ -16012,7 +16012,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-leonard-mccoy-ends-his-relationship-with-the-futu",
@@ -16020,7 +16020,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Leonard McCoy ends his relationship with (the future) Nancy Crater.",
+      "summary": "Leonard McCoy ends his relationship with the future Nancy Crater.",
       "entities": [
         "Leonard McCoy",
         "Nancy Crater"
@@ -16043,7 +16043,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-michael-burnham-is-found-guilty-of-mutiny-strippe",
@@ -16051,7 +16051,7 @@
       "date": "2256-05",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Michael Burnham is found guilty of mutiny, stripped of her rank, and sentenced to life imprisonment.",
+      "summary": "Michael Burnham is found guilty of mutiny, stripped of rank, and sentenced to life imprisonment.",
       "entities": [],
       "kind": null,
       "group": "USS Shenzhou",
@@ -16076,7 +16076,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-michael-burnham-joins-the-crew-of-the-discovery",
@@ -16106,7 +16106,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-starfleet-begins-conceptualizing-the-spore-drive",
@@ -16114,7 +16114,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet begins conceptualizing the spore drive, installing it on two prototype vessels, the USS Glenn and the USS Discovery.",
+      "summary": "Starfleet begins developing the spore drive, installing prototypes aboard the USS Glenn and the USS Discovery.",
       "entities": [],
       "kind": null,
       "group": "USS Gagarin",
@@ -16134,7 +16134,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-the-battle-of-the-binary-stars-occurs-between-star",
@@ -16203,7 +16203,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-the-klingon-reactionary-leader-t-kuvma-begins-asse",
@@ -16211,7 +16211,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Klingon reactionary leader T'Kuvma begins assembling like-minded Klingons into a nationalist, anti-Federation movement.",
+      "summary": "The Klingon reactionary T'Kuvma begins rallying like-minded Klingons into an anti-Federation, nationalist movement.",
       "entities": [
         "Klingon",
         "T'Kuvma"
@@ -16234,7 +16234,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-the-shenzhou-is-called-to-a-binary-star-system-to",
@@ -16242,7 +16242,7 @@
       "date": "2256-05",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Shenzhou is called to a binary star system to investigate damage done to an interstellar relay by T'Kuvma's faction. First Officer Michael Burnham attempts a mutiny against Captain Philippa Georgiou in the hopes of defusing the crisis.",
+      "summary": "Investigating T'Kuvma's damage to an interstellar relay, the Shenzhou's First Officer Michael Burnham attempts a mutiny against Captain Philippa Georgiou to defuse the crisis.",
       "entities": [
         "First Officer",
         "Michael Burnham",
@@ -16271,7 +16271,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-the-torchbearer-voq-attempts-to-continue-t-kuvma-s",
@@ -16279,7 +16279,7 @@
       "date": "2256-05",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Torchbearer Voq attempts to continue T'Kuvma's ideology, but is largely sidelined by the Klingon Empire.",
+      "summary": "The Torchbearer Voq tries to carry on T'Kuvma's ideology but is largely sidelined by the Klingon Empire.",
       "entities": [
         "Torchbearer",
         "Voq",
@@ -16295,7 +16295,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-the-uss-buran-is-ambushed-and-all-hands-except-for",
@@ -16349,7 +16349,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Gagarin is ambushed simultaneously while patrolling its sector along with the two other Starfleet vessels in the area; the USS Hoover and USS Muroc. The Hoover and Muroc are destroyed, closely followed by the Gagarin after its warp drive is disabled. The USS Discovery responds to the Gagarin’s distress call but is unable to stop the Klingons destroying the vessel with all hands.",
+      "summary": "Klingons ambush the USS Gagarin alongside the USS Hoover and USS Muroc while patrolling together; the Hoover and Muroc are destroyed, and the Gagarin follows after its warp drive fails, its distress call answered too late by the responding Discovery.",
       "entities": [
         "USS Hoover",
         "USS Muroc"
@@ -16372,7 +16372,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-the-uss-shenzhou-visits-the-crepusculan-homeworld",
@@ -16402,7 +16402,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-voq-is-overthrown-by-kol-of-the-house-of-kor-who",
@@ -16410,7 +16410,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Voq is overthrown by Kol of the House of Kor, who assumes leadership of T'Kuvma's Klingons. Voq is abandoned aboard the wreck of the USS Shenzhou but is rescued by L'Rell.",
+      "summary": "Kol of the House of Kor overthrows Voq to lead T'Kuvma's Klingons, abandoning him aboard the wrecked USS Shenzhou, where L'Rell rescues him.",
       "entities": [
         "House of Kor",
         "L'Rell"
@@ -16433,7 +16433,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-with-the-aid-of-the-spore-drive-captain-lorca-lea",
@@ -16441,7 +16441,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "With the aid of the spore drive, Captain Lorca leads the Discovery to victory, destroying multiple Klingon ships during their attack on Corvan II.",
+      "summary": "Using the spore drive, Captain Lorca leads the Discovery to victory over multiple Klingon ships at Corvan II.",
       "entities": [
         "Attack on Corvan II",
         "Corvan II"
@@ -16464,7 +16464,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2256-zefram-cochrane-warp-research-facility-opens",
@@ -16472,7 +16472,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zefram Cochrane Warp Research Facility opens.",
+      "summary": "The Zefram Cochrane Warp Research Facility opens.",
       "entities": [
         "Zefram Cochrane Warp Research Facility"
       ],
@@ -16494,7 +16494,7 @@
         "https://memory-alpha.fandom.com/wiki/2256"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2257-august-montgomery-scott-and-keenser-are-stationed",
@@ -16556,7 +16556,7 @@
         "https://memory-alpha.fandom.com/wiki/2257"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2257-commander-saru-leads-the-discovery-on-a-mission-th",
@@ -16564,7 +16564,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Commander Saru leads the Discovery on a mission that results in the end of the Federation-Klingon War, with many of the crew members being awarded for their actions, including Saru receiving the Starfleet Medal of Honor.",
+      "summary": "Commander Saru leads the Discovery on the mission that ends the Federation-Klingon War, earning several of the crew commendations, including the Starfleet Medal of Honor for Saru.",
       "entities": [
         "Saru",
         "Starfleet Medal of Honor"
@@ -16587,7 +16587,7 @@
         "https://memory-alpha.fandom.com/wiki/2257"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2257-following-a-number-of-multiple-catastrophic-system",
@@ -16595,7 +16595,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Following a number of multiple catastrophic systems failures, The Enterprise is towed to spacedock for repairs.",
+      "summary": "After a string of catastrophic systems failures, the Enterprise is towed to spacedock for repairs.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -16615,7 +16615,7 @@
         "https://memory-alpha.fandom.com/wiki/2257"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2257-lieutenant-commander-una-chin-riley-begins-an-inve",
@@ -16623,7 +16623,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lieutenant Commander Una Chin-Riley begins an investigation into the allegations against Spock.",
+      "summary": "Lieutenant Commander Una Chin-Riley begins investigating the allegations against Spock.",
       "entities": [
         "Una Chin-Riley",
         "Spock"
@@ -16646,7 +16646,7 @@
         "https://memory-alpha.fandom.com/wiki/2257"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2257-spock-takes-a-leave-of-absence-from-starfleet-and",
@@ -16695,7 +16695,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Discovery crew, still led by Saru, make their way to Vulcan to pick up the ship's new commanding officer, but stop along the way to respond to a distress call from Captain Christopher Pike aboard the USS Enterprise.",
+      "summary": "Still under Saru, the Discovery crew head for Vulcan to collect the ship's new commanding officer, but stop en route to answer a distress call from Captain Christopher Pike's Enterprise.",
       "entities": [
         "Christopher Pike",
         "USS Enterprise"
@@ -16718,7 +16718,7 @@
         "https://memory-alpha.fandom.com/wiki/2257"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2257-the-discovery-makes-first-contact-with-the-new-ede",
@@ -16726,7 +16726,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Discovery makes first contact with the New Eden colony on the planet Terralysium.",
+      "summary": "The Discovery makes first contact with the New Eden colony on Terralysium.",
       "entities": [
         "New Eden",
         "Terralysium"
@@ -16749,7 +16749,7 @@
         "https://memory-alpha.fandom.com/wiki/2257"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2257-the-shakespearian-troupe-karidian-company-of-playe",
@@ -16757,7 +16757,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Shakespearian troupe Karidian Company of Players, sponsored by the Galactic Cultural Exchange Project, begins its tour of official installations.",
+      "summary": "The Karidian Company of Players, a Shakespearean troupe sponsored by the Galactic Cultural Exchange Project, begins touring official installations.",
       "entities": [
         "William Shakespeare",
         "Karidian Company of Players",
@@ -16781,7 +16781,7 @@
         "https://memory-alpha.fandom.com/wiki/2257"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2257-the-uss-discovery-returns-from-the-mirror-universe",
@@ -16789,7 +16789,7 @@
       "date": null,
       "stardate": null,
       "timeline": "mirror",
-      "summary": "The USS Discovery returns from the mirror universe nine months after they left the prime universe.",
+      "summary": "Discovery reappears from the mirror universe, nine months after departing the prime one.",
       "entities": [
         "USS Discovery"
       ],
@@ -16816,7 +16816,7 @@
         "https://memory-alpha.fandom.com/wiki/2257"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2257-two-hundred-crewmembers-of-the-farragut-are-killed",
@@ -16824,7 +16824,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Two hundred crewmembers of the Farragut are killed at Tycho IV by a dikironium cloud creature. One of the casualties is the ship's commanding officer, Captain Garrovick. The Farragut first officer commends Lieutenant Kirk for his actions at Tycho IV.",
+      "summary": "A dikironium cloud creature kills two hundred Farragut crew members at Tycho IV, including Captain Garrovick, and the ship's first officer commends Lieutenant Kirk for his actions there.",
       "entities": [
         "Tycho IV",
         "Garrovick",
@@ -16848,7 +16848,7 @@
         "https://memory-alpha.fandom.com/wiki/2257"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-admiral-alexander-marcus-discovers-the-ss-botany-b",
@@ -16909,7 +16909,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-christopher-pike-is-promoted-to-admiral-james-t",
@@ -16917,7 +16917,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "Christopher Pike is promoted to admiral. James T. Kirk becomes captain of the USS Enterprise as Christopher Pike's relief. Ambassador Spock leads survivors of Vulcan in forming a New Vulcan colony with advice to his younger self to continue in Starfleet.",
+      "summary": "Christopher Pike is promoted to admiral, James T. Kirk succeeds him as captain of the Enterprise, and Ambassador Spock leads Vulcan's survivors in founding New Vulcan while advising his younger self to stay in Starfleet.",
       "entities": [
         "New Vulcan"
       ],
@@ -16931,7 +16931,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-christopher-pike-returns-to-the-enterprise-to-resu",
@@ -16970,7 +16970,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Citing Starfleet Regulation 157, section 3, Lt. Spock recommends to Starfleet that USS Discovery, its personnel, and its spore drive should not be discussed under penalty of treason.",
+      "summary": "Citing Starfleet Regulation 157, Spock recommends that the USS Discovery, its crew, and its spore drive go undiscussed under penalty of treason.",
       "entities": [
         "Regulation 157",
         "Spock",
@@ -16994,7 +16994,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-doctor-joseph-m-benga-s-daughter-rukiya-is-diagnos",
@@ -17025,7 +17025,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-en-route-cadet-james-kirk-who-has-stowed-away-wi",
@@ -17033,7 +17033,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "En route, cadet James Kirk, who has stowed away with the help of Medical Officer Leonard \"Bones\" McCoy, overhears the mission briefing and deduces that the circumstances around Vulcan are similar to those surrounding his birth, when the USS Kelvin was destroyed by an unidentified, technologically-advanced ship. He reports these conclusions to Pike, who thusly prepares the Enterprise for action.",
+      "summary": "Stowed away with McCoy's help, Cadet Kirk overhears the mission briefing, recognizes parallels to the USS Kelvin's destruction at his own birth, and alerts Pike, who readies the Enterprise for action.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -17045,7 +17045,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-in-the-official-records-of-starfleet-the-uss-disc",
@@ -17053,7 +17053,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In the official records of Starfleet, the USS Discovery is listed as destroyed. The records do not mention the spore drive, Red Angel, or Control.",
+      "summary": "Starfleet's official records list the USS Discovery as destroyed, omitting any mention of the spore drive, Red Angel, or Control.",
       "entities": [
         "Red Angel",
         "Control"
@@ -17076,7 +17076,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-james-t-kirk-takes-the-kobayashi-maru-test-for-th",
