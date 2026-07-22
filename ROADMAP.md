@@ -151,8 +151,14 @@ Known and accepted:
       ending in a silent "e" (e.g. "Pike") were over-stemmed once a possessive
       was appended, producing false-positive flags. The stemming helpers are
       now in `scripts/lib/verify-text.js` with regression tests
-- [ ] Author the remaining summaries — **779 / 2,037 (38%)**, 23rd century
-      just over halfway (228/453)
+- [x] Fixed a parser bug: a bare stardate prefix ending in a period ("Stardate
+      1457.9. ...") never matched the date/stardate regex at all, since it only
+      accepted a dash or colon as the closing separator
+- [x] Fixed the verifier's stardate-range check, which had no epoch floor and
+      flagged real, correctly-authored summaries in pre-2323 years — where
+      `CLAUDE.md` already documents stardates as non-monotonic by design
+- [ ] Author the remaining summaries — **824 / 2,037 (40%)**, 23rd century at
+      60% (273/453)
 - [ ] Switch the committed build to `--strict`
 
 On the strict flip: the capability works and is tested, but flipping it now
@@ -167,6 +173,6 @@ Coverage by era:
 | **2063–2100** | **53 / 53 ✅** |
 | **ENT (2101–2161)** | **213 / 213 ✅** |
 | **Gap (2162–2232)** | **60 / 60 ✅** |
-| 23rd century | 228 / 453 |
+| 23rd century | 273 / 453 |
 | 24th century | 92 / 1,125 |
 | **Far future** | **133 / 133 ✅** |
