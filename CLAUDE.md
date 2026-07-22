@@ -218,6 +218,12 @@ local scrape cache, so it runs locally rather than in CI.
 - The checker needs stemming to be useful — possessives and plural or
   adjectival forms ("Archer's", "Andorians") are the same fact stated
   differently, and without it nearly every summary trips the check.
+- Stem a possessive *before* stripping punctuation, not after. `"Pike's"` with
+  the apostrophe removed first becomes `"Pikes"`, and the generic plural-`es`
+  rule then over-trims it to `"pik"` — any name ending in a silent "e" breaks
+  this way once a possessive is appended. The stemming helpers live in
+  `scripts/lib/verify-text.js` and are unit tested; extend the tests before
+  changing the regex.
 - It cannot judge meaning. That is sampled by hand; see the README.
 
 See `AUTHORING.md` before writing summaries.
