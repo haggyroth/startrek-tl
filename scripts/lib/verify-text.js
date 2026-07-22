@@ -110,3 +110,38 @@ export function introducedTokens(authoredText, sourceText) {
   }
   return introduced;
 }
+
+/**
+ * Stardates are linear only from 2323 onward (see src/js/data.js and
+ * CLAUDE.md). Kept as a local copy rather than imported from the browser-side
+ * module, so the Node pipeline in scripts/ doesn't reach into src/js/ — the
+ * two are meant to stay decoupled.
+ */
+export const STARDATE_EPOCH_YEAR = 2323;
+
+/**
+ * Whether an event's stardate falls outside its year page's declared range —
+ * but only from the epoch onward. Before it, stardates are inconsistent by
+ * design (TOS-era stardates run non-monotonically within a year, sometimes
+ * backward), so a year page's own declared range constrains nothing there;
+ * checking it produced false positives on every pre-epoch year with a real
+ * range, which is most of them.
+ *
+ * A range where start equals end is not a real range either — some sidebars
+ * (2233, for instance) give a single value while their events carry others.
+ *
+ * @param {string} stardate literal stardate from the event
+ * @param {number} year the event's year
+ * @param {{start: string, end: string}|undefined} range the year page's sidebar range
+ */
+export function isStardateOutOfRange(stardate, year, range) {
+  if (year < STARDATE_EPOCH_YEAR) return false;
+  if (!range || range.start === range.end) return false;
+
+  const value = Number(stardate);
+  const lo = Math.min(Number(range.start), Number(range.end));
+  const hi = Math.max(Number(range.start), Number(range.end));
+  if (!Number.isFinite(value) || !Number.isFinite(lo)) return false;
+
+  return value < lo || value > hi;
+}
