@@ -23,6 +23,7 @@ import { existsSync } from "node:fs";
 
 import { parseYearPage } from "./lib/parse-year.js";
 import { parseCenturyPage } from "./lib/parse-century.js";
+import { introducedTokens } from "./lib/verify-text.js";
 
 const VERBOSE = process.argv.includes("--verbose");
 const CACHE = "data/events.raw.json";
@@ -64,80 +65,6 @@ for (const [key, wikitext] of Object.entries(cache)) {
 
 // ---- checks ----
 
-/**
- * Tokens worth tracing: proper nouns and numbers. Lowercase words are ordinary
- * vocabulary and say nothing about whether the facts match.
- */
-function significantTokens(text) {
-  const tokens = new Set();
-
-  for (const [i, word] of words(text).entries()) {
-    // Numbers, including years. "13th" yields "13". A mixed designation like
-    // "917G" is a name, not a number, and is handled below.
-    const number = word.match(/^(\d[\d.,]*)(?:st|nd|rd|th)?$/);
-    if (number) {
-      tokens.add(number[1].replace(/[.,]$/, ""));
-      continue;
-    }
-    // A sentence-initial capital is grammar, not a name. Single letters are
-    // initials ("James T. Kirk") and carry no fact of their own.
-    if (i === 0 || word.length < 2) continue;
-    if (/^[A-Z]/.test(word)) tokens.add(word);
-  }
-
-  return tokens;
-}
-
-/** Split text into comparable words, keeping internal hyphens and apostrophes. */
-function words(text) {
-  return text
-    .split(/[\s(),;:"]+/)
-    .map((w) => w.replace(/^[^A-Za-z0-9]+|[^A-Za-z0-9']+$/g, ""))
-    .filter(Boolean);
-}
-
-/** Numbers written as words in one text and digits in the other, and vice versa. */
-const NUMBER_WORDS = {
-  one: "1", two: "2", three: "3", four: "4", five: "5", six: "6", seven: "7",
-  eight: "8", nine: "9", ten: "10", eleven: "11", twelve: "12", thirteen: "13",
-  twenty: "20", thirty: "30", forty: "40", fifty: "50", sixty: "60",
-  seventy: "70", eighty: "80", ninety: "90", hundred: "100", thousand: "1000",
-  million: "1000000", billion: "1000000000",
-};
-
-function normalise(text) {
-  let s = text.toLowerCase();
-  for (const [word, digits] of Object.entries(NUMBER_WORDS)) {
-    s = s.replaceAll(word, ` ${word} ${digits} `);
-  }
-  // Strip punctuation that differs between renderings.
-  return ` ${s.replace(/[^a-z0-9']+/g, " ")} `;
-}
-
-/**
- * Reduce a token to a comparable stem.
- *
- * Possessives and plural or adjectival forms are the same fact stated
- * differently — "Archer's" for Archer, "Andoria" for Andorians, "Klingons" for
- * the Klingon Empire. Without this the check is almost all false positives.
- */
-function stem(token) {
-  return token
-    .toLowerCase()
-    // "13th" and "23rd" are the same fact as "13" and "23".
-    .replace(/^(\d+)(?:st|nd|rd|th)$/, "$1")
-    .replace(/[^a-z0-9]/g, "")
-    .replace(/(?:s|es|ns|ian|ians|an|ans)$/, "");
-}
-
-/** True if either stem contains the other — enough to call it the same name. */
-function related(a, b) {
-  if (!a || !b) return false;
-  if (a === b) return true;
-  const [short, long] = a.length <= b.length ? [a, b] : [b, a];
-  return short.length >= 4 && long.startsWith(short);
-}
-
 const problems = [];
 let checked = 0;
 let missingSource = 0;
@@ -154,27 +81,8 @@ for (const event of dataset.events) {
 
   // The entity list is part of the fact record, so a name drawn from it is
   // traceable even when the cleaned prose spells it differently.
-  const haystack = normalise(`${source.summary} ${(source.entities ?? []).join(" ")}`);
-
-  // Stem the source with the same tokenizer, so both sides reduce identically.
-  const sourceStems = new Set(
-    words(`${source.summary} ${(source.entities ?? []).join(" ")}`)
-      .map(stem)
-      .filter(Boolean),
-  );
-
-  const introduced = [];
-  for (const token of significantTokens(event.summary)) {
-    const needle = normalise(token).trim();
-    if (!needle) continue;
-    if (haystack.includes(` ${needle} `)) continue;
-
-    const target = stem(token);
-    if (!target) continue;
-    if ([...sourceStems].some((s) => related(s, target))) continue;
-
-    introduced.push(token);
-  }
+  const sourceText = `${source.summary} ${(source.entities ?? []).join(" ")}`;
+  const introduced = introducedTokens(event.summary, sourceText);
 
   const allowed = new Set(exceptions[event.id]?.tokens ?? []);
   const unexplained = introduced.filter((t) => !allowed.has(t));
