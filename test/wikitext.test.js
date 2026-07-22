@@ -78,6 +78,23 @@ test("detectTimeline is conservative", () => {
   assert.equal(detectTimeline("In the Kelvin timeline, Chekov is older."), "kelvin");
 });
 
+// Regression: "alternative timeline/future" (a different word form of
+// "alternate") went undetected entirely and defaulted to prime. Confirmed
+// against the full corpus before widening the pattern: two occurrences, both
+// genuinely non-prime.
+test("detectTimeline also recognizes the 'alternative' word form", () => {
+  assert.equal(detectTimeline("In an alternative timeline, Pike commands."), "alternate");
+  assert.equal(detectTimeline("This never happens in the alternative future."), "alternate");
+});
+
+// "Alternative reality" is NOT the same idiom as "alternate reality" (Memory
+// Alpha's specific phrase for the Kelvin timeline) and must not be routed to
+// kelvin - it is generic wording for an unrelated divergent-timeline episode.
+test("'alternative reality' is generic, not the Kelvin idiom", () => {
+  assert.equal(detectTimeline("Janeway dies in an alternative reality."), "alternate");
+  assert.equal(detectTimeline("Kirk is born in an alternate reality."), "kelvin");
+});
+
 test("parseStardateRange reads sidebar ranges", () => {
   assert.deepEqual(parseStardateRange("50032.7 &ndash; 50984.3"), {
     start: "50032.7",

@@ -189,8 +189,17 @@ export function cleanText(text) {
 export function detectTimeline(text) {
   const s = text.toLowerCase();
   if (/mirror universe|terran empire|\bi\.s\.s\.|\biss /.test(s)) return "mirror";
+  // "Alternate reality" is Memory Alpha's specific idiom for the Kelvin
+  // timeline (see CLAUDE.md); "alternative reality" is not the same idiom and
+  // is only ever used generically elsewhere (confirmed: one occurrence
+  // dataset-wide, a VOY-only temporal-fragmentation episode unrelated to the
+  // 2009 film), so it is deliberately NOT added to this line.
   if (/kelvin timeline|alternate reality/.test(s)) return "kelvin";
-  if (/alternate timeline|alternate future|unrealized|never happened/.test(s)) {
+  if (
+    /alternate timeline|alternate future|alternative timeline|alternative future|alternative reality|unrealized|never happened/.test(
+      s,
+    )
+  ) {
     return "alternate";
   }
   return "prime";
