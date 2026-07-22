@@ -7,7 +7,7 @@
     ],
     "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 1094,
+    "authoredSummaries": 1139,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -30116,7 +30116,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "According to a holonovel called Crisis Point II: Paradoxus, the Great Soolian Algae Crisis happened this year, though this may or may not have been fictional.",
+      "summary": "According to the holonovel Crisis Point II: Paradoxus, the Great Soolian Algae Crisis takes place this year, though it may be entirely fictional.",
       "entities": [
         "Crisis Point II: Paradoxus",
         "Great Soolian Algae Crisis"
@@ -30139,7 +30139,7 @@
         "https://memory-alpha.fandom.com/wiki/2341"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2341-data-is-permitted-to-enter-starfleet-academy",
@@ -30175,7 +30175,7 @@
         "https://memory-alpha.fandom.com/wiki/2341"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2341-jadzia-is-born-on-trill",
@@ -30259,7 +30259,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lwaxana Troi first uses the nickname \"Little One\" for her daughter Deanna.",
+      "summary": "Lwaxana Troi first calls her daughter Deanna by the nickname Little One.",
       "entities": [
         "Lwaxana Troi",
         "Deanna Troi"
@@ -30287,7 +30287,7 @@
         "https://memory-alpha.fandom.com/wiki/2341"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2342-9-april-jean-luc-picard-has-a-rendezvous-with-je",
@@ -30295,7 +30295,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "9 April – Jean-Luc Picard has a rendezvous with Jenice at the Café des Artistes in Paris, which he fails to keep.",
+      "summary": "Jean-Luc Picard fails to keep a rendezvous with Jenice at the Café des Artistes in Paris on April 9.",
       "entities": [
         "April",
         "Jean-Luc Picard",
@@ -30321,7 +30321,7 @@
         "https://memory-alpha.fandom.com/wiki/2342"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2342-after-one-of-the-referees-calls-a-penalty-against",
@@ -30329,7 +30329,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "After one of the referees calls a penalty against his team during the championship finals, Klingon parrises squares player M'Kota R'Cho strangles him.",
+      "summary": "After a referee calls a penalty against his team in the championship finals, Klingon parrises squares player M'Kota R'Cho strangles him.",
       "entities": [
         "Klingon",
         "M'Kota R'Cho"
@@ -30352,7 +30352,7 @@
         "https://memory-alpha.fandom.com/wiki/2342"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2342-beverly-howard-is-admitted-to-starfleet-academy-s",
@@ -30384,7 +30384,7 @@
         "https://memory-alpha.fandom.com/wiki/2342"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2342-ishara-yar-is-born-on-turkana-iv",
@@ -30415,7 +30415,7 @@
         "https://memory-alpha.fandom.com/wiki/2342"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2342-lewis-zimmerman-graduates-from-starfleet-academy",
@@ -30445,7 +30445,7 @@
         "https://memory-alpha.fandom.com/wiki/2342"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2342-natasha-yar-and-ishara-become-orphans-following-th",
@@ -30453,7 +30453,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Natasha Yar and Ishara become orphans following the death of their parents and enter the custody of their guardians, who later abandon them. Natasha begins to sustain them both.",
+      "summary": "Natasha Yar and Ishara are orphaned when their parents die, then abandoned by the guardians who take custody of them; Natasha begins providing for them both.",
       "entities": [
         "Natasha Yar",
         "Yar's parents 001",
@@ -30482,7 +30482,7 @@
         "https://memory-alpha.fandom.com/wiki/2342"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2342-sneed-is-born-on-ferenginar",
@@ -30513,7 +30513,7 @@
         "https://memory-alpha.fandom.com/wiki/2342"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2342-surmak-ren-graduates-as-a-medical-doctor-from-the",
@@ -30544,7 +30544,7 @@
         "https://memory-alpha.fandom.com/wiki/2342"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2343-an-eight-year-old-geordi-la-forge-is-given-his-fir",
@@ -30552,7 +30552,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "An eight year old Geordi La Forge is given his first pet, a Circassian cat.",
+      "summary": "Eight-year-old Geordi La Forge receives his first pet, a Circassian cat.",
       "entities": [
         "Geordi La Forge",
         "Circassian cat"
@@ -30575,7 +30575,7 @@
         "https://memory-alpha.fandom.com/wiki/2343"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2343-ian-andrew-troi-father-of-deanna-dies",
@@ -30583,7 +30583,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Ian Andrew Troi, father of Deanna, dies.",
+      "summary": "Ian Andrew Troi, Deanna's father, dies.",
       "entities": [
         "Ian Andrew Troi",
         "Deanna Troi"
@@ -30606,7 +30606,7 @@
         "https://memory-alpha.fandom.com/wiki/2343"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2343-kira-nerys-is-born-on-bajor",
@@ -30642,7 +30642,7 @@
         "https://memory-alpha.fandom.com/wiki/2343"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2343-kyle-riker-teaches-his-son-william-anbo-jyutsu",
@@ -30650,7 +30650,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kyle Riker teaches his son, William, anbo-jyutsu.",
+      "summary": "Kyle Riker teaches his son William anbo-jyutsu.",
       "entities": [
         "Kyle Riker",
         "William Riker"
@@ -30673,7 +30673,7 @@
         "https://memory-alpha.fandom.com/wiki/2343"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2344-a-starfleet-captain-fails-in-his-attempted-contact",
@@ -30681,7 +30681,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A Starfleet captain fails in his attempted contact with the Jarada following a protocol error that causes a twenty-year rift between the two groups.",
+      "summary": "A Starfleet captain's protocol error dooms an attempted first contact with the Jarada, opening a twenty-year rift between the two groups.",
       "entities": [
         "Jarada"
       ],
@@ -30703,7 +30703,7 @@
         "https://memory-alpha.fandom.com/wiki/2344"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2344-annika-hansen-is-born-on-the-tendara-colony",
@@ -30758,7 +30758,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Chakotay's entry into Starfleet Academy is sponsored by Captain Sulu.",
+      "summary": "Captain Sulu sponsors Chakotay's entry into Starfleet Academy.",
       "entities": [
         "Chakotay",
         "Starfleet Academy"
@@ -30781,7 +30781,7 @@
         "https://memory-alpha.fandom.com/wiki/2344"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2344-devinoni-ral-leaves-earth-and-relocates-to-hurkos",
@@ -30812,7 +30812,7 @@
         "https://memory-alpha.fandom.com/wiki/2344"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2344-in-an-alternate-timeline-created-by-a-temporal-rif",
@@ -30820,7 +30820,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate timeline created by a temporal rift, the Enterprise-C disappears while engaged with the Romulan attackers. It crosses into the year 2366 (an alternate version of the prime timeline), which is then altered through unknown means. The ship returns through the rift with Natasha Yar. In the Battle of Narendra III, the USS Enterprise-C is destroyed while defending the Klingon outpost on Narendra III from Romulan attack. However, some of the Enterprise crew survives and are captured, among them Natasha Yar, who had been sent there by Jean-Luc Picard from 2366, in an attempt to fix the unexplained alteration of memories and the appearance of the Enterprise.",
+      "summary": "In a divergent timeline, the Enterprise-C vanishes through a temporal rift while fighting Romulans, crosses into an altered 2366, and returns through the rift carrying Natasha Yar, who had been sent back by Jean-Luc Picard to undo the timeline's alteration; in this branch, the ship is then destroyed at the Battle of Narendra III, though some crew, Yar included, survive long enough to be captured.",
       "entities": [
         "Natasha Yar",
         "Klingon",
@@ -30850,7 +30850,7 @@
         "https://memory-alpha.fandom.com/wiki/2344"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2344-in-what-becomes-known-as-the-battle-of-narendra-ii",
@@ -30858,7 +30858,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In what becomes known as the Battle of Narendra III, the USS Enterprise-C is destroyed while defending the Klingon outpost on Narendra III from Romulan attack. This event reemphasizes the Khitomer Accords and ensures a lasting peace between the Federation and the Klingon Empire.",
+      "summary": "In the Battle of Narendra III, the Enterprise-C is destroyed defending the Klingon outpost there from Romulan attack, an act that reinforces the Khitomer Accords and secures a lasting Federation-Klingon peace.",
       "entities": [
         "Battle of Narendra III",
         "Romulan",
@@ -30887,7 +30887,7 @@
         "https://memory-alpha.fandom.com/wiki/2344"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2344-kyle-riker-and-his-son-william-go-on-a-fishing-tri",
@@ -30919,7 +30919,7 @@
         "https://memory-alpha.fandom.com/wiki/2344"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2344-roana-and-her-husband-open-a-shop-on-bajor",
@@ -30951,7 +30951,7 @@
         "https://memory-alpha.fandom.com/wiki/2344"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2344-shakaar-edon-begins-to-fight-the-cardassians-durin",
@@ -30959,7 +30959,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Shakaar Edon begins to fight the Cardassians during their Occupation of Bajor.",
+      "summary": "Shakaar Edon begins fighting the Cardassians during their occupation of Bajor.",
       "entities": [
         "Shakaar Edon",
         "Cardassian",
@@ -30983,7 +30983,7 @@
         "https://memory-alpha.fandom.com/wiki/2344"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2344-the-enterprise-c-responds-to-a-distress-call-from",
@@ -30991,7 +30991,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise-C responds to a distress call from the Klingon outpost on Narendra III. Concurrently, the Klingon Empire and the Federation are negotiating a peace treaty.",
+      "summary": "The Enterprise-C responds to a distress call from the Klingon outpost on Narendra III while the Klingon Empire and Federation are negotiating a peace treaty.",
       "entities": [
         "Klingon",
         "Narendra III",
@@ -31015,7 +31015,7 @@
         "https://memory-alpha.fandom.com/wiki/2344"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2345-at-the-age-of-17-miles-o-brien-joins-starfleet-as",
@@ -31023,7 +31023,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "At the age of 17, Miles O'Brien joins Starfleet as an enlisted crewman and is assigned to the USS Rutledge under the command of Benjamin Maxwell.",
+      "summary": "At 17, Miles O'Brien joins Starfleet as an enlisted crewman, assigned to the USS Rutledge under Benjamin Maxwell.",
       "entities": [
         "Benjamin Maxwell",
         "USS Rutledge"
@@ -31052,7 +31052,7 @@
         "https://memory-alpha.fandom.com/wiki/2345"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2345-data-graduates-from-starfleet-academy-and-is-promo",
@@ -31088,7 +31088,7 @@
         "https://memory-alpha.fandom.com/wiki/2345"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2345-in-the-delta-quadrant-the-kazon-band-together-and",
@@ -31096,7 +31096,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In the Delta Quadrant, the Kazon band together and overthrow the Trabe. They steal a large number of Trabe warships, force the Trabe from their homeworld, and head out into space. Soon after this, the Kazon revert to fighting among themselves.",
+      "summary": "In the Delta Quadrant, the Kazon band together to overthrow the Trabe, seizing many of their warships and driving them from their homeworld, before soon reverting to fighting among themselves.",
       "entities": [
         "Kazon",
         "Trabe"
@@ -31119,7 +31119,7 @@
         "https://memory-alpha.fandom.com/wiki/2345"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2345-kor-while-serving-on-the-klingon-oversight-counci",
@@ -31127,7 +31127,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kor, while serving on the Klingon Oversight Council, strikes the name Martok off of the Klingon Defense Force's candidate list after noticing that he comes from the lowlands of Ketha Province. Martok later signs on aboard General ShiVang's flagship as a civilian laborer.",
+      "summary": "Serving on the Klingon Oversight Council, Kor strikes Martok's name from the Klingon Defense Force candidate list on learning he comes from the lowlands of Ketha Province; Martok later signs on as a civilian laborer aboard General ShiVang's flagship.",
       "entities": [
         "Klingon Oversight Council",
         "Martok",
@@ -31154,7 +31154,7 @@
         "https://memory-alpha.fandom.com/wiki/2345"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2345-kurn-brother-to-worf-is-born-on-qo-nos-to-mogh-a",
@@ -31187,7 +31187,7 @@
         "https://memory-alpha.fandom.com/wiki/2345"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2345-michael-o-brien-sends-a-recorded-audition-of-his-s",
@@ -31219,7 +31219,7 @@
         "https://memory-alpha.fandom.com/wiki/2345"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2345-odo-assumes-humanoid-form-for-the-first-time",
@@ -31249,7 +31249,7 @@
         "https://memory-alpha.fandom.com/wiki/2345"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2345-sela-is-born-on-romulus-to-her-mother-natasha-yar",
@@ -31257,7 +31257,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Sela is born on Romulus to her mother Natasha Yar after Tasha became the consort of a Romulan general.",
+      "summary": "Sela is born on Romulus to her mother Natasha Yar, after Tasha becomes the consort of a Romulan general.",
       "entities": [
         "Sela",
         "Romulus",
@@ -31282,7 +31282,7 @@
         "https://memory-alpha.fandom.com/wiki/2345"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2345-the-albino-comes-out-of-hiding-following-a-narrow",
@@ -31290,7 +31290,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Albino comes out of hiding, following a narrow escape from Kang, Koloth, Kor, and Curzon Dax on Galdonterre, and establishes a fortified compound on Secarus IV.",
+      "summary": "The Albino comes out of hiding after narrowly escaping Kang, Koloth, Kor, and Curzon Dax on Galdonterre, and establishes a fortified compound on Secarus IV.",
       "entities": [
         "The Albino",
         "Kang",
@@ -31318,7 +31318,7 @@
         "https://memory-alpha.fandom.com/wiki/2345"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2346-according-to-an-alternate-jean-luc-picard-of-2366",
@@ -31326,7 +31326,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "According to an alternate Jean-Luc Picard of 2366, a war between the Federation and Klingon began in this year.",
+      "summary": "According to an alternate Jean-Luc Picard from 2366, a war between the Federation and the Klingons begins this year.",
       "entities": [
         "Federation-Klingon War (alternate timeline)"
       ],
@@ -31348,7 +31348,7 @@
         "https://memory-alpha.fandom.com/wiki/2346"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2346-after-the-khitomer-massacre-the-intrepid-pays-a-v",
@@ -31356,7 +31356,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "After the Khitomer Massacre, the Intrepid pays a visit to Starbase 24 where another survivor, Kahlest, disembarks for medical treatment. She later books a passage to her home in the Klingon Empire.",
+      "summary": "After the Khitomer Massacre, the Intrepid visits Starbase 24, where survivor Kahlest disembarks for medical treatment before booking passage home to the Klingon Empire.",
       "entities": [
         "Starbase 24",
         "Kahlest",
@@ -31380,7 +31380,7 @@
         "https://memory-alpha.fandom.com/wiki/2346"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2346-at-the-age-of-5-julian-bashir-performs-his-first",
@@ -31388,7 +31388,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "At the age of 5, Julian Bashir performs his first surgery, on his teddy bear, Kukalaka.",
+      "summary": "At 5, Julian Bashir performs his first surgery, on his teddy bear Kukalaka.",
       "entities": [
         "Julian Bashir",
         "Kukalaka"
@@ -31411,7 +31411,7 @@
         "https://memory-alpha.fandom.com/wiki/2346"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2346-in-what-is-later-known-as-the-khitomer-massacre-t",
@@ -31419,7 +31419,7 @@
       "date": null,
       "stardate": "23859.7",
       "timeline": "prime",
-      "summary": "In what is later known as the Khitomer Massacre, the Klingon colony on Khitomer is attacked and destroyed by Romulan forces. Among the casualties is Mogh, whose son Worf survives and is later rescued by the Intrepid.",
+      "summary": "In the Khitomer Massacre, Romulan forces attack and destroy the Klingon colony on Khitomer; Mogh is among the casualties, though his son Worf survives and is later rescued by the Intrepid.",
       "entities": [
         "Khitomer Massacre",
         "Klingon",
@@ -31446,7 +31446,7 @@
         "https://memory-alpha.fandom.com/wiki/2346"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2346-jean-luc-picard-has-an-affair-with-miranda-vigo-on",
@@ -31454,7 +31454,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jean-Luc Picard has an affair with Miranda Vigo on Earth. Shortly after they break up, Miranda becomes involved with another man, also in Starfleet, with whom she has a son named Jason the next year.",
+      "summary": "Jean-Luc Picard has an affair with Miranda Vigo on Earth; after they break up, she becomes involved with another Starfleet officer, with whom she has a son, Jason, the following year.",
       "entities": [
         "Jean-Luc Picard",
         "Miranda Vigo",
@@ -31478,7 +31478,7 @@
         "https://memory-alpha.fandom.com/wiki/2346"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2346-paul-stubbs-begins-to-research-and-construct-the",
@@ -31486,7 +31486,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Paul Stubbs begins to research and construct \"The Egg\" to study the explosion of the neutron star/red giant in Kavis Alpha sector.",
+      "summary": "Paul Stubbs begins researching and building The Egg to study the coming explosion of the neutron star and red giant in the Kavis Alpha sector.",
       "entities": [
         "Paul Stubbs",
         "The Egg",
@@ -31510,7 +31510,7 @@
         "https://memory-alpha.fandom.com/wiki/2346"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2346-several-bajoran-women-including-kira-meru-and-her",
@@ -31518,7 +31518,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Several Bajoran women, including Kira Meru and her daughter, Kira Nerys (who traveled back in time from 2374), are brought to Terok Nor to serve as companions to the Cardassian military officers. Meru is chosen as his personal mistress by the new prefect, Gul Dukat. She remains in this capacity until her death in 2353.",
+      "summary": "Several Bajoran women, including Kira Meru and her daughter Kira Nerys, who had traveled back in time from 2374, are brought to Terok Nor to serve as companions to Cardassian officers; new prefect Gul Dukat chooses Meru as his personal mistress, a role she holds until her 2353 death.",
       "entities": [
         "Bajoran",
         "Kira Meru",
@@ -31543,7 +31543,7 @@
         "https://memory-alpha.fandom.com/wiki/2346"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2346-the-bajoran-resistance-attempts-to-kill-gul-dukat",
@@ -31573,7 +31573,7 @@
         "https://memory-alpha.fandom.com/wiki/2346"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2346-the-new-cardassian-ore-processing-center-orbiting",
@@ -31581,7 +31581,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The new Cardassian ore processing center orbiting Bajor, Terok Nor, nears completion.",
+      "summary": "The Cardassian ore processing center Terok Nor, orbiting Bajor, nears completion.",
       "entities": [
         "Cardassian",
         "Bajor"
@@ -31604,7 +31604,7 @@
         "https://memory-alpha.fandom.com/wiki/2346"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2347-dr-paul-manheim-begins-a-search-on-a-location-tha",
@@ -31612,7 +31612,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Paul Manheim begins a search on a location that meets his criteria for his time and gravity experiments.",
+      "summary": "Dr. Paul Manheim begins searching for a location meeting his criteria for time and gravity experiments.",
       "entities": [
         "Paul Manheim"
       ],
@@ -31634,7 +31634,7 @@
         "https://memory-alpha.fandom.com/wiki/2347"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2347-jason-vigo-is-born",
@@ -31664,7 +31664,7 @@
         "https://memory-alpha.fandom.com/wiki/2347"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2347-jean-luc-picard-pays-a-visit-to-his-hometown-la-ba",
@@ -31672,7 +31672,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jean-Luc Picard pays a visit to his hometown La Barre, France.",
+      "summary": "Jean-Luc Picard visits his hometown of La Barre, France.",
       "entities": [
         "Jean-Luc Picard",
         "La Barre",
@@ -31696,7 +31696,7 @@
         "https://memory-alpha.fandom.com/wiki/2347"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2347-kira-nerys-demonstrates-she-has-no-skill-in-finger",
