@@ -7,7 +7,7 @@
     ],
     "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 824,
+    "authoredSummaries": 869,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -18723,7 +18723,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-the-enterprise-makes-first-contact-with-the-shephe",
@@ -18751,7 +18751,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-the-enterprise-makes-official-first-contact-with-t",
@@ -18779,7 +18779,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-the-enterprise-returns-to-rigel-vii-under-suspicio",
@@ -18787,7 +18787,7 @@
       "date": null,
       "stardate": "1630.1",
       "timeline": "prime",
-      "summary": "The Enterprise returns to Rigel VII under suspicion of cultural contamination, discovering and arresting former yeoman Zac Nguyen in the process.",
+      "summary": "The Enterprise returns to Rigel VII under suspicion of cultural contamination and arrests former yeoman Zac Nguyen.",
       "entities": [
         "Rigel VII",
         "Zac Nguyen"
@@ -18810,7 +18810,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-the-enterprise-travels-to-hetemit-ix-to-investigat",
@@ -18873,7 +18873,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-the-planet-cerberus-is-stricken-by-crop-failure-du",
@@ -18881,7 +18881,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The planet Cerberus is stricken by crop failure during Joanna McCoy's schooling there. Carter Winston uses his personal fortune to save the colony.",
+      "summary": "Crop failure strikes Cerberus during Joanna McCoy's schooling there, and Carter Winston saves the colony with his personal fortune.",
       "entities": [
         "Cerberus",
         "Joanna McCoy",
@@ -18905,7 +18905,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-the-r-ongovian-protectorate-joins-the-united-feder",
@@ -18913,7 +18913,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The R'ongovian Protectorate joins the United Federation of Planets.",
+      "summary": "The R'ongovian Protectorate joins the Federation.",
       "entities": [
         "R'ongovian Protectorate"
       ],
@@ -18935,7 +18935,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-the-stamets-type-shuttlecraft-is-introduced",
@@ -18943,7 +18943,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Stamets-type shuttlecraft is introduced.",
+      "summary": "The Stamets-type shuttlecraft enters service.",
       "entities": [
         "Stamets type shuttlecraft"
       ],
@@ -18965,7 +18965,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-the-uss-enterprise-s-warp-core-breaks-down-just-af",
@@ -19121,7 +19121,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2260-captain-matthew-decker-finishes-his-third-five-yea",
@@ -19129,7 +19129,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Matthew Decker finishes his third five-year mission aboard the Constellation.",
+      "summary": "Captain Matthew Decker completes his third five-year mission aboard the Constellation.",
       "entities": [
         "Matthew Decker"
       ],
@@ -19151,7 +19151,7 @@
         "https://memory-alpha.fandom.com/wiki/2260"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2260-carol-marcus-officially-joins-the-enterprise-crew",
@@ -19249,7 +19249,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Cayuga is destroyed by the Gorn over Parnassus Beta.",
+      "summary": "The Gorn destroy the Cayuga over Parnassus Beta.",
       "entities": [
         "Gorn",
         "Parnassus Beta"
@@ -19272,7 +19272,7 @@
         "https://memory-alpha.fandom.com/wiki/2260"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2260-the-enterprise-s-first-day-in-deep-space",
@@ -19309,7 +19309,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Stardiver is destroyed by the Gorn in the Shangdi system.",
+      "summary": "The Gorn destroy the Stardiver in the Shangdi system.",
       "entities": [
         "Shangdi system"
       ],
@@ -19331,7 +19331,7 @@
         "https://memory-alpha.fandom.com/wiki/2260"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2261-cyrano-jones-a-licensed-asteroid-locator-and-pros",
@@ -19339,7 +19339,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Cyrano Jones, a licensed asteroid locator and prospector, begins selling and buying rare merchandise.",
+      "summary": "Licensed prospector Cyrano Jones begins trading in rare merchandise.",
       "entities": [
         "Cyrano Jones"
       ],
@@ -19361,7 +19361,7 @@
         "https://memory-alpha.fandom.com/wiki/2261"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2261-dr-roger-korby-sends-his-last-transmission-from-t",
@@ -19369,7 +19369,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Roger Korby sends his last transmission from the planet of Exo III.",
+      "summary": "Dr. Roger Korby sends his last transmission from Exo III.",
       "entities": [
         "Roger Korby",
         "Exo III"
@@ -19392,7 +19392,7 @@
         "https://memory-alpha.fandom.com/wiki/2261"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2261-james-t-kirk-is-romantically-involved-with-janet",
@@ -19400,7 +19400,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "James T. Kirk is romantically involved with Janet Wallace.",
+      "summary": "James T. Kirk becomes romantically involved with Janet Wallace.",
       "entities": [
         "James T. Kirk",
         "Janet Wallace"
@@ -19423,7 +19423,7 @@
         "https://memory-alpha.fandom.com/wiki/2261"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2261-la-an-noonien-singh-is-tasked-with-testing-starfle",
@@ -19431,7 +19431,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "La´an Noonien-Singh is tasked with testing Starfleet's new technology recreation room, or holodeck to see if it can withstand genuine rigorous circumstances.",
+      "summary": "La'An Noonien-Singh is tasked with stress-testing Starfleet's new holodeck.",
       "entities": [
         "La'An Noonien-Singh"
       ],
@@ -19453,7 +19453,7 @@
         "https://memory-alpha.fandom.com/wiki/2261"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2261-on-892-iv-flavius-maximus-wins-his-first-arena-ga",
@@ -19461,7 +19461,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On 892-IV, Flavius Maximus wins his first arena game. For the next seven years, he was the most successful gladiator of his province.",
+      "summary": "On 892-IV, Flavius Maximus wins his first arena game, beginning seven years as his province's most successful gladiator.",
       "entities": [
         "892-IV",
         "Flavius Maximus"
@@ -19484,7 +19484,7 @@
         "https://memory-alpha.fandom.com/wiki/2261"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2261-professor-robert-crater-and-his-wife-nancy-arrive",
@@ -19492,7 +19492,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Professor Robert Crater and his wife Nancy arrive on the planet M-113. The professor begins his archaeological excavation of an ancient and extinct civilization that once lived there.",
+      "summary": "Professor Robert Crater and his wife Nancy arrive on M-113, where he begins excavating an extinct civilization.",
       "entities": [
         "Robert Crater",
         "Nancy Crater",
@@ -19516,7 +19516,7 @@
         "https://memory-alpha.fandom.com/wiki/2261"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2261-spock-meets-leila-kalomi-on-earth",
@@ -19547,7 +19547,7 @@
         "https://memory-alpha.fandom.com/wiki/2261"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2261-the-united-federation-of-planets-celebrates-100-ye",
@@ -19555,7 +19555,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The United Federation of Planets celebrates 100 years since its founding",
+      "summary": "The Federation marks its centennial.",
       "entities": [],
       "kind": null,
       "group": null,
@@ -19575,7 +19575,7 @@
         "https://memory-alpha.fandom.com/wiki/2261"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2261-the-uss-enterprise-goes-on-an-undercover-mission-t",
@@ -19583,7 +19583,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Enterprise goes on an undercover mission the pre-warp planet Tezaar. Four of the five members of the away team have their dna temporarily altered to appear Vulcan to the sensors on Tezaar.",
+      "summary": "The Enterprise runs an undercover mission to the pre-warp planet Tezaar, temporarily altering four of five away-team members' DNA to read as Vulcan.",
       "entities": [
         "USS Enterprise (NCC-1701)",
         "Pre-warp civilization",
@@ -19607,7 +19607,7 @@
         "https://memory-alpha.fandom.com/wiki/2261"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2262-areel-shaw-and-james-t-kirk-meet-each-other-for-t",
@@ -19615,7 +19615,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Areel Shaw and James T. Kirk meet each other for the last time before Kirk's trial on Starbase 11 in 2267.",
+      "summary": "Areel Shaw and James T. Kirk meet for the last time before Kirk's 2267 trial on Starbase 11.",
       "entities": [
         "Areel Shaw",
         "James T. Kirk",
@@ -19639,7 +19639,7 @@
         "https://memory-alpha.fandom.com/wiki/2262"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2262-r-m-merik-becomes-the-lord-of-the-games-on-892-iv",
@@ -19647,7 +19647,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "R.M. Merik becomes the Lord of the Games on 892-IV.",
+      "summary": "R.M. Merik becomes Lord of the Games on 892-IV.",
       "entities": [
         "R.M. Merik",
         "Lord of the Games"
@@ -19670,7 +19670,7 @@
         "https://memory-alpha.fandom.com/wiki/2262"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2262-ss-beagle-crash-lands-on-892-iv-after-having-susta",
@@ -19678,7 +19678,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "SS Beagle crash-lands on 892-IV after having sustained heavy meteor damage. The ship's crew is captured by the inhabitants.",
+      "summary": "The SS Beagle, badly damaged by meteors, crash-lands on 892-IV, and its crew is captured by the inhabitants.",
       "entities": [
         "892-IV",
         "SS Beagle"
@@ -19701,7 +19701,7 @@
         "https://memory-alpha.fandom.com/wiki/2262"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2262-stardate-2262-18-january-18-james-t-kirk-logs",
@@ -19840,7 +19840,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "An infant Lactran, later encountered by the USS Enterprise landing party in 2269, is born on Lactra VII.",
+      "summary": "An infant Lactran later met by an Enterprise landing party in 2269 is born on Lactra VII.",
       "entities": [
         "Lactran",
         "Lactra VII",
@@ -19864,7 +19864,7 @@
         "https://memory-alpha.fandom.com/wiki/2263"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2263-ben-childress-herm-gossett-and-benton-partner-up",
@@ -19872,7 +19872,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Ben Childress, Herm Gossett, and Benton partner up to establish a mining company on Rigel XII.",
+      "summary": "Ben Childress, Herm Gossett and Benton partner up to found a mining company on Rigel XII.",
       "entities": [
         "Ben Childress",
         "Herm Gossett",
@@ -19897,7 +19897,7 @@
         "https://memory-alpha.fandom.com/wiki/2263"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2263-construction-for-the-uss-enterprise-is-underway-at",
@@ -20030,7 +20030,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Matthew Decker is promoted to commodore. He remains in command of the USS Constellation.",
+      "summary": "Matthew Decker is promoted to commodore, remaining in command of the Constellation.",
       "entities": [
         "Matthew Decker",
         "USS Constellation"
@@ -20053,7 +20053,7 @@
         "https://memory-alpha.fandom.com/wiki/2263"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2263-montgomery-scott-is-led-to-the-long-lost-and-intac",
@@ -20093,7 +20093,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "One hundred fifty men, women, and children, led by Elias Sandoval, depart Earth for Omicron Ceti III to establish the future Omicron colony. It is the last time they will encounter anyone outside their own group until the USS Enterprise's 2267 arrival.",
+      "summary": "A hundred and fifty settlers under Elias Sandoval leave Earth for Omicron Ceti III to found the future Omicron colony, and meet no outsiders again until the Enterprise arrives in 2267.",
       "entities": [
         "Elias Sandoval",
         "Omicron Ceti III",
@@ -20118,7 +20118,7 @@
         "https://memory-alpha.fandom.com/wiki/2263"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2263-spock-goes-through-a-cache-of-items-belonging-to-t",
@@ -20222,7 +20222,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Carter Winston disappears in a meteor storm. His spacecraft crashes on the planet Vendor, where he is saved by an inhabitant of the planet.",
+      "summary": "Carter Winston vanishes in a meteor storm; his ship crashes on Vendor, where an inhabitant saves him.",
       "entities": [
         "Carter Winston",
         "Vendor"
@@ -20245,7 +20245,7 @@
         "https://memory-alpha.fandom.com/wiki/2264"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2264-in-an-alternate-timeline-captain-james-t-kirk-is",
@@ -20284,8 +20284,8 @@
       "year": 2264,
       "date": null,
       "stardate": null,
-      "timeline": "prime",
-      "summary": "In the same timeline, Commander Thelin becomes the first officer of the Enterprise.",
+      "timeline": "alternate",
+      "summary": "In the same alternate timeline, Commander Thelin becomes the Enterprise's first officer.",
       "entities": [
         "Thelin"
       ],
@@ -20307,7 +20307,9 @@
         "https://memory-alpha.fandom.com/wiki/2264"
       ],
       "landmark": false,
-      "prose": "source"
+      "timelineConflict": null,
+      "timelineNote": "Not an overlay conflict - detectTimeline() misclassified this directly. The bullet reads 'In the same timeline, Commander Thelin becomes the first officer...' immediately after the preceding bullet ('In an alternate timeline, Kirk commands the Enterprise'), a back-reference detectTimeline()'s phrase list doesn't recognize. This is TAS 'Yesteryear' - the timeline where young Spock died and Thelin replaces him as first officer. Confirmed only one such back-reference exists dataset-wide, so a one-off correction here rather than a parser heuristic.",
+      "prose": "authored"
     },
     {
       "id": "2264-spock-visits-his-parents-on-vulcan-for-the-last-ti",
@@ -20315,7 +20317,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Spock visits his parents on Vulcan for the last time in the next four years.",
+      "summary": "Spock visits his parents on Vulcan for what will be the last time in four years.",
       "entities": [
         "Spock"
       ],
@@ -20337,7 +20339,7 @@
         "https://memory-alpha.fandom.com/wiki/2264"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2264-the-omicron-colony-is-established-at-omicron-ceti",
@@ -20368,7 +20370,7 @@
         "https://memory-alpha.fandom.com/wiki/2264"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2264-the-uss-reliant-is-launched",
@@ -20398,7 +20400,7 @@
         "https://memory-alpha.fandom.com/wiki/2264"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2264-tuvok-is-born-on-vulcanis-lunar-colony",
@@ -20406,7 +20408,7 @@
       "date": null,
       "stardate": "38774",
       "timeline": "prime",
-      "summary": "Tuvok is born on Vulcanis Lunar colony.",
+      "summary": "Tuvok born on the Vulcanis Lunar Colony.",
       "entities": [
         "Tuvok",
         "Vulcanis Lunar colony"
@@ -20434,7 +20436,7 @@
         "https://memory-alpha.fandom.com/wiki/2264"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2265-a-bottle-from-this-year-s-vintage-of-dom-p-rignon",
@@ -20523,7 +20525,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "April Wade is born.",
+      "summary": "April Wade born.",
       "entities": [
         "April Wade"
       ],
@@ -20545,7 +20547,7 @@
         "https://memory-alpha.fandom.com/wiki/2265"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2265-at-a-christmas-party-held-in-the-enterprise-scienc",
@@ -20553,7 +20555,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "At a Christmas party held in the Enterprise science lab, Captain Kirk meets Dr. Helen Noel. She later recalls him \"dropping in\" on the party, during a mission to the rehabilitation colony on Tantalus V.",
+      "summary": "At a Christmas party in the Enterprise's science lab, Kirk meets Dr. Helen Noel during a mission to the Tantalus V rehabilitation colony.",
       "entities": [
         "Christmas",
         "Helen Noel",
@@ -20577,7 +20579,7 @@
         "https://memory-alpha.fandom.com/wiki/2265"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2265-captain-christopher-pike-is-again-promoted-to-the",
@@ -20585,7 +20587,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Christopher Pike is again promoted to the rank of fleet captain.",
+      "summary": "Christopher Pike is again promoted to fleet captain.",
       "entities": [
         "Christopher Pike"
       ],
@@ -20607,7 +20609,7 @@
         "https://memory-alpha.fandom.com/wiki/2265"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2265-captain-james-t-kirk-assumes-command-of-the-uss-e",
@@ -20694,7 +20696,7 @@
         "https://memory-alpha.fandom.com/wiki/2265"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2265-ingraham-b-is-attacked-by-flying-parasites",
@@ -20724,7 +20726,7 @@
         "https://memory-alpha.fandom.com/wiki/2265"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2265-nancy-crater-is-killed-by-planet-m-113-s-last-surv",
@@ -20732,7 +20734,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Nancy Crater is killed by planet M-113's last surviving native.",
+      "summary": "Nancy Crater is killed by M-113's last surviving native.",
       "entities": [
         "Nancy Crater",
         "M-113",
@@ -20756,7 +20758,7 @@
         "https://memory-alpha.fandom.com/wiki/2265"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2265-the-borg-swarm-through-the-el-aurian-system-inv",
@@ -20803,7 +20805,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise becomes one of the first Earth ships to reach the edge of the Milky Way Galaxy, where they encounter the galactic barrier. Gary Mitchell and Elizabeth Dehner are among the Enterprise officers who die in the line of duty.",
+      "summary": "The Enterprise becomes one of the first Earth ships to reach the galactic barrier at the edge of the Milky Way, a mission that costs Gary Mitchell and Elizabeth Dehner their lives.",
       "entities": [
         "Gary Mitchell",
         "Elizabeth Dehner"
@@ -20826,7 +20828,7 @@
         "https://memory-alpha.fandom.com/wiki/2265"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2265-the-klingons-and-the-federation-sign-a-peace-treat",
@@ -20834,7 +20836,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Klingons and the Federation sign a peace treaty which they honor over the next three years.",
+      "summary": "The Klingons and the Federation sign a peace treaty that holds for the next three years.",
       "entities": [
         "Klingon",
         "Treaty"
@@ -20857,7 +20859,7 @@
         "https://memory-alpha.fandom.com/wiki/2265"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-a-romulan-ship-crosses-into-federation-space-and-d",
@@ -20865,7 +20867,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A Romulan ship crosses into Federation space and destroys several Earth Outpost Stations, ending over a century of Romulan isolation. This incident comes to be known as the Neutral Zone Incursion.",
+      "summary": "A Romulan ship crosses into Federation space and destroys several Earth Outpost Stations, ending a century of Romulan isolation in what becomes known as the Neutral Zone Incursion.",
       "entities": [
         "Romulan",
         "Earth Outpost Station",
@@ -20889,7 +20891,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-a-transport-from-ingraham-b-to-deneva-carries-the",
@@ -20897,7 +20899,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A transport from Ingraham B to Deneva carries the deadly flying parasite that caused mass insanity on Ingraham B in 2265.",
+      "summary": "A transport from Ingraham B to Deneva unknowingly carries the flying parasite that caused mass insanity on Ingraham B in 2265.",
       "entities": [
         "Ingraham B",
         "Deneva"
@@ -20920,7 +20922,7 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2266-dr-leonard-mccoy-replaces-dr-mark-piper-as-ship",
@@ -20970,8 +20972,8 @@
       "year": 2266,
       "date": null,
       "stardate": null,
-      "timeline": "mirror",
-      "summary": "Dr. McCoy spills acid in sickbay, an event which also apparently happens on the mirror universe ISS Enterprise at some point prior to 2267.",
+      "timeline": "prime",
+      "summary": "Dr. McCoy spills acid in sickbay, apparently mirrored by a similar incident aboard the mirror universe's ISS Enterprise before 2267.",
       "entities": [
         "ISS Enterprise"
       ],
@@ -20993,7 +20995,9 @@
         "https://memory-alpha.fandom.com/wiki/2266"
       ],
       "landmark": false,
-      "prose": "source"
+      "timelineConflict": null,
+      "timelineNote": "Not an overlay conflict - detectTimeline() matched the literal phrase 'mirror universe' anywhere in the text, but here it appears only in an italicized aside ('an event which also apparently happens on the mirror universe ISS Enterprise'). The primary clause - McCoy spilling acid in sickbay - is the prime event; the raw wikitext groups this bullet under the prime ;{{USS|Enterprise|NCC-1701}} ship heading, not any mirror-universe subsection. Citing TOS 'Mirror, Mirror' isn't corroboration either, per the same rule as Kelvin films: the episode that introduces a divergent universe still narrates prime-side events too. Confirmed only one bullet dataset-wide uses this aside phrasing, so a one-off correction rather than a parser heuristic.",
+      "prose": "authored"
     },
     {
       "id": "2266-dr-simon-van-gelder-is-assigned-to-the-tantalus-p",

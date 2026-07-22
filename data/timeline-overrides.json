@@ -6,5 +6,13 @@
   "2258-christopher-pike-returns-to-the-enterprise-to-resu": {
     "timeline": "prime",
     "note": "Cited only by DIS 'Such Sweet Sorrow', which is prime canon. The overlay's alternate-timeline claim came from an adjacent Wikipedia block and does not apply."
+  },
+  "2264-in-the-same-timeline-commander-thelin-becomes-the": {
+    "timeline": "alternate",
+    "note": "Not an overlay conflict - detectTimeline() misclassified this directly. The bullet reads 'In the same timeline, Commander Thelin becomes the first officer...' immediately after the preceding bullet ('In an alternate timeline, Kirk commands the Enterprise'), a back-reference detectTimeline()'s phrase list doesn't recognize. This is TAS 'Yesteryear' - the timeline where young Spock died and Thelin replaces him as first officer. Confirmed only one such back-reference exists dataset-wide, so a one-off correction here rather than a parser heuristic."
+  },
+  "2266-dr-mccoy-spills-acid-in-sickbay-an-event-which-a": {
+    "timeline": "prime",
+    "note": "Not an overlay conflict - detectTimeline() matched the literal phrase 'mirror universe' anywhere in the text, but here it appears only in an italicized aside ('an event which also apparently happens on the mirror universe ISS Enterprise'). The primary clause - McCoy spilling acid in sickbay - is the prime event; the raw wikitext groups this bullet under the prime ;{{USS|Enterprise|NCC-1701}} ship heading, not any mirror-universe subsection. Citing TOS 'Mirror, Mirror' isn't corroboration either, per the same rule as Kelvin films: the episode that introduces a divergent universe still narrates prime-side events too. Confirmed only one bullet dataset-wide uses this aside phrasing, so a one-off correction rather than a parser heuristic."
   }
 }
