@@ -8,6 +8,7 @@
     "test": "node --test 'test/*.test.js'",
     "validate:data": "node scripts/validate-data.js",
     "build:data": "node scripts/build-events.js",
-    "serve": "node scripts/serve.js"
+    "serve": "node scripts/serve.js",
+    "verify:summaries": "node scripts/verify-summaries.js"
   }
 }

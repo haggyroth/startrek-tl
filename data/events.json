@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-07-21",
+    "generated": "2026-07-22",
     "range": [
       2063,
       3269
@@ -6664,7 +6664,7 @@
       "date": "2151-12",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Archer's part in freeing Detention Complex 26 on Tandar Prime earns him a reputation with the Suliban.",
+      "summary": "Archer's part in freeing Detention Complex 26 on Tandar Prime earns him a legendary reputation as a warrior.",
       "entities": [
         "Jonathan Archer",
         "Detention Complex 26",
@@ -7985,7 +7985,7 @@
       "date": "2152-09",
       "stardate": null,
       "timeline": "prime",
-      "summary": "With Archer mediating, Soval and Shran agree a cease fire over Weytahn.",
+      "summary": "With Archer mediating, Soval and Shran agree a cease fire over Paan Mokar.",
       "entities": [
         "Andorian",
         "Soval",
@@ -64861,7 +64861,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Adira is joined with the Tal symbiont, once carried by Senna and Gray Tal.",
+      "summary": "Adira is joined with the Tal symbiont, once carried by Admiral Tal and Gray Tal.",
       "entities": [
         "Symbiosis",
         "Trill symbiont",

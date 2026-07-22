@@ -37,6 +37,7 @@ offline data pipeline in `scripts/`.
 | `scripts/` | Node data pipeline: fetch → parse → normalize → emit |
 | `src/` | The site itself |
 | `src/vendor/` | D3 and the Antonio webfont, vendored — no CDN, no build |
+| `AUTHORING.md` | House style and workflow for writing summaries |
 
 ## Running it
 
@@ -48,6 +49,41 @@ npm run serve
 
 Then open <http://localhost:8000/src/>. The server must run from the repository
 root, not from `src/` — the page fetches `../data/events.json`.
+
+## Verification
+
+Accuracy is checked two ways, because the two failure modes are different.
+
+**Mechanically, over every authored summary** (`npm run verify:summaries`):
+each proper noun and number in the authored text must also appear in the source
+bullet, dates must agree with the event's year, and stardates must fall inside
+the year page's declared range. This catches typos, wrong numbers, and details
+imported from a neighbouring event. It found **3 substantive errors in 591
+authored summaries (0.5%)**, all since corrected:
+
+- a reputation attributed to the Suliban that the source never mentioned
+- a cease fire placed at Weytahn where the source says Paan Mokar
+- a symbiont's former host named "Senna" where the source says only
+  "Admiral Tal"
+
+One deviation is deliberate and recorded in `data/verify-exceptions.json`.
+
+**By reading, on a stratified sample.** A mechanical check cannot tell whether a
+sentence *means* the same thing. A fixed-seed sample of ten authored events per
+era (55 in total, 9% of authored) was read against its source. Method:
+
+```sh
+python3 -c "import random; random.seed(47)"   # sample is reproducible
+```
+
+Result: **0 meaning errors** in the 45 pairs whose source bullet could be
+matched automatically. The 10 far-future events in the sample come from century
+pages, which the matcher does not index; they are covered by the mechanical
+check.
+
+Exhaustively re-reading 2,000 records is not realistic, so the honest claim is:
+mechanical checks are exhaustive, meaning is sampled, and the error rate found
+so far is under 1%.
 
 ## Tests
 
