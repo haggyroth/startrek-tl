@@ -68,6 +68,7 @@ const MONTHS = {
  *   "January 4 (stardate 2233.04) – The Federation survey ship USS Kelvin..."
  *   "(stardate 41153.7) – ..."
  *   "March 22 – ..."
+ *   "Stardate 1457.9. Lieutenant Commander Chin-Riley is taken into custody..."
  *
  * Pull those into structured fields and return the remaining prose. Note the
  * stardate here is the literal value from the episode — it is never computed,
@@ -93,10 +94,13 @@ export function extractDatePrefix(text, year, contextMonth = null) {
     }
   }
 
-  // Both separators occur: "January 4 (stardate 2233.04) – ..." and
-  // "April 11: ...". Stardate also appears bare: "Stardate 8615.2: ...".
+  // Three separators occur: "January 4 (stardate 2233.04) – ..." and
+  // "April 11: ...". Stardate also appears bare: "Stardate 8615.2: ..." or
+  // "Stardate 1457.9. ...". A plain period is only accepted as a separator
+  // here, guarded below by requiring a month or stardate to have matched —
+  // otherwise an ordinary sentence's first full stop would look like one.
   const m = text.match(
-    /^\s*(?:([A-Z][a-z]+)\s+(\d{1,2})(?:st|nd|rd|th)?)?\s*(?:\(?stardate\s+(\d+(?:\.\d+)?)\.?\s*\)?)?\s*(?:[–—-]\s+|:\s+)(.*)$/is,
+    /^\s*(?:([A-Z][a-z]+)\s+(\d{1,2})(?:st|nd|rd|th)?)?\s*(?:\(?stardate\s+(\d+(?:\.\d+)?)\s*\)?)?\s*(?:[–—-]\s+|:\s+|\.\s+)(.*)$/is,
   );
   if (!m) return { date: null, stardate: null, text };
 

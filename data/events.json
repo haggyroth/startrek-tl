@@ -17865,6 +17865,36 @@
       "prose": "source"
     },
     {
+      "id": "2259-captain-pike-is-promoted-to-fleet-captain",
+      "year": 2259,
+      "date": null,
+      "stardate": "2394.8",
+      "timeline": "prime",
+      "summary": "Captain Pike is promoted to Fleet captain.",
+      "entities": [
+        "Fleet captain"
+      ],
+      "kind": "appointment",
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "Lost in Translation",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
       "id": "2259-carol-marcus-comes-aboard-the-enterprise-montgome",
       "year": 2259,
       "date": "2259-02",
@@ -18065,6 +18095,34 @@
         {
           "series": "SNW",
           "title": "Strange New Worlds",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2259-fleet-captain-pike-is-temporarily-given-command-of",
+      "year": 2259,
+      "date": null,
+      "stardate": "2394.8",
+      "timeline": "prime",
+      "summary": "Fleet captain Pike is temporarily given command of the Farragut.",
+      "entities": [],
+      "kind": null,
+      "group": "USS Farragut",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "Lost in Translation",
           "kind": "episode"
         }
       ],
@@ -18362,6 +18420,34 @@
       "prose": "source"
     },
     {
+      "id": "2259-lieutenant-commander-chin-riley-is-taken-into-cust",
+      "year": 2259,
+      "date": null,
+      "stardate": "1457.9",
+      "timeline": "prime",
+      "summary": "Lieutenant Commander Chin-Riley is taken into custody for violating the Starfleet code of Conduct.",
+      "entities": [],
+      "kind": null,
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "A Quality of Mercy",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
       "id": "2259-lieutenant-hemmer-commits-suicide-on-valeo-beta-v",
       "year": 2259,
       "date": null,
@@ -18547,184 +18633,6 @@
       "prose": "source"
     },
     {
-      "id": "2259-stardate-1224-3-the-enterprise-travels-to-hetemit",
-      "year": 2259,
-      "date": null,
-      "stardate": null,
-      "timeline": "prime",
-      "summary": "The Enterprise investigates an abandoned Illyrian colony on Hetemit IX, stranding Pike and Spock planetside.",
-      "entities": [
-        "Hetemit IX",
-        "Illyrian",
-        "Christopher Pike"
-      ],
-      "kind": null,
-      "group": "USS Enterprise",
-      "section": "Events",
-      "series": [
-        "SNW"
-      ],
-      "episodes": [
-        {
-          "series": "SNW",
-          "title": "Ghosts of Illyria",
-          "kind": "episode"
-        }
-      ],
-      "significance": 5,
-      "sources": [
-        "https://memory-alpha.fandom.com/wiki/2259",
-        "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
-      ],
-      "landmark": true,
-      "prose": "authored"
-    },
-    {
-      "id": "2259-stardate-1457-9-lieutenant-commander-chin-riley-i",
-      "year": 2259,
-      "date": null,
-      "stardate": null,
-      "timeline": "prime",
-      "summary": "Stardate 1457.9. Lieutenant Commander Chin-Riley is taken into custody for violating the Starfleet code of Conduct.",
-      "entities": [],
-      "kind": null,
-      "group": "USS Enterprise",
-      "section": "Events",
-      "series": [
-        "SNW"
-      ],
-      "episodes": [
-        {
-          "series": "SNW",
-          "title": "A Quality of Mercy",
-          "kind": "episode"
-        }
-      ],
-      "significance": 3,
-      "sources": [
-        "https://memory-alpha.fandom.com/wiki/2259"
-      ],
-      "landmark": false,
-      "prose": "source"
-    },
-    {
-      "id": "2259-stardate-1630-1-the-enterprise-returns-to-rigel-v",
-      "year": 2259,
-      "date": null,
-      "stardate": null,
-      "timeline": "prime",
-      "summary": "Stardate 1630.1. The Enterprise returns to Rigel VII under suspicion of cultural contamination, discovering and arresting former yeoman Zac Nguyen in the process.",
-      "entities": [
-        "Rigel VII",
-        "Zac Nguyen"
-      ],
-      "kind": null,
-      "group": "USS Enterprise",
-      "section": "Events",
-      "series": [
-        "SNW"
-      ],
-      "episodes": [
-        {
-          "series": "SNW",
-          "title": "Among the Lotus Eaters",
-          "kind": "episode"
-        }
-      ],
-      "significance": 3,
-      "sources": [
-        "https://memory-alpha.fandom.com/wiki/2259"
-      ],
-      "landmark": false,
-      "prose": "source"
-    },
-    {
-      "id": "2259-stardate-2394-8-captain-pike-is-promoted-to-fleet",
-      "year": 2259,
-      "date": null,
-      "stardate": null,
-      "timeline": "prime",
-      "summary": "Stardate 2394.8. Captain Pike is promoted to Fleet captain.",
-      "entities": [
-        "Fleet captain"
-      ],
-      "kind": "appointment",
-      "group": "USS Enterprise",
-      "section": "Events",
-      "series": [
-        "SNW"
-      ],
-      "episodes": [
-        {
-          "series": "SNW",
-          "title": "Lost in Translation",
-          "kind": "episode"
-        }
-      ],
-      "significance": 3,
-      "sources": [
-        "https://memory-alpha.fandom.com/wiki/2259"
-      ],
-      "landmark": false,
-      "prose": "source"
-    },
-    {
-      "id": "2259-stardate-2394-8-fleet-captain-pike-is-temporarily",
-      "year": 2259,
-      "date": null,
-      "stardate": null,
-      "timeline": "prime",
-      "summary": "Stardate 2394.8. Fleet captain Pike is temporarily given command of the Farragut.",
-      "entities": [],
-      "kind": null,
-      "group": "USS Farragut",
-      "section": "Events",
-      "series": [
-        "SNW"
-      ],
-      "episodes": [
-        {
-          "series": "SNW",
-          "title": "Lost in Translation",
-          "kind": "episode"
-        }
-      ],
-      "significance": 3,
-      "sources": [
-        "https://memory-alpha.fandom.com/wiki/2259"
-      ],
-      "landmark": false,
-      "prose": "source"
-    },
-    {
-      "id": "2259-stardate-2912-4-the-enterprise-makes-first-contac",
-      "year": 2259,
-      "date": null,
-      "stardate": null,
-      "timeline": "prime",
-      "summary": "Stardate 2912.4. The Enterprise makes first contact with the Shepherds.",
-      "entities": [],
-      "kind": "first-contact",
-      "group": "USS Enterprise",
-      "section": "Events",
-      "series": [
-        "SNW"
-      ],
-      "episodes": [
-        {
-          "series": "SNW",
-          "title": "Children of the Comet",
-          "kind": "episode"
-        }
-      ],
-      "significance": 3,
-      "sources": [
-        "https://memory-alpha.fandom.com/wiki/2259"
-      ],
-      "landmark": false,
-      "prose": "source"
-    },
-    {
       "id": "2259-stardate-3177-3-3177-9-the-first-known-contact-be",
       "year": 2259,
       "date": null,
@@ -18818,6 +18726,34 @@
       "prose": "source"
     },
     {
+      "id": "2259-the-enterprise-makes-first-contact-with-the-shephe",
+      "year": 2259,
+      "date": null,
+      "stardate": "2912.4",
+      "timeline": "prime",
+      "summary": "The Enterprise makes first contact with the Shepherds.",
+      "entities": [],
+      "kind": "first-contact",
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "Children of the Comet",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
       "id": "2259-the-enterprise-makes-official-first-contact-with-t",
       "year": 2259,
       "date": null,
@@ -18844,6 +18780,70 @@
       ],
       "landmark": false,
       "prose": "source"
+    },
+    {
+      "id": "2259-the-enterprise-returns-to-rigel-vii-under-suspicio",
+      "year": 2259,
+      "date": null,
+      "stardate": "1630.1",
+      "timeline": "prime",
+      "summary": "The Enterprise returns to Rigel VII under suspicion of cultural contamination, discovering and arresting former yeoman Zac Nguyen in the process.",
+      "entities": [
+        "Rigel VII",
+        "Zac Nguyen"
+      ],
+      "kind": null,
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "Among the Lotus Eaters",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2259-the-enterprise-travels-to-hetemit-ix-to-investigat",
+      "year": 2259,
+      "date": null,
+      "stardate": "1224.3",
+      "timeline": "prime",
+      "summary": "The Enterprise investigates an abandoned Illyrian colony on Hetemit IX, stranding Pike and Spock planetside.",
+      "entities": [
+        "Hetemit IX",
+        "Illyrian",
+        "Christopher Pike"
+      ],
+      "kind": null,
+      "group": "USS Enterprise",
+      "section": "Events",
+      "series": [
+        "SNW"
+      ],
+      "episodes": [
+        {
+          "series": "SNW",
+          "title": "Ghosts of Illyria",
+          "kind": "episode"
+        }
+      ],
+      "significance": 5,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2259",
+        "https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"
+      ],
+      "landmark": true,
+      "prose": "authored"
     },
     {
       "id": "2259-the-farragut-is-stationed-at-starbase-1",
@@ -59170,41 +59170,6 @@
       "prose": "source"
     },
     {
-      "id": "2382-stardate-59393-7-the-cerritos-is-docked-at-the-co",
-      "year": 2382,
-      "date": null,
-      "stardate": null,
-      "timeline": "prime",
-      "summary": "Stardate 59393.7. The Cerritos is docked at the Cosmic Duchess, to both handle a swarm of seemingly rogue nanites (Which are in reality being controlled by an alternate universe microscopic version of the USS Endeavour) with a side mission of trying to find Admiral Milius who went AWOL because he resents being assigned to milking space whales of all kinds.",
-      "entities": [
-        "USS Cerritos",
-        "Cosmic Duchess",
-        "Milius",
-        "Gormagander",
-        "List of Junior's species",
-        "USS Endeavour"
-      ],
-      "kind": null,
-      "group": "USS Cerritos",
-      "section": "Events",
-      "series": [
-        "LD"
-      ],
-      "episodes": [
-        {
-          "series": "LD",
-          "title": "The Best Exotic Nanite Hotel",
-          "kind": "episode"
-        }
-      ],
-      "significance": 3,
-      "sources": [
-        "https://memory-alpha.fandom.com/wiki/2382"
-      ],
-      "landmark": false,
-      "prose": "source"
-    },
-    {
       "id": "2382-the-cerritos-aids-targalus-ix-in-dismantling-their",
       "year": 2382,
       "date": null,
@@ -59253,6 +59218,41 @@
         {
           "series": "LD",
           "title": "Dos Cerritos",
+          "kind": "episode"
+        }
+      ],
+      "significance": 3,
+      "sources": [
+        "https://memory-alpha.fandom.com/wiki/2382"
+      ],
+      "landmark": false,
+      "prose": "source"
+    },
+    {
+      "id": "2382-the-cerritos-is-docked-at-the-cosmic-duchess-to-b",
+      "year": 2382,
+      "date": null,
+      "stardate": "59393.7",
+      "timeline": "prime",
+      "summary": "The Cerritos is docked at the Cosmic Duchess, to both handle a swarm of seemingly rogue nanites (Which are in reality being controlled by an alternate universe microscopic version of the USS Endeavour) with a side mission of trying to find Admiral Milius who went AWOL because he resents being assigned to milking space whales of all kinds.",
+      "entities": [
+        "USS Cerritos",
+        "Cosmic Duchess",
+        "Milius",
+        "Gormagander",
+        "List of Junior's species",
+        "USS Endeavour"
+      ],
+      "kind": null,
+      "group": "USS Cerritos",
+      "section": "Events",
+      "series": [
+        "LD"
+      ],
+      "episodes": [
+        {
+          "series": "LD",
+          "title": "The Best Exotic Nanite Hotel",
           "kind": "episode"
         }
       ],

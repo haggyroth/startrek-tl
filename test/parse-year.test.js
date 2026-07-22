@@ -23,6 +23,17 @@ test("extractDatePrefix reads dash, colon and bare-stardate forms", () => {
   });
 });
 
+// Regression: some bullets close a bare stardate prefix with a plain full
+// stop rather than a dash or colon — "Stardate 1457.9. Lieutenant Commander
+// Chin-Riley is taken into custody..." The prefix wasn't recognized at all,
+// so it sat unparsed at the front of the summary and the stardate was lost.
+test("extractDatePrefix accepts a period as the separator after a stardate", () => {
+  assert.deepEqual(
+    extractDatePrefix("Stardate 1457.9. Lieutenant Commander Chin-Riley is taken into custody.", 2259),
+    { date: null, stardate: "1457.9", text: "Lieutenant Commander Chin-Riley is taken into custody." },
+  );
+});
+
 test("extractDatePrefix leaves ordinary prose alone", () => {
   // A sentence containing a colon or dash must not be mistaken for a prefix.
   const sentence = "Attack on the USS Kelvin: the Narada engages.";
@@ -33,6 +44,14 @@ test("extractDatePrefix leaves ordinary prose alone", () => {
   });
   const notAMonth = "Someone 4 – did a thing.";
   assert.equal(extractDatePrefix(notAMonth, 2300).text, notAMonth);
+  // A period alone must not turn an ordinary two-sentence bullet into a
+  // fabricated date/stardate prefix.
+  const twoSentences = "This is just a sentence. With a period in it.";
+  assert.deepEqual(extractDatePrefix(twoSentences, 2259), {
+    date: null,
+    stardate: null,
+    text: twoSentences,
+  });
 });
 
 test("parseYearPage extracts events with citations and grouping", () => {
