@@ -23,7 +23,7 @@ import { existsSync } from "node:fs";
 
 import { parseYearPage } from "./lib/parse-year.js";
 import { parseCenturyPage } from "./lib/parse-century.js";
-import { introducedTokens } from "./lib/verify-text.js";
+import { introducedTokens, isStardateOutOfRange } from "./lib/verify-text.js";
 
 const VERBOSE = process.argv.includes("--verbose");
 const CACHE = "data/events.raw.json";
@@ -102,24 +102,15 @@ for (const event of dataset.events) {
     problems.push({ id: event.id, kind: "date-year", detail: event.date });
   }
 
-  // Stardates should fall inside the year page's own declared range. A sidebar
-  // giving a single value is not a range — 2233 lists only 2233.04 while its
-  // events carry others — so it constrains nothing.
+  // Stardates should fall inside the year page's own declared range — but
+  // only from 2323 onward. See isStardateOutOfRange for why.
   const range = rangeByYear.get(event.year);
-  if (event.stardate && range && range.start !== range.end) {
-    const value = Number(event.stardate);
-    const lo = Number(range.start);
-    const hi = Number(range.end);
-    // TOS-era ranges run backwards within a year, so compare against both ends.
-    const min = Math.min(lo, hi);
-    const max = Math.max(lo, hi);
-    if (Number.isFinite(value) && Number.isFinite(min) && (value < min || value > max)) {
-      problems.push({
-        id: event.id,
-        kind: "stardate-range",
-        detail: `${event.stardate} outside ${range.start}–${range.end}`,
-      });
-    }
+  if (event.stardate && isStardateOutOfRange(event.stardate, event.year, range)) {
+    problems.push({
+      id: event.id,
+      kind: "stardate-range",
+      detail: `${event.stardate} outside ${range.start}–${range.end}`,
+    });
   }
 }
 

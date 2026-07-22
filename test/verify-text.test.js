@@ -1,7 +1,14 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 
-import { stem, related, significantTokens, introducedTokens } from "../scripts/lib/verify-text.js";
+import {
+  stem,
+  related,
+  significantTokens,
+  introducedTokens,
+  isStardateOutOfRange,
+  STARDATE_EPOCH_YEAR,
+} from "../scripts/lib/verify-text.js";
 
 // Regression: "Pike's" reduced to "pik", not "pike". Punctuation was stripped
 // before the possessive, so "Pike's" became "Pikes" and the generic "es"
@@ -59,4 +66,38 @@ test("introducedTokens still flags a genuinely new name", () => {
   const authored = "Spock and Bones investigate the anomaly.";
   const source = "Spock investigates the anomaly.";
   assert.deepEqual(introducedTokens(authored, source), ["Bones"]);
+});
+
+// Regression: the range check originally applied to every year, including
+// pre-2323 ones where stardates are inconsistent by design (CLAUDE.md) - a
+// TOS/SNW-era year's declared sidebar range constrains nothing, and checking
+// it anyway produced false positives on real, correctly-authored summaries
+// (e.g. a 2259 event legitimately citing stardate 2510.6 against a page range
+// of 1739.12-2259.55).
+test("isStardateOutOfRange only applies from the stardate epoch onward", () => {
+  const range = { start: "1739.12", end: "2259.55" };
+  assert.equal(
+    isStardateOutOfRange("2510.6", 2259, range),
+    false,
+    "pre-epoch years are not range-checked at all",
+  );
+  assert.equal(STARDATE_EPOCH_YEAR, 2323);
+});
+
+test("isStardateOutOfRange flags a real anomaly at or after the epoch", () => {
+  const range = { start: "41000", end: "41986" };
+  assert.equal(isStardateOutOfRange("45000", 2364, range), true);
+  assert.equal(isStardateOutOfRange("41500", 2364, range), false);
+});
+
+test("isStardateOutOfRange treats a single-value sidebar as no range at all", () => {
+  // Some sidebars give one value while their events legitimately carry others.
+  const range = { start: "2233.04", end: "2233.04" };
+  assert.equal(isStardateOutOfRange("2233.143", 2364, range), false);
+});
+
+test("isStardateOutOfRange handles a range given backwards", () => {
+  const range = { start: "41986", end: "41000" };
+  assert.equal(isStardateOutOfRange("41500", 2364, range), false);
+  assert.equal(isStardateOutOfRange("42000", 2364, range), true);
 });
