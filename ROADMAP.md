@@ -168,8 +168,10 @@ Known and accepted:
       before widening the regex, and deliberately kept "alternative reality"
       out of the kelvin-classification branch, since it is generic wording
       unrelated to Memory Alpha's "alternate reality" Kelvin idiom
-- [ ] Author the remaining summaries — **914 / 2,037 (45%)**, 23rd century at
-      80% (363/453)
+- [x] 23rd century authored in full — 453 events. Everything through the 23rd
+      century is now authored; the 24th century (1,033 events) is the last
+      big chunk
+- [ ] Author the remaining summaries — **1,004 / 2,037 (49%)**
 - [ ] Switch the committed build to `--strict`
 
 On the strict flip: the capability works and is tested, but flipping it now
@@ -184,6 +186,6 @@ Coverage by era:
 | **2063–2100** | **53 / 53 ✅** |
 | **ENT (2101–2161)** | **213 / 213 ✅** |
 | **Gap (2162–2232)** | **60 / 60 ✅** |
-| 23rd century | 363 / 453 |
+| **23rd century** | **453 / 453 ✅** |
 | 24th century | 92 / 1,125 |
 | **Far future** | **133 / 133 ✅** |
