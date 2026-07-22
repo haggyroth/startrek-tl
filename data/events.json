@@ -7,7 +7,7 @@
     ],
     "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 779,
+    "authoredSummaries": 824,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -17084,7 +17084,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "James T. Kirk takes the Kobayashi Maru test for the third time, but this time he manages to secretly install a subroutine which changes the conditions of the test, thereby allowing Kirk to save the Kobayashi Maru and beat the test, becoming the only cadet to ever beat the no-win scenario.",
+      "summary": "Kirk takes the Kobayashi Maru test a third time, having secretly reprogrammed it, and becomes the only cadet to beat the no-win scenario.",
       "entities": [
         "Kobayashi Maru scenario"
       ],
@@ -17098,7 +17098,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-katie-wesley-is-born-to-bob-wesley",
@@ -17106,7 +17106,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Katie Wesley is born to Bob Wesley.",
+      "summary": "Katie Wesley born to Bob Wesley.",
       "entities": [
         "Katie Wesley",
         "Bob Wesley"
@@ -17129,7 +17129,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-kirk-and-spock-board-the-narada-to-confront-nero-a",
@@ -17137,7 +17137,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "Kirk and Spock board the Narada to confront Nero and stop him. Spock steals the Jellyfish and Kirk fights with several guards, Ayel and eventually Nero. The Jellyfish destroys the drilling platform and escapes the area, to draw the battle away from Earth and sets a collision course for the Narada. He and Kirk along with Pike are transported away at the last second by the Enterprise, but the Jellyfish crashes into the Narada thereby igniting the red matter and causing a massive black hole, which consumes the Narada, and very nearly the Enterprise as well. This beam-out marks the first time Scott ever beams three people from two targets onto one pad.",
+      "summary": "Kirk and Spock board the Narada; Spock steals the Jellyfish while Kirk fights through Nero's guards and Ayel, and the crew beams clear of the Jellyfish just before it collides with the Narada, igniting the red matter into a black hole that swallows the ship, in the first beam-out where Scott pulls three people off two targets onto one pad.",
       "entities": [
         "Ayel",
         "Battle of Earth"
@@ -17152,7 +17152,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-kirk-olson-and-sulu-space-dive-onto-the-platform",
@@ -17160,7 +17160,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "Kirk, Olson and Sulu space-dive onto the platform. Olson, who had the charges, is killed in the descent; however, Kirk and Sulu succeed at disabling the drill. Unfortunately, the drill's work has already been completed, and Nero orders the red matter deployed. Kirk and Sulu beam back to the ship by the efforts of Ensign Pavel Chekov.",
+      "summary": "Kirk, Olson and Sulu dive onto the drilling platform; Olson dies in the descent, but Kirk and Sulu disable the drill, too late to stop Nero deploying the red matter, and Chekov beams them back aboard.",
       "entities": [],
       "kind": "death",
       "group": "USS Enterprise",
@@ -17172,7 +17172,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-nero-is-first-seen-by-the-federation-and-tells-the",
@@ -17180,7 +17180,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "Nero is first seen by the Federation and tells the native Spock that he wants him to see something as well as order Captain Pike to come aboard the Narada, just like he requested Richard Robau to twenty-five years earlier.",
+      "summary": "Nero makes first contact with the Federation, tells the native Spock he wants him to witness something, and orders Captain Pike aboard the Narada, as he once did with Richard Robau twenty-five years earlier.",
       "entities": [
         "Richard Robau"
       ],
@@ -17194,7 +17194,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-on-stardate-2258-42-february-11-the-planet-vulc",
@@ -17202,7 +17202,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "On stardate 2258.42 (February 11), the planet Vulcan is destroyed along with, approximately, six billion Vulcans on-planet by Nero using red matter. The Vulcan species is rendered critically endangered with only an estimated ten thousand surviving. Captain Pike is taken hostage by aboard the Narada by Nero.",
+      "summary": "Nero destroys Vulcan with red matter, killing some six billion and leaving an estimated ten thousand survivors, and takes Captain Pike hostage aboard the Narada.",
       "entities": [
         "Destruction of Vulcan",
         "Vulcan",
@@ -17218,7 +17218,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-pike-agrees-and-is-accompanied-by-kirk-helmsman-h",
@@ -17226,7 +17226,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "Pike agrees and is accompanied by Kirk, helmsman Hikaru Sulu, and chief engineer Olson. Pike appoints Spock acting captain and Kirk his first officer.",
+      "summary": "Pike agrees to go, taking Kirk, helmsman Hikaru Sulu and chief engineer Olson, and names Spock acting captain with Kirk as his first officer.",
       "entities": [
         "Olson"
       ],
@@ -17240,7 +17240,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-spock-and-kirk-meet-montgomery-scott-and-keenser-a",
@@ -17248,7 +17248,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "Spock and Kirk meet Montgomery Scott and Keenser at the Delta Vega outpost, and using his transwarp beaming equation, Spock transports Kirk and Scott to the Enterprise. After a fight which proves Spock to be emotionally compromised, Kirk assumes command and the pursuit of Nero. Meanwhile, Nero and the Narada head for Earth intent on destroying the planet. Chekov devises a plan to hide the Enterprise near Saturn to avoid the Narada’s detection and rescue Captain Pike.",
+      "summary": "At the Delta Vega outpost, Spock and Kirk find Montgomery Scott and Keenser and beam aboard the Enterprise using Spock's transwarp equation; Kirk takes command after a fight exposes Spock's compromised judgment, while Chekov plans to hide the ship near Saturn to rescue Pike undetected.",
       "entities": [
         "Keenser",
         "Delta Vega outpost",
@@ -17264,7 +17264,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-spock-determines-that-the-red-matter-will-cause-a",
@@ -17272,7 +17272,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "Spock determines that the red matter will cause a black hole to develop inside Vulcan. While the planet evacuates, he beams down to reach several Vulcan dignitaries who reside in areas that are unreachable by transporter. He succeeds at saving some of them, including his father Sarek, but his mother Amanda Grayson is killed.",
+      "summary": "Spock determines the red matter will collapse Vulcan into a black hole and beams down during the evacuation to save dignitaries beyond transporter range, rescuing his father Sarek but losing his mother Amanda Grayson.",
       "entities": [],
       "kind": "death",
       "group": "USS Enterprise",
@@ -17284,7 +17284,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-spock-emotionally-unbalanced-by-these-traumas-or",
@@ -17292,7 +17292,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "Spock, emotionally unbalanced by these traumas, orders a course for the Laurentian system to rendezvous with the rest of Starfleet in an effort to balance the odds for the next confrontation against Nero. Kirk objects and is marooned on Delta Vega. He gets chased by vicious animals and finds his rescuer is Spock himself, but 129 years older. Spock explains the situation to Kirk via a mind meld and they head for the Starfleet outpost fourteen kilometers away.",
+      "summary": "Shaken, Spock sets course for the Laurentian system to regroup with Starfleet; Kirk objects and is marooned on Delta Vega, where he is rescued from hostile wildlife by an older Spock, 129 years on, who mind-melds the situation to him before they head for a nearby outpost.",
       "entities": [
         "Laurentian system"
       ],
@@ -17306,7 +17306,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-the-enterprise-arrives-only-to-find-a-debris-field",
@@ -17314,7 +17314,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "The Enterprise arrives only to find a debris field of the fleet, and the Narada hovering over Vulcan with a drilling platform in the lower atmosphere attempting to mine to the core. Nero orders the destruction of the Enterprise, only to realize what vessel he is firing on.",
+      "summary": "The Enterprise arrives to a debris field and finds the Narada drilling into Vulcan, and Nero orders her destroyed before realizing which ship he's firing on.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -17326,7 +17326,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-the-narada-a-romulan-mining-vessel-from-the-futur",
@@ -17334,7 +17334,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "The Narada, a Romulan mining vessel from the future of the prime reality, destroys 47 Klingon warbirds near the Klingon prison planet. Later, it arrives at a location where the Jellyfish carrying Spock emerges from a black hole, created in the future to stop a star that had gone supernova and threatened the galaxy. Nero, captain of the Narada, captures the Jellyfish and maroons Spock on Delta Vega so he can observe the destruction of Vulcan.",
+      "summary": "The Narada, a Romulan mining ship from a future where a supernova threatened the galaxy, destroys forty-seven Klingon warbirds near their prison planet before Nero captures the arriving Jellyfish and strands Spock on Delta Vega to watch Vulcan's destruction.",
       "entities": [
         "Narada",
         "Klingon",
@@ -17352,7 +17352,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-the-newly-repaired-uss-enterprise-departs-from-spa",
@@ -17360,7 +17360,7 @@
       "date": null,
       "stardate": "1201.7",
       "timeline": "prime",
-      "summary": "The newly-repaired USS Enterprise departs from spacedock on a mission to Edrin II.",
+      "summary": "The newly repaired USS Enterprise departs spacedock for Edrin II.",
       "entities": [
         "Edrin II",
         "USS Enterprise"
@@ -17383,7 +17383,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2258-the-uss-discovery-travels-to-3189-via-a-wormhole",
@@ -17460,7 +17460,7 @@
       "date": null,
       "stardate": null,
       "timeline": "kelvin",
-      "summary": "Vulcan itself is destroyed. Spock privately estimates no more than 10,000 survivors, making him a member of an endangered species.",
+      "summary": "Vulcan is destroyed; Spock privately puts the survivors at no more than ten thousand, making him a member of an endangered species.",
       "entities": [],
       "kind": "destruction",
       "group": "USS Enterprise",
@@ -17472,7 +17472,7 @@
         "https://memory-alpha.fandom.com/wiki/2258"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-a-new-first-servant-is-selected-on-majalis",
@@ -17480,7 +17480,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A new First Servant is selected on Majalis.",
+      "summary": "A new First Servant is chosen on Majalis.",
       "entities": [
         "First Servant",
         "Majalis"
@@ -17503,7 +17503,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-a-new-variant-of-starfleet-uniform-is-introduced",
@@ -17511,7 +17511,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A new variant of Starfleet uniform is introduced.",
+      "summary": "Starfleet introduces another uniform variant.",
       "entities": [
         "Starfleet uniform (2250s-early 2270s)",
         "Starfleet uniform"
@@ -17534,7 +17534,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-a-new-variant-of-the-starfleet-communicator-is-int",
@@ -17542,7 +17542,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A new variant of the Starfleet communicator is introduced.",
+      "summary": "Starfleet introduces a new communicator variant.",
       "entities": [
         "Communicator"
       ],
@@ -17564,7 +17564,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-a-new-variant-of-the-starfleet-flag-officer-unifor",
@@ -17572,7 +17572,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A new variant of the Starfleet flag officer uniform is introduced.",
+      "summary": "Starfleet introduces a new flag officer uniform variant.",
       "entities": [],
       "kind": null,
       "group": "USS Peregrine",
@@ -17592,7 +17592,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-a-new-variant-of-the-starfleet-tricorder-is-introd",
@@ -17600,7 +17600,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A new variant of the Starfleet tricorder is introduced.",
+      "summary": "Starfleet introduces a new tricorder variant.",
       "entities": [
         "Starfleet tricorder"
       ],
@@ -17622,7 +17622,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-a-new-variant-of-the-type-2-phaser-is-introduced",
@@ -17630,7 +17630,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A new variant of the Type 2 phaser is introduced.",
+      "summary": "Starfleet introduces a new Type 2 phaser variant.",
       "entities": [
         "Type 2 phaser"
       ],
@@ -17652,7 +17652,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-after-crash-landing-on-valeo-beta-v-the-crew-is-k",
@@ -17660,7 +17660,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "After crash landing on Valeo Beta V, the crew is killed by Gorn hatchlings. The Peregrine is later salvaged by the Enterprise.",
+      "summary": "After crash-landing on Valeo Beta V, the Peregrine's crew is killed by Gorn hatchlings, and the Enterprise later salvages the wreck.",
       "entities": [
         "Valeo Beta V",
         "Gorn"
@@ -17683,7 +17683,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-as-of-this-year-the-ketha-province-has-been-uninh",
@@ -17784,7 +17784,7 @@
       "date": null,
       "stardate": "1739.12",
       "timeline": "prime",
-      "summary": "Cadet Nyota Uhura is assigned to the USS Enterprise as a communications officer.",
+      "summary": "Cadet Nyota Uhura is assigned to the Enterprise as communications officer.",
       "entities": [
         "Nyota Uhura"
       ],
@@ -17806,7 +17806,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-cadet-uhura-is-promoted-to-ensign",
@@ -17814,7 +17814,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Cadet Uhura is promoted to Ensign.",
+      "summary": "Cadet Uhura is promoted to ensign.",
       "entities": [],
       "kind": "appointment",
       "group": "USS Enterprise",
@@ -17834,7 +17834,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-captain-pike-celebrates-his-birthday",
@@ -17842,7 +17842,7 @@
       "date": null,
       "stardate": "2291.6",
       "timeline": "prime",
-      "summary": "Captain Pike celebrates his birthday",
+      "summary": "Captain Pike celebrates his birthday.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -17862,7 +17862,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-captain-pike-is-promoted-to-fleet-captain",
@@ -17870,7 +17870,7 @@
       "date": null,
       "stardate": "2394.8",
       "timeline": "prime",
-      "summary": "Captain Pike is promoted to Fleet captain.",
+      "summary": "Captain Pike is promoted to fleet captain.",
       "entities": [
         "Fleet captain"
       ],
@@ -17892,7 +17892,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-carol-marcus-comes-aboard-the-enterprise-montgome",
@@ -17932,7 +17932,7 @@
       "date": null,
       "stardate": "1739.12",
       "timeline": "prime",
-      "summary": "Christine Chapel is assigned to the USS Enterprise as a nurse.",
+      "summary": "Christine Chapel is assigned to the Enterprise as a nurse.",
       "entities": [
         "Christine Chapel"
       ],
@@ -17954,7 +17954,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-commander-chin-riley-is-cleared-of-all-charges-aga",
@@ -17962,7 +17962,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Commander Chin-Riley is cleared of all charges against her and resumes her duties aboard the Enterprise.",
+      "summary": "Commander Chin-Riley is cleared of all charges and resumes her Enterprise duties.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -17982,7 +17982,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-commander-pelia-joins-the-enterprise-as-chief-engi",
@@ -18012,7 +18012,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-doctor-joseph-m-benga-is-assigned-to-the-uss-enter",
@@ -18020,7 +18020,7 @@
       "date": null,
       "stardate": "1739.12",
       "timeline": "prime",
-      "summary": "Doctor Joseph M'Benga is assigned to the USS Enterprise as chief medical officer.",
+      "summary": "Doctor Joseph M'Benga is assigned to the Enterprise as chief medical officer.",
       "entities": [
         "Joseph M'Benga"
       ],
@@ -18042,7 +18042,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-ensigns-brad-boimler-and-beckett-mariner-are-unwit",
@@ -18050,7 +18050,7 @@
       "date": null,
       "stardate": "2291.6",
       "timeline": "prime",
-      "summary": "Ensigns Brad Boimler and Beckett Mariner are unwittingly transported to this time briefly",
+      "summary": "Ensigns Brad Boimler and Beckett Mariner are briefly and unwittingly transported to this time.",
       "entities": [
         "Brad Boimler",
         "Beckett Mariner"
@@ -18073,7 +18073,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-erica-ortegas-is-assigned-to-the-uss-enterprise-as",
@@ -18081,7 +18081,7 @@
       "date": null,
       "stardate": "1739.12",
       "timeline": "prime",
-      "summary": "Erica Ortegas is assigned to the USS Enterprise as a helmsman.",
+      "summary": "Erica Ortegas is assigned to the Enterprise as helmsman.",
       "entities": [
         "Erica Ortegas"
       ],
@@ -18103,7 +18103,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-fleet-captain-pike-is-temporarily-given-command-of",
@@ -18111,7 +18111,7 @@
       "date": null,
       "stardate": "2394.8",
       "timeline": "prime",
-      "summary": "Fleet captain Pike is temporarily given command of the Farragut.",
+      "summary": "Fleet Captain Pike is temporarily given command of the Farragut.",
       "entities": [],
       "kind": null,
       "group": "USS Farragut",
@@ -18131,7 +18131,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-general-order-1-is-renamed-the-prime-directive",
@@ -18139,7 +18139,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "General Order 1 is renamed the \"Prime Directive\".",
+      "summary": "General Order 1 is renamed the Prime Directive.",
       "entities": [
         "General Orders and Regulations",
         "Prime Directive"
@@ -18162,7 +18162,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-george-samuel-kirk-is-assigned-to-the-uss-enterpri",
@@ -18170,7 +18170,7 @@
       "date": "2259-02-11",
       "stardate": "2259.42",
       "timeline": "prime",
-      "summary": "George Samuel Kirk is assigned to the USS Enterprise as a sciences division member.",
+      "summary": "George Samuel Kirk is assigned to the Enterprise's sciences division.",
       "entities": [
         "George Samuel Kirk"
       ],
@@ -18192,7 +18192,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-hemmer-is-assigned-to-the-uss-enterprise-as-chief",
@@ -18200,7 +18200,7 @@
       "date": "2259-02-11",
       "stardate": "2259.42",
       "timeline": "prime",
-      "summary": "Hemmer is assigned to the USS Enterprise as chief engineer.",
+      "summary": "Hemmer is assigned to the Enterprise as chief engineer.",
       "entities": [
         "Hemmer"
       ],
@@ -18222,7 +18222,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-in-an-alternate-timeline-captain-james-t-kirk-is",
@@ -18230,7 +18230,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate timeline, Captain James T. Kirk is the commanding officer of the Enterprise.",
+      "summary": "In an alternate timeline, Captain James T. Kirk commands the Enterprise.",
       "entities": [
         "James T. Kirk"
       ],
@@ -18252,7 +18252,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-james-t-kirk-is-promoted-to-first-officer",
@@ -18260,7 +18260,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "James T. Kirk is promoted to First officer.",
+      "summary": "James T. Kirk is promoted to first officer.",
       "entities": [
         "James T. Kirk",
         "First officer"
@@ -18283,7 +18283,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-james-t-kirk-violates-the-prime-directive-while-s",
@@ -18395,7 +18395,7 @@
       "date": null,
       "stardate": "1739.12",
       "timeline": "prime",
-      "summary": "La'An Noonien-Singh is assigned to the USS Enterprise as acting first officer and later chief of security.",
+      "summary": "La'An Noonien-Singh is assigned to the Enterprise as acting first officer, later becoming chief of security.",
       "entities": [
         "La'An Noonien-Singh"
       ],
@@ -18417,7 +18417,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-lieutenant-commander-chin-riley-is-taken-into-cust",
@@ -18425,7 +18425,7 @@
       "date": null,
       "stardate": "1457.9",
       "timeline": "prime",
-      "summary": "Lieutenant Commander Chin-Riley is taken into custody for violating the Starfleet code of Conduct.",
+      "summary": "Lieutenant Commander Chin-Riley is taken into custody for violating the Starfleet code of conduct.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -18445,7 +18445,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-lieutenant-hemmer-commits-suicide-on-valeo-beta-v",
@@ -18453,7 +18453,7 @@
       "date": null,
       "stardate": "2510.6",
       "timeline": "prime",
-      "summary": "Lieutenant Hemmer commits suicide on Valeo Beta V to prevent Gorn eggs from hatching.",
+      "summary": "Lieutenant Hemmer takes his own life on Valeo Beta V to keep Gorn eggs from hatching.",
       "entities": [
         "Valeo Beta V",
         "Gorn"
@@ -18476,7 +18476,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-lieutenant-la-an-noonien-singh-takes-a-leave-of-ab",
@@ -18484,7 +18484,7 @@
       "date": null,
       "stardate": "2510.6",
       "timeline": "prime",
-      "summary": "Lieutenant La'An Noonien-Singh takes a leave of absence from Starfleet to help Oriana find her family.",
+      "summary": "Lieutenant La'An Noonien-Singh takes leave from Starfleet to help Oriana find her family.",
       "entities": [
         "Oriana"
       ],
@@ -18506,7 +18506,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-meanwhile-in-the-sol-system-scott-having-been-r",
@@ -18576,7 +18576,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Rukiya is cured of her illness and is transformed into a state of pure energy.",
+      "summary": "Rukiya is cured of her illness, transformed into a state of pure energy.",
       "entities": [
         "Rukiya"
       ],
@@ -18598,7 +18598,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-spock-and-t-pring-get-engaged",
@@ -18606,7 +18606,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Spock and T'Pring get engaged.",
+      "summary": "Spock and T'Pring become engaged.",
       "entities": [
         "Spock",
         "T'Pring",
@@ -18630,7 +18630,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-stardate-3177-3-3177-9-the-first-known-contact-be",
@@ -18638,7 +18638,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Stardate 3177.3-3177.9. The first known contact between vessels representing the United Federation of Planets and the Gorn Hegemony occurs after Enterprise encounters several Gorn ships after they attack the Finibus III colony. Actual contact between crews is not made.",
+      "summary": "The Federation and the Gorn Hegemony make their first known contact when the Enterprise meets several Gorn ships attacking the Finibus III colony, though no direct contact between crews occurs.",
       "entities": [
         "First contact",
         "Gorn Hegemony",
@@ -18663,7 +18663,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-the-archer-is-tasked-with-making-first-contact-wit",
@@ -18693,7 +18693,7 @@
         "https://memory-alpha.fandom.com/wiki/2259"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2259-the-enterprise-departs-starbase-1",
