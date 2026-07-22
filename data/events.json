@@ -7,7 +7,7 @@
     ],
     "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 1139,
+    "authoredSummaries": 1184,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -31726,7 +31726,7 @@
         "https://memory-alpha.fandom.com/wiki/2347"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2347-miles-o-brien-becomes-a-transporter-chief",
@@ -31756,7 +31756,7 @@
         "https://memory-alpha.fandom.com/wiki/2347"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2347-ro-gale-is-killed-during-a-cardassian-interrogatio",
@@ -31788,7 +31788,7 @@
         "https://memory-alpha.fandom.com/wiki/2347"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2347-the-hansen-family-say-their-good-byes-and-depart",
@@ -31796,7 +31796,7 @@
       "date": null,
       "stardate": "32611.4",
       "timeline": "prime",
-      "summary": "The Hansen family say their good-byes, and depart the Drexler outpost aboard the USS Raven on their mission to study the Borg. They do not file a flight plan, and no further contact with the Raven is made after their departure.",
+      "summary": "The Hansen family say their goodbyes and depart the Drexler outpost aboard the USS Raven to study the Borg, filing no flight plan; no further contact with the Raven follows.",
       "entities": [
         "Drexler outpost",
         "Borg",
@@ -31825,7 +31825,7 @@
         "https://memory-alpha.fandom.com/wiki/2347"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2347-the-setlik-iii-massacre-takes-place-in-which-card",
@@ -31833,7 +31833,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Setlik III massacre takes place, in which Cardassian forces raid the Federation colony on the planet.",
+      "summary": "Cardassian forces raid the Federation colony on Setlik III in what becomes known as the Setlik III massacre.",
       "entities": [
         "Setlik III massacre",
         "Cardassian",
@@ -31857,7 +31857,7 @@
         "https://memory-alpha.fandom.com/wiki/2347"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2347-to-keep-his-son-william-interested-and-challenged",
@@ -31865,7 +31865,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "To keep his son William interested and challenged in anbo-jytsu, Kyle Riker cheats at the martial arts during combat.",
+      "summary": "To keep his son William interested and challenged in anbo-jyutsu, Kyle Riker cheats during their matches.",
       "entities": [
         "William Riker",
         "Kyle Riker"
@@ -31888,7 +31888,7 @@
         "https://memory-alpha.fandom.com/wiki/2347"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2347-worf-goes-to-live-on-gault-with-his-adopted-parent",
@@ -31896,7 +31896,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Worf goes to live on Gault with his adopted parents Sergey and Helena Rozhenko and his foster brother, Nikolai. The seven year old, also at some point, gets into a fight with teenagers at school.",
+      "summary": "Worf goes to live on Gault with his adoptive parents Sergey and Helena Rozhenko and foster brother Nikolai; at seven, he also gets into a fight with older students at school.",
       "entities": [
         "Worf",
         "Gault",
@@ -31929,7 +31929,7 @@
         "https://memory-alpha.fandom.com/wiki/2347"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2347-zek-wins-the-global-tongo-championship-beginning",
@@ -31937,7 +31937,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship, beginning a streak that will last until at least 2373.",
+      "summary": "Zek wins the Global Tongo Championship, beginning a streak that lasts until at least 2373.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -31960,7 +31960,7 @@
         "https://memory-alpha.fandom.com/wiki/2347"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2348-beverly-howard-marries-jack-r-crusher",
@@ -31991,7 +31991,7 @@
         "https://memory-alpha.fandom.com/wiki/2348"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2348-chakotay-graduates-from-starfleet-academy",
@@ -32063,7 +32063,7 @@
         "https://memory-alpha.fandom.com/wiki/2348"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2348-ensign-data-is-promoted-to-lieutenant",
@@ -32093,7 +32093,7 @@
         "https://memory-alpha.fandom.com/wiki/2348"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2348-jack-r-crusher-records-a-holographic-message-to-h",
@@ -32121,7 +32121,7 @@
         "https://memory-alpha.fandom.com/wiki/2348"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2348-julian-bashir-undergoes-a-dna-resequencing-treatme",
@@ -32129,7 +32129,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Julian Bashir undergoes a DNA resequencing treatment on Adigeon Prime, thereby improving his intelligence and coordination abilities.",
+      "summary": "Julian Bashir undergoes DNA resequencing treatment on Adigeon Prime, improving his intelligence and coordination.",
       "entities": [
         "Julian Bashir",
         "DNA resequencing",
@@ -32153,7 +32153,7 @@
         "https://memory-alpha.fandom.com/wiki/2348"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2348-the-last-attempt-for-reconciliation-between-acamar",
@@ -32161,7 +32161,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The last attempt for reconciliation between Acamar III and the Gatherers prior to 2366 fails.",
+      "summary": "The last attempt at reconciliation between Acamar III and the Gatherers before 2366 fails.",
       "entities": [
         "Acamar III",
         "Gatherers"
@@ -32184,7 +32184,7 @@
         "https://memory-alpha.fandom.com/wiki/2348"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2348-the-romulans-begin-a-20-year-effort-at-destroying",
@@ -32215,7 +32215,7 @@
         "https://memory-alpha.fandom.com/wiki/2348"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2348-wesley-crusher-is-born-on-earth",
@@ -32263,7 +32263,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the second year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the second year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -32286,7 +32286,7 @@
         "https://memory-alpha.fandom.com/wiki/2348"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2349-captain-jean-luc-picard-is-awarded-the-silver-meda",
@@ -32294,7 +32294,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Jean-Luc Picard is awarded the Silver Medal in Diplomacy by the allies of the Federation.",
+      "summary": "The Federation's allies award Captain Jean-Luc Picard the Silver Medal in Diplomacy.",
       "entities": [
         "Jean-Luc Picard",
         "Silver Medal in Diplomacy"
@@ -32317,7 +32317,7 @@
         "https://memory-alpha.fandom.com/wiki/2349"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2349-dr-paul-manheim-assembles-a-team-of-scientists-an",
@@ -32325,7 +32325,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Paul Manheim assembles a team of scientists and heads off to find a suitable location for his experiments on time and gravity.",
+      "summary": "Dr. Paul Manheim assembles a team of scientists and sets off to find a suitable location for his time and gravity experiments.",
       "entities": [
         "Paul Manheim"
       ],
@@ -32347,7 +32347,7 @@
         "https://memory-alpha.fandom.com/wiki/2349"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2349-federation-klingon-relations-around-this-year-are",
@@ -32355,7 +32355,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Federation-Klingon relations around this year are described as \"not too cordial\".",
+      "summary": "Around this year, Federation-Klingon relations are strained.",
       "entities": [
         "Klingon"
       ],
@@ -32377,7 +32377,7 @@
         "https://memory-alpha.fandom.com/wiki/2349"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2349-harry-kim-is-born-in-south-carolina-on-earth",
@@ -32413,7 +32413,7 @@
         "https://memory-alpha.fandom.com/wiki/2349"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2349-lyndsay-ballard-is-born",
@@ -32443,7 +32443,7 @@
         "https://memory-alpha.fandom.com/wiki/2349"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2349-on-romulus-natasha-yar-tries-to-escape-together-w",
@@ -32451,7 +32451,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On Romulus, Natasha Yar tries to escape together with her daughter Sela. However, the little girl cries out as her mother takes her away from her home and Yar is subsequently executed.",
+      "summary": "On Romulus, Natasha Yar attempts to escape with her daughter Sela, but the girl cries out as her mother carries her from home, and Yar is executed.",
       "entities": [
         "Romulus",
         "Natasha Yar",
@@ -32475,7 +32475,7 @@
         "https://memory-alpha.fandom.com/wiki/2349"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2349-salia-is-born-on-daled-iv-her-parents-both-die-sh",
@@ -32483,7 +32483,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Salia is born on Daled IV, her parents both die shortly after her birth. An unnamed Federation starship later takes Salia and her governess, Anya, from Daled IV to Klavdia III, so that Salia could be raised in a neutral environment.",
+      "summary": "Salia is born on Daled IV; both her parents die shortly after, and a Federation starship later takes her and her governess Anya from Daled IV to Klavdia III to be raised in a neutral environment.",
       "entities": [
         "Salia",
         "Daled IV",
@@ -32508,7 +32508,7 @@
         "https://memory-alpha.fandom.com/wiki/2349"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2349-starfleet-officer-ensign-deseve-defects-to-the-rom",
@@ -32516,7 +32516,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet officer Ensign DeSeve defects to the Romulan Star Empire and begins to live on Romulus, where he will stay for the following twenty years.",
+      "summary": "Starfleet officer Ensign DeSeve defects to the Romulan Star Empire, settling on Romulus for the following twenty years.",
       "entities": [
         "DeSeve",
         "Romulan Star Empire"
@@ -32539,7 +32539,7 @@
         "https://memory-alpha.fandom.com/wiki/2349"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2349-tuvok-returns-to-starfleet-and-serves-aboard-the-u",
@@ -32570,7 +32570,7 @@
         "https://memory-alpha.fandom.com/wiki/2349"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2349-ty-kajada-begins-tracking-down-the-kobliad-crimina",
@@ -32602,7 +32602,7 @@
         "https://memory-alpha.fandom.com/wiki/2349"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2349-zek-wins-the-global-tongo-championship-for-the-thi",
@@ -32610,7 +32610,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the third year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the third year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -32633,7 +32633,7 @@
         "https://memory-alpha.fandom.com/wiki/2349"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2350-a-group-of-native-americans-settle-on-the-planet-d",
@@ -32641,7 +32641,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A group of Native Americans settle on the planet Dorvan V near the Cardassian border.",
+      "summary": "A group of Native Americans settles on the planet Dorvan V near the Cardassian border.",
       "entities": [
         "Native American",
         "Dorvan V",
@@ -32665,7 +32665,7 @@
         "https://memory-alpha.fandom.com/wiki/2350"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2350-annika-hansen-is-assimilated-by-the-borg",
@@ -32696,7 +32696,7 @@
         "https://memory-alpha.fandom.com/wiki/2350"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2350-at-the-age-of-fifteen-william-t-riker-is-abandon",
@@ -32704,7 +32704,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "At the age of fifteen, William T. Riker is abandoned by his father, Kyle Riker.",
+      "summary": "At fifteen, William T. Riker is abandoned by his father Kyle Riker.",
       "entities": [
         "William T. Riker",
         "Kyle Riker"
@@ -32727,7 +32727,7 @@
         "https://memory-alpha.fandom.com/wiki/2350"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2350-benjamin-sisko-and-solok-enter-starfleet-academy",
@@ -32776,7 +32776,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Beverly Crusher graduates from Starfleet Medical Academy. ( biographical screen) Consequently, visits with her grandmother, Felisa Howard drop off significantly.",
+      "summary": "Beverly Crusher graduates from Starfleet Medical Academy, after which her visits to her grandmother Felisa Howard drop off significantly.",
       "entities": [
         "Beverly Crusher",
         "Starfleet Medical Academy",
@@ -32805,7 +32805,7 @@
         "https://memory-alpha.fandom.com/wiki/2350"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2350-captain-jean-luc-picard-receives-the-betazoid-loya",
@@ -32813,7 +32813,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Jean-Luc Picard receives the Betazoid Loyalties award for his work in assisting developing worlds.",
+      "summary": "Captain Jean-Luc Picard receives the Betazoid Loyalties award for his work assisting developing worlds.",
       "entities": [
         "Jean-Luc Picard",
         "Betazoid Loyalties award"
@@ -32836,7 +32836,7 @@
         "https://memory-alpha.fandom.com/wiki/2350"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2350-divok-is-born-on-qo-nos",
@@ -32876,7 +32876,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Telek R'Mor begins a three-year mission conducting \"secret research\" aboard the Romulan science vessel Talvath.",
+      "summary": "Dr. Telek R'Mor begins a three-year classified research mission aboard the Romulan science vessel Talvath.",
       "entities": [
         "Telek R'Mor",
         "Romulan",
@@ -32900,7 +32900,7 @@
         "https://memory-alpha.fandom.com/wiki/2350"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2350-proconsul-neral-s-immediate-family-are-killed-in-a",
@@ -32932,7 +32932,7 @@
         "https://memory-alpha.fandom.com/wiki/2350"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2350-romulan-forces-make-a-foolhardy-attempt-to-board-k",
@@ -32940,7 +32940,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Romulan forces make a foolhardy attempt to board Klingon General ShiVang's flagship. Following the ensuing battle, Martok, a civilian laborer, is given a battlefield commission in the Klingon Defense Forces.",
+      "summary": "Romulan forces make a foolhardy attempt to board Klingon General ShiVang's flagship; after the resulting battle, civilian laborer Martok receives a battlefield commission in the Klingon Defense Forces.",
       "entities": [
         "Romulan",
         "Klingon",
@@ -32967,7 +32967,7 @@
         "https://memory-alpha.fandom.com/wiki/2350"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2350-william-samuels-moves-to-the-federation-colony-on",
@@ -32998,7 +32998,7 @@
         "https://memory-alpha.fandom.com/wiki/2350"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2350-zek-wins-the-global-tongo-championship-for-the-fou",
@@ -33006,7 +33006,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the fourth year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the fourth year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -33029,7 +33029,7 @@
         "https://memory-alpha.fandom.com/wiki/2350"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2351-amanda-rogers-is-born-in-kansas-in-north-america-a",
@@ -33037,7 +33037,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Amanda Rogers is born in Kansas in North America as daughter of two Qs in Human form.",
+      "summary": "Amanda Rogers is born in Kansas, North America, the daughter of two Qs in Human form.",
       "entities": [
         "Amanda Rogers",
         "Kansas",
@@ -33062,7 +33062,7 @@
         "https://memory-alpha.fandom.com/wiki/2351"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2351-b-elanna-torres-father-john-torres-leaves-her-m",
@@ -33099,7 +33099,7 @@
         "https://memory-alpha.fandom.com/wiki/2351"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2351-benjamin-sisko-serves-as-captain-of-the-academy-wr",
@@ -33130,7 +33130,7 @@
         "https://memory-alpha.fandom.com/wiki/2351"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2351-captain-jean-luc-picard-is-awarded-the-humanitaria",
@@ -33138,7 +33138,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Jean-Luc Picard is awarded the Humanitarian Award of Federation Planets by the United Federation of Planets.",
+      "summary": "The Federation awards Captain Jean-Luc Picard its Humanitarian Award of Federation Planets.",
       "entities": [
         "Humanitarian Award of Federation Planets"
       ],
@@ -33160,7 +33160,7 @@
         "https://memory-alpha.fandom.com/wiki/2351"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2351-carolyn-l-raymond-is-born-on-earth",
@@ -33182,7 +33182,7 @@
         "https://memory-alpha.fandom.com/wiki/2351"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2351-construction-of-mining-station-terok-nor-is-comple",
@@ -33190,7 +33190,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Construction of mining station Terok Nor is completed.",
+      "summary": "Construction of the mining station Terok Nor is completed.",
       "entities": [],
       "kind": null,
       "group": "Terok Nor",
@@ -33215,7 +33215,7 @@
         "https://memory-alpha.fandom.com/wiki/2351"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2351-keena-and-baltrim-escaped-the-cardassian-occupatio",
@@ -33223,7 +33223,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Keena and Baltrim escaped the Cardassian Occupation of Bajor and found shelter on Mullibok's cottage on the Bajoran moon Jerrado.",
+      "summary": "Keena and Baltrim escape the Cardassian Occupation of Bajor and find shelter at Mullibok's cottage on the Bajoran moon Jerrado.",
       "entities": [
         "Keena",
         "Baltrim",
@@ -33251,7 +33251,7 @@
         "https://memory-alpha.fandom.com/wiki/2351"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2351-lurak-t-luco-is-born-on-romulus",
@@ -33282,7 +33282,7 @@
         "https://memory-alpha.fandom.com/wiki/2351"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2351-mardah-is-born-on-bajor",
