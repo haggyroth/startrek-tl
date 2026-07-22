@@ -1,9 +1,9 @@
 # startrek-tl
 
 Interactive timeline of Star Trek canon events. Static single-page site: an
-event-density sparkline across 2233–2402 with a dual X-axis (Gregorian year and
-stardate), hoverable event points, and per-series filters, wrapped in LCARS
-chrome.
+event-density sparkline across 2063–3269 with a dual X-axis (Gregorian year and
+stardate), hoverable event points, era presets, and per-series filters, wrapped
+in LCARS chrome.
 
 ## Stack
 
@@ -23,9 +23,13 @@ either by re-downloading; there is nothing to build.
 ## Layout
 
 ```
-data/        events.json (committed, generated), events.raw.json (API cache)
-scripts/     Node data pipeline: fetch → parse → normalize → emit
+data/        events.json (generated), summaries.json (authored prose),
+             timeline-overrides.json, verify-exceptions.json,
+             events.raw.json (API cache, gitignored)
+scripts/     Node data pipeline: fetch → parse → normalize → emit, plus
+             validate-data.js, verify-summaries.js and the dev server
 src/         index.html, css/, js/ — the site itself
+test/        node:test suite; fixtures are synthetic
 ```
 
 ## Domain constraints
@@ -126,7 +130,7 @@ Series codes: `TOS TAS SNW DIS TNG DS9 VOY LD PRO PIC ENT ST` plus `FILM`.
 date; a bare "* March" heading gives `YYYY-MM`. Never widen a partial date by
 guessing a day — the UI must handle both lengths.
 
-Coverage is sparse and that is expected: of ~1,530 events, roughly 40 carry a
+Coverage is sparse and that is expected: of ~2,040 events, roughly 100 carry a
 date and 90 a stardate. The tooltip must degrade gracefully.
 
 ## CSS conventions
@@ -201,6 +205,22 @@ re-derives from it — so the URL, the controls and the chart cannot disagree.
 - d3-zoom's transform is in pixel space, so it must be re-synced on resize and
   whenever the domain is set in code — otherwise the same transform silently
   means a different year range.
+
+## Verification
+
+`npm run verify:summaries` checks authored prose against the source bullet it
+was written from: proper nouns and numbers must be traceable, dates must match
+the event's year, stardates must fall in the year page's range. It needs the
+local scrape cache, so it runs locally rather than in CI.
+
+- Reviewed deviations go in `data/verify-exceptions.json` **with reasoning**,
+  like `timeline-overrides.json`. Never silence a flag without one.
+- The checker needs stemming to be useful — possessives and plural or
+  adjectival forms ("Archer's", "Andorians") are the same fact stated
+  differently, and without it nearly every summary trips the check.
+- It cannot judge meaning. That is sampled by hand; see the README.
+
+See `AUTHORING.md` before writing summaries.
 
 ## Testing
 

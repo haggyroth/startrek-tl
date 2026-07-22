@@ -16,6 +16,15 @@ All notable changes to this project are documented here.
   real event appended after it — landmark matches 47 -> 49, unmatched 65 -> 43
 - feat(data): validator now checks overrides and fails on open conflicts
 
+## [1.6.0]
+
+- feat(data): scripts/verify-summaries.js — mechanical accuracy check over
+  authored summaries
+- feat(data): data/verify-exceptions.json for reviewed deviations
+- docs: AUTHORING.md — house style and workflow for the remaining summaries
+- docs: verification method and error rate published in the README
+- data: 3 substantive summary errors found and corrected
+
 ## [1.5.0]
 
 - data: ENT era (2101–2161) authored in full; 591 of 2,037 summaries (29%)
