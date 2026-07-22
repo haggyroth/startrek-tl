@@ -7,7 +7,7 @@
     ],
     "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 1004,
+    "authoredSummaries": 1049,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -26518,7 +26518,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Leondegrance, under the command of Captain Nyota Uhura, begins an exploratory five-year mission of the Lesser Magellanic Cloud.",
+      "summary": "Captain Nyota Uhura and the USS Leondegrance begin a five-year exploratory mission of the Lesser Magellanic Cloud.",
       "entities": [
         "Nyota Uhura",
         "Lesser Magellanic Cloud",
@@ -26542,7 +26542,7 @@
         "https://memory-alpha.fandom.com/wiki/2301"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2302-a-federation-vessel-visits-angel-i-reporting-the",
@@ -26550,7 +26550,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A Federation vessel visits Angel I, reporting the native civilization had reached the technological equivalent of Earth's mid-20th century.",
+      "summary": "A Federation vessel visits Angel I, reporting a native civilization at Earth's mid-20th-century technological level.",
       "entities": [
         "Angel I",
         "20th century"
@@ -26573,7 +26573,7 @@
         "https://memory-alpha.fandom.com/wiki/2302"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2302-jaresh-inyo-enters-politics",
@@ -26603,7 +26603,7 @@
         "https://memory-alpha.fandom.com/wiki/2302"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2303-juliana-o-donnell-is-born",
@@ -26633,7 +26633,7 @@
         "https://memory-alpha.fandom.com/wiki/2303"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2304-upon-entering-pon-farr-tuvok-leaves-the-disciplin",
@@ -26738,7 +26738,7 @@
         "https://memory-alpha.fandom.com/wiki/2305"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2305-the-uss-leondegrance-under-the-command-of-captain",
@@ -26746,7 +26746,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Leondegrance, under the command of Captain Nyota Uhura, ends its exploratory five-year mission of the Lesser Magellanic Cloud.",
+      "summary": "Captain Uhura and the USS Leondegrance end their five-year exploratory mission of the Lesser Magellanic Cloud.",
       "entities": [
         "Nyota Uhura",
         "Lesser Magellanic Cloud",
@@ -26770,7 +26770,7 @@
         "https://memory-alpha.fandom.com/wiki/2305"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2307-theodore-brahms-is-born",
@@ -26800,7 +26800,7 @@
         "https://memory-alpha.fandom.com/wiki/2307"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2307-timicin-is-born-on-kaelon-ii",
@@ -26831,7 +26831,7 @@
         "https://memory-alpha.fandom.com/wiki/2307"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2309-indri-viii-is-first-identified-by-a-federation-ves",
@@ -26839,7 +26839,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Indri VIII is first identified by a Federation vessel.",
+      "summary": "A Federation vessel first identifies Indri VIII.",
       "entities": [
         "Indri VIII"
       ],
@@ -26861,7 +26861,7 @@
         "https://memory-alpha.fandom.com/wiki/2309"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2309-joseph-sisko-is-born",
@@ -26891,7 +26891,7 @@
         "https://memory-alpha.fandom.com/wiki/2309"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2309-the-cardassians-arrive-at-bajor-to-help-the-bajo",
@@ -26899,7 +26899,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Cardassians arrive at Bajor to \"help\" the Bajorans, ultimately leading to the Occupation of Bajor.",
+      "summary": "The Cardassians arrive at Bajor claiming to help the Bajorans, the start of what becomes the Occupation of Bajor.",
       "entities": [
         "Cardassian",
         "Bajor",
@@ -26924,7 +26924,7 @@
         "https://memory-alpha.fandom.com/wiki/2309"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2311-a-conflict-between-the-federation-and-the-romulan",
@@ -27001,7 +27001,7 @@
         "https://memory-alpha.fandom.com/wiki/2311"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2311-the-planet-meridian-appears-in-the-primary-univers",
@@ -27009,7 +27009,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The planet Meridian appears in the primary universe. It does not appear again until 2371.",
+      "summary": "The planet Meridian appears in the primary universe, not to reappear until 2371.",
       "entities": [
         "Meridian"
       ],
@@ -27031,7 +27031,7 @@
         "https://memory-alpha.fandom.com/wiki/2311"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2313-during-a-raid-on-an-acamarian-outpost-the-gathere",
@@ -27039,7 +27039,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "During a raid on an Acamarian outpost, the Gatherer Penthor-Mul, a member of the Lornak clan is captured and imprisoned. Before he can be tried, he is murdered by Yuta, a member of the Tralesta clan.",
+      "summary": "During a raid on an Acamarian outpost, the Lornak Gatherer Penthor-Mul is captured and imprisoned, then murdered by Yuta of the Tralesta clan before he can be tried.",
       "entities": [
         "Acamarian",
         "Gatherer",
@@ -27066,7 +27066,7 @@
         "https://memory-alpha.fandom.com/wiki/2313"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2313-kevin-uxbridge-marries-rishon",
@@ -27097,7 +27097,7 @@
         "https://memory-alpha.fandom.com/wiki/2313"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2314-kira-meru-is-born-on-bajor",
@@ -27128,7 +27128,7 @@
         "https://memory-alpha.fandom.com/wiki/2314"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2314-mark-jameson-marries-anne",
@@ -27159,7 +27159,7 @@
         "https://memory-alpha.fandom.com/wiki/2314"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2314-the-uss-stratford-under-the-command-of-captain-a",
@@ -27201,7 +27201,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Leondegrance, under the command of Captain Nyota Uhura, is assigned to Starfleet Academy where it becomes a training vessel.",
+      "summary": "The USS Leondegrance, under Captain Uhura, is assigned to Starfleet Academy as a training vessel.",
       "entities": [
         "Nyota Uhura",
         "Starfleet Academy",
@@ -27225,7 +27225,7 @@
         "https://memory-alpha.fandom.com/wiki/2317"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2319-karnas-takes-sixty-three-passengers-hostage-aboard",
@@ -27233,7 +27233,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Karnas takes sixty-three passengers hostage aboard a starliner on Mordan IV. Commander Mark Jameson secures their release by supplying weapons to Karnas, precipitating forty years of civil war on Mordan.",
+      "summary": "Karnas takes sixty-three hostages aboard a Mordan IV starliner; Commander Mark Jameson secures their release by arming Karnas, setting off forty years of civil war on Mordan.",
       "entities": [
         "Karnas",
         "Mordan IV",
@@ -27257,7 +27257,7 @@
         "https://memory-alpha.fandom.com/wiki/2319"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2319-surmak-ren-is-born-on-bajor-to-surmak-hoek-and-sur",
@@ -27290,7 +27290,7 @@
         "https://memory-alpha.fandom.com/wiki/2319"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2319-t-lyn-is-born",
@@ -27353,7 +27353,7 @@
         "https://memory-alpha.fandom.com/wiki/2320"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2320-lisa-cusak-is-born",
@@ -27383,7 +27383,7 @@
         "https://memory-alpha.fandom.com/wiki/2320"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2320-miranda-vigo-is-born-on-new-gaul",
@@ -27414,7 +27414,7 @@
         "https://memory-alpha.fandom.com/wiki/2320"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2320-the-uss-excelsior-is-decommissioned",
@@ -27444,7 +27444,7 @@
         "https://memory-alpha.fandom.com/wiki/2320"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2320-timor-landi-is-born-on-bajor",
@@ -27475,7 +27475,7 @@
         "https://memory-alpha.fandom.com/wiki/2320"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2321-boothby-begins-his-career-as-groundskeeper-at-star",
@@ -27483,7 +27483,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Boothby begins his career as groundskeeper at Starfleet Academy.",
+      "summary": "Boothby begins his career as Starfleet Academy's groundskeeper.",
       "entities": [
         "Boothby",
         "Starfleet Academy"
@@ -27506,7 +27506,7 @@
         "https://memory-alpha.fandom.com/wiki/2321"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2321-stefan-is-born",
@@ -27536,7 +27536,7 @@
         "https://memory-alpha.fandom.com/wiki/2321"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2322-jean-luc-picard-applies-to-starfleet-academy-but-i",
@@ -27567,7 +27567,7 @@
         "https://memory-alpha.fandom.com/wiki/2322"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2322-raymond-marr-is-born",
@@ -27597,7 +27597,7 @@
         "https://memory-alpha.fandom.com/wiki/2322"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2323-april-picard-participates-in-the-forty-first-sta",
@@ -27644,7 +27644,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jean-Luc Picard's second application to Starfleet Academy is successful.",
+      "summary": "Jean-Luc Picard's second application to Starfleet Academy succeeds.",
       "entities": [
         "Jean-Luc Picard",
         "Starfleet Academy"
@@ -27667,7 +27667,7 @@
         "https://memory-alpha.fandom.com/wiki/2323"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2324-beverly-howard-is-born-in-copernicus-city-on-luna",
@@ -27708,7 +27708,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The parrises squares team of the Starfleet Academy wins the championship finale against the highly favored team of Minsk. The following party in the Academy grounds causes Boothby three weeks of work repairing the damage.",
+      "summary": "Starfleet Academy's parrises squares team beats the heavily favored Minsk team in the championship finale, and the celebration that follows costs Boothby three weeks of repair work.",
       "entities": [
         "Starfleet Academy",
         "Minsk",
@@ -27732,7 +27732,7 @@
         "https://memory-alpha.fandom.com/wiki/2324"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2324-the-starfleet-training-ship-uss-republic-returns-t",
@@ -27740,7 +27740,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Starfleet training ship USS Republic returns to the Sol system. It does not leave the system for the next fifty years.",
+      "summary": "The training ship USS Republic returns to the Sol system, where it stays for the next fifty years.",
       "entities": [
         "USS Republic"
       ],
@@ -27762,7 +27762,7 @@
         "https://memory-alpha.fandom.com/wiki/2324"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2325-2-february-devinoni-ral-is-born-in-brussels-eur",
@@ -27770,7 +27770,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "2 February – Devinoni Ral is born in Brussels, European Alliance on Earth.",
+      "summary": "Devinoni Ral is born in Brussels, European Alliance, on Earth.",
       "entities": [
         "February",
         "Devinoni Ral",
@@ -27795,7 +27795,7 @@
         "https://memory-alpha.fandom.com/wiki/2325"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2325-the-son-a-subdue-the-tarlac-and-the-ellora-and-int",
@@ -27836,7 +27836,7 @@
       "date": null,
       "stardate": "38197.5",
       "timeline": "prime",
-      "summary": "The USS Stargazer is commissioned and enters into Starfleet service.",
+      "summary": "The USS Stargazer is commissioned into Starfleet service.",
       "entities": [
         "USS Stargazer"
       ],
@@ -27864,7 +27864,7 @@
         "https://memory-alpha.fandom.com/wiki/2326"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2327-after-his-graduation-ensign-jean-luc-picard-has-t",
@@ -27872,7 +27872,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "After his graduation, Ensign Jean-Luc Picard has to be implanted with an artificial heart after he is seriously wounded in a fight with a Nausicaan over a game of dom-jot at Starbase Earhart.",
+      "summary": "After graduating, Ensign Jean-Luc Picard is implanted with an artificial heart following serious wounds from a fight with a Nausicaan over dom-jot at Starbase Earhart.",
       "entities": [
         "Nausicaan",
         "Starbase Earhart"
@@ -27900,7 +27900,7 @@
         "https://memory-alpha.fandom.com/wiki/2327"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2327-cadet-jean-luc-picard-joins-the-speed-of-light-clu",
@@ -27908,7 +27908,7 @@
       "date": "2327-04-04",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Cadet Jean-Luc Picard joins the Speed of Light Club, after flying three hundred thousand kilometers per second in level flight aboard the cruiser USS Leondegrance.",
+      "summary": "Cadet Jean-Luc Picard joins the Speed of Light Club after flying three hundred thousand kilometers per second in level flight aboard the cruiser USS Leondegrance.",
       "entities": [
         "April",
         "Jean-Luc Picard",
@@ -27933,7 +27933,7 @@
         "https://memory-alpha.fandom.com/wiki/2327"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2327-ensign-cortan-zweller-is-assigned-to-the-uss-ajax",
@@ -27964,7 +27964,7 @@
         "https://memory-alpha.fandom.com/wiki/2327"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2327-the-class-of-2327-graduates-from-starfleet-academy",
@@ -28023,7 +28023,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Timicin begins research on how to save his homeworld's sun.",
+      "summary": "Timicin begins research into saving his homeworld's sun.",
       "entities": [
         "Timicin",
         "Kaelon II"
@@ -28046,7 +28046,7 @@
         "https://memory-alpha.fandom.com/wiki/2327"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2327-william-samuels-is-born-in-bergen-norway-on-earth",
@@ -28054,7 +28054,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "William Samuels is born in Bergen, Norway on Earth.",
+      "summary": "William Samuels is born in Bergen, Norway, on Earth.",
       "entities": [
         "William Samuels",
         "Bergen",
@@ -28078,7 +28078,7 @@
         "https://memory-alpha.fandom.com/wiki/2327"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2328-doctor-noonien-soong-marries-juliana-o-donnell-on",
@@ -28086,7 +28086,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Doctor Noonien Soong marries Juliana O'Donnell on Mavala IV.",
+      "summary": "Dr. Noonien Soong marries Juliana O'Donnell on Mavala IV.",
       "entities": [
         "Noonien Soong",
         "Juliana O'Donnell",
@@ -28110,7 +28110,7 @@
         "https://memory-alpha.fandom.com/wiki/2328"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2328-ishan-chaye-is-born-on-bajor",
@@ -28141,7 +28141,7 @@
         "https://memory-alpha.fandom.com/wiki/2328"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2328-lwaxana-troi-gets-a-new-valet-mr-xelo",
@@ -28172,7 +28172,7 @@
         "https://memory-alpha.fandom.com/wiki/2328"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2328-miles-o-brien-is-born-in-ireland-to-michael-o-brie",
@@ -28224,7 +28224,7 @@
       "date": null,
       "stardate": "30620.1",
       "timeline": "prime",
-      "summary": "Starfleet Lieutenant Ian Andrew Troi and the Betazoid Ambassador Lwaxana Troi are married.",
+      "summary": "Starfleet Lieutenant Ian Andrew Troi and Betazoid Ambassador Lwaxana Troi marry.",
       "entities": [
         "Ian Andrew Troi",
         "Betazoid",
@@ -28248,7 +28248,7 @@
         "https://memory-alpha.fandom.com/wiki/2328"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2328-the-cardassian-union-begins-to-help-and-develop",
@@ -28256,7 +28256,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Cardassian Union begins \"to help and develop\" Bajor, starting its de facto occupation.",
+      "summary": "The Cardassian Union begins developing Bajor under the guise of assistance, the start of its de facto occupation.",
       "entities": [
         "Cardassian Union",
         "Bajor"
@@ -28279,7 +28279,7 @@
         "https://memory-alpha.fandom.com/wiki/2328"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2329-arjin-s-father-becomes-a-pilot-instructor-at-the-g",
@@ -28311,7 +28311,7 @@
         "https://memory-alpha.fandom.com/wiki/2329"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2329-chakotay-is-born-on-trebus-near-what-becomes-the-c",
