@@ -7,7 +7,7 @@
     ],
     "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 1049,
+    "authoredSummaries": 1094,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -28383,7 +28383,7 @@
         "https://memory-alpha.fandom.com/wiki/2329"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2329-marc-brooks-is-born",
@@ -28413,7 +28413,7 @@
         "https://memory-alpha.fandom.com/wiki/2329"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2329-mullibok-stows-away-aboard-a-cardassian-survey-ves",
@@ -28421,7 +28421,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Mullibok stows away aboard a Cardassian survey vessel and escapes Bajor to one of its moons, Jeraddo.",
+      "summary": "Mullibok stows away aboard a Cardassian survey vessel and escapes Bajor to its moon Jeraddo.",
       "entities": [
         "Mullibok",
         "Cardassian survey vessel",
@@ -28446,7 +28446,7 @@
         "https://memory-alpha.fandom.com/wiki/2329"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2329-starfleet-begins-to-adopt-a-new-system-of-computin",
@@ -28454,7 +28454,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet begins to adopt a new system of computing using isolinear optical chips to replace the aging duotronic systems.",
+      "summary": "Starfleet begins adopting isolinear optical chips to replace its aging duotronic computer systems.",
       "entities": [],
       "kind": null,
       "group": null,
@@ -28474,7 +28474,7 @@
         "https://memory-alpha.fandom.com/wiki/2329"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2329-thomas-raymond-is-born-in-indianapolis-indiana",
@@ -28498,7 +28498,7 @@
         "https://memory-alpha.fandom.com/wiki/2329"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2330-the-future-doctor-kingsley-is-born",
@@ -28528,7 +28528,7 @@
         "https://memory-alpha.fandom.com/wiki/2330"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2331-august-joseph-and-sarah-get-married-following-a",
@@ -28536,7 +28536,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "August – Joseph and Sarah get married following a two-month courtship.",
+      "summary": "Joseph and Sarah marry in August, after a two-month courtship.",
       "entities": [
         "August"
       ],
@@ -28558,7 +28558,7 @@
         "https://memory-alpha.fandom.com/wiki/2331"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2331-boradis-iii-is-the-first-planet-in-the-boradis-sys",
@@ -28566,7 +28566,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Boradis III is the first planet in the Boradis system colonized by the Federation. Over the next thirty-four years, three other settlements will appear in this star system.",
+      "summary": "Boradis III becomes the first Federation-colonized planet in the Boradis system, with three more settlements to follow there over the next thirty-four years.",
       "entities": [
         "Boradis III",
         "Boradis system"
@@ -28589,7 +28589,7 @@
         "https://memory-alpha.fandom.com/wiki/2331"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2331-june-joseph-sisko-meets-a-woman-named-sarah-in-j",
@@ -28597,7 +28597,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "June – Joseph Sisko meets a woman named Sarah in Jackson Square.",
+      "summary": "Joseph Sisko meets a woman named Sarah in Jackson Square in June.",
       "entities": [
         "June",
         "Joseph Sisko",
@@ -28622,7 +28622,7 @@
         "https://memory-alpha.fandom.com/wiki/2331"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2332-an-eight-year-old-beverly-howard-has-her-first-cru",
@@ -28630,7 +28630,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "An eight-year old Beverly Howard has her first crush on a eleven-year old soccer player named Stefan, which led to her having fantasies about having children, a career, and a happy life.",
+      "summary": "Eight-year-old Beverly Howard develops her first crush, on eleven-year-old soccer player Stefan, leading her to fantasize about having children, a career, and a happy life.",
       "entities": [
         "Beverly Howard",
         "Stefan"
@@ -28653,7 +28653,7 @@
         "https://memory-alpha.fandom.com/wiki/2332"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2332-benjamin-sisko-the-son-of-joseph-and-sarah-sisko",
@@ -28728,7 +28728,7 @@
         "https://memory-alpha.fandom.com/wiki/2332"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2332-the-nexus-returns-to-the-milky-way-galaxy-thirty-n",
@@ -28768,7 +28768,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Jean-Luc Picard is named as a honorary Olympian at the 12th annual Starfleet Academy Games.",
+      "summary": "Captain Jean-Luc Picard is named an honorary Olympian at the 12th annual Starfleet Academy Games.",
       "entities": [
         "Olympian",
         "Starfleet Academy Games"
@@ -28791,7 +28791,7 @@
         "https://memory-alpha.fandom.com/wiki/2333"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2333-captain-nyota-uhura-retires-from-starfleet",
@@ -28821,7 +28821,7 @@
         "https://memory-alpha.fandom.com/wiki/2333"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2333-during-a-historic-battle-involving-the-constellati",
@@ -28888,7 +28888,7 @@
         "https://memory-alpha.fandom.com/wiki/2333"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2333-sarah-sisko-disappears-two-days-after-benjamin-sis",
@@ -28919,7 +28919,7 @@
         "https://memory-alpha.fandom.com/wiki/2333"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2335-chakotay-at-the-age-of-six-aspires-to-become-a-p",
@@ -28927,7 +28927,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Chakotay, at the age of six, aspires to become a paleontologist.",
+      "summary": "At age six, Chakotay aspires to become a paleontologist.",
       "entities": [
         "Chakotay"
       ],
@@ -28954,7 +28954,7 @@
         "https://memory-alpha.fandom.com/wiki/2335"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2335-geordi-la-forge-is-born-in-mogadishu-somalia-on-e",
@@ -29018,7 +29018,7 @@
         "https://memory-alpha.fandom.com/wiki/2335"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2335-lore-is-activated-on-omicron-theta",
@@ -29049,7 +29049,7 @@
         "https://memory-alpha.fandom.com/wiki/2335"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2335-william-t-riker-is-born-in-alaska-on-earth",
@@ -29106,7 +29106,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "According to Felisa Howard's journals, Ronin was 34 years old in 2370 and would have been born in 2336, though his actual age was much older.",
+      "summary": "According to Felisa Howard's journals, Ronin was thirty-four in 2370 and so would have been born this year, though his actual age was much older.",
       "entities": [
         "Felisa Howard",
         "Ronin"
@@ -29129,7 +29129,7 @@
         "https://memory-alpha.fandom.com/wiki/2336"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2336-data-is-built-on-omicron-theta-and-begins-his-end",
@@ -29224,7 +29224,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Doctor Noonien Soong and Juliana Soong relocate their laboratory amid the jungle of Terlina III.",
+      "summary": "Dr. Noonien Soong and Juliana Soong relocate their laboratory into the jungle of Terlina III.",
       "entities": [
         "Noonien Soong",
         "Juliana Soong",
@@ -29248,7 +29248,7 @@
         "https://memory-alpha.fandom.com/wiki/2336"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2336-in-the-delta-quadrant-the-nokaro-a-colony-ship-c",
@@ -29256,7 +29256,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In the Delta Quadrant, the Nokaro, a colony ship carrying nearly three thousand people, mostly families, is consumed by a giant bioplasmic organism, which fools the crew into believing that they are headed for an inhabitable planet. Qatai's family is among those lost, leading him to dedicate his life to destroying the creature.",
+      "summary": "In the Delta Quadrant, a giant bioplasmic organism deceives the crew of the colony ship Nokaro, carrying nearly three thousand people, into believing they are bound for a habitable planet before consuming them; Qatai's family is among those lost, and he dedicates his life to destroying the creature.",
       "entities": [
         "Nokaro",
         "Qatai"
@@ -29279,7 +29279,7 @@
         "https://memory-alpha.fandom.com/wiki/2336"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2336-kestra-troi-dies-in-a-drowning-accident-in-lake-el",
@@ -29287,7 +29287,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kestra Troi dies in a drowning accident in Lake El'nar on Betazed.",
+      "summary": "Kestra Troi drowns in Lake El'nar on Betazed.",
       "entities": [
         "Kestra Troi"
       ],
@@ -29309,7 +29309,7 @@
         "https://memory-alpha.fandom.com/wiki/2336"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2336-leah-brahms-is-born-in-damascus-city-on-alpha-delp",
@@ -29342,7 +29342,7 @@
         "https://memory-alpha.fandom.com/wiki/2336"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2336-sarah-sisko-dies-in-a-hovercraft-accident-her-for",
@@ -29350,7 +29350,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Sarah Sisko dies in a hovercraft accident. Her former husband, Joseph, discovers Sarah's whereabouts but also discovers that she had died a month earlier.",
+      "summary": "Sarah Sisko dies in a hovercraft accident; her former husband Joseph learns of her death a month after it happens, upon finally locating her.",
       "entities": [
         "Sarah Sisko",
         "Joseph Sisko"
@@ -29373,7 +29373,7 @@
         "https://memory-alpha.fandom.com/wiki/2336"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2336-the-uss-leondegrance-is-decomissioned",
@@ -29381,7 +29381,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Leondegrance is decomissioned.",
+      "summary": "The USS Leondegrance is decommissioned.",
       "entities": [
         "USS Leondegrance"
       ],
@@ -29403,7 +29403,7 @@
         "https://memory-alpha.fandom.com/wiki/2336"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2337-beverly-howard-dyes-her-hair-brunette-but-quickly",
@@ -29411,7 +29411,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Beverly Howard dyes her hair brunette, but quickly changes it back.",
+      "summary": "Beverly Howard dyes her hair brunette, then quickly changes it back.",
       "entities": [
         "Beverly Howard"
       ],
@@ -29433,7 +29433,7 @@
         "https://memory-alpha.fandom.com/wiki/2337"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2337-natasha-yar-is-born-on-turkana-iv",
@@ -29473,7 +29473,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The colony on Turkana IV begins falling apart, with dozens of factions fighting for control of Turkana City.",
+      "summary": "The colony on Turkana IV begins falling apart as dozens of factions fight for control of Turkana City.",
       "entities": [
         "Turkana City"
       ],
@@ -29495,7 +29495,7 @@
         "https://memory-alpha.fandom.com/wiki/2337"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2337-trill-ambassador-odan-negotiates-a-peace-between-t",
@@ -29503,7 +29503,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Trill Ambassador Odan negotiates a peace between the Alpha and Beta moons of Peliar Zel.",
+      "summary": "Trill Ambassador Odan negotiates peace between the Alpha and Beta moons of Peliar Zel.",
       "entities": [
         "Trill",
         "Odan",
@@ -29529,7 +29529,7 @@
         "https://memory-alpha.fandom.com/wiki/2337"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2337-william-t-riker-s-mother-betty-dies",
@@ -29565,7 +29565,7 @@
         "https://memory-alpha.fandom.com/wiki/2337"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2338-a-landing-party-from-the-uss-tripoli-discovers-the",
@@ -29573,7 +29573,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A landing party from the USS Tripoli discovers the android Data amid the remains of the Omicron Theta colony. He is activated on February 2 of this year.",
+      "summary": "A landing party from the USS Tripoli discovers the android Data amid the ruins of the Omicron Theta colony and activates him on February 2.",
       "entities": [
         "Tripoli landing party",
         "Data",
@@ -29603,7 +29603,7 @@
         "https://memory-alpha.fandom.com/wiki/2338"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2338-greta-vanderweg-is-born-in-the-alpha-centauri-syst",
@@ -29634,7 +29634,7 @@
         "https://memory-alpha.fandom.com/wiki/2338"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2338-mabus-is-born-on-the-trabe-homeworld",
@@ -29665,7 +29665,7 @@
         "https://memory-alpha.fandom.com/wiki/2338"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2338-the-omicron-theta-colony-is-destroyed-by-the-cryst",
@@ -29673,7 +29673,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Omicron Theta colony is destroyed by the Crystalline Entity. Raymond Marr is among the casualties.",
+      "summary": "The Crystalline Entity destroys the Omicron Theta colony; Raymond Marr is among the casualties.",
       "entities": [
         "Omicron Theta colony",
         "Crystalline Entity",
@@ -29702,7 +29702,7 @@
         "https://memory-alpha.fandom.com/wiki/2338"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2339-curzon-dax-works-as-a-mediator-in-finding-a-resolu",
@@ -29710,7 +29710,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Curzon Dax works as a mediator in finding a resolution to the Klaestron Civil War.",
+      "summary": "Curzon Dax mediates a resolution to the Klaestron Civil War.",
       "entities": [
         "Curzon Dax",
         "Klaestron Civil War"
@@ -29733,7 +29733,7 @@
         "https://memory-alpha.fandom.com/wiki/2339"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2339-general-ardelon-tandro-was-murdered",
@@ -29741,7 +29741,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "General Ardelon Tandro was murdered.",
+      "summary": "General Ardelon Tandro is murdered.",
       "entities": [
         "Ardelon Tandro"
       ],
@@ -29763,7 +29763,7 @@
         "https://memory-alpha.fandom.com/wiki/2339"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2339-jean-luc-picard-last-sees-his-archaeology-professo",
@@ -29771,7 +29771,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jean-Luc Picard last sees his archaeology professor, Doctor Galen. At this time in his life, Picard is considering a career in this field of science.",
+      "summary": "Jean-Luc Picard, then considering a career in archaeology, last sees his professor Doctor Galen.",
       "entities": [
         "Jean-Luc Picard"
       ],
@@ -29793,7 +29793,7 @@
         "https://memory-alpha.fandom.com/wiki/2339"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2339-sev-maylor-is-born",
@@ -29823,7 +29823,7 @@
         "https://memory-alpha.fandom.com/wiki/2339"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2340-according-to-the-con-artist-alsia-her-stellar-car",
@@ -29831,7 +29831,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "According to the con artist Alsia, her stellar cartographer father, conducts a mineralogical study of the Vlugta asteroid belt and finds it rich with minerals.",
+      "summary": "According to con artist Alsia, her stellar-cartographer father conducts a mineralogical study of the Vlugta asteroid belt and finds it rich in minerals.",
       "entities": [
         "Alsia",
         "Vlugta asteroid belt"
@@ -29854,7 +29854,7 @@
         "https://memory-alpha.fandom.com/wiki/2340"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2340-at-age-five-will-riker-starts-school-and-begins-t",
@@ -29862,7 +29862,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "At age five, Will Riker starts school and begins to tell his new friends the same stories about his mother that his father told him.",
+      "summary": "At age five, Will Riker starts school and tells his new friends the same stories about his mother that his father told him.",
       "entities": [
         "Betty Riker",
         "Kyle Riker"
@@ -29885,7 +29885,7 @@
         "https://memory-alpha.fandom.com/wiki/2340"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2340-captain-jean-luc-picard-is-awarded-the-hall-of-hon",
@@ -29893,7 +29893,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Jean-Luc Picard is awarded the Hall of Honor for his outstanding work ethic by the United Federation Planets.",
+      "summary": "The Federation awards Captain Jean-Luc Picard a place in the Hall of Honor for his outstanding work ethic.",
       "entities": [
         "Jean-Luc Picard",
         "Hall of Honor"
@@ -29916,7 +29916,7 @@
         "https://memory-alpha.fandom.com/wiki/2340"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2340-edward-m-la-forge-and-his-wife-silva-la-forge-sav",
@@ -29924,7 +29924,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Edward M. La Forge and his wife Silva La Forge save their son Geordi La Forge when he is caught in a fire.",
+      "summary": "Edward and Silva La Forge save their son Geordi when he is caught in a fire.",
       "entities": [
         "Edward M. La Forge",
         "Silva La Forge",
@@ -29948,7 +29948,7 @@
         "https://memory-alpha.fandom.com/wiki/2340"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2340-lwaxana-troi-deletes-the-journal-files-from-2329-t",
@@ -29956,7 +29956,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lwaxana Troi deletes the journal files from 2329 to a few months after her daughter Deanna Troi's birth in 2336. These files contain references to her first daughter, Kestra Troi, who had died tragically in 2336.",
+      "summary": "Lwaxana Troi deletes her journal files from 2329 through a few months after Deanna Troi's 2336 birth, erasing references to her first daughter Kestra, who died that year.",
       "entities": [
         "Lwaxana Troi",
         "Deanna Troi",
@@ -29980,7 +29980,7 @@
         "https://memory-alpha.fandom.com/wiki/2340"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2340-nathaniel-teros-develops-the-theory-of-neuromuscul",
@@ -29988,7 +29988,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Nathaniel Teros develops the theory of neuromuscular adaptation for low-gravity species; however, at the time, it has no practical success.",
+      "summary": "Nathaniel Teros develops the theory of neuromuscular adaptation for low-gravity species, though it has no practical success at the time.",
       "entities": [
         "Nathaniel Teros"
       ],
@@ -30010,7 +30010,7 @@
         "https://memory-alpha.fandom.com/wiki/2340"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2340-ro-laren-is-born-on-bajor-to-ro-talia-and-ro-gale",
@@ -30044,7 +30044,7 @@
         "https://memory-alpha.fandom.com/wiki/2340"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2340-the-yaderans-are-conquered-by-the-dominion",
@@ -30052,7 +30052,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Yaderans are conquered by the Dominion.",
+      "summary": "The Dominion conquers the Yaderans.",
       "entities": [
         "Yaderan",
         "Dominion"
@@ -30075,7 +30075,7 @@
         "https://memory-alpha.fandom.com/wiki/2340"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2340-worf-son-of-mogh-is-born-on-qo-nos",
