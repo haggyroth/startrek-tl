@@ -7,7 +7,7 @@
     ],
     "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 591,
+    "authoredSummaries": 638,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -1963,7 +1963,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Debris from the Borg sphere, destroyed by the Enterprise-E, impacts on Earth near the North Pole. The debris remained undiscovered until 2153.",
+      "summary": "Debris from the Borg sphere the Enterprise-E destroyed hits Earth near the North Pole, undiscovered until 2153.",
       "entities": [
         "Borg",
         "Borg sphere",
@@ -1987,7 +1987,7 @@
         "https://memory-alpha.fandom.com/wiki/2063"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2063-in-an-alternate-timeline-earth-is-completely-assi",
@@ -2058,7 +2058,7 @@
       "date": "2063-04-05",
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zefram Cochrane launches the Phoenix, mankind's first manned warp-capable ship, from Bozeman, Montana with Commander William Riker and Lt. Commander Geordi La Forge as passengers from the Enterprise-E. Its brief warp flight is detected by a Vulcan survey ship, the T'Plana-Hath, passing through the local sector, and the ship changes course to investigate. This leads to the historic First Contact between Humans and extraterrestrial life (of public record, as earlier unofficial and unbeknownst contacts had been made).",
+      "summary": "Cochrane launches the Phoenix, humanity's first warp ship, from Bozeman, Montana with Riker and La Forge aboard; a passing Vulcan survey ship detects the flight and turns back to investigate, leading to First Contact.",
       "entities": [
         "Zefram Cochrane",
         "Phoenix",
@@ -2081,7 +2081,7 @@
         "https://memory-alpha.fandom.com/wiki/2063"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2063-zefram-cochrane-launches-the-phoenix-mankind-s-fi-2",
@@ -2089,7 +2089,7 @@
       "date": "2063-04-05",
       "stardate": null,
       "timeline": "mirror",
-      "summary": "Zefram Cochrane launches the Phoenix, mankind's first manned warp-capable ship, from a remote location in the continental United States of America. Its brief warp flight is detected by a Vulcan survey ship, the T'Plana-Hath, passing through the local sector, and the ship changes course to investigate. This leads to the historic First Contact between Humans and extraterrestrial life. Upon its landing, Cochrane killed the first Vulcan to set foot on Earth. This action resulted in the early expansion of the Terran Empire, allowing Humans to drastically increase their technological capability and begin a campaign of warfare and conquest. The day was later celebrated as a holy day by the Terran Empire.",
+      "summary": "In the mirror universe, Cochrane's warp flight draws the same Vulcan scout, but he kills the first Vulcan to land, sparking the Terran Empire's rise through conquest.",
       "entities": [
         "Vulcan",
         "First Contact",
@@ -2119,7 +2119,7 @@
         "https://memory-alpha.fandom.com/wiki/2063"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2064-approximate-humans-launch-the-first-warp-ships-t",
@@ -2127,7 +2127,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Approximate – Humans launch the first warp ships to explore the galaxy.",
+      "summary": "Around now, humans launch their first warp ships to explore the galaxy.",
       "entities": [
         "Human"
       ],
@@ -2149,7 +2149,7 @@
         "https://memory-alpha.fandom.com/wiki/2064"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2064-on-earth-zefram-cochrane-mentions-details-about-f",
@@ -2157,7 +2157,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On Earth, Zefram Cochrane mentions details about First Contact with the Vulcans on April 5, 2063 in a commencement address at Princeton, revealing what \"really\" happened during the events leading up to First Contact. He claimed that it involved \"a group of cybernetic creatures from the future\" who attempted to prevent the successful warp flight of the Phoenix and whose ultimate goal was the enslavement of Humanity. According to Cochrane, they were defeated by a group of Humans who were also from the future and who had seemingly followed them back through time. However, his remarks were largely shrugged off by his audience given his tendency toward imaginative stories and intoxication and Cochrane recanted his own statements several years later.",
+      "summary": "In a Princeton commencement address, Cochrane claims time travelers helped secure First Contact, then recants the story years later.",
       "entities": [
         "Zefram Cochrane",
         "First Contact",
@@ -2185,7 +2185,7 @@
         "https://memory-alpha.fandom.com/wiki/2064"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2065-the-ss-valiant-is-launched",
@@ -2215,7 +2215,7 @@
         "https://memory-alpha.fandom.com/wiki/2065"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2066-a-small-group-of-ba-ku-leave-their-solar-system-th",
@@ -2256,7 +2256,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Astronomer John Burke maps an area of space, including Sherman's Planet.",
+      "summary": "The astronomer John Burke maps a region of space that includes Sherman's Planet.",
       "entities": [
         "Astronomer",
         "John Burke",
@@ -2280,7 +2280,7 @@
         "https://memory-alpha.fandom.com/wiki/2067"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2067-the-deep-space-probe-friendship-1-is-launched-from",
@@ -2288,7 +2288,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The deep space probe Friendship 1 is launched from Earth.",
+      "summary": "The deep space probe Friendship 1 launches from Earth.",
       "entities": [
         "Friendship 1"
       ],
@@ -2310,7 +2310,7 @@
         "https://memory-alpha.fandom.com/wiki/2067"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2067-the-great-awakening-on-argelius-ii-takes-place-tu",
@@ -2318,7 +2318,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Great Awakening on Argelius II takes place, turning its population from a violent to a placid society.",
+      "summary": "The Great Awakening turns Argelius II from a violent society into a peaceful one.",
       "entities": [
         "Great Awakening",
         "Argelius II"
@@ -2341,7 +2341,7 @@
         "https://memory-alpha.fandom.com/wiki/2067"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2068-the-draco-lizard-became-extinct-by-this-year",
@@ -2349,7 +2349,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Draco lizard became extinct by this year.",
+      "summary": "The Draco lizard goes extinct by this year.",
       "entities": [
         "Draco lizard"
       ],
@@ -2371,7 +2371,7 @@
         "https://memory-alpha.fandom.com/wiki/2068"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2069-approximate-the-emperor-of-the-klingon-empire-di",
@@ -2379,7 +2379,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Approximate – The Emperor of the Klingon Empire dies without any successors claiming the throne. This results in the Klingon High Council taking effective political control of the Empire.",
+      "summary": "Around now the Klingon Emperor dies without any successor claiming the throne, leaving the High Council in effective control.",
       "entities": [
         "Emperor",
         "Klingon Empire",
@@ -2403,7 +2403,7 @@
         "https://memory-alpha.fandom.com/wiki/2069"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2069-at-the-peak-of-their-empire-a-skorr-philosopher-n",
@@ -2411,7 +2411,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "At the peak of their empire, a Skorr philosopher named Alar starts the process of reforming his society into a nation of pacifists.",
+      "summary": "At the height of their empire, the Skorr philosopher Alar begins turning his people toward pacifism.",
       "entities": [
         "Skorr",
         "Alar"
@@ -2434,7 +2434,7 @@
         "https://memory-alpha.fandom.com/wiki/2069"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2069-intersat-code-a-form-of-interstellar-communicatio",
@@ -2442,7 +2442,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Intersat code, a form of interstellar communication for Earth spaceships, is discontinued.",
+      "summary": "Intersat code, once used for interstellar communication between Earth ships, is discontinued.",
       "entities": [
         "Intersat code"
       ],
@@ -2464,7 +2464,7 @@
         "https://memory-alpha.fandom.com/wiki/2069"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2069-the-earth-colony-ship-ss-conestoga-is-launched-wit",
@@ -2472,7 +2472,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Earth colony ship SS Conestoga is launched with the mission of colonizing the planet Terra Nova.",
+      "summary": "The colony ship SS Conestoga launches from Earth bound for Terra Nova.",
       "entities": [
         "Colonization",
         "Terra Nova",
@@ -2496,7 +2496,7 @@
         "https://memory-alpha.fandom.com/wiki/2069"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2069-the-last-of-the-kzinti-wars-ends-around-this-year",
@@ -2504,7 +2504,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The last of the Kzinti Wars ends around this year with a Human victory.",
+      "summary": "The last of the Kzinti Wars ends around now with a human victory.",
       "entities": [
         "Kzinti Wars",
         "Human"
@@ -2527,7 +2527,7 @@
         "https://memory-alpha.fandom.com/wiki/2069"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2071-deron-warner-is-born-in-tycho-city-luna",
@@ -2535,7 +2535,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Deron Warner is born in Tycho City, Luna.",
+      "summary": "Deron Warner born in Tycho City, Luna.",
       "entities": [
         "Tycho City",
         "Luna"
@@ -2550,7 +2550,7 @@
         "https://memory-alpha.fandom.com/wiki/2071"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2071-ginger-summers-dies",
@@ -2572,7 +2572,7 @@
         "https://memory-alpha.fandom.com/wiki/2071"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2071-janice-lee-raymond-is-born-in-chicago-illinois",
@@ -2580,7 +2580,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Janice Lee Raymond is born in Chicago, Illinois.",
+      "summary": "Janice Lee Raymond born in Chicago, Illinois.",
       "entities": [
         "Janice Lee Raymond",
         "Chicago",
@@ -2596,7 +2596,7 @@
         "https://memory-alpha.fandom.com/wiki/2071"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2072-marvin-hildebrandt-is-born-in-new-york-city-new-y",
@@ -2604,7 +2604,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Marvin Hildebrandt is born in New York City, New York.",
+      "summary": "Marvin Hildebrandt born in New York City.",
       "entities": [
         "New York City",
         "New York"
@@ -2619,7 +2619,7 @@
         "https://memory-alpha.fandom.com/wiki/2072"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2072-sometime-around-this-year-a-group-of-ocampa-are-t",
@@ -2627,7 +2627,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Sometime around this year, a group of Ocampa are taken away from their homeworld and system with Suspiria in search of \"more interesting places\". In this year, they settle on a station.",
+      "summary": "Suspiria takes a group of Ocampa from their homeworld in search of novelty, and this year they settle on a station.",
       "entities": [
         "Ocampa",
         "Ocampa (planet)",
@@ -2658,7 +2658,7 @@
         "https://memory-alpha.fandom.com/wiki/2072"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2072-the-q-known-as-quinn-is-imprisoned-inside-a-rogue",
@@ -2666,7 +2666,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Q known as Quinn is imprisoned inside a rogue comet by the Q Continuum after he expresses a desire to end his existence.",
+      "summary": "The Q Continuum traps the Q known as Quinn inside a rogue comet after he asks to end his existence.",
       "entities": [
         "Quinn",
         "Q Continuum"
@@ -2689,7 +2689,7 @@
         "https://memory-alpha.fandom.com/wiki/2072"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2073-francis-m-raymond-dies",
@@ -2711,7 +2711,7 @@
         "https://memory-alpha.fandom.com/wiki/2073"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2073-kelleye-n-raymond-dies",
@@ -2733,7 +2733,7 @@
         "https://memory-alpha.fandom.com/wiki/2073"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2073-marina-s-despina-dies",
@@ -2755,7 +2755,7 @@
         "https://memory-alpha.fandom.com/wiki/2073"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2073-mary-a-grant-dies",
@@ -2777,7 +2777,7 @@
         "https://memory-alpha.fandom.com/wiki/2073"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2073-zefram-cochrane-makes-the-statement-don-t-try-to",
@@ -2816,7 +2816,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "According to Rom, Slug-o-Cola and its advertising slogan (\"Drink Slug-o-Cola.The slimiest cola in the galaxy.\") have been around at least this long, as he did not believe they had changed their slogan in nearly three hundred years.",
+      "summary": "By Rom's account, Slug-o-Cola and its slogan have gone unchanged for close to three hundred years.",
       "entities": [
         "Rom",
         "Slug-o-Cola"
@@ -2839,7 +2839,7 @@
         "https://memory-alpha.fandom.com/wiki/2074"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2074-in-an-alternate-timeline-molly-o-brien-is-sent-to",
@@ -2847,7 +2847,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate timeline, Molly O'Brien is sent to this time on Golana from three hundred years in the future. One version of Molly spends ten years in this time period before being retrieved and returned to her own time. This timeline is erased when the eighteen-year old Molly sends her younger self back to her own time.",
+      "summary": "In an alternate timeline, Molly O'Brien is thrown three hundred years back to Golana, spends a decade there, and later erases the timeline by sending her younger self home.",
       "entities": [
         "Molly O'Brien",
         "Golana"
@@ -2870,7 +2870,7 @@
         "https://memory-alpha.fandom.com/wiki/2074"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2075-the-vulcan-vanik-joins-the-vulcan-space-program",
@@ -2902,7 +2902,7 @@
         "https://memory-alpha.fandom.com/wiki/2075"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2076-bernadette-fuller-is-born",
@@ -2910,7 +2910,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Bernadette Fuller is born.",
+      "summary": "Bernadette Fuller born.",
       "entities": [
         "Bernadette Fuller"
       ],
@@ -2932,7 +2932,7 @@
         "https://memory-alpha.fandom.com/wiki/2076"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2076-on-tarakis-a-planet-in-the-delta-quadrant-eighty",
@@ -2940,7 +2940,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On Tarakis, a planet in the Delta Quadrant, eighty-two civilian Nakan are massacred by a military force led by Commander Saavdra.",
+      "summary": "On Tarakis, a military force under Commander Saavdra massacres eighty-two civilian Nakan.",
       "entities": [
         "Tarakis",
         "Nakan",
@@ -2965,7 +2965,7 @@
         "https://memory-alpha.fandom.com/wiki/2076"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2076-the-nomadic-moneans-discover-the-waters-by-the-23",
@@ -2973,7 +2973,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The nomadic Moneans discover the Waters. By the 2370s, they have built up a permanent home here, with a population of 80,000 and numerous oxygen refineries.",
+      "summary": "The nomadic Moneans discover the Waters, later settling there permanently.",
       "entities": [
         "Monean",
         "2370s"
@@ -2996,7 +2996,7 @@
         "https://memory-alpha.fandom.com/wiki/2076"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2078-the-ss-conestoga-reaches-terra-nova-and-founds-the",
@@ -3004,7 +3004,7 @@
       "date": "2078-06-23",
       "stardate": null,
       "timeline": "prime",
-      "summary": "The SS Conestoga reaches Terra Nova and founds the Terra Nova colony.",
+      "summary": "The SS Conestoga reaches Terra Nova and founds the colony there.",
       "entities": [
         "June",
         "Terra Nova",
@@ -3029,7 +3029,7 @@
         "https://memory-alpha.fandom.com/wiki/2078"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2079-by-this-year-the-post-atomic-horror-is-underway-o",
@@ -3037,7 +3037,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "By this year, the post-atomic horror is underway on Earth with all \"United Earth nonsense\" being abolished and the New United Nations ceasing to exist.",
+      "summary": "By now the post-atomic horror is underway on Earth, and the New United Nations has dissolved.",
       "entities": [
         "United Earth",
         "New United Nations"
@@ -3066,7 +3066,7 @@
         "https://memory-alpha.fandom.com/wiki/2079"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2079-in-this-year-the-number-of-stars-on-the-flag-of-t",
@@ -3074,7 +3074,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In this year, the number of stars on the flag of the United States of America changes from the 52 displayed since 2033.",
+      "summary": "The United States flag's star count changes this year, having stood at fifty-two since 2033.",
       "entities": [
         "United States of America"
       ],
@@ -3096,7 +3096,7 @@
         "https://memory-alpha.fandom.com/wiki/2079"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2079-the-earth-era-known-as-ad-is-still-in-effect-as-of",
@@ -3104,7 +3104,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Earth era known as AD is still in effect as of this year.",
+      "summary": "The AD calendar era is still in use on Earth as of this year.",
       "entities": [
         "AD"
       ],
@@ -3126,7 +3126,7 @@
         "https://memory-alpha.fandom.com/wiki/2079"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2082-around-this-year-the-use-of-solar-panels-become-f",
@@ -3134,7 +3134,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Around this year, the use of solar panels become far more common than they were in the past. They were used on everything from toasters to trucks. )",
+      "summary": "Around now solar panels come into much wider use, turning up in everything from toasters to trucks.",
       "entities": [],
       "kind": null,
       "group": null,
@@ -3154,7 +3154,7 @@
         "https://memory-alpha.fandom.com/wiki/2082"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2082-stephen-richey-dies-on-the-planet-theta-viii-his",
@@ -3162,7 +3162,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Stephen Richey dies on the planet Theta VIII. His remains are discovered by Commander William T. Riker, Lt. Commander Data, and Lt. Worf of the USS Enterprise in 2365.",
+      "summary": "Stephen Richey dies on Theta VIII; his remains are found in 2365 by Riker, Data and Worf.",
       "entities": [
         "Stephen Richey",
         "Theta VIII",
@@ -3191,7 +3191,7 @@
         "https://memory-alpha.fandom.com/wiki/2082"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2083-earth-s-space-agency-plans-to-send-a-second-wave-o",
@@ -3199,7 +3199,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Earth's Space Agency plans to send a second wave of two hundred colonists to the Terra Nova colony. Mark Logan leads the opposition to this plan of the arrival of more colonists, even threatening to use force against them. After a series of hostile transmissions, contact with the colony ceases. Soon after, the colony is destroyed by an asteroid impact, scattering toxic debris over the hemisphere. The fate of the colony became a mystery on Earth for decades.",
+      "summary": "Mark Logan's opposition to a second wave of Terra Nova colonists turns violent; contact with the colony fails, and it is destroyed by an asteroid soon after.",
       "entities": [
         "Space Agency",
         "Terra Nova colony",
@@ -3224,7 +3224,7 @@
         "https://memory-alpha.fandom.com/wiki/2083"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2084-brent-s-jay-raymond-dies",
@@ -3246,7 +3246,7 @@
         "https://memory-alpha.fandom.com/wiki/2084"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2086-on-acamar-iii-a-blood-feud-between-the-lornak-and",
@@ -3254,7 +3254,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On Acamar III, a blood feud between the Lornak and Tralesta clans begins, which will eventually end two hundred years later with the near extinction of the Tralesta.",
+      "summary": "A blood feud begins on Acamar III between the Lornak and Tralesta, ending two centuries later in the Tralesta's near-extinction.",
       "entities": [
         "Acamar III",
         "Lornak",
@@ -3278,7 +3278,7 @@
         "https://memory-alpha.fandom.com/wiki/2086"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2088-t-pol-is-born-on-the-planet-vulcan",
@@ -3286,7 +3286,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "T'Pol is born on the planet Vulcan.",
+      "summary": "T'Pol born on Vulcan.",
       "entities": [
         "T'Pol"
       ],
@@ -3308,7 +3308,7 @@
         "https://memory-alpha.fandom.com/wiki/2088"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2088-tommy-raymond-dies",
@@ -3330,7 +3330,7 @@
         "https://memory-alpha.fandom.com/wiki/2088"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2088-wil-w-lachance-raymond-dies",
@@ -3352,7 +3352,7 @@
         "https://memory-alpha.fandom.com/wiki/2088"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2090-the-orpheus-mining-authority-is-also-established-a",
@@ -3360,7 +3360,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Orpheus Mining Authority is also established along with colony.",
+      "summary": "The Orpheus Mining Authority is founded, alongside a colony.",
       "entities": [
         "Orpheus Mining Authority"
       ],
@@ -3382,7 +3382,7 @@
         "https://memory-alpha.fandom.com/wiki/2090"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2090-the-orpheus-mining-complex-on-luna-is-established",
@@ -3390,7 +3390,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Orpheus Mining Complex on Luna is established by John Frederick Paxton's father.",
+      "summary": "The Orpheus Mining Complex on Luna is founded by John Frederick Paxton's father.",
       "entities": [
         "Orpheus Mining Complex",
         "Luna",
@@ -3420,7 +3420,7 @@
         "https://memory-alpha.fandom.com/wiki/2090"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2093-by-this-year-tret-s-people-had-lost-tens-of-milli",
@@ -3428,7 +3428,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "By this year, Tret's people had lost tens of millions of people to the Loque'eque virus.",
+      "summary": "By now Tret's people have lost tens of millions to the Loque'eque virus.",
       "entities": [
         "Tret",
         "Loque'eque"
@@ -3451,7 +3451,7 @@
         "https://memory-alpha.fandom.com/wiki/2093"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2097-under-the-terms-of-the-treaty-of-2097-the-andoria",
@@ -3459,7 +3459,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Under the terms of the Treaty of 2097, the Andorian class D planetoid Weytahn is officially claimed by the Vulcans, who call it Paan Mokar.",
+      "summary": "The Treaty of 2097 formally cedes the Andorian planetoid Weytahn to the Vulcans, who call it Paan Mokar.",
       "entities": [
         "Treaty of 2097",
         "Andorian",
@@ -3485,7 +3485,7 @@
         "https://memory-alpha.fandom.com/wiki/2097"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2098-the-nexus-is-estimated-to-have-crossed-through-the",
