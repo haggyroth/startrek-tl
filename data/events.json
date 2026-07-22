@@ -7,7 +7,7 @@
     ],
     "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 914,
+    "authoredSummaries": 1004,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -22548,7 +22548,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kirk and Spock reprogram the Yonada’s course to the one the Fabrini originally intended.",
+      "summary": "Kirk and Spock reprogram the Yonada's course back to the one the Fabrini originally intended.",
       "entities": [
         "Yonada"
       ],
@@ -22570,7 +22570,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-kirk-commander-spock-and-doctor-leonard-mccoy-ar",
@@ -22578,7 +22578,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kirk, Commander Spock, and Doctor Leonard McCoy are able to save the mute native humanoid species of Gamma Vertis IV from the destruction of the star Minara going supernova by showing the Vian scientists Thann and Lal that Gem and her mute species can express love and compassion.",
+      "summary": "Kirk, Spock and McCoy save the mute native species of Gamma Vertis IV from the supernova of Minara by showing the Vian scientists Thann and Lal that Gem and her people are capable of love and compassion.",
       "entities": [
         "Leonard McCoy",
         "Gamma Vertis IV",
@@ -22604,7 +22604,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-kirk-invents-fizzbin",
@@ -22612,7 +22612,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kirk invents Fizzbin.",
+      "summary": "Kirk invents the card game Fizzbin.",
       "entities": [
         "Fizzbin"
       ],
@@ -22634,7 +22634,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-lieutenant-commander-and-dr-ann-mulhall-joins-the",
@@ -22642,7 +22642,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lieutenant Commander and Dr. Ann Mulhall joins the crew of the USS Enterprise. An astrobiologist, Ann Mulhall is the highest ranking female officer to serve aboard the Enterprise during its original five-year mission.",
+      "summary": "Astrobiologist Lieutenant Commander Dr. Ann Mulhall joins the Enterprise crew as its highest-ranking female officer of the original five-year mission.",
       "entities": [
         "Ann Mulhall"
       ],
@@ -22664,7 +22664,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-lokai-steals-a-shuttlecraft-from-starbase-4",
@@ -22695,7 +22695,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-mccoy-is-briefly-married-to-natira",
@@ -22725,7 +22725,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-odona-becomes-patient-zero-although-she-is-cured",
@@ -22733,7 +22733,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Odona becomes patient zero (although she is cured of the disease herself) and introduces the disease Vegan choriomeningitis to her people on Gideon as a way to control the population on that planet.",
+      "summary": "Odona, though later cured herself, becomes patient zero for Vegan choriomeningitis, introducing the disease to Gideon as a means of population control.",
       "entities": [
         "Odona",
         "Vegan choriomeningitis"
@@ -22756,7 +22756,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-one-of-the-designers-of-the-uss-enterprise-and-fed",
@@ -22764,7 +22764,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "One of the designers of the USS Enterprise and Federation engineer Dr. Larry Marvick dies a short time after looking at Medusan Ambassador Kollos.",
+      "summary": "Enterprise co-designer and Federation engineer Dr. Larry Marvick dies shortly after looking upon Medusan Ambassador Kollos.",
       "entities": [
         "Larry Marvick",
         "Medusan",
@@ -22788,7 +22788,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-the-defiant-is-discovered-by-the-uss-enterprise-ad",
@@ -22835,7 +22835,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Dohlman of Elas named Elaan is married, in an arranged union, to the ruler of Troyius in the hopes of fostering peace between the planet Elas and the planet Troyius, which are both in the Tellun star system.",
+      "summary": "Elaan, Dohlman of Elas, is married in an arranged union to the ruler of Troyius, meant to foster peace between the two Tellun system worlds.",
       "entities": [
         "Dohlman",
         "Elas",
@@ -22861,7 +22861,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-the-enterprise-makes-first-contact-with-androids-f",
@@ -22869,7 +22869,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise makes first contact with androids from the Andromeda Galaxy. This is made difficult at first due to the interference of Harcourt Fenton Mudd.",
+      "summary": "The Enterprise makes first contact with androids from the Andromeda Galaxy, complicated at first by Harcourt Fenton Mudd's interference.",
       "entities": [
         "Andromeda Galaxy",
         "Harcourt Mudd"
@@ -22892,7 +22892,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-the-keeper-of-the-shore-leave-planet-dies",
@@ -22923,7 +22923,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-the-planet-amerind-is-saved-from-destruction-by-an",
@@ -22931,7 +22931,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The planet Amerind is saved from destruction by an asteroid by Kirk and Spock.",
+      "summary": "Kirk and Spock save the planet Amerind from destruction by an asteroid.",
       "entities": [
         "Amerind",
         "Spock"
@@ -22954,7 +22954,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-the-planet-cheron-s-humanoid-population-destroys-t",
@@ -22962,7 +22962,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The planet Cheron's humanoid population destroys their cities and kills each other off in a civil war, making much of the planet uninhabitable to humanoid lifeforms; lower species animals encroach on and take over the cities.",
+      "summary": "Cheron's humanoid population wipes out its own cities and each other in a civil war, leaving much of the planet uninhabitable to humanoids as lower lifeforms take over.",
       "entities": [
         "Cheron"
       ],
@@ -22984,7 +22984,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-the-polaric-test-ban-treaty-is-signed-after-the-ne",
@@ -22992,7 +22992,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Polaric Test Ban Treaty is signed after the near destruction of a Romulan research colony due to a polaric ion device explosion on Chaltok IV.",
+      "summary": "The Polaric Test Ban Treaty is signed after a polaric ion device explosion nearly destroys a Romulan research colony on Chaltok IV.",
       "entities": [
         "Polaric Test Ban Treaty",
         "Romulan",
@@ -23016,7 +23016,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-the-star-minara-goes-supernova",
@@ -23044,7 +23044,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-the-united-federation-of-planets-hosts-the-babel-c",
@@ -23052,7 +23052,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The United Federation of Planets hosts the Babel Conference, which eventually results in Coridan's admission to the Federation.",
+      "summary": "The Federation hosts the Babel Conference, which eventually leads to Coridan's admission.",
       "entities": [
         "Babel Conference",
         "Coridan"
@@ -23075,7 +23075,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-the-uss-enterprise-makes-first-contact-with-interg",
@@ -23083,7 +23083,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Enterprise makes first contact with intergalactic beings the Kelvans from the Andromeda Galaxy. This first contact is at first difficult as the Kelvans attempt to hijack the Enterprise and kill one of the crew.",
+      "summary": "The Enterprise makes first contact with the Kelvans of the Andromeda Galaxy, who initially attempt to hijack the ship and kill a crew member.",
       "entities": [
         "Kelvan"
       ],
@@ -23105,7 +23105,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-the-uss-enterprise-makes-first-contact-with-the-ey",
@@ -23113,7 +23113,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Enterprise makes first contact with the Eymorgs of Sigma Draconis VI after Kara steals Spock's brain to be used as the new Controller for that planet. McCoy puts Spock's brain back in Spock's head with the help of the Great Teacher, with the Eymorgs being forced to live, again, on the surface of that planet with the Morgs.",
+      "summary": "The Enterprise makes first contact with the Eymorgs of Sigma Draconis VI after Kara steals Spock's brain to serve as their new Controller; McCoy restores it with the Great Teacher's guidance, and the Eymorgs are forced back to living on the surface with the Morgs.",
       "entities": [
         "Eymorg",
         "Sigma Draconis VI",
@@ -23139,7 +23139,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-the-uss-enterprise-makes-first-contact-with-the-xe",
@@ -23147,7 +23147,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Enterprise makes first contact with the xenophobic Melkotians.",
+      "summary": "The Enterprise makes first contact with the xenophobic Melkotians.",
       "entities": [
         "Melkot"
       ],
@@ -23169,7 +23169,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-the-uss-enterprise-visits-deep-space-station-k-7",
@@ -23177,7 +23177,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Enterprise visits Deep Space Station K-7.",
+      "summary": "The Enterprise visits Deep Space Station K-7.",
       "entities": [
         "Deep Space Station K-7"
       ],
@@ -23199,7 +23199,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2268-the-uss-intrepid-is-destroyed-and-its-entire-crew",
@@ -23207,7 +23207,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Intrepid is destroyed and its entire crew of Vulcans killed, as well as the destruction of the Gamma 7A system, by an enormous space going single-celled organism.",
+      "summary": "An enormous single-celled space-going organism destroys the USS Intrepid and its all-Vulcan crew, along with the Gamma 7A system.",
       "entities": [
         "Vulcan",
         "Gamma 7A system",
@@ -23231,7 +23231,7 @@
         "https://memory-alpha.fandom.com/wiki/2268"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-captain-james-t-kirk-commander-spock-and-histor",
@@ -23239,7 +23239,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain James T. Kirk, Commander Spock, and historian Erickson use the Guardian of Forever to observe Federation and Orion history firsthand.",
+      "summary": "Kirk, Spock and historian Erickson use the Guardian of Forever to observe Federation and Orion history firsthand.",
       "entities": [
         "James T. Kirk",
         "Spock",
@@ -23265,7 +23265,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-dr-leonard-mccoy-discovers-that-flint-found-by-t",
@@ -23273,7 +23273,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Leonard McCoy discovers that Flint, found by the USS Enterprise living on the planet Holberg 917G, has his time as an immortal coming to an end and will soon die, due to his leaving Earth's atmosphere. Although not revealed during his lifetime, as an immortal Flint was known by several historic names including King Solomon, Alexander the Great, Leonardo da Vinci, Johannes Brahms, and interstellar financier Brack.",
+      "summary": "McCoy discovers that Flint, found by the Enterprise on the planet Holberg 917G, is dying since his immortality depends on staying within Earth's atmosphere; unrevealed in his lifetime, Flint had lived under names including King Solomon, Alexander the Great, Leonardo da Vinci, Johannes Brahms, and financier Brack.",
       "entities": [
         "Leonard McCoy",
         "Flint",
@@ -23303,7 +23303,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-dr-sevrin-and-his-follower-adam-die-on-eden-after",
@@ -23311,7 +23311,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Sevrin and his follower Adam die on Eden after biting into an acid-saturated fruit.",
+      "summary": "Dr. Sevrin and his follower Adam die on Eden after biting into acid-saturated fruit.",
       "entities": [
         "Adam"
       ],
@@ -23333,7 +23333,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-dr-sevrin-and-his-followers-temporarily-hijack-th",
@@ -23341,7 +23341,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Sevrin and his followers temporarily hijack the USS Enterprise, steal the shuttlecraft Galileo II, and take both into Romulan space so they can get to the planet Eden.",
+      "summary": "Dr. Sevrin and his followers temporarily hijack the Enterprise and steal the shuttlecraft Galileo II, taking both into Romulan space to reach the planet Eden.",
       "entities": [
         "Galileo II",
         "Romulan",
@@ -23366,7 +23366,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-els-renora-is-born-on-bajor",
@@ -23397,7 +23397,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-harry-mudd-swindles-the-inhabitants-of-the-planet",
@@ -23405,7 +23405,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Harry Mudd swindles the inhabitants of the planet Ilyra VI by trying to sell them the Starfleet Academy.",
+      "summary": "Harry Mudd swindles the inhabitants of Ilyra VI by trying to sell them Starfleet Academy.",
       "entities": [
         "Harcourt Mudd",
         "Ilyra VI",
@@ -23429,7 +23429,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-keiko-ishikawa-s-mother-is-born",
@@ -23460,7 +23460,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-lieutenant-arex-replaces-ensign-pavel-chekov-as-th",
@@ -23468,7 +23468,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lieutenant Arex replaces Ensign Pavel Chekov as the USS Enterprise’s chief navigator as Chekov was assigned further officer training.",
+      "summary": "Lieutenant Arex replaces Ensign Chekov as the Enterprise's chief navigator while Chekov undergoes further officer training.",
       "entities": [
         "Arex",
         "Pavel Chekov"
@@ -23491,7 +23491,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-lieutenant-m-ress-is-assigned-to-be-a-relief-commu",
@@ -23499,7 +23499,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lieutenant M'Ress is assigned to be a relief communications officer for Lieutenant Uhura aboard the USS Enterprise.",
+      "summary": "Lieutenant M'Ress is assigned as a relief communications officer for Lieutenant Uhura aboard the Enterprise.",
       "entities": [
         "M'Ress",
         "Nyota Uhura"
@@ -23522,7 +23522,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-lieutenant-mira-romaine-begins-working-to-restore",
@@ -23530,7 +23530,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lieutenant Mira Romaine begins working to restore the memory core of Memory Alpha.",
+      "summary": "Lieutenant Mira Romaine begins working to restore Memory Alpha's memory core.",
       "entities": [
         "Mira Romaine"
       ],
@@ -23552,7 +23552,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-memory-alpha-s-memory-core-is-burned-out-and-all",
@@ -23560,7 +23560,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Memory Alpha's memory core is burned out, and all of its personnel, Federation scholars, researchers, and scientists that are there at the time are killed, when the planetoid is attacked by the \"lights of Zetar\" beings.",
+      "summary": "Memory Alpha's memory core is burned out and its scholars, researchers and scientists are killed in an attack by the beings known as the lights of Zetar.",
       "entities": [
         "Memory Alpha",
         "Zetar"
@@ -23583,7 +23583,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-the-asteroid-ship-yonada-reaches-its-destination-a",
@@ -23591,7 +23591,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The asteroid ship Yonada reaches its destination and the Fabrini settle down under the leadership of high priestess Natira.",
+      "summary": "The asteroid ship Yonada reaches its destination, and the Fabrini settle under the leadership of High Priestess Natira.",
       "entities": [
         "Yonada",
         "Fabrini",
@@ -23615,7 +23615,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-the-enterprise-makes-first-contact-with-the-excalb",
@@ -23645,7 +23645,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-the-enterprise-re-establishes-contact-with-the-meg",
@@ -23653,7 +23653,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise re-establishes contact with the Megans of the planet Megas-Tu as the ship is exploring the galactic core.",
+      "summary": "The Enterprise re-establishes contact with the Megans of Megas-Tu while exploring the galactic core.",
       "entities": [
         "Megan",
         "Megas-Tu"
@@ -23676,7 +23676,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-the-federation-class-j-space-cruiser-aurora-is-sto",
@@ -23684,7 +23684,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Federation class J space cruiser Aurora is stolen by Doctor Sevrin and his followers.",
+      "summary": "Dr. Sevrin and his followers steal the Federation class J space cruiser Aurora.",
       "entities": [
         "Sevrin"
       ],
@@ -23706,7 +23706,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-the-mantilles-colony-in-the-pallas-14-system-is-th",
@@ -23714,7 +23714,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Mantilles colony in the Pallas 14 system is threatened by the cosmic cloud creature.",
+      "summary": "The cosmic cloud creature threatens the Mantilles colony in the Pallas 14 system.",
       "entities": [
         "Mantilles",
         "Pallas 14 system"
@@ -23737,7 +23737,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-the-star-beta-niobe-supernovas-destroying-the-pla",
@@ -23768,7 +23768,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-the-troglyte-miners-of-the-planet-ardana-start-wea",
@@ -23776,7 +23776,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Troglyte miners of the planet Ardana start wearing filter masks to block the mental ill effects of mining zenite.",
+      "summary": "The Troglyte miners of Ardana start wearing filter masks to block zenite mining's mental ill effects.",
       "entities": [
         "Troglyte",
         "Ardana"
@@ -23799,7 +23799,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-the-uss-enterprise-discovers-an-ancient-abandoned",
@@ -23807,7 +23807,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Enterprise discovers an ancient abandoned insectoid starship in orbit around Questar M-17 and makes first contact with a magnetic organism.",
+      "summary": "The Enterprise discovers an ancient abandoned insectoid starship orbiting Questar M-17 and makes first contact with a magnetic organism.",
       "entities": [
         "Questar M-17"
       ],
@@ -23829,7 +23829,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-the-uss-enterprise-uncovers-what-happened-with-the",
@@ -23837,7 +23837,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Enterprise uncovers what happened with the Human geneticist Dr. Stavos Keniclius by finding his fifth generation clone living with the Phylosians.",
+      "summary": "The Enterprise learns the fate of human geneticist Dr. Stavos Keniclius by finding his fifth-generation clone living among the Phylosians.",
       "entities": [
         "Human",
         "Stavos Keniclius",
@@ -23861,7 +23861,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-the-uss-enterprise-uncovers-what-happened-with-the-2",
@@ -23869,7 +23869,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Enterprise uncovers what happened with the Terra 10 colonists, with whom Earth lost contact in the middle of the 21st century, and help their mutated Terratin descendants relocate to a geologically more stable planet than the one they are found on orbiting the star Cepheus.",
+      "summary": "The Enterprise learns the fate of the Terra 10 colonists, lost contact with Earth since the mid-21st century, and helps their mutated Terratin descendants relocate from the star Cepheus to a more geologically stable planet.",
       "entities": [
         "Terra 10",
         "21st century",
@@ -23894,7 +23894,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2269-tuvok-begins-taking-lessons-in-kal-toh-from-a-vulc",
@@ -23930,7 +23930,7 @@
         "https://memory-alpha.fandom.com/wiki/2269"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2270-after-a-mild-outbreak-of-choriocytosis-aboard-the",
@@ -23938,7 +23938,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "After a mild outbreak of choriocytosis aboard the USS Enterprise, the only seriously ill crewmember, Commander Spock, is saved from near death by a shipment of strobolin which was briefly stolen by Orions.",
+      "summary": "After a mild choriocytosis outbreak aboard the Enterprise, Commander Spock, its only seriously ill crew member, is saved from near death by a shipment of strobolin briefly stolen by Orions.",
       "entities": [
         "Spock"
       ],
@@ -23960,7 +23960,7 @@
         "https://memory-alpha.fandom.com/wiki/2270"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2270-after-the-testimony-of-kol-tai-the-defense-witnes",
@@ -23968,7 +23968,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "After the testimony of Kol-Tai, the defense witness for McCoy, it is discovered that the auroral plague was caused by radiation; McCoy is exonerated and lauded as a hero for saving both the lives on Dramia II and his own crewmates.",
+      "summary": "Following defense witness Kol-Tai's testimony, the auroral plague is found to have been caused by radiation, exonerating McCoy and hailing him as a hero for saving both the people of Dramia II and his own crewmates.",
       "entities": [
         "Kol-Tai"
       ],
@@ -23990,7 +23990,7 @@
         "https://memory-alpha.fandom.com/wiki/2270"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2270-captain-james-t-kirk-invokes-starfleet-general-or",
@@ -23998,7 +23998,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain James T. Kirk invokes Starfleet General Order 6 on the USS Enterprise after he and his crew contract the auroral plague.",
+      "summary": "Kirk invokes Starfleet General Order 6 aboard the Enterprise after he and his crew contract the auroral plague.",
       "entities": [
         "James T. Kirk",
         "General Order 6",
@@ -24022,7 +24022,7 @@
         "https://memory-alpha.fandom.com/wiki/2270"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2270-felisa-howard-is-born",
@@ -24052,7 +24052,7 @@
         "https://memory-alpha.fandom.com/wiki/2270"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2270-kirk-is-promoted-to-admiral-and-becomes-chief-of-s",
@@ -24091,7 +24091,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kirk orders a Federation quarantine of the planet Delta Theta III under Starfleet General Order 1 to maintain the Prime Directive of non-interference in the development of that planet's society and culture.",
+      "summary": "Kirk orders a Federation quarantine of Delta Theta III under Starfleet General Order 1 to preserve the Prime Directive.",
       "entities": [
         "Delta Theta III",
         "General Order 1",
@@ -24115,7 +24115,7 @@
         "https://memory-alpha.fandom.com/wiki/2270"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2270-leonard-mccoy-also-retires-from-starfleet-and-star",
@@ -24152,7 +24152,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "McCoy finds a cure for the auroral plague, via blood samples of the USS Enterprise crew, which allows Kirk to lift General Order 6.",
+      "summary": "McCoy finds a cure for the auroral plague using blood samples from the Enterprise crew, allowing Kirk to lift General Order 6.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -24172,7 +24172,7 @@
         "https://memory-alpha.fandom.com/wiki/2270"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2270-near-the-beginning-of-this-year-james-t-kirk-s-f",
@@ -24180,7 +24180,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Near the beginning of this year, James T. Kirk's five-year mission ends.",
+      "summary": "Near the start of this year, Kirk's five-year mission ends.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -24200,7 +24200,7 @@
         "https://memory-alpha.fandom.com/wiki/2270"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2270-on-the-planet-dramia-commander-demos-place-doctor",
@@ -24208,7 +24208,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On the planet Dramia, Commander Demos place Doctor Leonard McCoy under arrest for allowing the outbreak of an auroral plague to develop on Dramia II in 2251.",
+      "summary": "On Dramia, Commander Demos places McCoy under arrest for allowing an auroral plague outbreak to develop on Dramia II in 2251.",
       "entities": [
         "Dramia",
         "Demos",
@@ -24234,7 +24234,7 @@
         "https://memory-alpha.fandom.com/wiki/2270"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2270-orion-neutrality-comes-to-an-end-after-an-act-of-p",
@@ -24242,7 +24242,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Orion neutrality comes to an end after an act of piracy. After the freighter USS Huron is attacked and looted, the USS Enterprise captures the Orion vessel responsible.",
+      "summary": "Orion neutrality ends after an act of piracy: the Enterprise captures the Orion vessel responsible for attacking and looting the freighter USS Huron.",
       "entities": [
         "Orion",
         "Orion vessel",
@@ -24266,7 +24266,7 @@
         "https://memory-alpha.fandom.com/wiki/2270"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2270-spock-retires-from-starfleet-and-returns-to-vulcan",
@@ -24337,7 +24337,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "During an encounter with Romulans near the Romulan Neutral Zone in 2267, James T. Kirk claimed that the USS Enterprise would self destruct, and that the area of space it was inhabiting should be avoided by starships until this year due to the danger posed by its \"Corbomite device.\"",
+      "summary": "Since a 2267 encounter near the Romulan Neutral Zone, Kirk's claim that the Enterprise would self-destruct kept starships away from the area until this year, over the supposed danger of its Corbomite device.",
       "entities": [
         "Romulan",
         "Romulan Neutral Zone",
@@ -24363,7 +24363,7 @@
         "https://memory-alpha.fandom.com/wiki/2271"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2271-kor-leads-the-klingons-in-the-battle-of-klach-d-ke",
@@ -24371,7 +24371,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kor leads the Klingons in the Battle of Klach D'kel Brakt against the Romulans, marking the end of the Romulan-Klingon Alliance.",
+      "summary": "Kor leads the Klingons against the Romulans at the Battle of Klach D'kel Brakt, ending the Romulan-Klingon Alliance.",
       "entities": [
         "Kor",
         "Klingon",
@@ -24397,7 +24397,7 @@
         "https://memory-alpha.fandom.com/wiki/2271"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2271-two-years-prior-to-this-year-spock-said-that-in-t",
@@ -24405,7 +24405,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Two years prior to this year, Spock said that in two standard years, the Skorr could breed an army of up to two hundred billion warriors.",
+      "summary": "Two years earlier, Spock predicted that within two more years the Skorr could breed an army of up to two hundred billion warriors.",
       "entities": [
         "Spock",
         "Skorr"
@@ -24428,7 +24428,7 @@
         "https://memory-alpha.fandom.com/wiki/2271"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2272-the-klingon-empire-relinquishes-its-claim-on-the-a",
@@ -24459,7 +24459,7 @@
         "https://memory-alpha.fandom.com/wiki/2272"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2273-sarek-of-vulcan-meets-the-legarans-for-the-first-t",
@@ -24490,7 +24490,7 @@
         "https://memory-alpha.fandom.com/wiki/2273"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2274-ss-artemis-departs-from-mars-on-a-mission-to-colon",
@@ -24498,7 +24498,7 @@
       "date": null,
       "stardate": "7678.43",
       "timeline": "prime",
-      "summary": "SS Artemis departs from Mars on a mission to colonize Septimis Minor.",
+      "summary": "The SS Artemis departs Mars to colonize Septimis Minor.",
       "entities": [
         "Mars",
         "Septimis Minor",
@@ -24522,7 +24522,7 @@
         "https://memory-alpha.fandom.com/wiki/2274"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2275-a-group-of-young-ba-ku-wanting-to-follow-the-ways",
@@ -24586,7 +24586,7 @@
         "https://memory-alpha.fandom.com/wiki/2276"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2278-chu-lak-is-born-in-the-s-lara-region",
@@ -24617,7 +24617,7 @@
         "https://memory-alpha.fandom.com/wiki/2278"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2278-pardek-becomes-a-senator",
@@ -24647,7 +24647,7 @@
         "https://memory-alpha.fandom.com/wiki/2278"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2278-three-weeks-out-of-her-home-starbase-the-federati",
@@ -24655,7 +24655,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Three weeks out of her home starbase, the Federation starship USS Bozeman disappears near the Typhon Expanse.",
+      "summary": "Three weeks out of her home starbase, the USS Bozeman disappears near the Typhon Expanse.",
       "entities": [
         "Unnamed fixed installations",
         "Typhon Expanse",
@@ -24679,7 +24679,7 @@
         "https://memory-alpha.fandom.com/wiki/2278"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2279-mark-jameson-is-born",
@@ -24709,7 +24709,7 @@
         "https://memory-alpha.fandom.com/wiki/2279"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2279-the-border-treaty-between-the-bajoran-factions-paq",
@@ -24717,7 +24717,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The border treaty between the Bajoran factions Paqu and Navot on Bajor is signed.",
+      "summary": "The border treaty between the Bajoran factions Paqu and Navot is signed.",
       "entities": [
         "Paqu-Navot Treaty",
         "Bajoran",
@@ -24743,7 +24743,7 @@
         "https://memory-alpha.fandom.com/wiki/2279"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2280-a-female-prime-was-born-on-k-tuevon-prime-this-yea",
@@ -24751,7 +24751,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A female Prime was born on K'Tuevon Prime this year. One hundred years later, her father rented an event silo to celebrate her 100th birthday.",
+      "summary": "A female Prime is born on K'Tuevon Prime; a century later her father rents an event silo to celebrate her hundredth birthday.",
       "entities": [
         "Prime daughter 001",
         "Prime",
@@ -24777,7 +24777,7 @@
         "https://memory-alpha.fandom.com/wiki/2280"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2281-james-t-kirk-sees-demora-sulu-for-the-last-time-u",
@@ -24817,7 +24817,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Chez DeSalle begins to develop their pod plant purée recipe.",
+      "summary": "Chez DeSalle begins developing its pod plant purée recipe.",
       "entities": [
         "Chez DeSalle"
       ],
@@ -24839,7 +24839,7 @@
         "https://memory-alpha.fandom.com/wiki/2282"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2282-in-idaho-on-earth-james-t-kirk-takes-one-of-his",
@@ -24880,7 +24880,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Audrid Dax dies. The Dax symbiont passes to Torias.",
+      "summary": "Audrid Dax dies, and the Dax symbiont passes to Torias.",
       "entities": [
         "Audrid Dax",
         "Torias Dax"
@@ -24903,7 +24903,7 @@
         "https://memory-alpha.fandom.com/wiki/2284"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2284-carol-marcus-sends-a-next-phase-proposal-for-proje",
@@ -24997,7 +24997,7 @@
         "https://memory-alpha.fandom.com/wiki/2284"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2284-zek-takes-his-last-vacation",
@@ -25027,7 +25027,7 @@
         "https://memory-alpha.fandom.com/wiki/2284"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2285-admiral-kirk-steals-the-uss-enterprise-in-an-attem",
@@ -25110,7 +25110,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Initial performance tests of the Excelsior’s transwarp drive are a failure and the ship remains in Spacedock for the next two years.",
+      "summary": "Initial tests of the Excelsior's transwarp drive fail, leaving the ship in Spacedock for the next two years.",
       "entities": [
         "Spacedock"
       ],
@@ -25132,7 +25132,7 @@
         "https://memory-alpha.fandom.com/wiki/2285"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2285-joran-writes-a-musical-piece",
@@ -25162,7 +25162,7 @@
         "https://memory-alpha.fandom.com/wiki/2285"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2285-project-genesis-enters-its-third-stage-uss-relian",
@@ -25270,7 +25270,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "USS Hathaway, a Constellation starship, is launched from Copernicus Ship Yards, Luna.",
+      "summary": "The Constellation-class USS Hathaway is launched from the Copernicus Ship Yards on Luna.",
       "entities": [
         "Copernicus Ship Yards",
         "Luna",
@@ -25294,7 +25294,7 @@
         "https://memory-alpha.fandom.com/wiki/2285"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2286-after-spending-three-months-in-exile-on-vulcan-ki",
@@ -25397,7 +25397,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Due to the Whale Probe threat, Earth enters a state of emergency, a state that is not utilized again until the Borg threat of 2366.",
+      "summary": "Earth enters a state of emergency over the Whale Probe threat, not repeated until the Borg threat of 2366.",
       "entities": [
         "Borg"
       ],
@@ -25419,7 +25419,7 @@
         "https://memory-alpha.fandom.com/wiki/2286"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2286-on-acamar-iii-the-tralesta-clan-is-almost-extermi",
@@ -25427,7 +25427,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On Acamar III, the Tralesta clan is almost exterminated by their archenemies from the Lornak clan in the Tralesta Massacre.",
+      "summary": "On Acamar III, the Lornak clan nearly exterminates their Tralesta rivals in the Tralesta Massacre.",
       "entities": [
         "Acamar III",
         "Tralesta",
@@ -25451,7 +25451,7 @@
         "https://memory-alpha.fandom.com/wiki/2286"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2286-six-months-after-joining-with-the-dax-symbiont-jo",
@@ -25459,7 +25459,7 @@
       "date": null,
       "stardate": "8615.2",
       "timeline": "prime",
-      "summary": "Six months after joining with the Dax symbiont, Joran dies. The symbiont is then joined with Curzon.",
+      "summary": "Six months after joining with the Dax symbiont, Joran dies, and the symbiont passes to Curzon.",
       "entities": [
         "Joran Dax",
         "Curzon Dax"
@@ -25482,7 +25482,7 @@
         "https://memory-alpha.fandom.com/wiki/2286"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2286-the-uss-enterprise-is-launched-under-the-command-o",
@@ -25677,7 +25677,7 @@
         "https://memory-alpha.fandom.com/wiki/2287"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2287-james-t-kirk-spock-and-leonard-mccoy-visit-yose",
@@ -25755,7 +25755,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Lancelot starships are introduced into Starfleet service. One of the first ships of this class, the USS Leondegrance, is launched.",
+      "summary": "The Lancelot-class starships enter Starfleet service, with the USS Leondegrance among the first launched.",
       "entities": [
         "USS Leondegrance"
       ],
@@ -25777,7 +25777,7 @@
         "https://memory-alpha.fandom.com/wiki/2288"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2289-negotiations-between-the-federation-and-the-klingo",
@@ -25785,7 +25785,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Negotiations between the Federation and the Klingon Empire take place on the Korvat colony. At the time, Curzon Dax was representing the Federation, while Kang represented the Klingons.",
+      "summary": "The Federation and Klingon Empire hold negotiations on the Korvat colony, with Curzon Dax representing the Federation and Kang the Klingons.",
       "entities": [
         "Klingon Empire",
         "Korvat colony",
@@ -25811,7 +25811,7 @@
         "https://memory-alpha.fandom.com/wiki/2289"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2289-t-meni-and-her-husband-both-of-vulcan-send-their",
@@ -25819,7 +25819,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "T'Meni and her husband, both of Vulcan, send their son Tuvok to Starfleet Academy, as it was their wish that he become a Starfleet officer. Feeling obliged to honor his parent's wishes Tuvok consents to attend.",
+      "summary": "T'Meni and her husband send their son Tuvok to Starfleet Academy at their wish, which he honors despite his own reluctance.",
       "entities": [
         "T'Meni",
         "Tuvok's father 001",
@@ -25844,7 +25844,7 @@
         "https://memory-alpha.fandom.com/wiki/2289"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2290-hikaru-sulu-begins-a-three-year-mission-charting-g",
@@ -25883,7 +25883,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Klingon battle cruiser IKS T'Ong is sent by the Klingon High Command on a high priority mission. For this mission, the crew is placed into cryogenic sleep.",
+      "summary": "The Klingon High Command sends the battle cruiser IKS T'Ong on a high-priority mission, its crew placed in cryogenic sleep.",
       "entities": [
         "Klingon High Command",
         "IKS T'Ong"
@@ -25906,7 +25906,7 @@
         "https://memory-alpha.fandom.com/wiki/2290"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2290-three-klingon-battle-cruisers-commanded-by-kor-k",
@@ -25914,7 +25914,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Three Klingon battle cruisers, commanded by Kor, Koloth, and Kang, are dispatched to apprehend the Albino. The raid is successful in breaking up most of the Albino's power base, but they fail to capture the Albino himself. In revenge, the Albino infects each of the three captain's firstborn sons with a genetic virus that will slowly kill the children.",
+      "summary": "Three Klingon battle cruisers under Kor, Koloth, and Kang are sent to apprehend the Albino; the raid breaks up most of his power base but fails to capture him, and in revenge he infects each captain's firstborn son with a slow-acting genetic virus.",
       "entities": [
         "Klingon",
         "Kor",
@@ -25939,7 +25939,7 @@
         "https://memory-alpha.fandom.com/wiki/2290"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2292-by-this-year-klingons-and-romulans-regard-each-ot",
@@ -25947,7 +25947,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "By this year, Klingons and Romulans regard each other as \"blood enemies\".",
+      "summary": "By this year, Klingons and Romulans regard each other as blood enemies.",
       "entities": [
         "Klingon",
         "Romulan"
@@ -25970,7 +25970,7 @@
         "https://memory-alpha.fandom.com/wiki/2292"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2293-doing-his-part-to-save-the-enterprise-b-from-being",
@@ -26007,7 +26007,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet opens up a classified database on the Borg, likely due to the contact with the El-Aurians, a species that has nearly been wiped out by the Borg, and the mysterious incident in 2153.",
+      "summary": "Starfleet opens a classified database on the Borg, likely prompted by contact with the nearly-annihilated El-Aurians and the mysterious 2153 incident.",
       "entities": [
         "Borg",
         "El-Aurian"
@@ -26030,7 +26030,7 @@
         "https://memory-alpha.fandom.com/wiki/2293"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2293-the-excelsior-is-struck-by-a-powerful-subspace-sho",
@@ -26248,7 +26248,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Tuvok graduates from Starfleet Academy and is assigned to the starship USS Excelsior, under the command of Captain Sulu.",
+      "summary": "Tuvok graduates from Starfleet Academy and is assigned to the USS Excelsior under Captain Sulu.",
       "entities": [
         "Tuvok",
         "Starfleet Academy",
@@ -26273,7 +26273,7 @@
         "https://memory-alpha.fandom.com/wiki/2293"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2293-uss-enterprise-departs-the-spacedock-one-to-rendez",
@@ -26320,7 +26320,7 @@
       "date": null,
       "stardate": "38325.3",
       "timeline": "prime",
-      "summary": "A northern continent on Oby VI is afflicted by a plasma plague. Dr. Susan Nuress, the principal investigator, and her associates are sent by the Federation to find a cure. The initial cure proves ineffective.",
+      "summary": "A plasma plague afflicts a northern continent on Oby VI; principal investigator Dr. Susan Nuress and her associates are sent by the Federation to find a cure, but their initial attempt fails.",
       "entities": [
         "Oby VI",
         "Susan Nuress"
@@ -26343,7 +26343,7 @@
         "https://memory-alpha.fandom.com/wiki/2294"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2294-the-uss-jenolan-while-en-route-to-the-retirement",
@@ -26351,7 +26351,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Jenolan, while en route to the retirement colony on Norpin V, encounters a Dyson sphere. While the Jenolan’s captain investigates the sphere, the ship becomes trapped in its gravity well and crashes. The only two survivors, Ensign Matt Franklin and passenger Captain Montgomery Scott, unable to wait for a rescue, place themselves in suspended animation by storing their patterns in the pattern buffer of the ship's transporter.",
+      "summary": "Bound for the Norpin V retirement colony, the USS Jenolan crashes after becoming trapped in a Dyson sphere's gravity well; the only survivors, Ensign Matt Franklin and passenger Captain Montgomery Scott, place themselves in suspended animation within the transporter's pattern buffer.",
       "entities": [
         "Norpin colony",
         "Norpin V",
@@ -26379,7 +26379,7 @@
         "https://memory-alpha.fandom.com/wiki/2294"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2295-doctor-susan-nuress-continues-her-pioneering-resea",
@@ -26387,7 +26387,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Doctor Susan Nuress continues her pioneering research on plasma plague following a second epidemic on Oby VI. She proves successful in isolating a cure for the victims of the plague.",
+      "summary": "Dr. Susan Nuress continues her plasma plague research after a second Oby VI outbreak, and succeeds in isolating a cure.",
       "entities": [
         "Susan Nuress",
         "Oby VI"
@@ -26410,7 +26410,7 @@
         "https://memory-alpha.fandom.com/wiki/2295"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2296-on-rutia-iv-the-eastern-continent-denies-the-west",
@@ -26418,7 +26418,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On Rutia IV, the eastern continent denies the western continent independence, an event considered to be the start of the Ansata movement.",
+      "summary": "On Rutia IV, the eastern continent denies the western continent independence, marking the start of the Ansata movement.",
       "entities": [
         "Rutia IV",
         "Eastern continent of Rutia IV",
@@ -26443,7 +26443,7 @@
         "https://memory-alpha.fandom.com/wiki/2296"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2297-a-klingon-expedition-makes-first-contact-with-the",
@@ -26474,7 +26474,7 @@
         "https://memory-alpha.fandom.com/wiki/2297"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2298-tuvok-resigns-from-starfleet-and-begins-the-proces",
@@ -26482,7 +26482,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Tuvok resigns from Starfleet and begins the process of the Kolinahr ritual.",
+      "summary": "Tuvok resigns from Starfleet and begins the Kolinahr ritual.",
       "entities": [
         "Tuvok",
         "Kolinahr"
@@ -26510,7 +26510,7 @@
         "https://memory-alpha.fandom.com/wiki/2298"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2301-the-uss-leondegrance-under-the-command-of-captain",
