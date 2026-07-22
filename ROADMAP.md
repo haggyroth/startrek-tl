@@ -144,7 +144,8 @@ Known and accepted:
 - [x] Far future (2411–3269) authored in full — 133 events, the first era at
       100%
 - [x] ENT era (2101–2161) authored in full — 213 events
-- [ ] Author the remaining summaries — **591 / 2,037 (29%)**
+- [x] 2063–2100 authored in full — 53 events
+- [ ] Author the remaining summaries — **638 / 2,037 (31%)**
 - [ ] Switch the committed build to `--strict`
 
 On the strict flip: the capability works and is tested, but flipping it now
@@ -156,7 +157,7 @@ Coverage by era:
 
 | Era | Authored |
 |---|---|
-| 2063–2100 | 6 / 53 |
+| **2063–2100** | **53 / 53 ✅** |
 | **ENT (2101–2161)** | **213 / 213 ✅** |
 | Gap (2162–2232) | 9 / 60 |
 | 23rd century | 138 / 453 |
