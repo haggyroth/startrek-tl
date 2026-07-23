@@ -18,5 +18,13 @@
   "2363-the-enterprise-is-commissioned-at-the-utopia-plani": {
     "stardateRange": true,
     "note": "Stardate 40759.5 is 0.5 over the 2363 sidebar's declared 40052-40759 range. The sidebar range is built from the same year's whole-number stardate citations (40052 and 40759.5 itself, truncated), so the .5 fraction on the upper bound's own source event pushes it just past the rounded range boundary. A rounding artifact in Memory Alpha's sidebar, not an authoring error."
+  },
+  "2366-six-months-before-alexana-devos-is-promoted-to-di": {
+    "tokens": ["Rutia", "IV"],
+    "note": "This sub-bullet's own text never names the planet - it inherits 'Rutia IV' from the parent bullet directly above it ('On Rutia IV, these events occurred prior to stardate 43510:'), which is itself a separate dataset event. Confirmed against data/events.raw.json. Same pronoun/antecedent pattern as the two exceptions above, but for a location instead of a name."
+  },
+  "2366-two-months-before-a-cell-of-the-ansata-first-use": {
+    "tokens": ["Rutia", "IV"],
+    "note": "Same as the Alexana Devos entry immediately above: this sub-bullet inherits 'Rutia IV' from the parent bullet ('On Rutia IV, these events occurred prior to stardate 43510:') rather than naming it directly. Confirmed against data/events.raw.json."
   }
 }
