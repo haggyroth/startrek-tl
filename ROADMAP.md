@@ -222,3 +222,25 @@ Coverage by era:
 | **24th century** | **1,125 / 1,125 ✅** |
 | **Far future** | **133 / 133 ✅** |
 | **Total** | **2,037 / 2,037 ✅** |
+
+## Phase 12 — Post-publication fixes
+
+- [x] Fixed a real bug in `parse-year.js`, reported by a user reading the live
+      site: `group` (the ship/station a bullet is filed under, which drives
+      the site's Location panel) only reset on H2 headings. Real year pages
+      commonly nest `==== Other events ====` under `=== Prime universe ===`,
+      or place it as a sibling of `=== By starship or station ===` once a
+      year splits by universe — neither is an H2, so `group` silently carried
+      over from whichever ship heading came before it. Affected 577 events
+      dataset-wide: DS9, TNG and PIC facts with nothing to do with Voyager
+      were showing up grouped under "USS Voyager" (355 -> 224 for USS
+      Enterprise alone, 89 -> 10 for Terok Nor). Fixed by clearing `group` on
+      every heading regardless of depth. An initial fix (chaining `universe`
+      forward through every heading too) introduced a real regression caught
+      before landing: a sibling heading inherited a universe classification
+      from an earlier sibling instead of a true ancestor. Replaced with a
+      level-keyed stack so inheritance only walks up, never sideways.
+      Regression-tested for both bugs in `test/parse-year.test.js`.
+      `parse-century.js` has the same latent shape but no data currently
+      exercises it (no century page nests a universe heading under another),
+      so it was left as is rather than fixed speculatively.

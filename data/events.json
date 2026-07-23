@@ -6365,7 +6365,7 @@
         "California"
       ],
       "kind": null,
-      "group": "Enterprise NX-01",
+      "group": null,
       "section": "Events",
       "series": [
         "ENT"
@@ -6403,7 +6403,7 @@
         "European Hegemony"
       ],
       "kind": null,
-      "group": "Enterprise NX-01",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -6440,7 +6440,7 @@
         "August"
       ],
       "kind": null,
-      "group": "Enterprise NX-01",
+      "group": null,
       "section": "Events",
       "series": [
         "ENT"
@@ -6471,7 +6471,7 @@
         "Valakian shuttle"
       ],
       "kind": null,
-      "group": "Enterprise NX-01",
+      "group": null,
       "section": "Events",
       "series": [
         "ENT"
@@ -6503,7 +6503,7 @@
         "Unnamed medical conditions"
       ],
       "kind": null,
-      "group": "Enterprise NX-01",
+      "group": null,
       "section": "Events",
       "series": [
         "ENT"
@@ -6578,7 +6578,7 @@
         "Grat"
       ],
       "kind": null,
-      "group": "Enterprise NX-01",
+      "group": null,
       "section": "Events",
       "series": [
         "ENT"
@@ -6608,7 +6608,7 @@
         "Travis Mayweather"
       ],
       "kind": null,
-      "group": "Enterprise NX-01",
+      "group": null,
       "section": "Events",
       "series": [
         "ENT"
@@ -6639,7 +6639,7 @@
         "Jonathan Archer"
       ],
       "kind": "discovery",
-      "group": "Shenandoah",
+      "group": null,
       "section": "Events",
       "series": [
         "ENT"
@@ -6736,7 +6736,7 @@
         "Terra Nova colony"
       ],
       "kind": null,
-      "group": "Shenandoah",
+      "group": null,
       "section": "Events",
       "series": [
         "ENT"
@@ -6922,7 +6922,7 @@
         "Hernandez"
       ],
       "kind": null,
-      "group": "Shenandoah",
+      "group": null,
       "section": "Events",
       "series": [
         "ENT"
@@ -7078,7 +7078,7 @@
         "Charles Tucker III"
       ],
       "kind": null,
-      "group": "Shenandoah",
+      "group": null,
       "section": "Events",
       "series": [
         "ENT"
@@ -7203,7 +7203,7 @@
         "Coalition of Planets"
       ],
       "kind": null,
-      "group": "Shenandoah",
+      "group": null,
       "section": "Events",
       "series": [
         "ENT"
@@ -7233,7 +7233,7 @@
         "Human"
       ],
       "kind": null,
-      "group": "Shenandoah",
+      "group": null,
       "section": "Events",
       "series": [
         "ENT"
@@ -10132,7 +10132,7 @@
         "Starfleet Academy"
       ],
       "kind": null,
-      "group": "Enterprise NX-01",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG",
@@ -10171,7 +10171,7 @@
         "USS Franklin"
       ],
       "kind": null,
-      "group": "Enterprise NX-01",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -10204,7 +10204,7 @@
         "Tellar"
       ],
       "kind": null,
-      "group": "Enterprise NX-01",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG",
@@ -13470,7 +13470,7 @@
         "Leonard McCoy"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9",
@@ -13540,7 +13540,7 @@
         "Human"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DIS"
@@ -13572,7 +13572,7 @@
         "Russia"
       ],
       "kind": "birth",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -13610,7 +13610,7 @@
         "Sherman's Planet"
       ],
       "kind": "battle",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -13749,7 +13749,7 @@
         "Tarsus IV"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -13812,7 +13812,7 @@
         "Tristan Adams"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -13848,7 +13848,7 @@
         "Anton Karidian"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -14132,7 +14132,7 @@
         "Starbase 2"
       ],
       "kind": "birth",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "SNW"
@@ -14228,7 +14228,7 @@
         "Outpost 4"
       ],
       "kind": "birth",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "SNW"
@@ -14258,7 +14258,7 @@
         "Rukiya"
       ],
       "kind": "birth",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "SNW"
@@ -14288,7 +14288,7 @@
         "Friendship 1"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -14322,7 +14322,7 @@
         "Japan"
       ],
       "kind": "birth",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "SNW"
@@ -14671,7 +14671,7 @@
         "Starfleet Academy"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -14701,7 +14701,7 @@
         "Lucille Harewood"
       ],
       "kind": "birth",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -14763,7 +14763,7 @@
         "Sarek"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -14796,7 +14796,7 @@
         "Sarek"
       ],
       "kind": "graduation",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS",
@@ -15056,7 +15056,7 @@
       "summary": "A hypergiant first observed a century earlier is expected to go supernova.",
       "entities": [],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "ENT"
@@ -15116,7 +15116,7 @@
         "Leonard McCoy"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -15219,7 +15219,7 @@
         "Romulan Neutral Zone"
       ],
       "kind": null,
-      "group": "USS Republic",
+      "group": null,
       "section": "Events",
       "series": [
         "SNW"
@@ -15282,7 +15282,7 @@
         "Nancy Crater"
       ],
       "kind": null,
-      "group": "USS Republic",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -15310,7 +15310,7 @@
       "summary": "Spock begins programming the Kobayashi Maru scenario.",
       "entities": [],
       "kind": null,
-      "group": "USS Republic",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -15443,7 +15443,7 @@
         "Harlak"
       ],
       "kind": null,
-      "group": "USS Republic",
+      "group": null,
       "section": "Events",
       "series": [
         "DIS"
@@ -15531,7 +15531,7 @@
         "Terran emperor"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DIS"
@@ -15564,7 +15564,7 @@
         "USS Kelvin"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -15627,7 +15627,7 @@
         "McCoy's ex-wife 001"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -15689,7 +15689,7 @@
         "Riverside"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -15720,7 +15720,7 @@
         "Sheliak"
       ],
       "kind": null,
-      "group": "USS Farragut",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -15753,7 +15753,7 @@
         "ISS Charon"
       ],
       "kind": "launch",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DIS"
@@ -16026,7 +16026,7 @@
         "Nancy Crater"
       ],
       "kind": null,
-      "group": "USS Gagarin",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -16117,7 +16117,7 @@
       "summary": "Starfleet begins developing the spore drive, installing prototypes aboard the USS Glenn and the USS Discovery.",
       "entities": [],
       "kind": null,
-      "group": "USS Gagarin",
+      "group": null,
       "section": "Events",
       "series": [
         "DIS"
@@ -16217,7 +16217,7 @@
         "T'Kuvma"
       ],
       "kind": null,
-      "group": "USS Gagarin",
+      "group": null,
       "section": "Events",
       "series": [
         "DIS"
@@ -16477,7 +16477,7 @@
         "Zefram Cochrane Warp Research Facility"
       ],
       "kind": null,
-      "group": "USS Gagarin",
+      "group": null,
       "section": "Events",
       "series": [
         "SA"
@@ -16510,7 +16510,7 @@
         "Spock"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -16660,7 +16660,7 @@
         "Starbase 5"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DIS"
@@ -16764,7 +16764,7 @@
         "Galactic Cultural Exchange Project"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -16861,7 +16861,7 @@
         "SS Botany Bay"
       ],
       "kind": "discovery",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -16892,7 +16892,7 @@
         "Section 31"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DIS"
@@ -16922,7 +16922,7 @@
         "New Vulcan"
       ],
       "kind": "appointment",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [],
       "episodes": [],
@@ -16977,7 +16977,7 @@
         "USS Discovery"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DIS"
@@ -17008,7 +17008,7 @@
         "Rukiya"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "SNW"
@@ -17089,7 +17089,7 @@
         "Kobayashi Maru scenario"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [],
       "episodes": [],
@@ -17112,7 +17112,7 @@
         "Bob Wesley"
       ],
       "kind": "birth",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TAS"
@@ -17209,7 +17209,7 @@
         "Endangered species"
       ],
       "kind": "destruction",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [],
       "episodes": [],
@@ -17343,7 +17343,7 @@
         "Nero"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [],
       "episodes": [],
@@ -17486,7 +17486,7 @@
         "Majalis"
       ],
       "kind": null,
-      "group": "USS Peregrine",
+      "group": null,
       "section": "Events",
       "series": [
         "SNW"
@@ -17517,7 +17517,7 @@
         "Starfleet uniform"
       ],
       "kind": null,
-      "group": "USS Peregrine",
+      "group": null,
       "section": "Events",
       "series": [
         "SNW"
@@ -17547,7 +17547,7 @@
         "Communicator"
       ],
       "kind": null,
-      "group": "USS Peregrine",
+      "group": null,
       "section": "Events",
       "series": [
         "SNW"
@@ -17575,7 +17575,7 @@
       "summary": "Starfleet introduces a new flag officer uniform variant.",
       "entities": [],
       "kind": null,
-      "group": "USS Peregrine",
+      "group": null,
       "section": "Events",
       "series": [
         "SNW"
@@ -17605,7 +17605,7 @@
         "Starfleet tricorder"
       ],
       "kind": null,
-      "group": "USS Peregrine",
+      "group": null,
       "section": "Events",
       "series": [
         "SNW"
@@ -17635,7 +17635,7 @@
         "Type 2 phaser"
       ],
       "kind": null,
-      "group": "USS Peregrine",
+      "group": null,
       "section": "Events",
       "series": [
         "SNW"
@@ -17696,7 +17696,7 @@
         "Ketha Province"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -17729,7 +17729,7 @@
         "Qo'noS"
       ],
       "kind": "battle",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -18145,7 +18145,7 @@
         "Prime Directive"
       ],
       "kind": null,
-      "group": "USS Peregrine",
+      "group": null,
       "section": "Events",
       "series": [
         "SNW"
@@ -18369,7 +18369,7 @@
         "London"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -18581,7 +18581,7 @@
         "Rukiya"
       ],
       "kind": null,
-      "group": "USS Peregrine",
+      "group": null,
       "section": "Events",
       "series": [
         "SNW"
@@ -18613,7 +18613,7 @@
         "Engagement"
       ],
       "kind": null,
-      "group": "USS Peregrine",
+      "group": null,
       "section": "Events",
       "series": [
         "SNW"
@@ -18888,7 +18888,7 @@
         "Carter Winston"
       ],
       "kind": null,
-      "group": "USS Peregrine",
+      "group": null,
       "section": "Events",
       "series": [
         "TAS"
@@ -18918,7 +18918,7 @@
         "R'ongovian Protectorate"
       ],
       "kind": null,
-      "group": "USS Peregrine",
+      "group": null,
       "section": "Events",
       "series": [
         "SNW"
@@ -18948,7 +18948,7 @@
         "Stamets type shuttlecraft"
       ],
       "kind": null,
-      "group": "USS Peregrine",
+      "group": null,
       "section": "Events",
       "series": [
         "SNW"
@@ -19044,7 +19044,7 @@
         "Starfleet Academy"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -19073,7 +19073,7 @@
       "summary": "Kirk recovers, and Khan is returned to cryogenic storage.",
       "entities": [],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -19223,7 +19223,7 @@
       "summary": "A recovered Kirk speaks on Federation principles at a memorial ceremony.",
       "entities": [],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -19813,7 +19813,7 @@
         "New Vulcan"
       ],
       "kind": "death",
-      "group": "Starbase Yorktown",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -20067,7 +20067,7 @@
         "USS Franklin"
       ],
       "kind": null,
-      "group": "Starbase Yorktown",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -20131,7 +20131,7 @@
         "USS Enterprise"
       ],
       "kind": "discovery",
-      "group": "Starbase Yorktown",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -20228,7 +20228,7 @@
         "Vendor"
       ],
       "kind": null,
-      "group": "USS Reliant",
+      "group": null,
       "section": "Events",
       "series": [
         "TAS"
@@ -20322,7 +20322,7 @@
         "Spock"
       ],
       "kind": null,
-      "group": "USS Reliant",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -20353,7 +20353,7 @@
         "Omicron Ceti III"
       ],
       "kind": null,
-      "group": "USS Reliant",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -20414,7 +20414,7 @@
         "Vulcanis Lunar colony"
       ],
       "kind": "birth",
-      "group": "USS Reliant",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -20450,7 +20450,7 @@
         "USS Enterprise"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -20482,7 +20482,7 @@
         "2270s"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS",
@@ -20530,7 +20530,7 @@
         "April Wade"
       ],
       "kind": "birth",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -20592,7 +20592,7 @@
         "Christopher Pike"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -20679,7 +20679,7 @@
         "Vendor"
       ],
       "kind": "death",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TAS"
@@ -20709,7 +20709,7 @@
         "Ingraham B"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -20741,7 +20741,7 @@
         "M-113 creature"
       ],
       "kind": "death",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -20773,7 +20773,7 @@
         "El-Aurian"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG",
@@ -20842,7 +20842,7 @@
         "Treaty"
       ],
       "kind": "treaty",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -20905,7 +20905,7 @@
         "Deneva"
       ],
       "kind": null,
-      "group": "Antares",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -21012,7 +21012,7 @@
         "Tristan Adams"
       ],
       "kind": "appointment",
-      "group": "Antares",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -21073,7 +21073,7 @@
         "Exo III"
       ],
       "kind": null,
-      "group": "Antares",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -21135,7 +21135,7 @@
         "Tarsus IV"
       ],
       "kind": "discovery",
-      "group": "Antares",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -21259,7 +21259,7 @@
         "Christopher Pike"
       ],
       "kind": null,
-      "group": "Antares",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS",
@@ -21327,7 +21327,7 @@
         "Horta"
       ],
       "kind": null,
-      "group": "Antares",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -21359,7 +21359,7 @@
         "Gatherers"
       ],
       "kind": null,
-      "group": "Antares",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -21389,7 +21389,7 @@
         "Psi 2000"
       ],
       "kind": null,
-      "group": "Antares",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -21420,7 +21420,7 @@
         "Rigel IV"
       ],
       "kind": null,
-      "group": "Antares",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -21617,7 +21617,7 @@
         "Camus II"
       ],
       "kind": null,
-      "group": "USS Exeter",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -21819,7 +21819,7 @@
         "Klingon Empire"
       ],
       "kind": null,
-      "group": "USS Exeter",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -21851,7 +21851,7 @@
         "Ekos"
       ],
       "kind": null,
-      "group": "USS Exeter",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -21950,7 +21950,7 @@
         "Neural"
       ],
       "kind": null,
-      "group": "USS Exeter",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -22076,7 +22076,7 @@
         "Klingon Empire"
       ],
       "kind": "treaty",
-      "group": "USS Exeter",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -22175,7 +22175,7 @@
         "Romulan Star Empire"
       ],
       "kind": null,
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -22206,7 +22206,7 @@
         "Tamarian language"
       ],
       "kind": "first-contact",
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -22237,7 +22237,7 @@
         "Kzin"
       ],
       "kind": "discovery",
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "TAS"
@@ -22269,7 +22269,7 @@
         "Triacus"
       ],
       "kind": "death",
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -22301,7 +22301,7 @@
         "Ceti Alpha V"
       ],
       "kind": null,
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -22363,7 +22363,7 @@
         "Elba II asylum"
       ],
       "kind": null,
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -22394,7 +22394,7 @@
         "Medusan vessel"
       ],
       "kind": null,
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -22424,7 +22424,7 @@
         "Richard Daystrom"
       ],
       "kind": null,
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -22460,7 +22460,7 @@
         "Eneg"
       ],
       "kind": null,
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -22490,7 +22490,7 @@
         "Harcourt Mudd"
       ],
       "kind": null,
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "TAS"
@@ -22678,7 +22678,7 @@
         "Starbase 4"
       ],
       "kind": null,
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -22739,7 +22739,7 @@
         "Vegan choriomeningitis"
       ],
       "kind": null,
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -22844,7 +22844,7 @@
         "Tellun star system"
       ],
       "kind": null,
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -22906,7 +22906,7 @@
         "Shore Leave Planet"
       ],
       "kind": "death",
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "TAS"
@@ -22967,7 +22967,7 @@
         "Cheron"
       ],
       "kind": null,
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -22999,7 +22999,7 @@
         "Chaltok IV"
       ],
       "kind": "treaty",
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -23027,7 +23027,7 @@
       "summary": "The star Minara goes supernova.",
       "entities": [],
       "kind": null,
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -23058,7 +23058,7 @@
         "Coridan"
       ],
       "kind": null,
-      "group": "USS Intrepid",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -23316,7 +23316,7 @@
         "Adam"
       ],
       "kind": "death",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -23349,7 +23349,7 @@
         "USS Enterprise"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -23380,7 +23380,7 @@
         "Bajor"
       ],
       "kind": "birth",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -23412,7 +23412,7 @@
         "Starfleet Space Academy"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TAS"
@@ -23443,7 +23443,7 @@
         "Ishikawa"
       ],
       "kind": "birth",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -23535,7 +23535,7 @@
         "Mira Romaine"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -23566,7 +23566,7 @@
         "Zetar"
       ],
       "kind": "death",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -23598,7 +23598,7 @@
         "Natira"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -23689,7 +23689,7 @@
         "Sevrin"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -23720,7 +23720,7 @@
         "Pallas 14 system"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TAS"
@@ -23751,7 +23751,7 @@
         "Sarpeidon"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -23782,7 +23782,7 @@
         "Ardana"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -23908,7 +23908,7 @@
         "Vulcan master"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -24035,7 +24035,7 @@
         "Felisa Howard"
       ],
       "kind": "birth",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -25075,7 +25075,7 @@
         "Torias Dax"
       ],
       "kind": null,
-      "group": "USS Hathaway",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -25145,7 +25145,7 @@
         "Joran Dax"
       ],
       "kind": null,
-      "group": "USS Hathaway",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -25213,7 +25213,7 @@
         "James T. Kirk"
       ],
       "kind": null,
-      "group": "USS Hathaway",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -25307,7 +25307,7 @@
         "Project Genesis"
       ],
       "kind": null,
-      "group": "USS Yorktown",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -25342,7 +25342,7 @@
         "James T. Kirk"
       ],
       "kind": "discovery",
-      "group": "USS Yorktown",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -25371,7 +25371,7 @@
       "summary": "Kirk's dog Butler dies.",
       "entities": [],
       "kind": "death",
-      "group": "USS Yorktown",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -25402,7 +25402,7 @@
         "Borg"
       ],
       "kind": null,
-      "group": "USS Yorktown",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -25434,7 +25434,7 @@
         "Lornak"
       ],
       "kind": null,
-      "group": "USS Yorktown",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -25465,7 +25465,7 @@
         "Curzon Dax"
       ],
       "kind": "death",
-      "group": "USS Yorktown",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -25729,7 +25729,7 @@
         "Nimbus III"
       ],
       "kind": null,
-      "group": "USS Excelsior",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -25889,7 +25889,7 @@
         "IKS T'Ong"
       ],
       "kind": null,
-      "group": "USS Excelsior",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -25922,7 +25922,7 @@
         "Kang"
       ],
       "kind": null,
-      "group": "USS Excelsior",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -26013,7 +26013,7 @@
         "El-Aurian"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -26083,7 +26083,7 @@
         "Curzon Dax"
       ],
       "kind": "treaty",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9",
@@ -26126,7 +26126,7 @@
         "Praxis"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -26159,7 +26159,7 @@
         "SS Robert Fox"
       ],
       "kind": "discovery",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -28774,7 +28774,7 @@
         "Starfleet Academy Games"
       ],
       "kind": null,
-      "group": "USS Stargazer",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -28804,7 +28804,7 @@
         "Nyota Uhura"
       ],
       "kind": null,
-      "group": "USS Stargazer",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -28871,7 +28871,7 @@
       "summary": "Gaila begins a forty-year career in the weapons-dealing business.",
       "entities": [],
       "kind": null,
-      "group": "USS Stargazer",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -28902,7 +28902,7 @@
         "Benjamin Sisko"
       ],
       "kind": null,
-      "group": "USS Stargazer",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -30686,7 +30686,7 @@
         "Jarada"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -30717,7 +30717,7 @@
         "Tendara colony"
       ],
       "kind": "birth",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY",
@@ -30764,7 +30764,7 @@
         "Starfleet Academy"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -30795,7 +30795,7 @@
         "Hurkos III"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -30902,7 +30902,7 @@
         "Alaska"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -30934,7 +30934,7 @@
         "Bajor"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -30966,7 +30966,7 @@
         "Occupation of Bajor"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -31331,7 +31331,7 @@
         "Federation-Klingon War (alternate timeline)"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -31394,7 +31394,7 @@
         "Kukalaka"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -31461,7 +31461,7 @@
         "Jason Vigo"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -31493,7 +31493,7 @@
         "Kavis Alpha sector"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -33045,7 +33045,7 @@
         "Human"
       ],
       "kind": "birth",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -33077,7 +33077,7 @@
         "Miral"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -33113,7 +33113,7 @@
         "Academy wrestling team"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -33143,7 +33143,7 @@
         "Humanitarian Award of Federation Planets"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -33173,7 +33173,7 @@
         "Carolyn L. Raymond"
       ],
       "kind": "birth",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [],
       "episodes": [],
@@ -33234,7 +33234,7 @@
         "Jerrado"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -33265,7 +33265,7 @@
         "Romulus"
       ],
       "kind": "birth",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -33296,7 +33296,7 @@
         "Bajor"
       ],
       "kind": "birth",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -33361,7 +33361,7 @@
         "Age of Ascension"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -33394,7 +33394,7 @@
         "Invernian girl 001"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -33424,7 +33424,7 @@
         "Duras sisters' Bird-of-Prey"
       ],
       "kind": "launch",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -33456,7 +33456,7 @@
         "Paul Manheim"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -33488,7 +33488,7 @@
         "USS Voyager"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -33519,7 +33519,7 @@
         "Global Tongo Championship"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -34529,7 +34529,7 @@
         "Phillipa Louvois"
       ],
       "kind": null,
-      "group": "USS Strata",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -34590,7 +34590,7 @@
         "Starfleet Academy"
       ],
       "kind": null,
-      "group": "USS Strata",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -34620,7 +34620,7 @@
         "Paul Manheim"
       ],
       "kind": null,
-      "group": "USS Strata",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -34694,7 +34694,7 @@
         "Jennifer Sisko"
       ],
       "kind": "birth",
-      "group": "USS Strata",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -34739,7 +34739,7 @@
         "Klingon Planetary Humanitarian Award"
       ],
       "kind": null,
-      "group": "USS Strata",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -34771,7 +34771,7 @@
         "Harry Kim"
       ],
       "kind": null,
-      "group": "USS Strata",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -34803,7 +34803,7 @@
         "Bajoran Resistance"
       ],
       "kind": null,
-      "group": "USS Strata",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -34839,7 +34839,7 @@
         "Borg"
       ],
       "kind": null,
-      "group": "USS Strata",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -34870,7 +34870,7 @@
         "Rite of Ascension"
       ],
       "kind": null,
-      "group": "USS Strata",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -34900,7 +34900,7 @@
         "Great Domes of Qo'noS"
       ],
       "kind": null,
-      "group": "USS Strata",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -34931,7 +34931,7 @@
         "Global Tongo Championship"
       ],
       "kind": null,
-      "group": "USS Strata",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -35310,7 +35310,7 @@
         "Endar"
       ],
       "kind": null,
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -35377,7 +35377,7 @@
         "Tsunkatse"
       ],
       "kind": null,
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -35407,7 +35407,7 @@
         "Kathryn Janeway"
       ],
       "kind": null,
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "PRO"
@@ -35439,7 +35439,7 @@
         "Spumco"
       ],
       "kind": null,
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -35471,7 +35471,7 @@
         "Delos system"
       ],
       "kind": null,
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -35503,7 +35503,7 @@
         "Shakaar resistance cell"
       ],
       "kind": null,
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -35534,7 +35534,7 @@
         "Angel I"
       ],
       "kind": null,
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -35564,7 +35564,7 @@
         "Vash"
       ],
       "kind": null,
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -35594,7 +35594,7 @@
         "Starfleet Academy"
       ],
       "kind": null,
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -35659,7 +35659,7 @@
         "Worf"
       ],
       "kind": null,
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG",
@@ -35697,7 +35697,7 @@
         "Global Tongo Championship"
       ],
       "kind": null,
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -35730,7 +35730,7 @@
         "Mendakan pox"
       ],
       "kind": null,
-      "group": "USS Pegasus",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -35766,7 +35766,7 @@
         "Seven of Nine"
       ],
       "kind": null,
-      "group": "USS Pegasus",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -35798,7 +35798,7 @@
         "Camor V"
       ],
       "kind": null,
-      "group": "USS Pegasus",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -35831,7 +35831,7 @@
         "Volan II"
       ],
       "kind": "birth",
-      "group": "USS Pegasus",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -35862,7 +35862,7 @@
         "Starfleet Academy"
       ],
       "kind": null,
-      "group": "USS Pegasus",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -35897,7 +35897,7 @@
         "Rugal"
       ],
       "kind": "birth",
-      "group": "USS Pegasus",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -35925,7 +35925,7 @@
       "summary": "Tanis is born.",
       "entities": [],
       "kind": "birth",
-      "group": "USS Pegasus",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -35957,7 +35957,7 @@
         "Bajor"
       ],
       "kind": "birth",
-      "group": "USS Pegasus",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -35988,7 +35988,7 @@
         "Parada Civil War"
       ],
       "kind": null,
-      "group": "USS Pegasus",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -36054,7 +36054,7 @@
         "Tau Ceti Prime"
       ],
       "kind": null,
-      "group": "USS Pegasus",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -36084,7 +36084,7 @@
         "Willie Potts"
       ],
       "kind": "birth",
-      "group": "USS Pegasus",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -36115,7 +36115,7 @@
         "Global Tongo Championship"
       ],
       "kind": null,
-      "group": "USS Pegasus",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -36423,7 +36423,7 @@
         "SS Santa Maria"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -36455,7 +36455,7 @@
         "Bajoran raider"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -36486,7 +36486,7 @@
         "Galaxy of Planets and Suns"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -36518,7 +36518,7 @@
         "Louise Cara Raymond"
       ],
       "kind": "birth",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -36549,7 +36549,7 @@
         "Mark Jameson"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -36581,7 +36581,7 @@
         "Velos VII internment camp"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -36642,7 +36642,7 @@
         "Hovath"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -36675,7 +36675,7 @@
         "Mokra Order"
       ],
       "kind": "death",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -36705,7 +36705,7 @@
         "Jono"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -36740,7 +36740,7 @@
         "Cardassia IV"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -36770,7 +36770,7 @@
         "Mekor"
       ],
       "kind": "birth",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -36802,7 +36802,7 @@
         "Patrick"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -36833,7 +36833,7 @@
         "Yadera II"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -36865,7 +36865,7 @@
         "Kaelon II"
       ],
       "kind": "birth",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -36896,7 +36896,7 @@
         "Velara III"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -36927,7 +36927,7 @@
         "Romulan Senate"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -36958,7 +36958,7 @@
         "Global Tongo Championship"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -36993,7 +36993,7 @@
         "Rana IV"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -37087,7 +37087,7 @@
         "Tolen Ren"
       ],
       "kind": "marriage",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -37149,7 +37149,7 @@
         "Bajoran Resistance"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -37179,7 +37179,7 @@
         "Deep Space 9"
       ],
       "kind": "birth",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -37244,7 +37244,7 @@
         "Ferenginar"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -37276,7 +37276,7 @@
         "Rushton infection"
       ],
       "kind": "death",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -37372,7 +37372,7 @@
         "Cardassian"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -37404,7 +37404,7 @@
         "Tox Uthat"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -37436,7 +37436,7 @@
         "Betazed"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -37467,7 +37467,7 @@
         "Global Tongo Championship"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -37529,7 +37529,7 @@
         "Beverly Crusher"
       ],
       "kind": "appointment",
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -37559,7 +37559,7 @@
         "Ro Laren"
       ],
       "kind": "graduation",
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -37590,7 +37590,7 @@
         "Velos VII"
       ],
       "kind": "death",
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -37654,7 +37654,7 @@
         "Romulan ale"
       ],
       "kind": null,
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -37714,7 +37714,7 @@
         "USS Enterprise"
       ],
       "kind": "appointment",
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -37803,7 +37803,7 @@
         "Mordan IV"
       ],
       "kind": null,
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -37833,7 +37833,7 @@
         "Quark"
       ],
       "kind": null,
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -37861,7 +37861,7 @@
       "summary": "Raymond Boone is killed and replaced by a Cardassian spy who returns to Starfleet in his place; within the year, the impostor resigns from Starfleet, leaves Boone's wife, and moves to a Cardassian border planet.",
       "entities": [],
       "kind": "death",
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -37896,7 +37896,7 @@
         "Proka Migdal"
       ],
       "kind": "death",
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -38139,7 +38139,7 @@
         "Global Tongo Championship"
       ],
       "kind": null,
-      "group": "USS Victory",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -38169,7 +38169,7 @@
         "Norah Satie"
       ],
       "kind": null,
-      "group": "SS Tsiolkovsky",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -38200,7 +38200,7 @@
         "Ba'ku planet"
       ],
       "kind": "birth",
-      "group": "SS Tsiolkovsky",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -38282,7 +38282,7 @@
         "Eli Foster"
       ],
       "kind": "birth",
-      "group": "SS Tsiolkovsky",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -38312,7 +38312,7 @@
         "George Primmin"
       ],
       "kind": null,
-      "group": "SS Tsiolkovsky",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -38342,7 +38342,7 @@
         "Greta Vanderweg"
       ],
       "kind": null,
-      "group": "SS Tsiolkovsky",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -38372,7 +38372,7 @@
         "Darhe'el"
       ],
       "kind": "death",
-      "group": "SS Tsiolkovsky",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -38408,7 +38408,7 @@
         "Cardassian neck trick"
       ],
       "kind": null,
-      "group": "SS Tsiolkovsky",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -38441,7 +38441,7 @@
         "Dayos IV"
       ],
       "kind": "discovery",
-      "group": "SS Tsiolkovsky",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -38535,7 +38535,7 @@
         "Farallon"
       ],
       "kind": null,
-      "group": "SS Tsiolkovsky",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -38565,7 +38565,7 @@
         "Velara III"
       ],
       "kind": null,
-      "group": "SS Tsiolkovsky",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -38595,7 +38595,7 @@
         "Paul Menegay"
       ],
       "kind": "birth",
-      "group": "SS Tsiolkovsky",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -38900,7 +38900,7 @@
         "USS Protostar"
       ],
       "kind": null,
-      "group": "SS Tsiolkovsky",
+      "group": null,
       "section": "Events",
       "series": [
         "PRO"
@@ -38931,7 +38931,7 @@
         "Vaatrik Pallra"
       ],
       "kind": "marriage",
-      "group": "SS Tsiolkovsky",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -38962,7 +38962,7 @@
         "Global Tongo Championship"
       ],
       "kind": null,
-      "group": "SS Tsiolkovsky",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -38992,7 +38992,7 @@
         "Shannon Janeway"
       ],
       "kind": null,
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -39024,7 +39024,7 @@
         "Jenice Manheim"
       ],
       "kind": null,
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -39056,7 +39056,7 @@
         "Kora II"
       ],
       "kind": null,
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -39087,7 +39087,7 @@
         "USS Reliant"
       ],
       "kind": null,
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -39117,7 +39117,7 @@
         "Velara III"
       ],
       "kind": "first-contact",
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -39147,7 +39147,7 @@
         "Admirals' Banquet"
       ],
       "kind": null,
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -39210,7 +39210,7 @@
         "Bajor"
       ],
       "kind": null,
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -39241,7 +39241,7 @@
         "Quark's"
       ],
       "kind": null,
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -39304,7 +39304,7 @@
         "Taya"
       ],
       "kind": "death",
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -39337,7 +39337,7 @@
         "Beverly Crusher"
       ],
       "kind": "death",
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -39380,7 +39380,7 @@
         "Barolian"
       ],
       "kind": null,
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -39413,7 +39413,7 @@
         "24th century"
       ],
       "kind": "destruction",
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -39458,7 +39458,7 @@
         "Thadiun Okona"
       ],
       "kind": null,
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -39490,7 +39490,7 @@
         "Bajoran"
       ],
       "kind": null,
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -39521,7 +39521,7 @@
         "Mordan IV"
       ],
       "kind": "death",
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -39551,7 +39551,7 @@
         "Kaelon II"
       ],
       "kind": null,
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -39583,7 +39583,7 @@
         "Cardassian"
       ],
       "kind": null,
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -39775,7 +39775,7 @@
         "Virak'kara"
       ],
       "kind": null,
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -39805,7 +39805,7 @@
         "Aldea"
       ],
       "kind": null,
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -39835,7 +39835,7 @@
         "Romulan Star Empire"
       ],
       "kind": null,
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -39994,7 +39994,7 @@
         "Global Tongo Championship"
       ],
       "kind": null,
-      "group": "USS Wellington",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -40057,7 +40057,7 @@
         "Bringloid V"
       ],
       "kind": null,
-      "group": "USS Yamato",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -40089,7 +40089,7 @@
         "Avery III"
       ],
       "kind": null,
-      "group": "USS Yamato",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -40119,7 +40119,7 @@
         "Benjamin Sisko"
       ],
       "kind": null,
-      "group": "USS Yamato",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -40150,7 +40150,7 @@
         "Arkaria"
       ],
       "kind": null,
-      "group": "USS Yamato",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -40382,7 +40382,7 @@
         "Carol Freeman"
       ],
       "kind": null,
-      "group": "USS Yamato",
+      "group": null,
       "section": "Events",
       "series": [
         "LD"
@@ -40537,7 +40537,7 @@
         "Elway Theorem"
       ],
       "kind": null,
-      "group": "USS Yamato",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -40571,7 +40571,7 @@
         "Oji"
       ],
       "kind": null,
-      "group": "USS Yamato",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -40607,7 +40607,7 @@
         "Lissepia"
       ],
       "kind": null,
-      "group": "USS Yamato",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -40635,7 +40635,7 @@
       "summary": "Odo begins trying to prove Quark is a thief.",
       "entities": [],
       "kind": null,
-      "group": "USS Yamato",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -40723,7 +40723,7 @@
       "summary": "Starfleet initiates tactical training and development programs to ready the fleet for a Borg invasion.",
       "entities": [],
       "kind": null,
-      "group": "USS Yamato",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -40790,7 +40790,7 @@
         "System J-25"
       ],
       "kind": "first-contact",
-      "group": "USS Yamato",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -40885,7 +40885,7 @@
         "Kathryn Janeway"
       ],
       "kind": null,
-      "group": "USS Yamato",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -40918,7 +40918,7 @@
         "Fort Knox"
       ],
       "kind": null,
-      "group": "USS Yamato",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -40979,7 +40979,7 @@
         "Global Tongo Championship"
       ],
       "kind": null,
-      "group": "USS Yamato",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -41009,7 +41009,7 @@
         "Federation-Cardassian War"
       ],
       "kind": "treaty",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -41044,7 +41044,7 @@
         "Duras, son of Ja'rod"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -41076,7 +41076,7 @@
         "K'Ehleyr"
       ],
       "kind": "birth",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -41113,7 +41113,7 @@
         "Legaran"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -41144,7 +41144,7 @@
         "Batal"
       ],
       "kind": "death",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -41176,7 +41176,7 @@
         "Miral"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -41214,7 +41214,7 @@
       "summary": "In the mirror universe, Benjamin and Jennifer Sisko separate.",
       "entities": [],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -41245,7 +41245,7 @@
         "Starfleet dress uniform"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -41306,7 +41306,7 @@
         "House of Kozak"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -41401,7 +41401,7 @@
         "Alidar Jarok"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -41431,7 +41431,7 @@
         "Gwyndala"
       ],
       "kind": "birth",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "PRO"
@@ -41462,7 +41462,7 @@
         "Starfleet Academy"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -41493,7 +41493,7 @@
         "Miridian VI"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -41524,7 +41524,7 @@
         "Pakled trade ship"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -41556,7 +41556,7 @@
         "Romulus"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -41586,7 +41586,7 @@
         "Nikolai Rozhenko"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -41617,7 +41617,7 @@
         "Cardassian"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -41647,7 +41647,7 @@
         "Rutia IV"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [],
       "episodes": [],
@@ -41671,7 +41671,7 @@
         "Hekaras II"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -41702,7 +41702,7 @@
         "Ansata"
       ],
       "kind": "appointment",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [],
       "episodes": [],
@@ -41726,7 +41726,7 @@
         "Starfleet Tactical"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -41756,7 +41756,7 @@
         "Sneed"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -41816,7 +41816,7 @@
         "Starfleet uniform"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -41851,7 +41851,7 @@
         "Starfleet uniform (2350s-2370s)"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -41920,7 +41920,7 @@
         "Dozaria"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -41955,7 +41955,7 @@
         "Klingon Empire"
       ],
       "kind": "discovery",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -41987,7 +41987,7 @@
         "Romulan Neutral Zone"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -42019,7 +42019,7 @@
         "Romulan Star Empire"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -42049,7 +42049,7 @@
         "Golanga"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -42093,7 +42093,7 @@
         "USS Lalo"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -42129,7 +42129,7 @@
         "USS Enterprise"
       ],
       "kind": "death",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -42163,7 +42163,7 @@
         "Douwd"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -42193,7 +42193,7 @@
         "Rutian"
       ],
       "kind": "battle",
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -42255,7 +42255,7 @@
         "Global Tongo Championship"
       ],
       "kind": null,
-      "group": "Terok Nor",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -42286,7 +42286,7 @@
         "Sector 001"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -42321,7 +42321,7 @@
         "Montgomery Scott"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS"
@@ -42353,7 +42353,7 @@
         "Tolen Ren"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -42384,7 +42384,7 @@
         "Q"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -42423,7 +42423,7 @@
         "Worf"
       ],
       "kind": "death",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -42456,7 +42456,7 @@
         "Keiko O'Brien"
       ],
       "kind": "marriage",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -42487,7 +42487,7 @@
         "Borg"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -42582,7 +42582,7 @@
         "Norah Satie"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -42616,7 +42616,7 @@
         "Bruce Lucier"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -42646,7 +42646,7 @@
         "Melissa Willoughby"
       ],
       "kind": "birth",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -42679,7 +42679,7 @@
         "USS Phoenix"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -42715,7 +42715,7 @@
         "Vash"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -42748,7 +42748,7 @@
         "Vagh"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -42780,7 +42780,7 @@
         "Ten Forward"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -42812,7 +42812,7 @@
         "USS Voyager"
       ],
       "kind": "death",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -42876,7 +42876,7 @@
         "Borg Collective"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -42943,7 +42943,7 @@
         "Switzer"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -42973,7 +42973,7 @@
         "Juarez baby"
       ],
       "kind": "birth",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -43005,7 +43005,7 @@
         "B'Etor"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -43037,7 +43037,7 @@
         "Curzon Dax"
       ],
       "kind": "death",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -43153,7 +43153,7 @@
         "Ceti Alpha V"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TOS",
@@ -43193,7 +43193,7 @@
         "Deanna Troi"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -43224,7 +43224,7 @@
         "Forra Gegen"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -43255,7 +43255,7 @@
         "D'deridex class"
       ],
       "kind": "discovery",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -43317,7 +43317,7 @@
         "Global Tongo Championship"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -43348,7 +43348,7 @@
         "Akritirian maximum security detention facility"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -43413,7 +43413,7 @@
         "Borg Collective"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -43516,7 +43516,7 @@
         "Data"
       ],
       "kind": "destruction",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -43551,7 +43551,7 @@
         "B'Elanna Torres"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -43582,7 +43582,7 @@
         "Starfleet Academy"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "LD"
@@ -43613,7 +43613,7 @@
         "Rog Prison"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -43674,7 +43674,7 @@
         "Nimembeh"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -43705,7 +43705,7 @@
         "Carrington Award"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -43736,7 +43736,7 @@
         "Arawath Colony"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -43772,7 +43772,7 @@
         "Malon Prime"
       ],
       "kind": "birth",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -43802,7 +43802,7 @@
         "Klingon"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -43832,7 +43832,7 @@
         "Hector Ilario"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -43923,7 +43923,7 @@
         "Starfleet Medical Academy"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -43955,7 +43955,7 @@
         "Bajor"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -43986,7 +43986,7 @@
         "Relay Station 47"
       ],
       "kind": "appointment",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -44046,7 +44046,7 @@
         "Geordi La Forge"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -44076,7 +44076,7 @@
         "Mezoti"
       ],
       "kind": "birth",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -44107,7 +44107,7 @@
         "USS Voyager"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -44141,7 +44141,7 @@
         "Starfleet Academy"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -44172,7 +44172,7 @@
         "Deep Space 9"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -44204,7 +44204,7 @@
         "Obsidian Order"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -44232,7 +44232,7 @@
       "summary": "Starfleet introduces the Danube-class runabout.",
       "entities": [],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -44263,7 +44263,7 @@
         "Bendii Syndrome"
       ],
       "kind": "death",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -44357,7 +44357,7 @@
         "Bilana III"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -44392,7 +44392,7 @@
         "USS Enterprise"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -44450,7 +44450,7 @@
       "summary": "The Romulans experiment with interphase cloaking technology but fail to perfect it.",
       "entities": [],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -44481,7 +44481,7 @@
         "SS Vico"
       ],
       "kind": "destruction",
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -44542,7 +44542,7 @@
         "Vulcan 24th master 1"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -44570,7 +44570,7 @@
       "summary": "Unknown at the time, Hugh's return causes widespread problems within the Borg, cutting many drones off from the Collective.",
       "entities": [],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -44601,7 +44601,7 @@
         "Global Tongo Championship"
       ],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -44631,7 +44631,7 @@
         "Cardassian ATR-4107"
       ],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -44697,7 +44697,7 @@
         "M'ret"
       ],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -44730,7 +44730,7 @@
         "USS Gandhi"
       ],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -44762,7 +44762,7 @@
         "Goran'Agar"
       ],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -44792,7 +44792,7 @@
         "Starfleet uniform"
       ],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9",
@@ -44841,7 +44841,7 @@
         "Arjin's father 001"
       ],
       "kind": "death",
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -44871,7 +44871,7 @@
         "Bajoran Executive Committee"
       ],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -44903,7 +44903,7 @@
         "Madred"
       ],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -45032,7 +45032,7 @@
         "USS Enterprise (NCC-1701-D)"
       ],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -45062,7 +45062,7 @@
         "Opaka"
       ],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -45122,7 +45122,7 @@
         "Kes"
       ],
       "kind": "birth",
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -45192,7 +45192,7 @@
         "Baxial"
       ],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -45258,7 +45258,7 @@
         "Harry Kim"
       ],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -45295,7 +45295,7 @@
         "Maquis"
       ],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -45408,7 +45408,7 @@
         "Velos VII"
       ],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG",
@@ -45445,7 +45445,7 @@
         "Kahless the Unforgettable"
       ],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -45565,7 +45565,7 @@
       "summary": "The Vulcan Isolationist Movement hires mercenaries to find the two remaining pieces of the Stone of Gol.",
       "entities": [],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -45602,7 +45602,7 @@
         "Vulcan"
       ],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -45633,7 +45633,7 @@
         "Omet'iklan"
       ],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -45695,7 +45695,7 @@
         "Global Tongo Championship"
       ],
       "kind": null,
-      "group": "USS Hera",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -45725,7 +45725,7 @@
         "Federation-Cardassian Treaty"
       ],
       "kind": "treaty",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9",
@@ -45836,7 +45836,7 @@
         "Enabran Tain"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -46019,7 +46019,7 @@
         "Chakotay"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -46130,7 +46130,7 @@
         "Cochrane Medal of Excellence"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -46253,7 +46253,7 @@
         "Edgar Willoughby, Jr."
       ],
       "kind": "birth",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -46347,7 +46347,7 @@
         "Starfleet Academy"
       ],
       "kind": "graduation",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -46375,7 +46375,7 @@
       "summary": "In a divergent personal history, Harry Kim's application to serve aboard Voyager is denied.",
       "entities": [],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -46502,7 +46502,7 @@
       "summary": "Kim applies for service aboard Voyager, and his application is approved.",
       "entities": [],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [],
       "episodes": [],
@@ -46524,7 +46524,7 @@
         "Starfleet Corps of Engineers"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -46585,7 +46585,7 @@
         "Dozaria"
       ],
       "kind": "death",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -46673,7 +46673,7 @@
       "summary": "In the mirror universe, Quark is executed, and the prime Doctor Bashir kills Odo.",
       "entities": [],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -46704,7 +46704,7 @@
         "Advanced Tactical Training"
       ],
       "kind": "appointment",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -46768,7 +46768,7 @@
         "Federation territory"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -46796,7 +46796,7 @@
       "summary": "Standard warp drive is found to harm the fabric of subspace, prompting a program to develop safer warp travel, first fitted to the Intrepid.",
       "entities": [],
       "kind": "launch",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -46827,7 +46827,7 @@
         "Borg Collective"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -46951,7 +46951,7 @@
         "Terran Rebellion"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -47077,7 +47077,7 @@
         "Starfleet Academy"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -47172,7 +47172,7 @@
         "Dala"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -47203,7 +47203,7 @@
         "Global Tongo Championship"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -47263,7 +47263,7 @@
         "Uxbridge house"
       ],
       "kind": null,
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -47294,7 +47294,7 @@
         "Benjamin Sisko"
       ],
       "kind": "death",
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -47355,7 +47355,7 @@
         "Veridian system"
       ],
       "kind": "death",
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -47418,7 +47418,7 @@
         "Amargosa"
       ],
       "kind": null,
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -47512,7 +47512,7 @@
         "Terran Rebellion"
       ],
       "kind": null,
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -47544,7 +47544,7 @@
         "Tarok"
       ],
       "kind": null,
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -47636,7 +47636,7 @@
         "Lurak T'Luco"
       ],
       "kind": null,
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -47667,7 +47667,7 @@
         "Labyrinths of the Mind"
       ],
       "kind": null,
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "DIS"
@@ -47699,7 +47699,7 @@
         "Internment Camp 371"
       ],
       "kind": null,
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -47790,7 +47790,7 @@
         "Quark"
       ],
       "kind": null,
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -47823,7 +47823,7 @@
         "Emergency Medical Hologram"
       ],
       "kind": null,
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -47856,7 +47856,7 @@
         "France"
       ],
       "kind": "death",
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -47949,7 +47949,7 @@
         "USS Defiant"
       ],
       "kind": null,
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -47977,7 +47977,7 @@
       "summary": "Around this year, Federation starships begin introducing variable geometry pylons.",
       "entities": [],
       "kind": null,
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -48005,7 +48005,7 @@
       "summary": "Starfleet adopts a new combadge, a gold rectangle around a cut-out oval.",
       "entities": [],
       "kind": null,
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9",
@@ -48048,7 +48048,7 @@
         "Steve Levy"
       ],
       "kind": "appointment",
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "LD"
@@ -48177,7 +48177,7 @@
         "USS Defiant"
       ],
       "kind": null,
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -48240,7 +48240,7 @@
         "Cardassian dissident movement"
       ],
       "kind": null,
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -48405,7 +48405,7 @@
         "USS Defiant"
       ],
       "kind": "death",
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -48437,7 +48437,7 @@
         "Maquis"
       ],
       "kind": null,
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -48694,7 +48694,7 @@
         "Global Tongo Championship"
       ],
       "kind": null,
-      "group": "USS Equinox",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -48827,7 +48827,7 @@
         "Odo"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -48887,7 +48887,7 @@
         "Valen"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -49090,7 +49090,7 @@
         "Archanis sector"
       ],
       "kind": "treaty",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -49158,7 +49158,7 @@
         "Deep Space 9"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -49189,7 +49189,7 @@
         "Starfleet Academy"
       ],
       "kind": "graduation",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -49217,7 +49217,7 @@
       "summary": "In the mirror universe, Jennifer Sisko is killed.",
       "entities": [],
       "kind": "death",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -49248,7 +49248,7 @@
         "Shakaar Edon"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -49279,7 +49279,7 @@
         "House of Mogh"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -49404,7 +49404,7 @@
         "Regent"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -49434,7 +49434,7 @@
         "Romulan Neutral Zone"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -49465,7 +49465,7 @@
         "Starfleet tricorder"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -49497,7 +49497,7 @@
         "Dominion"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -49527,7 +49527,7 @@
         "Bajoran wormhole"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -49621,7 +49621,7 @@
         "Romulan"
       ],
       "kind": "battle",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -49654,7 +49654,7 @@
         "Dukat"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -49715,7 +49715,7 @@
         "ISS Defiant"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -49777,7 +49777,7 @@
         "Druoda"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -49810,7 +49810,7 @@
         "Chief"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -49966,7 +49966,7 @@
         "Klingon Empire"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -49997,7 +49997,7 @@
         "Global Tongo Championship"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -51340,7 +51340,7 @@
         "USS Dauntless"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -51402,7 +51402,7 @@
         "Orb"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -51436,7 +51436,7 @@
         "Keevan"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -51472,7 +51472,7 @@
         "Bajor"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -51505,7 +51505,7 @@
         "Raffaela Musiker"
       ],
       "kind": "birth",
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -51538,7 +51538,7 @@
         "Lumba"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -51607,7 +51607,7 @@
         "Chin'toka system"
       ],
       "kind": "battle",
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -51700,7 +51700,7 @@
         "Liam Bilby"
       ],
       "kind": "discovery",
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -51731,7 +51731,7 @@
         "Golana"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -51762,7 +51762,7 @@
         "Lissepian Mother's Day Heist"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -51794,7 +51794,7 @@
         "Romulan Star Empire"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -51863,7 +51863,7 @@
         "Klingon"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -51905,7 +51905,7 @@
         "Empok Nor"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -51938,7 +51938,7 @@
         "USS Enterprise"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -51970,7 +51970,7 @@
         "Julian Bashir"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -52000,7 +52000,7 @@
         "Sneed"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -52031,7 +52031,7 @@
         "Kraylor homeworld"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -52171,7 +52171,7 @@
         "Betazed"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -52201,7 +52201,7 @@
         "Evora"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -52234,7 +52234,7 @@
         "Hars Adislo"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -52269,7 +52269,7 @@
         "Tamulna"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -52306,7 +52306,7 @@
         "Grathon Tolar"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -52338,7 +52338,7 @@
         "Tyra system"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -52468,7 +52468,7 @@
         "Jadzia Dax"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -52561,7 +52561,7 @@
         "Fujisaki"
       ],
       "kind": "death",
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -52803,7 +52803,7 @@
         "Founder"
       ],
       "kind": "death",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -52868,7 +52868,7 @@
         "Continuing Committee"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -52900,7 +52900,7 @@
         "Yamok sauce"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -52970,7 +52970,7 @@
         "Jem'Hadar"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -53000,7 +53000,7 @@
         "Qo'noS"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -53098,7 +53098,7 @@
         "Deep Space 9"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -53187,7 +53187,7 @@
         "Orion"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "LD"
@@ -53340,7 +53340,7 @@
       "summary": "Damar's Cardassian Rebellion is crushed, but Cardassian citizens rise up against the Dominion in response; the Jem'Hadar retaliate by destroying Cardassian cities and killing millions, and Damar is killed attempting to storm Dominion Headquarters.",
       "entities": [],
       "kind": "death",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -53371,7 +53371,7 @@
         "Cardassian Rebellion"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -53430,7 +53430,7 @@
       "summary": "Dukat is surgically altered to resemble a Bajoran.",
       "entities": [],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -53491,7 +53491,7 @@
         "Ezri Tigan"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -53519,7 +53519,7 @@
       "summary": "Following the Dominion War's end and Cardassia's liberation, Elim Garak remains on Cardassia, his exile from his homeworld officially over.",
       "entities": [],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -53552,7 +53552,7 @@
         "Typhoid"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -53585,7 +53585,7 @@
         "Gowron"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -53618,7 +53618,7 @@
         "IKS Rotarran"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -53714,7 +53714,7 @@
         "Fire Caves"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -53742,7 +53742,7 @@
       "summary": "In the mirror universe, Jadzia Dax, Vic Fontaine, Brunt, and Elim Garak are killed.",
       "entities": [],
       "kind": "death",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -53772,7 +53772,7 @@
         "Luther Sloan"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -53802,7 +53802,7 @@
         "Kasidy Yates-Sisko"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -53832,7 +53832,7 @@
         "Cardassia"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -53864,7 +53864,7 @@
         "Cult of the Pah-wraiths"
       ],
       "kind": "discovery",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -53926,7 +53926,7 @@
         "Remus"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -53962,7 +53962,7 @@
         "Norvo Tigan"
       ],
       "kind": "discovery",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -54057,7 +54057,7 @@
         "Section 31"
       ],
       "kind": "discovery",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -54118,7 +54118,7 @@
         "Richard Bashir"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -54151,7 +54151,7 @@
         "Grand Nagus"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -54181,7 +54181,7 @@
         "Species 8472"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -54243,7 +54243,7 @@
         "San Francisco"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -54274,7 +54274,7 @@
         "Dominion"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -54309,7 +54309,7 @@
         "Brunali homeworld"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -54372,7 +54372,7 @@
         "Female Changeling"
       ],
       "kind": "battle",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -54402,7 +54402,7 @@
         "Evora"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -54472,7 +54472,7 @@
         "Think Tank"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -54508,7 +54508,7 @@
         "Romulan"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -54916,7 +54916,7 @@
         "Reginald Barclay"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -54947,7 +54947,7 @@
         "Kasidy Yates"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -55015,7 +55015,7 @@
         "Time travel"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -55045,7 +55045,7 @@
         "Barzan"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "TNG"
@@ -55075,7 +55075,7 @@
         "Kes' starship"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -55136,7 +55136,7 @@
         "Ocampa"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -55893,7 +55893,7 @@
         "Command Conference"
       ],
       "kind": null,
-      "group": "USS Cerritos",
+      "group": null,
       "section": "Events",
       "series": [
         "LD"
@@ -56459,7 +56459,7 @@
         "Wesley Crusher"
       ],
       "kind": null,
-      "group": "USS Titan",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -56491,7 +56491,7 @@
         "USS Voyager"
       ],
       "kind": "death",
-      "group": "USS Titan",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -56521,7 +56521,7 @@
         "Kathryn Janeway"
       ],
       "kind": null,
-      "group": "USS Titan",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -56654,7 +56654,7 @@
         "USS Valiant"
       ],
       "kind": null,
-      "group": "USS Titan",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -56749,7 +56749,7 @@
         "USS Enterprise"
       ],
       "kind": "marriage",
-      "group": "USS Titan",
+      "group": null,
       "section": "Events",
       "series": [
         "FILM"
@@ -56781,7 +56781,7 @@
         "Narada incursion reality"
       ],
       "kind": null,
-      "group": "USS Titan",
+      "group": null,
       "section": "Events",
       "series": [
         "DIS"
@@ -56938,7 +56938,7 @@
         "Dignified Person award"
       ],
       "kind": null,
-      "group": "USS Titan",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -57096,7 +57096,7 @@
         "Monean"
       ],
       "kind": null,
-      "group": "USS Titan",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -57225,7 +57225,7 @@
         "Starfleet uniform (early 2380s)"
       ],
       "kind": null,
-      "group": "USS Titan",
+      "group": null,
       "section": "Events",
       "series": [
         "LD"
@@ -57992,7 +57992,7 @@
         "USS Enterprise"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -58023,7 +58023,7 @@
         "Korena"
       ],
       "kind": "marriage",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -58054,7 +58054,7 @@
         "Death"
       ],
       "kind": "death",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -58087,7 +58087,7 @@
         "USS Voyager"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "VOY"
@@ -58458,7 +58458,7 @@
         "Command Conference"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "LD"
@@ -58992,7 +58992,7 @@
         "Asencia"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PRO"
@@ -59124,7 +59124,7 @@
         "USS Enterprise"
       ],
       "kind": null,
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "LD"
@@ -59156,7 +59156,7 @@
         "Korena"
       ],
       "kind": "marriage",
-      "group": "USS Protostar",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -59666,7 +59666,7 @@
         "The Traveler's species"
       ],
       "kind": null,
-      "group": "Deep Space 9",
+      "group": null,
       "section": "Events",
       "series": [
         "PRO"
@@ -59697,7 +59697,7 @@
         "USS Protostar personnel"
       ],
       "kind": null,
-      "group": "Deep Space 9",
+      "group": null,
       "section": "Events",
       "series": [
         "PRO"
@@ -59819,7 +59819,7 @@
         "Dominion War"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "DS9"
@@ -59883,7 +59883,7 @@
         "Romulus"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "ST",
@@ -59931,7 +59931,7 @@
         "Starfleet Academy"
       ],
       "kind": "graduation",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -59964,7 +59964,7 @@
         "Edward Jellico"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PRO"
@@ -59992,7 +59992,7 @@
       "summary": "Starfleet abandons its plans to aid the Romulan evacuation, prompting Admiral Picard to resign his commission; the decision reflects fears that Federation support for the Romulans could fracture the Federation itself, since fourteen member species had already threatened to withdraw over the issue even before the attack on Mars, which also leads the Federation to ban synthetic lifeforms and halt related research - the Zhat Vash's original goal.",
       "entities": [],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -60029,7 +60029,7 @@
         "Vashti"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -60905,7 +60905,7 @@
         "Dahj Asha"
       ],
       "kind": null,
-      "group": "USS Titan",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -60937,7 +60937,7 @@
         "10 Forward Avenue"
       ],
       "kind": null,
-      "group": "USS Titan",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -61537,7 +61537,7 @@
         "USS Stargazer"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -61567,7 +61567,7 @@
         "Château Picard"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -61595,7 +61595,7 @@
       "summary": "An offshoot of the Borg is made a provisional member of the United Federation of Planets.",
       "entities": [],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -61717,7 +61717,7 @@
         "Borg Queen"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -61778,7 +61778,7 @@
         "Jean-Luc Picard"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -61870,7 +61870,7 @@
         "Q"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -61906,7 +61906,7 @@
         "Locutus of Borg"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -61951,7 +61951,7 @@
         "Seven of Nine"
       ],
       "kind": "appointment",
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -61982,7 +61982,7 @@
         "Frontier Day"
       ],
       "kind": null,
-      "group": "USS Voyager",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
@@ -62190,7 +62190,7 @@
       "summary": "A new version of the Starfleet combadge is introduced sometime between 2401 and this year.",
       "entities": [],
       "kind": null,
-      "group": "USS Enterprise",
+      "group": null,
       "section": "Events",
       "series": [
         "PIC"
