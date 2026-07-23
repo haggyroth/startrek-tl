@@ -171,8 +171,12 @@ Known and accepted:
 - [x] 23rd century authored in full — 453 events. Everything through the 23rd
       century is now authored; the 24th century (1,125 events) is the last
       big chunk
-- [ ] Author the remaining summaries — **1,274 / 2,037 (63%)**, 24th century
-      at 362/1,125
+- [x] Extended `verify-summaries.js` to support reviewed stardate-range
+      exceptions (`data/verify-exceptions.json`), for cases where a source
+      stardate is correct but the year page's own sidebar range is a rounded
+      or inconsistent summary of its own citations
+- [ ] Author the remaining summaries — **1,364 / 2,037 (67%)**, 24th century
+      at 452/1,125
 - [ ] Switch the committed build to `--strict`
 
 On the strict flip: the capability works and is tested, but flipping it now
@@ -188,5 +192,5 @@ Coverage by era:
 | **ENT (2101–2161)** | **213 / 213 ✅** |
 | **Gap (2162–2232)** | **60 / 60 ✅** |
 | **23rd century** | **453 / 453 ✅** |
-| 24th century | 362 / 1,125 |
+| 24th century | 452 / 1,125 |
 | **Far future** | **133 / 133 ✅** |

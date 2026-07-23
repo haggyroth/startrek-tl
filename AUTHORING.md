@@ -1,6 +1,6 @@
 # Authoring summaries
 
-How to write the remaining summaries. 1,274 of 2,037 are done; the rest follow
+How to write the remaining summaries. 1,364 of 2,037 are done; the rest follow
 the same procedure.
 
 ## Why summaries are authored at all
@@ -111,6 +111,31 @@ to confirm it's rare enough to be a one-off; if it recurs, that's a parser fix
 instead. Every entry needs a note explaining the reasoning — `validate:data`
 enforces this.
 
+## Watch for pronoun-only subjects
+
+Some source bullets name their subject only by pronoun — "He later operates a
+field transporter...", "Eight months before her destruction... this ship is
+assigned to..." — continuing from the sub-bullet directly above under the same
+ship or station heading. The name belongs in the authored summary (a summary
+that says "He" is useless out of context), but `verify:summaries` will flag it
+as an introduced token, since the checker only sees one bullet at a time.
+Confirm the antecedent by reading the raw wikitext around it in
+`data/events.raw.json` before naming the subject, then record the token(s) as
+a reviewed exception in `data/verify-exceptions.json` with a note pointing at
+the preceding bullet.
+
+## Stardate-range flags aren't always a mistake
+
+`verify:summaries` also flags a stardate that falls just outside its year
+page's own declared sidebar range. Sometimes that range is wrong, not the
+authored text — Memory Alpha's sidebar is occasionally a rounded or
+inconsistent summary of the very citations it's supposed to bound (2362's own
+"Background information" section documents exactly this kind of conflict for
+its year). Before authoring around it, check whether the mismatch is a
+fraction-sized rounding gap at the boundary; if so, record it in
+`data/verify-exceptions.json` with `"stardateRange": true` and a note, the same
+review-and-record pattern as introduced tokens.
+
 ## Ids change when summaries change
 
 An event's id is derived from its scraped summary. If a parser fix changes that
@@ -130,8 +155,8 @@ increment — a complete era means an era preset that is entirely clean.
 | ENT (2101–2161) | 213 / 213 ✅ |
 | Gap (2162–2232) | 60 / 60 ✅ |
 | **23rd century** | **453 / 453 ✅** |
-| 24th century | 362 / 1,125 |
+| 24th century | 452 / 1,125 |
 | Far future | 133 / 133 ✅ |
 
 Everything through the 23rd century is now fully authored. The 24th century
-(763 remaining, 2360 onward) is the last big chunk.
+(673 remaining, 2364 onward) is the last big chunk.
