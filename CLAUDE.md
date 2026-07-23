@@ -45,10 +45,10 @@ field; compute the stardate axis only for 2323+. Never extrapolate the TNG
 formula backward.
 
 **Memory Alpha is CC BY-NC-SA.** The dataset is derived from it, so it cannot be
-relicensed permissively or used commercially, and attribution is required if the
-project is ever published. The repo is intentionally private and intentionally
-has no LICENSE file — that is a pending decision, not an oversight. Do not add
-one without discussing it.
+relicensed permissively or used commercially, and attribution is required. The
+repo is dual-licensed: code under MIT (`LICENSE`), data under CC BY-NC-SA
+(`data/LICENSE.md`). Never move data-derived content into an MIT-covered path,
+and never claim the data files themselves are MIT.
 
 **Two page types, two parsers.** Dense eras have per-year pages
 (`parse-year.js`). Sparse ones don't — `3189` redirects to `32nd century#3189` —
