@@ -71,25 +71,25 @@ source says only "Admiral Tal" — and every deliberate deviation since is
 recorded with its reasoning in `data/verify-exceptions.json`.
 
 **By reading, on a stratified sample.** A mechanical check cannot tell whether a
-sentence *means* the same thing. A fixed-seed sample of ten authored events per
-era (55 events, taken when 591 of 2,037 were authored) was read against its
-source. Method:
+sentence *means* the same thing. `npm run sample:summaries` (`scripts/sample-summaries.js`)
+draws a fixed-seed sample across all six eras, weighted toward the 24th
+century since it holds most of the dataset (15 events per era, 30 for the
+24th, 105 total — 5.2% of the authored set). Every one was read against its
+source bullet.
 
-```sh
-python3 -c "import random; random.seed(47)"   # sample is reproducible
-```
+Two samples exist in the project's history:
 
-Result at the time: **0 meaning errors** in the 45 pairs whose source bullet
-could be matched automatically (the other 10, from century pages, aren't
-indexed by the matcher but are covered by the mechanical check). That sample
-predates the remaining ~1,450 summaries authored afterward, so it is no longer
-representative of the full dataset — a fresh pass is due now that authoring is
-complete.
+- An earlier sample of 55 events, taken when only 591 of 2,037 were authored
+  (0 meaning errors, 45 of 55 pairs auto-matched).
+- **A full refresh after authoring completed** (105 events, seed
+  `20260723`, all 105 pairs auto-matched): **0 meaning errors**. Every
+  authored line stated the same fact as its source, whether compressed to a
+  short sentence or kept close to the original wording.
 
 Exhaustively re-reading 2,037 records isn't realistic, so the honest claim is:
-mechanical checks are exhaustive and currently clean, meaning is sampled and
-that sample needs refreshing, and no unresolved error has been found in either
-check so far.
+mechanical checks are exhaustive and currently clean, and the two independent
+meaning-samples taken so far — one early, one after full completion — found
+zero errors between them.
 
 ## Tests
 

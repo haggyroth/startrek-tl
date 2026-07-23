@@ -195,6 +195,14 @@ Known and accepted:
       left to fall back from. It does mean any future re-scrape that finds a
       new event gets the fact-derived stub, not raw Memory Alpha prose, until
       someone authors it
+- [x] Fresh stratified meaning-sample after full completion — the earlier
+      sample (55 events) was taken partway through authoring. New tooling
+      (`scripts/sample-summaries.js`, `npm run sample:summaries`) draws a
+      reproducible fixed-seed sample across all six eras, weighted toward the
+      24th century's size (105 events, seed `20260723`). Result: **0 meaning
+      errors**, matching the earlier sample. Source-index rebuilding was
+      factored out of `verify-summaries.js` into `scripts/lib/source-index.js`
+      so both tools share it
 
 Phase 11 is complete.
 
