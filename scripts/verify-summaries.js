@@ -105,7 +105,11 @@ for (const event of dataset.events) {
   // Stardates should fall inside the year page's own declared range — but
   // only from 2323 onward. See isStardateOutOfRange for why.
   const range = rangeByYear.get(event.year);
-  if (event.stardate && isStardateOutOfRange(event.stardate, event.year, range)) {
+  if (
+    event.stardate &&
+    isStardateOutOfRange(event.stardate, event.year, range) &&
+    !exceptions[event.id]?.stardateRange
+  ) {
     problems.push({
       id: event.id,
       kind: "stardate-range",

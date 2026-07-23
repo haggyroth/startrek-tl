@@ -2,5 +2,21 @@
   "3188-michael-burnham-meets-adiatya-sahil-and-reveals-wh": {
     "tokens": ["Aditya"],
     "note": "Memory Alpha spells the name 'Adiatya' in this bullet and 'Aditya' in its own 3148 entry. The authored summary uses the correct spelling, so the token is absent from this source line by design."
+  },
+  "2362-he-later-operates-a-field-transporter-for-the-firs": {
+    "tokens": ["O'Brien"],
+    "note": "This bullet's subject is only 'He' in the source, a pronoun continuing from the immediately preceding sub-bullet on the same year page ('A Federation soldier, Miles O'Brien, kills a Cardassian soldier during the massacre... He later operates a field transporter...'), both grouped under the USS Rutledge heading. Confirmed against data/events.raw.json. Naming O'Brien directly is a correct read of the source, not a fabrication."
+  },
+  "2363-eight-months-before-her-destruction-in-2364-this": {
+    "tokens": ["K.E", "Tsiolkovsky"],
+    "note": "This bullet's subject is only 'this ship' in the source, referring back to the K.E. Tsiolkovsky named in the immediately preceding sub-bullet under the same {{SS|Tsiolkovsky}} heading on the 2363 year page. Confirmed against data/events.raw.json."
+  },
+  "2362-the-oshc-investigation-into-finn-s-disappearance-i": {
+    "stardateRange": true,
+    "note": "Stardate 40999.4 is 0.4 over the 2362 sidebar's declared 39355-40999 range. Memory Alpha's own 'Background information' section for this year documents the inconsistency directly: the {{ste|c}} guideline says 2362 should run 39000-39999, but two in-universe sources cite stardates in the 40000s that year, so the page's own declared range is already known to undershoot its cited events by design, not by parser or authoring error."
+  },
+  "2363-the-enterprise-is-commissioned-at-the-utopia-plani": {
+    "stardateRange": true,
+    "note": "Stardate 40759.5 is 0.5 over the 2363 sidebar's declared 40052-40759 range. The sidebar range is built from the same year's whole-number stardate citations (40052 and 40759.5 itself, truncated), so the .5 fraction on the upper bound's own source event pushes it just past the rounded range boundary. A rounding artifact in Memory Alpha's sidebar, not an authoring error."
   }
 }
