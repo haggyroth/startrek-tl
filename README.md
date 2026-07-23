@@ -118,11 +118,15 @@ go in when the repo becomes public.
 ## Regenerating the dataset
 
 ```sh
-node scripts/build-events.js
+npm run build:data   # node scripts/build-events.js --strict
 ```
 
 This reads from the local scrape cache (`data/events.raw.json`, gitignored) when
-present and only hits the network when the cache is cold.
+present and only hits the network when the cache is cold. The committed build
+is `--strict`: with every event authored, this changes nothing today, but it
+means a future re-scrape that discovers new events falls back to a plain
+fact-derived stub rather than publishing scraped Memory Alpha prose while it
+awaits authoring.
 
 ## Data source and licensing
 
