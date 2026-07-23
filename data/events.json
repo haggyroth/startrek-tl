@@ -7,7 +7,7 @@
     ],
     "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 1274,
+    "authoredSummaries": 1364,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -36448,7 +36448,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Before the Cardassians hit the Lunar V base, the Bajoran Resistance hid a few of their sub-impulse raiders underground.",
+      "summary": "Before the Cardassians strike the Lunar V base, the Bajoran Resistance hides several of its sub-impulse raiders underground.",
       "entities": [
         "Lunar V base",
         "Bajoran Resistance",
@@ -36472,7 +36472,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-captain-jean-luc-picard-receives-an-award-from-the",
@@ -36503,7 +36503,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-darrell-oja-raymond-is-born-to-thomas-and-louise-c",
@@ -36535,7 +36535,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-due-to-the-effects-of-iverson-s-disease-admiral-m",
@@ -36543,7 +36543,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Due to the effects of Iverson's Disease, Admiral Mark Jameson is confined to a support chair.",
+      "summary": "Iverson's Disease confines Admiral Mark Jameson to a support chair.",
       "entities": [
         "Iverson's Disease",
         "Mark Jameson"
@@ -36566,7 +36566,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-galis-learns-that-dekon-elig-is-imprisoned-at-the",
@@ -36598,7 +36598,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-gul-dukat-is-assigned-command-of-terok-nor",
@@ -36628,7 +36628,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-in-a-small-village-on-bajor-hovath-becomes-the-ap",
@@ -36636,7 +36636,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In a small village on Bajor, Hovath becomes the apprentice to the sirah in order to succeed him.",
+      "summary": "In a small Bajoran village, Hovath becomes apprentice to the sirah, in line to succeed him.",
       "entities": [
         "Bajor",
         "Hovath"
@@ -36659,7 +36659,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-in-the-delta-quadrant-the-wife-of-caylem-a-membe",
@@ -36667,7 +36667,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In the Delta Quadrant, the wife of Caylem, a member of the Alsaurian resistance movement against the Mokra Order, dies in prison.",
+      "summary": "In the Delta Quadrant, the wife of Caylem, a member of the Alsaurian resistance against the Mokra Order, dies in prison.",
       "entities": [
         "Caylem's wife 001",
         "Caylem",
@@ -36692,7 +36692,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-jono-receives-the-first-of-his-many-injuries-over",
@@ -36700,7 +36700,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jono receives the first of his many injuries. Over the next seven years, he will experience a broken arm, two fractured ribs, and a low-grade concussion.",
+      "summary": "Jono suffers the first of many injuries; over the next seven years he sustains a broken arm, two fractured ribs, and a low-grade concussion.",
       "entities": [
         "Jono"
       ],
@@ -36722,7 +36722,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-li-nalas-a-bajoran-resistance-fighter-and-former",
@@ -36730,7 +36730,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Li Nalas, a Bajoran Resistance fighter and former Terok Nor miner, is captured by the Cardassians and presumed dead. He spends the next ten years at the Hutet labor camp on Cardassia IV.",
+      "summary": "Bajoran Resistance fighter and former Terok Nor miner Li Nalas is captured by the Cardassians and presumed dead, spending the next ten years at the Hutet labor camp on Cardassia IV.",
       "entities": [
         "Li Nalas",
         "Bajoran Resistance",
@@ -36757,7 +36757,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-mekor-the-son-of-dukat-is-born",
@@ -36765,7 +36765,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Mekor, the son of Dukat, is born.",
+      "summary": "Mekor, son of Dukat, is born.",
       "entities": [
         "Mekor"
       ],
@@ -36787,7 +36787,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-sarina-douglas-begins-to-live-with-jack-lauren-a",
@@ -36795,7 +36795,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Sarina Douglas begins to live with Jack, Lauren, and Patrick.",
+      "summary": "Sarina Douglas begins living with Jack, Lauren, and Patrick.",
       "entities": [
         "Sarina Douglas",
         "Lauren",
@@ -36819,7 +36819,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-taya-is-born-on-yadera-ii",
@@ -36827,7 +36827,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Taya is \"born\" on Yadera II.",
+      "summary": "Taya is born on Yadera II.",
       "entities": [
         "Taya",
         "Yadera II"
@@ -36850,7 +36850,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-the-son-of-dara-grandson-of-timicin-is-born-on-ka",
@@ -36858,7 +36858,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The son of Dara, grandson of Timicin is born on Kaelon II.",
+      "summary": "The son of Dara, grandson of Timicin, is born on Kaelon II.",
       "entities": [
         "Kaelon grandson 001",
         "Timicin",
@@ -36882,7 +36882,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-the-velara-base-on-velara-iii-begins-its-terraform",
@@ -36890,7 +36890,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Velara Base on Velara III begins its terraforming of the planet.",
+      "summary": "The Velara Base on Velara III begins terraforming the planet.",
       "entities": [
         "Velara Base",
         "Velara III"
@@ -36913,7 +36913,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-vreenak-becomes-a-key-member-of-the-romulan-senate",
@@ -36944,7 +36944,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-zek-wins-the-global-tongo-championship-for-the-fou",
@@ -36952,7 +36952,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the fourteenth year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the fourteenth year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -36975,7 +36975,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2361-botanists-kevin-and-rishon-uxbridge-move-from-new",
@@ -37010,7 +37010,7 @@
         "https://memory-alpha.fandom.com/wiki/2361"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2361-dr-dalen-quaice-is-assigned-to-the-starbase-he-m",
@@ -37018,7 +37018,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Dalen Quaice is assigned to the starbase. He moves there with his significant other, Patricia.",
+      "summary": "Dr. Dalen Quaice is assigned to the starbase, moving there with his significant other Patricia.",
       "entities": [
         "Dalen Quaice",
         "Patricia Quaice"
@@ -37041,7 +37041,7 @@
         "https://memory-alpha.fandom.com/wiki/2361"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2361-lewis-zimmerman-is-assigned-to-the-holo-programmin",
@@ -37049,7 +37049,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lewis Zimmerman is assigned to the Holo-Programming Center on the station. He begins developing what he refers to as a \"Holo-Doc\": a holographic doctor intended to assist in medical emergencies.",
+      "summary": "Lewis Zimmerman is assigned to the station's Holo-Programming Center, where he begins developing a holographic doctor intended to assist in medical emergencies.",
       "entities": [
         "Lewis Zimmerman",
         "Holo-Programming Center",
@@ -37073,7 +37073,7 @@
         "https://memory-alpha.fandom.com/wiki/2361"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2361-lidell-marries-tolen-ren-on-banea",
@@ -37104,7 +37104,7 @@
         "https://memory-alpha.fandom.com/wiki/2361"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2361-lieutenant-william-t-riker-is-promoted-to-lieuten",
@@ -37112,7 +37112,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lieutenant William T. Riker is promoted to lieutenant commander for \"exceptional valor during the evacuation of the research station on Nervala IV.\"",
+      "summary": "Lieutenant William T. Riker is promoted to lieutenant commander for his valor during the evacuation of the research station on Nervala IV.",
       "entities": [],
       "kind": "appointment",
       "group": "USS Potemkin",
@@ -37132,7 +37132,7 @@
         "https://memory-alpha.fandom.com/wiki/2361"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2361-obsidian-order-operative-iliana-ghemor-volunteers",
@@ -37140,7 +37140,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Obsidian Order operative Iliana Ghemor volunteers for an undercover assignment on Bajor. She is surgically altered to appear as a Bajoran and infiltrate the Resistance. Her memories are erased.",
+      "summary": "Obsidian Order operative Iliana Ghemor volunteers for an undercover assignment on Bajor, surgically altered to appear Bajoran and infiltrate the Resistance, with her memories erased.",
       "entities": [
         "Obsidian Order",
         "Iliana Ghemor",
@@ -37166,7 +37166,7 @@
         "https://memory-alpha.fandom.com/wiki/2361"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2361-one-of-the-children-living-on-deep-space-9-in-2369",
@@ -37174,7 +37174,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "One of the children living on Deep Space 9 in 2369 was born in this year.",
+      "summary": "One of the children living on Deep Space 9 in 2369 is born this year.",
       "entities": [
         "Deep Space 9"
       ],
@@ -37196,7 +37196,7 @@
         "https://memory-alpha.fandom.com/wiki/2361"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2361-roana-and-her-husband-both-bajoran-entrepreneurs",
@@ -37204,7 +37204,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Roana and her husband, both Bajoran entrepreneurs, open a store on the Promenade of Terok Nor, after closing down their shop on Bajor after seventeen years.",
+      "summary": "Bajoran entrepreneurs Roana and her husband open a store on the Promenade of Terok Nor after closing their Bajor shop of seventeen years.",
       "entities": [
         "Roana",
         "Roana's husband 001",
@@ -37230,7 +37230,7 @@
         "https://memory-alpha.fandom.com/wiki/2361"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2361-rom-leaves-ferenginar",
@@ -37261,7 +37261,7 @@
         "https://memory-alpha.fandom.com/wiki/2361"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2361-the-father-of-jeremy-aster-dies-from-a-rushton-inf",
@@ -37269,7 +37269,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The father of Jeremy Aster dies from a Rushton infection.",
+      "summary": "Jeremy Aster's father dies from a Rushton infection.",
       "entities": [
         "Aster",
         "Jeremy Aster",
@@ -37293,7 +37293,7 @@
         "https://memory-alpha.fandom.com/wiki/2361"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2361-the-potemkin-attempts-to-contact-the-failed-federa",
@@ -37301,7 +37301,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Potemkin attempts to contact the failed Federation colony on Turkana IV. They are warned that anyone beaming down to the planet will be killed.",
+      "summary": "The Potemkin attempts to contact the failed Federation colony on Turkana IV and is warned that anyone beaming down will be killed.",
       "entities": [
         "Turkana IV"
       ],
@@ -37323,7 +37323,7 @@
         "https://memory-alpha.fandom.com/wiki/2361"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2361-the-potemkin-sends-down-an-away-team-led-by-lieut",
@@ -37331,7 +37331,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Potemkin sends down an away team, led by Lieutenant William T. Riker to evacuate a research station on Nervala IV. Due to atmospheric distortion, the Potemkin transporter chief attempts to use two confinement beams to transport Lieutenant Riker, the last one on the planet. Although the first confinement beam works and a Riker is beamed aboard, the second beam is unknowingly reflected back to the planet, creating another William T. Riker. The second Riker would later be discovered by the crew of the USS Enterprise in 2369.",
+      "summary": "The Potemkin sends an away team led by Lieutenant William T. Riker to evacuate the Nervala IV research station; atmospheric distortion leads the transporter chief to use two confinement beams on Riker, and while the first successfully beams him aboard, the second unknowingly reflects back to the planet and creates a second William T. Riker, later discovered by the Enterprise crew in 2369.",
       "entities": [
         "William T. Riker",
         "Nervala IV",
@@ -37356,7 +37356,7 @@
         "https://memory-alpha.fandom.com/wiki/2361"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2361-the-shakaar-resistance-cell-including-a-young-kir",
@@ -37364,7 +37364,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Shakaar resistance cell, including a young Kira Nerys, spends the entire winter hiding in the Dahkur Hills from Cardassian sensor sweeps.",
+      "summary": "The Shakaar resistance cell, including a young Kira Nerys, spends an entire winter hiding in the Dahkur Hills from Cardassian sensor sweeps.",
       "entities": [
         "Shakaar resistance cell",
         "Kira Nerys",
@@ -37389,7 +37389,7 @@
         "https://memory-alpha.fandom.com/wiki/2361"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2361-vash-is-hired-as-the-personal-assistant-to-dr-sam",
@@ -37397,7 +37397,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Vash is hired as the personal assistant to Dr. Samuel Estragon, a scientist devoted to finding the legendary Tox Uthat.",
+      "summary": "Vash is hired as personal assistant to Dr. Samuel Estragon, a scientist searching for the legendary Tox Uthat.",
       "entities": [
         "Vash",
         "Samuel Estragon",
@@ -37421,7 +37421,7 @@
         "https://memory-alpha.fandom.com/wiki/2361"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2361-william-t-riker-and-deanna-troi-meet-for-the-firs",
@@ -37429,7 +37429,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "William T. Riker and Deanna Troi meet for the first time on Betazed while Riker is stationed there as a lieutenant.",
+      "summary": "William T. Riker and Deanna Troi meet for the first time on Betazed, while Riker is stationed there as a lieutenant.",
       "entities": [
         "William T. Riker",
         "Deanna Troi",
@@ -37453,7 +37453,7 @@
         "https://memory-alpha.fandom.com/wiki/2361"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2361-zek-wins-the-global-tongo-championship-for-the-fif",
@@ -37461,7 +37461,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the fifteenth year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the fifteenth year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -37484,7 +37484,7 @@
         "https://memory-alpha.fandom.com/wiki/2361"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-a-federation-soldier-miles-o-brien-kills-a-carda",
@@ -37492,7 +37492,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A Federation soldier, Miles O'Brien, kills a Cardassian soldier during the massacre.",
+      "summary": "During the massacre, Federation soldier Miles O'Brien kills a Cardassian soldier.",
       "entities": [
         "Miles O'Brien",
         "Cardassian",
@@ -37516,7 +37516,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-beverly-crusher-is-promoted-to-commander-after-pas",
@@ -37546,7 +37546,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-cadet-ro-laren-graduates-from-starfleet-academy",
@@ -37576,7 +37576,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-dekon-elig-is-killed-by-phaser-fire-on-velos-vii",
@@ -37607,7 +37607,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-ensign-marla-finn-begins-a-romantic-relationship-w",
@@ -37615,7 +37615,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Ensign Marla Finn begins a romantic relationship with Walter Pierce. She soon begins an affair with William Hodges and both are killed by a jealous Pierce in a plasma explosion. Afterward, Pierce vaporizes himself in the Enterprise’s plasma stream. His Betazoid empathic trace is inadvertently left in the nacelle tube bulkhead.",
+      "summary": "Ensign Marla Finn begins a relationship with Walter Pierce, then has an affair with William Hodges; a jealous Pierce kills both of them in a plasma explosion before vaporizing himself in the Enterprise's plasma stream, inadvertently leaving his Betazoid empathic trace in a nacelle tube bulkhead.",
       "entities": [
         "Marla Finn",
         "Walter Pierce",
@@ -37640,7 +37640,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-fallit-kot-hijacks-a-shipment-of-romulan-ale-he-i",
@@ -37648,7 +37648,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Fallit Kot hijacks a shipment of Romulan ale. He is caught and sentenced to eight years in a labor camp.",
+      "summary": "Fallit Kot hijacks a shipment of Romulan ale and is caught and sentenced to eight years in a labor camp.",
       "entities": [
         "Fallit Kot",
         "Romulan ale"
@@ -37671,7 +37671,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-he-later-operates-a-field-transporter-for-the-firs",
@@ -37679,7 +37679,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "He later operates a field transporter for the first time and saves thirteen men.",
+      "summary": "Miles O'Brien later operates a field transporter for the first time and saves thirteen men.",
       "entities": [],
       "kind": null,
       "group": "USS Rutledge",
@@ -37699,7 +37699,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-in-an-alternate-timeline-in-which-the-uss-enterpri",
@@ -37707,7 +37707,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate timeline in which the USS Enterprise disappeared mysteriously in 2344. Natasha Yar is assigned to the first Galaxy battleship, the USS Enterprise following her graduation from Starfleet Academy.",
+      "summary": "In a timeline where the Enterprise disappears mysteriously in 2344, Natasha Yar is assigned to the first Galaxy-class battleship, the Enterprise, after graduating from Starfleet Academy.",
       "entities": [
         "Natasha Yar",
         "Starfleet Academy",
@@ -37731,7 +37731,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-o-brien-is-declared-the-hero-of-setlik-iii-after",
@@ -37739,7 +37739,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "O'Brien is declared the \"Hero of Setlik III\" after leading a group of two dozen men against a Cardassian regiment at the Barrica encampment.",
+      "summary": "O'Brien becomes known as the Hero of Setlik III after leading two dozen men against a Cardassian regiment at the Barrica encampment.",
       "entities": [
         "Setlik III",
         "Barrica encampment"
@@ -37762,7 +37762,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-o-brien-is-transferred-to-the-operations-division",
@@ -37790,7 +37790,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-on-mordan-iv-construction-workers-use-steelplast",
@@ -37798,7 +37798,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On Mordan IV, construction workers use steelplast for the sealing off of segments of tunnels under the principal city of the planet. An example of a tunnel segment sealed from adjoining tunnels is the subsidiary tunnel M-4.",
+      "summary": "On Mordan IV, construction workers use steelplast to seal off tunnel segments beneath the principal city, including the subsidiary tunnel M-4.",
       "entities": [
         "Mordan IV"
       ],
@@ -37820,7 +37820,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-quark-loans-his-cousin-gaila-an-amount-of-latinum",
@@ -37828,7 +37828,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Quark loans his cousin Gaila an amount of latinum to start up a munitions consortium. Gaila promises Quark to pay him back in a shuttle should he become a success.",
+      "summary": "Quark loans his cousin Gaila latinum to start a munitions consortium, on a promise of a shuttle in return if it succeeds.",
       "entities": [
         "Quark"
       ],
@@ -37850,7 +37850,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-raymond-boone-is-killed-he-is-replaced-by-a-carda",
@@ -37858,7 +37858,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Raymond Boone is killed. He is replaced by a Cardassian spy and returned to Starfleet. Within the year, \"Boone\" resigns from Starfleet, leaves his wife, and moves to a Cardassian border planet.",
+      "summary": "Raymond Boone is killed and replaced by a Cardassian spy who returns to Starfleet in his place; within the year, the impostor resigns from Starfleet, leaves Boone's wife, and moves to a Cardassian border planet.",
       "entities": [],
       "kind": "death",
       "group": "USS Victory",
@@ -37878,7 +37878,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-rugal-son-of-kotan-pa-dar-is-kidnapped-by-a-card",
@@ -37886,7 +37886,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Rugal, son of Kotan Pa'Dar, is kidnapped by a Cardassian officer and taken to the Tozhat Resettlement Center after his mother is killed in a Bajoran Resistance attack. He would be adopted by Bajoran Proka Migdal.",
+      "summary": "Rugal, son of Kotan Pa'Dar, is kidnapped by a Cardassian officer and taken to the Tozhat Resettlement Center after his mother is killed in a Bajoran Resistance attack; he is later adopted by Bajoran Proka Migdal.",
       "entities": [
         "Rugal",
         "Kotan Pa'Dar",
@@ -37913,7 +37913,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-several-prisoners-including-raymond-boone-are-ta",
@@ -37943,7 +37943,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-starfleet-reports-marla-e-finn-and-william-hodges",
@@ -37971,7 +37971,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-the-oshc-investigation-into-finn-s-disappearance-i",
@@ -37979,7 +37979,7 @@
       "date": null,
       "stardate": "40999.4",
       "timeline": "prime",
-      "summary": "The OSHC investigation into Finn's disappearance is terminated with no result.",
+      "summary": "The OSHC investigation into Finn's disappearance ends with no result.",
       "entities": [
         "Starfleet OSHC"
       ],
@@ -38001,7 +38001,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-the-setlik-iii-massacre",
@@ -38009,7 +38009,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Setlik III massacre.",
+      "summary": "The Setlik III massacre takes place.",
       "entities": [
         "Setlik III massacre"
       ],
@@ -38031,7 +38031,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-the-victory-investigates-the-mysterious-disappeara",
@@ -38039,7 +38039,7 @@
       "date": null,
       "stardate": "40164.7",
       "timeline": "prime",
-      "summary": "The Victory investigates the mysterious disappearance of 49 people on the Tarchannen III outpost. Ensign Geordi La Forge is involved in the away team.",
+      "summary": "The Victory investigates the mysterious disappearance of forty-nine people from the Tarchannen III outpost, with Ensign Geordi La Forge on the away team.",
       "entities": [
         "Tarchannen III",
         "Geordi La Forge"
@@ -38062,7 +38062,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-under-the-command-of-captain-blackwood-the-tombau",
@@ -38070,7 +38070,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Under the command of Captain Blackwood, the Tombaugh is attacked and assimilated by the Borg. Among the crew is Ensign Stone, fresh out of Starfleet Academy.",
+      "summary": "Under Captain Blackwood, the Tombaugh is attacked and assimilated by the Borg; among its crew is Ensign Stone, fresh out of Starfleet Academy.",
       "entities": [
         "Blackwood",
         "Borg",
@@ -38094,7 +38094,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-warp-engine-control-systems-are-installed-on-the-u",
@@ -38102,7 +38102,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Warp engine control systems are installed on the USS Enterprise.",
+      "summary": "Warp engine control systems are installed on the Enterprise.",
       "entities": [
         "Warp engine",
         "USS Enterprise"
@@ -38125,7 +38125,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2362-zek-wins-the-global-tongo-championship-for-the-six",
@@ -38133,7 +38133,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the sixteenth year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the sixteenth year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -38156,7 +38156,7 @@
         "https://memory-alpha.fandom.com/wiki/2362"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-admiral-norah-satie-begins-a-four-year-period-of-b",
@@ -38164,7 +38164,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Admiral Norah Satie begins a four-year period of being stationed at planets and starbase as she works on the cause of preserving the Federation.",
+      "summary": "Admiral Norah Satie begins a four-year period stationed at planets and starbases in the cause of preserving the Federation.",
       "entities": [
         "Norah Satie"
       ],
@@ -38186,7 +38186,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-artim-is-born-on-the-ba-ku-planet",
@@ -38226,7 +38226,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Construction of the Enterprise at Utopia Planitia is completed. Commander Quinteros, who supervised the construction, would later accept a post at Starbase 74.",
+      "summary": "Construction of the Enterprise at Utopia Planitia is completed; Commander Quinteros, who supervised it, later accepts a post at Starbase 74.",
       "entities": [
         "Quinteros",
         "Starbase 74"
@@ -38241,7 +38241,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-eight-months-before-her-destruction-in-2364-this",
@@ -38249,7 +38249,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Eight months before her destruction in 2364, this ship is assigned to study the collapse of a red supergiant star into a white dwarf.",
+      "summary": "Eight months before its 2364 destruction, the K.E. Tsiolkovsky is assigned to study the collapse of a red supergiant star into a white dwarf.",
       "entities": [],
       "kind": "appointment",
       "group": "SS Tsiolkovsky",
@@ -38269,7 +38269,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-eli-foster-is-born-on-earth",
@@ -38299,7 +38299,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-george-primmin-becomes-a-security-officer",
@@ -38329,7 +38329,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-greta-vanderweg-begins-her-starfleet-service",
@@ -38359,7 +38359,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-gul-darhe-el-dies-in-his-sleep-due-to-a-coleibric",
@@ -38367,7 +38367,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Gul Darhe'el dies in his sleep due to a coleibric hemorrhage.",
+      "summary": "Gul Darhe'el dies in his sleep of a coleibric hemorrhage.",
       "entities": [
         "Darhe'el"
       ],
@@ -38389,7 +38389,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-guls-dukat-and-hadar-attend-a-reception-at-the-baj",
@@ -38397,7 +38397,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Guls Dukat and Hadar attend a reception at the Bajoran Center for Science to view Odo and his abilities. The Changeling performs the Cardassian \"neck trick\" to wide acclaim.",
+      "summary": "Guls Dukat and Hadar attend a reception at the Bajoran Center for Science to view Odo's abilities, where the Changeling performs the Cardassian neck trick to wide acclaim.",
       "entities": [
         "Dukat",
         "Hadar",
@@ -38425,7 +38425,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-in-his-search-for-the-albino-dahar-master-kang-di",
@@ -38433,7 +38433,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In his search for the Albino, Dahar master Kang discovers one of the Albino's discarded wives on Dayos IV. Kang fed and clothed her and later told her the story of his murdered son and his quest. Although he suspected that she knew the location, she said nothing.",
+      "summary": "Searching for the Albino, Dahar master Kang finds one of his discarded wives on Dayos IV; he feeds and clothes her and tells her of his murdered son and his quest, but though he suspects she knows the Albino's location, she says nothing.",
       "entities": [
         "Dahar master",
         "Kang",
@@ -38458,7 +38458,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-jean-luc-picard-assumes-command-of-the-enterprise",
@@ -38495,7 +38495,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Natima Lang, an agent of the Cardassian Communication Service, becomes romantically involved with the bartender Quark, who is selling food illegally to the Bajorans. He in turn uses her personal access codes to steal money from the Cardassian government.",
+      "summary": "Cardassian Communication Service agent Natima Lang becomes romantically involved with bartender Quark, who is illegally selling food to Bajorans; he in turn uses her access codes to steal from the Cardassian government.",
       "entities": [
         "Natima Lang",
         "Cardassian Communication Service",
@@ -38521,7 +38521,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-on-tyrus-vii-dr-farallon-begins-work-on-the-part",
@@ -38552,7 +38552,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-on-velara-iii-drilling-operations-begin-at-tappin",
@@ -38560,7 +38560,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On Velara III, drilling operations begin at tapping the water in the subsurface layer.",
+      "summary": "On Velara III, drilling operations begin to tap water in the subsurface layer.",
       "entities": [
         "Velara III"
       ],
@@ -38582,7 +38582,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-paul-menegay-is-born",
@@ -38612,7 +38612,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-prior-to-formally-taking-command-of-the-starship",
@@ -38669,7 +38669,7 @@
       "date": null,
       "stardate": "40052",
       "timeline": "prime",
-      "summary": "The dilithium crystal chamber that will be used on the Enterprise is designed on outpost Seran T-1. It is installed on the Enterprise at Utopia Planitia Fleet Yards.",
+      "summary": "The dilithium crystal chamber later used on the Enterprise is designed at outpost Seran T-1 and installed on the ship at Utopia Planitia Fleet Yards.",
       "entities": [
         "Seran T-1",
         "Utopia Planitia Fleet Yards"
@@ -38692,7 +38692,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-the-enterprise-begins-its-shakedown-mission-out-of",
@@ -38700,7 +38700,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise begins its shakedown mission out of spacedock, before returning to dock at Earth Station McKinley.",
+      "summary": "The Enterprise begins its shakedown mission out of spacedock before returning to dock at Earth Station McKinley.",
       "entities": [
         "Earth Station McKinley"
       ],
@@ -38727,7 +38727,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-the-enterprise-is-commissioned-at-the-utopia-plani",
@@ -38758,7 +38758,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-the-enterprise-is-launched-from-the-utopia-planiti",
@@ -38794,7 +38794,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-the-k-e-tsiolkovsky-an-oberth-federation-scienc",
@@ -38802,7 +38802,7 @@
       "date": null,
       "stardate": "40291.7",
       "timeline": "prime",
-      "summary": "The K.E. Tsiolkovsky – an Oberth Federation science vessel – is commissioned at the Baikonur Cosmodrome, USSR.",
+      "summary": "The Oberth-class Federation science vessel K.E. Tsiolkovsky is commissioned at the Baikonur Cosmodrome, USSR.",
       "entities": [
         "Baikonur Cosmodrome",
         "USSR"
@@ -38825,7 +38825,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-the-olympia-under-the-command-of-captain-lisa-cus",
@@ -38833,7 +38833,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Olympia, under the command of Captain Lisa Cusak, leaves the Alpha Quadrant on an eight year exploration of the Beta Quadrant.",
+      "summary": "The Olympia, under Captain Lisa Cusak, leaves the Alpha Quadrant on an eight-year exploration of the Beta Quadrant.",
       "entities": [
         "Lisa Cusak"
       ],
@@ -38855,7 +38855,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-the-phoenix-is-commissioned-at-the-40-eridani-a-st",
@@ -38885,7 +38885,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-the-vau-n-akat-known-as-the-diviner-arrives-back",
@@ -38893,7 +38893,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Vau N'Akat known as \"The Diviner\" arrives back in time from 2436 and begins his twenty-year long quest to find the USS Protostar.",
+      "summary": "The Vau N'Akat known as the Diviner arrives from 2436 and begins a twenty-year quest to find the USS Protostar.",
       "entities": [
         "Vau N'Akat",
         "The Diviner",
@@ -38917,7 +38917,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-vaatrik-marries-pallra",
@@ -38948,7 +38948,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2363-zek-wins-the-global-tongo-championship-for-the-sev",
@@ -38956,7 +38956,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the seventeenth year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the seventeenth year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -38979,7 +38979,7 @@
         "https://memory-alpha.fandom.com/wiki/2363"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-a-ferengi-historian-collects-a-large-amount-of-dat",
@@ -38987,7 +38987,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A Ferengi historian collects a large amount of data concerning the origin of space travel in the Federation, intending to market it as a nostalgic gift item. One of the data items included in the Ferengi database is an image from 2050 of Shannon Janeway with her family.",
+      "summary": "A Ferengi historian collects data on the origin of Federation space travel to market as a nostalgic gift item, including a 2050 image of Shannon Janeway with her family.",
       "entities": [
         "Shannon Janeway"
       ],
@@ -39009,7 +39009,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-a-few-weeks-before-the-uss-enterprise-d-visits-the",
@@ -39017,7 +39017,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A few weeks before the USS Enterprise-D visits the Vandor system, there is an accident in one of the labs of the research outpost on the fourth planet. There are two survivors: Dr. Paul Manheim and his wife, Jenice.",
+      "summary": "A few weeks before the Enterprise-D visits the Vandor system, an accident in a research outpost lab on the system's fourth planet leaves two survivors, Dr. Paul Manheim and his wife Jenice.",
       "entities": [
         "Vandor system",
         "Paul Manheim",
@@ -39041,7 +39041,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-aamin-marritza-starts-to-work-as-an-instructor-at",
@@ -39049,7 +39049,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Aamin Marritza starts to work as an instructor at the Cardassian Military Academy on Kora II.",
+      "summary": "Aamin Marritza starts working as an instructor at the Cardassian Military Academy on Kora II.",
       "entities": [
         "Aamin Marritza",
         "Cardassian Military Academy",
@@ -39073,7 +39073,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-captain-jean-luc-picard-is-awarded-a-service-award",
@@ -39104,7 +39104,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-first-contact-made-after-discovering-the-existence",
@@ -39112,7 +39112,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "First contact made after discovering the existence of the microbrains of Velara III, who had been attempting contact themselves. They request to be left alone for three centuries and would consider re-opening communications with the Federation in 2664.",
+      "summary": "First contact is made with the microbrains of Velara III after they attempt contact themselves; they ask to be left alone for three centuries, open to resuming communication with the Federation in 2664.",
       "entities": [
         "Velara III"
       ],
@@ -39134,7 +39134,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-for-the-first-time-in-what-would-be-a-pattern-for",
@@ -39142,7 +39142,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "For the first time, in what would be a pattern for the next six years, Jean-Luc Picard finds a way to avoid the annual Admirals' Banquet.",
+      "summary": "Jean-Luc Picard avoids the annual Admirals' Banquet for the first time, beginning a pattern that continues for the next six years.",
       "entities": [
         "Admirals' Banquet"
       ],
@@ -39164,7 +39164,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-lore-is-discovered-on-omicron-theta-by-the-enterpr",
@@ -39172,7 +39172,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lore is discovered on Omicron Theta by the Enterprise crew. He is reassembled, but later transported into space when he tries to betray the Enterprise to the Crystalline Entity.",
+      "summary": "The Enterprise crew discovers Lore on Omicron Theta and reassembles him, but later transports him into space after he tries to betray the ship to the Crystalline Entity.",
       "entities": [
         "Lore",
         "Omicron Theta",
@@ -39196,7 +39196,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-mardah-leaves-her-foster-family-on-bajor-to-live-o",
@@ -39227,7 +39227,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-morn-visits-quark-s-for-the-first-time",
@@ -39258,7 +39258,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-natasha-yar-is-killed-on-vagra-ii-by-the-entity-kn",
@@ -39290,7 +39290,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-on-yadera-ii-the-father-of-taya-dies",
@@ -39298,7 +39298,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On Yadera II, the father of Taya dies.",
+      "summary": "On Yadera II, Taya's father dies.",
       "entities": [
         "Yadera II",
         "Taya"
@@ -39321,7 +39321,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-parasitic-beings-infiltrate-starfleet-command-adm",
@@ -39372,7 +39372,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Senator Pardek represents Romulus on a Barolian trade conference.",
+      "summary": "Senator Pardek represents Romulus at a Barolian trade conference.",
       "entities": [
         "Senator",
         "Pardek",
@@ -39397,7 +39397,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-several-federation-and-romulan-outposts-close-to-t",
