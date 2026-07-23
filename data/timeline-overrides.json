@@ -14,5 +14,9 @@
   "2266-dr-mccoy-spills-acid-in-sickbay-an-event-which-a": {
     "timeline": "prime",
     "note": "Not an overlay conflict - detectTimeline() matched the literal phrase 'mirror universe' anywhere in the text, but here it appears only in an italicized aside ('an event which also apparently happens on the mirror universe ISS Enterprise'). The primary clause - McCoy spilling acid in sickbay - is the prime event; the raw wikitext groups this bullet under the prime ;{{USS|Enterprise|NCC-1701}} ship heading, not any mirror-universe subsection. Citing TOS 'Mirror, Mirror' isn't corroboration either, per the same rule as Kelvin films: the episode that introduces a divergent universe still narrates prime-side events too. Confirmed only one bullet dataset-wide uses this aside phrasing, so a one-off correction rather than a parser heuristic."
+  },
+  "2367-in-another-quantum-reality-picard-is-lost-in-an-e": {
+    "timeline": "alternate",
+    "note": "Not an overlay conflict - detectTimeline() matched the phrase 'alternate reality' (MA's idiom for the Kelvin timeline) and tagged this kelvin, but this bullet is TNG 'Parallels', a quantum-multiverse story with no Kelvin-film citation at all: 'In another quantum reality, Picard is lost... In the same alternate reality, Worf and Deanna Troi...'. Confirmed via data/events.raw.json: of 31 'alternate reality' occurrences dataset-wide, the rest are either genuine Kelvin-timeline USS Enterprise headers (2255-2263) correctly caught by the phrase rule, or already protected by an '=== Alternate timelines ===' section heading that overrides phrase matching before detectTimeline() ever runs (see sectionTimeline() in parse-year.js) - e.g. the 2382 'everything was purple' Lower Decks bullet. This 2367 bullet is the one exception: an inline italicized aside with no section heading of its own, so a one-off correction rather than a parser change."
   }
 }
