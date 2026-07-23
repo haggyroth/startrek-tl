@@ -498,7 +498,10 @@ body {
 .chart {
   width: 100%;
   overflow-x: auto;
-  touch-action: none; /* let the zoom gesture own drag on touch devices */
+  /* A single finger scrolls the page (the chart can be taller than the
+     viewport); two fingers pinch/pan the chart, handled entirely by
+     d3-zoom's own touch listeners — see the matching filter in chart.js. */
+  touch-action: pan-y;
 }
 
 .chart-svg {
