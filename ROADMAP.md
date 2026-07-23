@@ -244,3 +244,17 @@ Coverage by era:
       `parse-century.js` has the same latent shape but no data currently
       exercises it (no century page nests a universe heading under another),
       so it was left as is rather than fixed speculatively.
+- [x] Fixed two mobile touch bugs, reported by a user as "the mobile version
+      needs some work": (1) `.chart { touch-action: none }` let d3-zoom's
+      filter accept a one-finger touchstart/touchmove exactly like a mouse
+      drag, so a normal swipe starting anywhere on the chart never scrolled
+      the page — confirmed by dispatching a synthetic one-finger touchmove and
+      watching the URL's year range change. Fixed by requiring two touches
+      for the zoom filter and loosening `touch-action` to `pan-y`, so a single
+      finger scrolls natively and two fingers still pinch/pan the chart. (2)
+      The tooltip was hover-only (`pointermove` shows it, `pointerleave`
+      hides it), and a touch "leaves" the instant the finger lifts, so tapping
+      a dot closed the tooltip before it could be read. Fixed with a
+      click/tap-to-pin: a tap opens and pins the tooltip, released by tapping
+      the same dot again, tapping elsewhere, or Escape — which also works as
+      click-to-pin for a mouse without changing existing hover behavior.
