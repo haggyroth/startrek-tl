@@ -26,5 +26,17 @@
   "2366-two-months-before-a-cell-of-the-ansata-first-use": {
     "tokens": ["Rutia", "IV"],
     "note": "Same as the Alexana Devos entry immediately above: this sub-bullet inherits 'Rutia IV' from the parent bullet ('On Rutia IV, these events occurred prior to stardate 43510:') rather than naming it directly. Confirmed against data/events.raw.json."
+  },
+  "2379-yor-travels-from-this-year-to-the-future-of-the-pr": {
+    "tokens": ["Kelvin"],
+    "note": "The word 'Kelvin' doesn't appear in this bullet's own text, but its 'this year' link targets 'Narada incursion reality' and the bullet sits under this year's '=== Alternate reality ===' heading - Memory Alpha's own structural signal for the Kelvin timeline (see CLAUDE.md on 'alternate reality' as MA's Kelvin idiom). Naming the Kelvin timeline directly states what the section heading and link already establish, not an addition."
+  },
+  "2381-engages-in-a-chase-with-the-cerritos-which-results": {
+    "tokens": ["Aledo", "Aledo's"],
+    "note": "This bullet's own text never names its subject ('Engages in a chase with the Cerritos...'), inheriting it from the ';{{USS|Aledo}}' subheading it's grouped under on the 2381 year page, alongside the Aledo's other bullets in the same block. Confirmed against data/events.raw.json."
+  },
+  "2381-engages-in-a-second-contact-race-with-the-uss-aled": {
+    "tokens": ["Cerritos"],
+    "note": "This bullet's own text never names its subject (\"Engages in a second contact race with the USS Aledo...\"), inheriting it from the USS Cerritos block it's grouped under on the 2381 year page - the immediately preceding bullets there are about Vice Admiral Les Buenamigo tricking the Cerritos into an encounter with the Breen, and Starfleet's Shame airing for the Cerritos crew. Confirmed against data/events.raw.json."
   }
 }
