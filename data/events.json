@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated": "2026-07-22",
+    "generated": "2026-07-23",
     "range": [
       2063,
       3269
     ],
     "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 1184,
+    "authoredSummaries": 1274,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -33313,7 +33313,7 @@
         "https://memory-alpha.fandom.com/wiki/2351"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2351-on-terok-nor-bajoran-scientists-dekon-elig-and-su",
@@ -33321,7 +33321,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On Terok Nor, Bajoran scientists Dekon Elig and Surmak Ren plant an aphasia device, created to kill the Cardassians on the station with an aphasia virus. However, the device is never activated and lies dormant until 2369.",
+      "summary": "On Terok Nor, Bajoran scientists Dekon Elig and Surmak Ren plant an aphasia device meant to kill the station's Cardassians with an aphasia virus, but it is never activated and lies dormant until 2369.",
       "entities": [
         "Bajoran",
         "Dekon Elig",
@@ -33346,7 +33346,7 @@
         "https://memory-alpha.fandom.com/wiki/2351"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2351-quark-leaves-his-home-on-ferenginar-after-reaching",
@@ -33378,7 +33378,7 @@
         "https://memory-alpha.fandom.com/wiki/2351"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2351-richard-bashir-is-a-federation-diplomat-on-inverni",
@@ -33386,7 +33386,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Richard Bashir is a Federation diplomat on Invernia II. His son Julian Bashir, after witnessing the death of an Invernian girl, decides to become a doctor.",
+      "summary": "Federation diplomat Richard Bashir serves on Invernia II, where his son Julian decides to become a doctor after witnessing the death of an Invernian girl.",
       "entities": [
         "Richard Bashir",
         "Invernia II",
@@ -33411,7 +33411,7 @@
         "https://memory-alpha.fandom.com/wiki/2351"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2351-the-duras-sisters-bird-of-prey-is-commissioned-in",
@@ -33450,7 +33450,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Vandor IV is selected by Dr. Paul Manheim as the location for his time experiments.",
+      "summary": "Dr. Paul Manheim selects Vandor IV as the site for his time experiments.",
       "entities": [
         "Vandor IV",
         "Paul Manheim"
@@ -33473,7 +33473,7 @@
         "https://memory-alpha.fandom.com/wiki/2351"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2351-while-on-a-three-year-science-mission-the-romulan",
@@ -33481,7 +33481,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "While on a three-year science mission, the Romulan Telek R'Mor is contacted by the USS Voyager from the year 2371 via a micro-wormhole.",
+      "summary": "During his three-year science mission, the Romulan Telek R'Mor is contacted by the USS Voyager from the year 2371 via a micro-wormhole.",
       "entities": [
         "Romulan",
         "Telek R'Mor",
@@ -33505,7 +33505,7 @@
         "https://memory-alpha.fandom.com/wiki/2351"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2351-zek-wins-the-global-tongo-championship-for-the-fif",
@@ -33513,7 +33513,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the fifth year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the fifth year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -33536,7 +33536,7 @@
         "https://memory-alpha.fandom.com/wiki/2351"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2352-according-to-a-falsified-starfleet-personnel-file",
@@ -33567,7 +33567,7 @@
         "https://memory-alpha.fandom.com/wiki/2352"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2352-beverly-crusher-interns-on-delos-iv-under-doctor-d",
@@ -33599,7 +33599,7 @@
         "https://memory-alpha.fandom.com/wiki/2352"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2352-ishara-yar-becomes-a-turkana-iv-coalition-member",
@@ -33630,7 +33630,7 @@
         "https://memory-alpha.fandom.com/wiki/2352"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2352-joseph-sisko-s-family-doctor-moves-to-new-orleans",
@@ -33662,7 +33662,7 @@
         "https://memory-alpha.fandom.com/wiki/2352"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2352-natasha-yar-flees-from-the-failed-human-colony-on",
@@ -33712,7 +33712,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Sneed is arrested on Ferenginar. He is found guilty of falsifying documents and sentenced to pay 5 bars of gold pressed latinum.",
+      "summary": "Sneed is arrested on Ferenginar, found guilty of falsifying documents, and sentenced to pay five bars of gold-pressed latinum.",
       "entities": [
         "Sneed",
         "Ferenginar"
@@ -33735,7 +33735,7 @@
         "https://memory-alpha.fandom.com/wiki/2352"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2352-tim-watters-is-born",
@@ -33765,7 +33765,7 @@
         "https://memory-alpha.fandom.com/wiki/2352"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2352-turkana-iv-severs-relations-with-the-federation",
@@ -33795,7 +33795,7 @@
         "https://memory-alpha.fandom.com/wiki/2352"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2352-varria-partners-with-kivas-fajo",
@@ -33826,7 +33826,7 @@
         "https://memory-alpha.fandom.com/wiki/2352"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2352-zek-wins-the-global-tongo-championship-for-the-six",
@@ -33834,7 +33834,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the sixth year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the sixth year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -33857,7 +33857,7 @@
         "https://memory-alpha.fandom.com/wiki/2352"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2353-david-a-genetically-engineered-human-is-born-at",
@@ -33865,7 +33865,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "David, a genetically-engineered Human, is born at the Darwin Genetic Research Station.",
+      "summary": "David, a genetically engineered human, is born at the Darwin Genetic Research Station.",
       "entities": [
         "Human",
         "Darwin Genetic Research Station"
@@ -33888,7 +33888,7 @@
         "https://memory-alpha.fandom.com/wiki/2353"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2353-hector-ilario-is-born",
@@ -33918,7 +33918,7 @@
         "https://memory-alpha.fandom.com/wiki/2353"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2353-in-the-delta-quadrant-five-members-of-viorsa-s-sp",
@@ -33926,7 +33926,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In the Delta Quadrant, five members of Viorsa's species go into hibernation as the planet they live on is rendered uninhabitable by a solar flare.",
+      "summary": "In the Delta Quadrant, five members of Viorsa's species enter hibernation after a solar flare renders their planet uninhabitable.",
       "entities": [
         "Viorsa's species",
         "Kohl settlement"
@@ -33949,7 +33949,7 @@
         "https://memory-alpha.fandom.com/wiki/2353"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2353-jack-r-crusher-dies-on-an-away-mission-jean-luc",
@@ -34010,7 +34010,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jeremiah Rossa is born at Galen IV colony.",
+      "summary": "Jeremiah Rossa is born at the Galen IV colony.",
       "entities": [
         "Jeremiah Rossa",
         "Galen IV colony"
@@ -34033,7 +34033,7 @@
         "https://memory-alpha.fandom.com/wiki/2353"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2353-kira-meru-dies-in-a-cardassian-hospital",
@@ -34064,7 +34064,7 @@
         "https://memory-alpha.fandom.com/wiki/2353"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2353-one-of-the-childrenwho-living-on-deep-space-9-in",
@@ -34072,7 +34072,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "One of the childrenwho? living on Deep Space 9 in 2369 was born in this year.",
+      "summary": "One of the children living on Deep Space 9 in 2369 is born this year.",
       "entities": [
         "Deep Space 9"
       ],
@@ -34094,7 +34094,7 @@
         "https://memory-alpha.fandom.com/wiki/2353"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2353-raffaela-musiker-is-born-on-earth",
@@ -34125,7 +34125,7 @@
         "https://memory-alpha.fandom.com/wiki/2353"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2353-the-tholians-destroy-a-federation-starbase-the-on",
@@ -34133,7 +34133,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Tholians destroy a Federation starbase. The only survivor of the attack is Kyle Riker.",
+      "summary": "The Tholians destroy a Federation starbase; Kyle Riker is the attack's only survivor.",
       "entities": [
         "Tholian",
         "Kyle Riker"
@@ -34156,7 +34156,7 @@
         "https://memory-alpha.fandom.com/wiki/2353"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2353-tora-ziyal-daughter-of-gul-dukat-and-tora-naprem",
@@ -34188,7 +34188,7 @@
         "https://memory-alpha.fandom.com/wiki/2353"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2353-william-t-riker-and-geordi-la-forge-enter-starfle",
@@ -34263,7 +34263,7 @@
         "https://memory-alpha.fandom.com/wiki/2353"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2353-zek-wins-the-global-tongo-championship-for-the-sev",
@@ -34271,7 +34271,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the seventh year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the seventh year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -34294,7 +34294,7 @@
         "https://memory-alpha.fandom.com/wiki/2353"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2354-benjamin-sisko-and-solok-graduate-from-starfleet-a",
@@ -34349,7 +34349,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Doctor T'Pan becomes director of the Vulcan Science Academy.",
+      "summary": "Dr. T'Pan becomes director of the Vulcan Science Academy.",
       "entities": [
         "T'Pan",
         "Vulcan Science Academy"
@@ -34372,7 +34372,7 @@
         "https://memory-alpha.fandom.com/wiki/2354"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2354-jack-b-raymond-is-born-on-earth",
@@ -34394,7 +34394,7 @@
         "https://memory-alpha.fandom.com/wiki/2354"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2354-jeremy-aster-is-born-on-earth",
@@ -34424,7 +34424,7 @@
         "https://memory-alpha.fandom.com/wiki/2354"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2354-kathryn-janeway-plays-her-last-game-of-tennis-she",
@@ -34432,7 +34432,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kathryn Janeway plays her last game of tennis. She does not play again for another nineteen years.",
+      "summary": "Kathryn Janeway plays her last game of tennis, not to play again for another nineteen years.",
       "entities": [
         "Kathryn Janeway"
       ],
@@ -34454,7 +34454,7 @@
         "https://memory-alpha.fandom.com/wiki/2354"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2354-the-uss-stargazer-visits-the-world-chalna",
@@ -34485,7 +34485,7 @@
         "https://memory-alpha.fandom.com/wiki/2354"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2354-zek-wins-the-global-tongo-championship-for-the-eig",
@@ -34493,7 +34493,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the eighth year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the eighth year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -34516,7 +34516,7 @@
         "https://memory-alpha.fandom.com/wiki/2354"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2355-captain-jean-luc-picard-is-court-martialed-for-the",
@@ -34524,7 +34524,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Jean-Luc Picard is court martialed for the loss of the Stargazer. The prosecutor for Starfleet Command is Phillipa Louvois.",
+      "summary": "Captain Jean-Luc Picard is court-martialed for the loss of the Stargazer, with Phillipa Louvois prosecuting for Starfleet Command.",
       "entities": [
         "Phillipa Louvois"
       ],
@@ -34546,7 +34546,7 @@
         "https://memory-alpha.fandom.com/wiki/2355"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2355-chu-lak-is-assigned-to-the-strata-as-an-ensign",
@@ -34576,7 +34576,7 @@
         "https://memory-alpha.fandom.com/wiki/2355"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2355-deanna-troi-enters-starfleet-academy",
@@ -34607,7 +34607,7 @@
         "https://memory-alpha.fandom.com/wiki/2355"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2355-dr-paul-manheim-first-devises-his-theory-that-if",
@@ -34615,7 +34615,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Paul Manheim first devises his theory that if the consistency of time is altered, a doorway into another dimension will appear.",
+      "summary": "Dr. Paul Manheim first devises his theory that altering the consistency of time opens a doorway into another dimension.",
       "entities": [
         "Paul Manheim"
       ],
@@ -34637,7 +34637,7 @@
         "https://memory-alpha.fandom.com/wiki/2355"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2355-in-what-later-became-known-as-the-battle-of-maxia",
@@ -34756,7 +34756,7 @@
         "https://memory-alpha.fandom.com/wiki/2355"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2355-john-and-mary-kim-take-their-son-harry-to-a-haunte",
@@ -34788,7 +34788,7 @@
         "https://memory-alpha.fandom.com/wiki/2355"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2355-kira-nerys-joins-the-shakaar-edon-base-camp-in-the",
@@ -34796,7 +34796,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kira Nerys joins the Shakaar Edon base camp in the hopes of becoming a resistance member.",
+      "summary": "Kira Nerys joins the Shakaar Edon base camp hoping to become a resistance member.",
       "entities": [
         "Kira Nerys",
         "Shakaar Edon",
@@ -34825,7 +34825,7 @@
         "https://memory-alpha.fandom.com/wiki/2355"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2355-seven-of-nine-emerges-from-a-borg-maturation-chamb",
@@ -34833,7 +34833,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Seven of Nine emerges from a Borg maturation chamber, having been assimilated five years before.",
+      "summary": "Seven of Nine emerges from a Borg maturation chamber, five years after her assimilation.",
       "entities": [
         "Seven of Nine",
         "Borg"
@@ -34856,7 +34856,7 @@
         "https://memory-alpha.fandom.com/wiki/2355"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2355-worf-completes-his-first-rite-of-ascension",
@@ -34887,7 +34887,7 @@
         "https://memory-alpha.fandom.com/wiki/2355"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2355-worf-visits-the-great-domes-of-qo-nos-for-the-firs",
@@ -34917,7 +34917,7 @@
         "https://memory-alpha.fandom.com/wiki/2355"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2355-zek-wins-the-global-tongo-championship-for-the-nin",
@@ -34925,7 +34925,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the ninth year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the ninth year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -34948,7 +34948,7 @@
         "https://memory-alpha.fandom.com/wiki/2355"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2356-abaddon-begins-maintaining-his-inventory-for-abadd",
@@ -34956,7 +34956,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Abaddon begins maintaining his inventory for Abaddon's Repository of Lost Treasures.",
+      "summary": "Abaddon begins maintaining the inventory for Abaddon's Repository of Lost Treasures.",
       "entities": [
         "Abaddon",
         "Abaddon's Repository of Lost Treasures"
@@ -34979,7 +34979,7 @@
         "https://memory-alpha.fandom.com/wiki/2356"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2356-according-to-a-falsified-starfleet-personnel-file",
@@ -35010,7 +35010,7 @@
         "https://memory-alpha.fandom.com/wiki/2356"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2356-in-the-delta-quadrant-the-talaxian-moon-rinax-is",
@@ -35018,7 +35018,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In the Delta Quadrant, the Talaxian moon Rinax is attacked by a metreon cascade engineered by the Haakonian scientist Ma'Bor Jetrel. The moon is rendered uninhabitable, killing hundreds of thousands of Talaxians.",
+      "summary": "In the Delta Quadrant, Haakonian scientist Ma'Bor Jetrel's metreon cascade attack renders the Talaxian moon Rinax uninhabitable, killing hundreds of thousands.",
       "entities": [
         "Talaxian",
         "Rinax",
@@ -35043,7 +35043,7 @@
         "https://memory-alpha.fandom.com/wiki/2356"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2356-julian-bashir-discovers-that-he-was-genetically-en",
@@ -35051,7 +35051,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Julian Bashir discovers that he was genetically enhanced and believes that his parents might have considered him to have been defective. He stops using their nickname for him, \"Jules\", in favor of \"Julian\".",
+      "summary": "Julian Bashir discovers he was genetically enhanced, comes to believe his parents saw him as defective, and stops going by their nickname Jules in favor of Julian.",
       "entities": [
         "Julian Bashir",
         "Jules"
@@ -35074,7 +35074,7 @@
         "https://memory-alpha.fandom.com/wiki/2356"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2356-kathryn-janeway-meets-tuvok-for-the-first-time",
@@ -35105,7 +35105,7 @@
         "https://memory-alpha.fandom.com/wiki/2356"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2356-kira-nerys-becomes-a-member-of-the-shakaar-resista",
@@ -35136,7 +35136,7 @@
         "https://memory-alpha.fandom.com/wiki/2356"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2356-one-of-william-and-louise-samuels-two-daughters-i",
@@ -35169,7 +35169,7 @@
         "https://memory-alpha.fandom.com/wiki/2356"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2356-production-of-mark-v-transporters-is-stopped",
@@ -35199,7 +35199,7 @@
         "https://memory-alpha.fandom.com/wiki/2356"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2356-surmak-ren-is-arrested-several-times-but-released",
@@ -35207,7 +35207,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Surmak Ren is arrested several times but released for insufficient evidence.",
+      "summary": "Surmak Ren is arrested several times but released each time for insufficient evidence.",
       "entities": [
         "Surmak Ren"
       ],
@@ -35229,7 +35229,7 @@
         "https://memory-alpha.fandom.com/wiki/2356"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2356-the-alcyone-people-destroy-a-tarellian-vessel-whic",
@@ -35237,7 +35237,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Alcyone people destroy a Tarellian vessel which is assumed to be the last ship of this ill-fated species. Up to the year 2364, the Tarellian people are thought of as extinct until a lone starship entered the Haven star system.",
+      "summary": "The Alcyone people destroy a Tarellian vessel believed to be the species' last, leaving the Tarellians presumed extinct until a lone ship enters the Haven system in 2364.",
       "entities": [
         "Alcyone",
         "Tarellian vessel",
@@ -35262,7 +35262,7 @@
         "https://memory-alpha.fandom.com/wiki/2356"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2356-zek-wins-the-global-tongo-championship-for-the-ten",
@@ -35270,7 +35270,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the tenth year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the tenth year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -35293,7 +35293,7 @@
         "https://memory-alpha.fandom.com/wiki/2356"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2357-as-part-of-the-galen-border-conflict-the-talarian",
@@ -35301,7 +35301,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "As part of the Galen border conflict, the Talarians attack the Federation colony on Galen IV, where the four-year-old Jeremiah Rossa loses his parents and is adopted by the Talarian officer Endar.",
+      "summary": "As part of the Galen border conflict, the Talarians attack the Federation colony on Galen IV; four-year-old Jeremiah Rossa loses his parents there and is adopted by Talarian officer Endar.",
       "entities": [
         "Galen border conflict",
         "Talarian",
@@ -35327,7 +35327,7 @@
         "https://memory-alpha.fandom.com/wiki/2357"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2357-geordi-la-forge-is-assigned-to-the-victory-followi",
@@ -35335,7 +35335,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Geordi La Forge is assigned to the Victory following his graduation from Starfleet Academy.",
+      "summary": "Geordi La Forge is assigned to the Victory after graduating from Starfleet Academy.",
       "entities": [
         "Geordi La Forge"
       ],
@@ -35362,7 +35362,7 @@
         "https://memory-alpha.fandom.com/wiki/2357"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2357-in-the-delta-quadrant-a-hirogen-is-captured-by-pe",
@@ -35370,7 +35370,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In the Delta Quadrant, a Hirogen is captured by Penk and is forced to fight in Tsunkatse matches.",
+      "summary": "In the Delta Quadrant, Penk captures a Hirogen and forces him to fight in Tsunkatse matches.",
       "entities": [
         "Hirogen fighter 001",
         "Penk",
@@ -35394,7 +35394,7 @@
         "https://memory-alpha.fandom.com/wiki/2357"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2357-kathryn-m-janeway-graduated-from-starfleet-academ",
@@ -35402,7 +35402,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kathryn M. Janeway graduated from Starfleet Academy.",
+      "summary": "Kathryn M. Janeway graduates from Starfleet Academy.",
       "entities": [
         "Kathryn Janeway"
       ],
@@ -35424,7 +35424,7 @@
         "https://memory-alpha.fandom.com/wiki/2357"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2357-surmak-ren-is-convicted-of-terrorist-activity-by-t",
@@ -35432,7 +35432,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Surmak Ren is convicted of terrorist activity by the Cardassian Regional Court on charges of terrorist activity stemming from the kidnapping of Gul Spumco.",
+      "summary": "The Cardassian Regional Court convicts Surmak Ren of terrorist activity over the kidnapping of Gul Spumco.",
       "entities": [
         "Surmak Ren",
         "Cardassian Regional Court",
@@ -35456,7 +35456,7 @@
         "https://memory-alpha.fandom.com/wiki/2357"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2357-t-jon-a-native-of-ornara-in-the-delos-system-ass",
@@ -35488,7 +35488,7 @@
         "https://memory-alpha.fandom.com/wiki/2357"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2357-the-cardassian-gallitep-labor-camp-is-liberated-by",
@@ -35496,7 +35496,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Cardassian Gallitep labor camp is liberated by the Shakaar resistance cell.",
+      "summary": "The Shakaar resistance cell liberates the Cardassian Gallitep labor camp.",
       "entities": [
         "Cardassian",
         "Gallitep labor camp",
@@ -35520,7 +35520,7 @@
         "https://memory-alpha.fandom.com/wiki/2357"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2357-the-freighter-odin-is-declared-missing-after-a-col",
@@ -35528,7 +35528,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The freighter Odin is declared missing after a collision with an asteroid. After five months in escape pods, the survivors land on Angel I.",
+      "summary": "The freighter Odin is declared missing after colliding with an asteroid; after five months in escape pods, its survivors land on Angel I.",
       "entities": [
         "Odin",
         "Angel I"
@@ -35551,7 +35551,7 @@
         "https://memory-alpha.fandom.com/wiki/2357"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2357-vash-visits-earth-for-the-last-time",
@@ -35581,7 +35581,7 @@
         "https://memory-alpha.fandom.com/wiki/2357"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2357-will-riker-graduated-from-starfleet-academy-eight",
@@ -35589,7 +35589,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Will Riker graduated from Starfleet Academy, eighth in his graduating class.",
+      "summary": "Will Riker graduates from Starfleet Academy, eighth in his class.",
       "entities": [
         "Starfleet Academy"
       ],
@@ -35611,7 +35611,7 @@
         "https://memory-alpha.fandom.com/wiki/2357"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2357-william-t-riker-receives-his-first-assignment-to",
@@ -35619,7 +35619,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "William T. Riker receives his first assignment to the Pegasus as a helmsman.",
+      "summary": "William T. Riker receives his first assignment, as a helmsman aboard the Pegasus.",
       "entities": [
         "William T. Riker"
       ],
@@ -35646,7 +35646,7 @@
         "https://memory-alpha.fandom.com/wiki/2357"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2357-worf-enters-starfleet-academy",
@@ -35691,7 +35691,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the eleventh year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the eleventh year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -35714,7 +35714,7 @@
         "https://memory-alpha.fandom.com/wiki/2357"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2358-harry-kim-joins-his-parents-john-and-mary-on-a-h",
@@ -35722,7 +35722,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Harry Kim joins his parents, John and Mary, on a humanitarian mission to a colony that had just suffered from a radiation disaster. While there, the Kims visit a hospital, and Harry wanders off by himself to an area where he wasn't supposed to be. In this area, he sees many sick and dying, including a little girl on an operating table. As he watches, the doctor calls for a scalpel, and the little girl looks at Harry, her face filled with fear. As well, at some point this year, the nine year old Kim contracts the Mendakan pox.",
+      "summary": "Harry Kim joins his parents John and Mary on a humanitarian mission to a colony recovering from a radiation disaster, where he wanders off into a hospital ward and witnesses a dying girl on an operating table; the nine-year-old Kim also contracts the Mendakan pox that year.",
       "entities": [
         "Harry Kim",
         "John Kim",
@@ -35752,7 +35752,7 @@
         "https://memory-alpha.fandom.com/wiki/2358"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2358-in-the-delta-quadrant-the-think-tank-group-recr",
@@ -35760,7 +35760,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In the Delta Quadrant, the \"Think Tank\" group recruits an unnamed person into their number. They do not attempt to do so again until 2375, when they extend the offer to Seven of Nine.",
+      "summary": "In the Delta Quadrant, the Think Tank group recruits an unnamed member, not extending another offer until 2375, when Seven of Nine receives one.",
       "entities": [
         "Think Tank",
         "Seven of Nine"
@@ -35783,7 +35783,7 @@
         "https://memory-alpha.fandom.com/wiki/2358"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2358-miranda-vigo-and-her-son-jason-move-to-a-colony",
@@ -35791,7 +35791,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Miranda Vigo and her son, Jason, move to a colony on the planet Camor V.",
+      "summary": "Miranda Vigo and her son Jason move to a colony on the planet Camor V.",
       "entities": [
         "Miranda Vigo",
         "Jason Vigo",
@@ -35815,7 +35815,7 @@
         "https://memory-alpha.fandom.com/wiki/2358"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2358-one-of-william-and-louise-samuels-two-daughters-i",
@@ -35823,7 +35823,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "One of William and Louise Samuels' two daughters is born on Volan II.",
+      "summary": "The second of William and Louise Samuels' two daughters is born on Volan II.",
       "entities": [
         "William Samuels",
         "Louise Samuels",
@@ -35848,7 +35848,7 @@
         "https://memory-alpha.fandom.com/wiki/2358"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2358-ro-laren-enters-starfleet-academy",
@@ -35884,7 +35884,7 @@
         "https://memory-alpha.fandom.com/wiki/2358"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2358-rugal-is-born",
@@ -35914,7 +35914,7 @@
         "https://memory-alpha.fandom.com/wiki/2358"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2358-tanis-is-born",
@@ -35942,7 +35942,7 @@
         "https://memory-alpha.fandom.com/wiki/2358"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2358-the-daughter-of-lieutenant-onara-an-officer-in-th",
@@ -35950,7 +35950,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The daughter of Lieutenant Onara, an officer in the Bajoran militia, is born on Bajor.",
+      "summary": "The daughter of Lieutenant Onara, a Bajoran militia officer, is born on Bajor.",
       "entities": [
         "Onara",
         "Bajoran militia",
@@ -35974,7 +35974,7 @@
         "https://memory-alpha.fandom.com/wiki/2358"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2358-the-parada-civil-war-begins",
@@ -36005,7 +36005,7 @@
         "https://memory-alpha.fandom.com/wiki/2358"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2358-the-pegasus-is-presumed-destroyed-after-an-apparen",
@@ -36013,7 +36013,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Pegasus is presumed destroyed after an apparent warp core breach. The ship had been a test bed for a new phasing cloaking device developed by Starfleet Intelligence, and the ship's crew had mutinied in protest against the creation of such a device. In fact, the ship, still in a phased state, drifts through space, eventually dephasing inside an asteroid in the Devolin system. Following the Judge Advocate General's inquiry into the incident, William T. Riker is assigned to Betazed.",
+      "summary": "The Pegasus, a test bed for a phasing cloaking device that had prompted its crew to mutiny, is presumed destroyed in an apparent warp core breach, though it in fact drifts through space still phased before dephasing inside an asteroid in the Devolin system; a Judge Advocate General inquiry follows, and William T. Riker is assigned to Betazed.",
       "entities": [
         "Starfleet Intelligence",
         "Devolin system",
@@ -36039,7 +36039,7 @@
         "https://memory-alpha.fandom.com/wiki/2358"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2358-vice-admiral-janeway-father-of-kathryn-janeway-d",
@@ -36047,7 +36047,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Vice Admiral Janeway, father of Kathryn Janeway, drowns beneath the ice cap of Tau Ceti Prime.",
+      "summary": "Vice Admiral Janeway, Kathryn Janeway's father, drowns beneath the ice cap of Tau Ceti Prime.",
       "entities": [
         "Vice Admiral",
         "Kathryn Janeway",
@@ -36071,7 +36071,7 @@
         "https://memory-alpha.fandom.com/wiki/2358"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2358-willie-potts-is-born",
@@ -36101,7 +36101,7 @@
         "https://memory-alpha.fandom.com/wiki/2358"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2358-zek-wins-the-global-tongo-championship-for-the-twe",
@@ -36109,7 +36109,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the twelfth year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the twelfth year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -36132,7 +36132,7 @@
         "https://memory-alpha.fandom.com/wiki/2358"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2359-admiral-mark-jameson-is-diagnosed-with-iverson-s-d",
@@ -36163,7 +36163,7 @@
         "https://memory-alpha.fandom.com/wiki/2359"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2359-after-forty-years-the-civil-war-on-mordan-iv-ends",
@@ -36194,7 +36194,7 @@
         "https://memory-alpha.fandom.com/wiki/2359"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2359-deanna-troi-graduates-from-starfleet-academy",
@@ -36225,7 +36225,7 @@
         "https://memory-alpha.fandom.com/wiki/2359"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2359-dr-bathkin-dies-in-a-shuttlecraft-accident",
@@ -36255,7 +36255,7 @@
         "https://memory-alpha.fandom.com/wiki/2359"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2359-kar-is-born",
@@ -36285,7 +36285,7 @@
         "https://memory-alpha.fandom.com/wiki/2359"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2359-piri-is-born",
@@ -36315,7 +36315,7 @@
         "https://memory-alpha.fandom.com/wiki/2359"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2359-william-t-riker-begins-practicing-night-bird-on",
@@ -36323,7 +36323,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "William T. Riker begins practicing \"Night Bird\" on his trombone.",
+      "summary": "William T. Riker begins practicing the piece Night Bird on his trombone.",
       "entities": [
         "William T. Riker",
         "Night Bird"
@@ -36346,7 +36346,7 @@
         "https://memory-alpha.fandom.com/wiki/2359"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2359-worf-and-k-ehleyr-separate-because-neither-feel-re",
@@ -36354,7 +36354,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Worf and K'Ehleyr separate because neither feel ready to engage in a deep relationship.",
+      "summary": "Worf and K'Ehleyr separate, neither feeling ready for a deep relationship.",
       "entities": [
         "Worf",
         "K'Ehleyr"
@@ -36377,7 +36377,7 @@
         "https://memory-alpha.fandom.com/wiki/2359"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2359-zek-wins-the-global-tongo-championship-for-the-thi",
@@ -36385,7 +36385,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the thirteenth year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the thirteenth year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -36408,7 +36408,7 @@
         "https://memory-alpha.fandom.com/wiki/2359"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-alixus-deliberately-arranges-for-the-ss-santa-mari",
@@ -36416,7 +36416,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Alixus deliberately arranges for the SS Santa Maria to be stranded on a planet in the Orellius system, in order to establish her own technology-free colony.",
+      "summary": "Alixus deliberately strands the SS Santa Maria on a planet in the Orellius system to establish her own technology-free colony.",
       "entities": [
         "Alixus",
         "Orellius system",
@@ -36440,7 +36440,7 @@
         "https://memory-alpha.fandom.com/wiki/2360"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2360-before-the-cardassians-hit-the-lunar-v-base-the-b",
