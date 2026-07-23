@@ -185,6 +185,11 @@ export function parseYearPage(wikitext, year) {
   let sdContext = null; // current "* Stardate N" heading, if any
   let inEventSection = false;
   let universe = null;
+  // universe, keyed by heading level, so a sibling heading can't inherit
+  // from an earlier sibling — only from a true ancestor. Without this, "===
+  // Alternate timeline ===" followed by a sibling "=== Note ===" let the note
+  // wrongly inherit "alternate" from its sibling instead of resetting.
+  const universeByLevel = new Map();
   const usedIds = new Map();
 
   for (const rawLine of wikitext.split("\n")) {
@@ -194,16 +199,37 @@ export function parseYearPage(wikitext, year) {
     if (heading) {
       const level = heading[1].length;
       const text = heading[2].trim();
+
+      // Leaving a subsection's scope: any heading, at any depth, ends the
+      // current ;subheader's bullet list. Without this, bullets under a
+      // heading that isn't itself a ship/station one ("==== Other events
+      // ====" nested under "=== Prime universe ===" is common) silently
+      // inherited whatever ship was last grouped above, mislabeling their
+      // location — e.g. an "Other events" DS9 bullet inheriting "USS
+      // Voyager" from the starship subsection just above it.
+      group = null;
+      month = null;
+
+      // Drop any deeper levels we're no longer inside, then resolve this
+      // heading's own universe, inheriting from the nearest remaining
+      // (i.e. shallower) ancestor level when the heading isn't itself a
+      // universe heading.
+      for (const l of [...universeByLevel.keys()]) {
+        if (l >= level) universeByLevel.delete(l);
+      }
+      let inherited = null;
+      for (let l = level - 1; l >= 2; l--) {
+        if (universeByLevel.has(l)) {
+          inherited = universeByLevel.get(l);
+          break;
+        }
+      }
+      universe = sectionTimeline(text) ?? inherited;
+      universeByLevel.set(level, universe);
+
       if (level === 2) {
         section = text;
         inEventSection = EVENT_SECTIONS.test(section);
-        group = null;
-        month = null;
-        universe = sectionTimeline(section);
-      } else if (level === 3) {
-        // H3 subsections inherit their parent's event status, but a universe
-        // heading ("Mirror universe") overrides the timeline beneath it.
-        universe = sectionTimeline(text) ?? sectionTimeline(section);
       }
       continue;
     }

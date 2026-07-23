@@ -232,3 +232,61 @@ test("production notes are not events", () => {
   assert.equal(events.length, 1);
   assert.equal(events[0].summary, "A real event happens.");
 });
+
+// Regression: "==== Other events ====" nested under "=== Prime universe ==="
+// (a common shape once a year page splits by universe) is deeper than the H2
+// that used to be the only thing clearing `group`. Bullets under it silently
+// inherited whatever ship was last grouped in the sibling "By starship or
+// station" subsection, mislabeling their location — e.g. a Deep Space 9
+// bullet showing up grouped under "USS Voyager".
+test("a heading below H2 still clears the ship/station group", () => {
+  const wikitext = `== Events ==
+=== Prime universe ===
+==== By starship or station ====
+;{{USS|Voyager}}
+* A Voyager event. ({{VOY|A}})
+==== Other events ====
+* An ungrouped event. ({{DS9|B}})
+`;
+  const { events } = parseYearPage(wikitext, 2372);
+  assert.deepEqual(
+    events.map((e) => e.group),
+    ["USS Voyager", null],
+  );
+});
+
+// Regression: fixing the above by chaining `universe` forward through every
+// heading (instead of only H2/H3) initially broke sibling isolation — a
+// "=== Note ===" section coming after "=== Alternate timeline ===" wrongly
+// inherited "alternate" from its sibling instead of resetting. Universe
+// inheritance must walk up to the nearest true ancestor level, not sideways.
+test("a sibling heading does not inherit a universe from the sibling before it", () => {
+  const wikitext = `== Events ==
+=== Alternate timeline ===
+* Something that never happened. ({{TNG|A}})
+=== Note ===
+* An ordinary prime fact. ({{TNG|B}})
+`;
+  const { events } = parseYearPage(wikitext, 2366);
+  assert.deepEqual(
+    events.map((e) => e.timeline),
+    ["alternate", "prime"],
+  );
+});
+
+// The nested case this was all for: a universe heading two levels up should
+// still reach bullets under an intervening non-universe heading.
+test("universe inheritance reaches through an intervening non-universe heading", () => {
+  const wikitext = `== Events ==
+=== Mirror universe ===
+==== By starship or station ====
+* A mirror event with no telltale wording. ({{DS9|A}})
+==== Other events ====
+* Another mirror event with no telltale wording. ({{DS9|B}})
+`;
+  const { events } = parseYearPage(wikitext, 2372);
+  assert.deepEqual(
+    events.map((e) => e.timeline),
+    ["mirror", "mirror"],
+  );
+});
