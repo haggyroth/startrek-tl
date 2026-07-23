@@ -175,8 +175,8 @@ Known and accepted:
       exceptions (`data/verify-exceptions.json`), for cases where a source
       stardate is correct but the year page's own sidebar range is a rounded
       or inconsistent summary of its own citations
-- [ ] Author the remaining summaries — **1,364 / 2,037 (67%)**, 24th century
-      at 452/1,125
+- [ ] Author the remaining summaries — **1,454 / 2,037 (71%)**, 24th century
+      at 542/1,125
 - [ ] Switch the committed build to `--strict`
 
 On the strict flip: the capability works and is tested, but flipping it now
@@ -192,5 +192,5 @@ Coverage by era:
 | **ENT (2101–2161)** | **213 / 213 ✅** |
 | **Gap (2162–2232)** | **60 / 60 ✅** |
 | **23rd century** | **453 / 453 ✅** |
-| 24th century | 452 / 1,125 |
+| 24th century | 542 / 1,125 |
 | **Far future** | **133 / 133 ✅** |

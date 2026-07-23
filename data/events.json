@@ -7,7 +7,7 @@
     ],
     "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 1364,
+    "authoredSummaries": 1454,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -39448,7 +39448,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Six months before the starship Enterprise-D visits the Omega Sagitta system, Benzan of Straleb and Yanar of Atlec begin courting each other with the assistance of Captain Thadiun Okona.",
+      "summary": "Six months before the Enterprise-D visits the Omega Sagitta system, Benzan of Straleb and Yanar of Atlec begin courting each other with Captain Thadiun Okona's help.",
       "entities": [
         "Omega Sagitta system",
         "Benzan",
@@ -39475,7 +39475,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-sneed-is-arrested-on-cardassia-he-is-charged-with",
@@ -39483,7 +39483,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Sneed is arrested on Cardassia. He is charged with fraud and sentenced to 2 years labor on a Bajoran colony.",
+      "summary": "Sneed is arrested on Cardassia, charged with fraud, and sentenced to two years labor on a Bajoran colony.",
       "entities": [
         "Sneed",
         "Cardassia",
@@ -39507,7 +39507,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-starfleet-admiral-mark-jameson-dies-on-mordan-iv",
@@ -39538,7 +39538,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-starfleet-begins-a-search-for-a-suitable-star-whic",
@@ -39546,7 +39546,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet begins a search for a suitable star which will meet the requirements, including its similarity to the Kaelon II sun, for a test of the helium fusion enhancement.",
+      "summary": "Starfleet begins searching for a star similar enough to the Kaelon II sun to test helium fusion enhancement.",
       "entities": [
         "Kaelon II"
       ],
@@ -39568,7 +39568,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-terok-nor-security-chief-odo-is-made-an-officer-of",
@@ -39576,7 +39576,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Terok Nor security chief Odo is made an officer of the court in the Cardassian legal system in order to testify in criminal cases.",
+      "summary": "Terok Nor security chief Odo is made an officer of the Cardassian court so he can testify in criminal cases.",
       "entities": [
         "Terok Nor",
         "Odo",
@@ -39600,7 +39600,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-the-bajoran-ro-laren-graduates-from-starfleet-acad",
@@ -39608,7 +39608,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Bajoran Ro Laren graduates from Starfleet Academy and is assigned to the USS Wellington.",
+      "summary": "Bajoran Ro Laren graduates from Starfleet Academy and is assigned to the USS Wellington.",
       "entities": [
         "Bajoran",
         "Ro Laren",
@@ -39633,7 +39633,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-the-enterprise-d-travels-to-ligon-ii-to-acquire-a",
@@ -39641,7 +39641,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise-D travels to Ligon II to acquire a vaccine for Anchilles fever that afflicted the population of Styris IV from the Ligonians.",
+      "summary": "The Enterprise-D travels to Ligon II to acquire a vaccine for the Anchilles fever afflicting Styris IV from the Ligonians.",
       "entities": [
         "Ligon II",
         "Anchilles fever",
@@ -39666,7 +39666,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-the-enterprise-is-hurled-to-the-galaxy-known-as-m",
@@ -39674,7 +39674,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise is hurled to the galaxy known as M-33 by the Traveler.",
+      "summary": "The Traveler hurls the Enterprise to the galaxy known as M-33.",
       "entities": [
         "M-33"
       ],
@@ -39696,7 +39696,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-the-enterprise-makes-first-official-contact-with-t",
@@ -39726,7 +39726,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-the-enterprise-receives-a-strange-message-from-the",
@@ -39734,7 +39734,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise receives a strange message from the crew of SS Tsiolkovsky, an Oberth vessel observing a red supergiant that is about to explode into a white dwarf. Upon arrival, the crew is discovered all dead by an away team. The crew of the Tsiolkovsky was suffering from polywater intoxication, which is later introduced to the Enterprise crew by Geordi La Forge. The Enterprise is nearly destroyed by a stellar core fragment from the supergiant after Jim Shimoda removes all the isolinear chips from engineering, preventing the Enterprise from going to warp, but the ship is saved by the actions of Lieutenant Commander Data and Wesley Crusher.",
+      "summary": "The Enterprise receives a strange message from the SS Tsiolkovsky, an Oberth vessel observing a red supergiant about to become a white dwarf, and finds its crew dead from polywater intoxication on arrival; Geordi La Forge unknowingly brings the intoxication aboard, and after Jim Shimoda strips engineering of its isolinear chips and leaves the ship unable to go to warp, Data and Wesley Crusher save the Enterprise from a stellar core fragment thrown off by the supergiant.",
       "entities": [
         "Tsiolkovsky unnamed 000",
         "Geordi La Forge",
@@ -39761,7 +39761,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-the-jem-hadar-virak-kara-is-created-in-the-gamma-q",
@@ -39792,7 +39792,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-the-mythical-planet-of-aldea-is-revealed-to-exist",
@@ -39822,7 +39822,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-the-romulan-star-empire-returns-to-interstellar-po",
@@ -39852,7 +39852,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-the-star-beta-magellan-goes-supernova-computer-sy",
@@ -39860,7 +39860,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The star Beta Magellan goes supernova. Computer systems on the planet Bynaus, which is close by, are destabilized. The Bynars temporarily hijack the Enterprise-D from Starbase 74 in order to repair their damaged computers.",
+      "summary": "The star Beta Magellan goes supernova, destabilizing computer systems on the nearby planet Bynaus; the Bynars temporarily hijack the Enterprise-D from Starbase 74 to repair their damaged computers.",
       "entities": [
         "Beta Magellan",
         "Bynaus",
@@ -39877,7 +39877,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-the-uss-enterprise-d-under-the-command-of-captain",
@@ -39926,7 +39926,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Stargazer, Picard's first command, is returned to Starfleet custody by the Ferengi.",
+      "summary": "The Ferengi return the USS Stargazer, Picard's first command, to Starfleet custody.",
       "entities": [
         "USS Stargazer"
       ],
@@ -39948,7 +39948,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-william-t-riker-is-offered-command-of-the-ill-fat",
@@ -39956,7 +39956,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "William T. Riker is offered command of the ill-fated USS Drake, but instead accepts posting to the new USS Enterprise as first officer.",
+      "summary": "William T. Riker is offered command of the ill-fated USS Drake, but instead accepts posting as first officer aboard the new Enterprise.",
       "entities": [
         "William T. Riker",
         "USS Drake",
@@ -39980,7 +39980,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2364-zek-wins-the-global-tongo-championship-for-the-eig",
@@ -39988,7 +39988,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the eighteenth year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the eighteenth year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -40011,7 +40011,7 @@
         "https://memory-alpha.fandom.com/wiki/2364"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-a-328-year-old-mystery-is-solved-when-the-enterpri",
@@ -40019,7 +40019,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A 328-year-old mystery is solved when the Enterprise crew finds the remains of Colonel Stephen G. Richey, a NASA astronaut whose spacecraft, Charybdis, disappeared in 2037.",
+      "summary": "The Enterprise crew solves a 328-year-old mystery, finding the remains of NASA astronaut Colonel Stephen G. Richey, whose spacecraft Charybdis disappeared in 2037.",
       "entities": [
         "Stephen G. Richey",
         "NASA",
@@ -40043,7 +40043,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-a-month-before-stardate-42823-2-starbase-73-recei",
@@ -40074,7 +40074,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-a-talaxian-ship-with-a-crew-of-twenty-three-is-tak",
@@ -40106,7 +40106,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-benjamin-sisko-and-solok-meet-for-what-will-be-the",
@@ -40114,7 +40114,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Benjamin Sisko and Solok meet for what will be the last time for ten years.",
+      "summary": "Benjamin Sisko and Solok meet for what will be their last time in ten years.",
       "entities": [
         "Benjamin Sisko"
       ],
@@ -40136,7 +40136,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-calvin-hutchinson-meets-beverly-crusher-for-the-la",
@@ -40144,7 +40144,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Calvin Hutchinson meets Beverly Crusher for the last time before they are see each again four years later on Arkaria.",
+      "summary": "Calvin Hutchinson meets Beverly Crusher for what will be the last time before they meet again four years later on Arkaria.",
       "entities": [
         "Calvin Hutchinson",
         "Arkaria"
@@ -40167,7 +40167,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-captain-jean-luc-picard-helps-to-define-the-rights",
@@ -40238,7 +40238,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-chu-lak-begins-to-serve-aboard-the-uss-grissom",
@@ -40246,7 +40246,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Chu'lak begins to serve aboard the USS Grissom.",
+      "summary": "Chu'lak begins serving aboard the USS Grissom.",
       "entities": [
         "Chu'lak",
         "USS Grissom"
@@ -40269,7 +40269,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-commander-william-t-riker-becomes-the-first-starf",
@@ -40277,7 +40277,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Commander William T. Riker becomes the first Starfleet officer to serve on a Klingon vessel when he participates in the Officer Exchange Program.",
+      "summary": "Commander William T. Riker becomes the first Starfleet officer to serve aboard a Klingon vessel, through the Officer Exchange Program.",
       "entities": [
         "William T. Riker",
         "Klingon",
@@ -40301,7 +40301,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-dr-beverly-crusher-leaves-the-enterprise-d-to-bec",
@@ -40309,7 +40309,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Beverly Crusher leaves the Enterprise-D to become head of Starfleet Medical. She is replaced by Dr. Katherine Pulaski.",
+      "summary": "Dr. Beverly Crusher leaves the Enterprise-D to become head of Starfleet Medical, replaced by Dr. Katherine Pulaski.",
       "entities": [
         "Beverly Crusher",
         "Starfleet Medical",
@@ -40333,7 +40333,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-dukat-brings-odo-to-terok-nor-to-investigate-the-m",
@@ -40341,7 +40341,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dukat brings Odo to Terok Nor to investigate the murder of Vaatrik, a Bajoran chemist. Odo meets Kira Nerys and Quark for the first time, but does not solve the case.",
+      "summary": "Dukat brings Odo to Terok Nor to investigate the murder of Bajoran chemist Vaatrik; Odo meets Kira Nerys and Quark for the first time but does not solve the case.",
       "entities": [
         "Dukat",
         "Odo",
@@ -40369,7 +40369,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-durango-and-carol-freeman-meet-and-begin-a-fifteen",
@@ -40399,7 +40399,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-eight-weeks-before-stardate-42494-8-the-twenty-si",
@@ -40407,7 +40407,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Eight weeks before stardate 42494.8: The twenty-six crew members of the supply ship are examined by a medical staff. They are judged as fit for duty. The USS Lantree begins its tour of duty in Gamma 7 sector.",
+      "summary": "Eight weeks before stardate 42494.8, a medical staff examines the twenty-six crew members of the supply ship and judges them fit for duty as the USS Lantree begins its tour of duty in the Gamma 7 sector.",
       "entities": [
         "Gamma 7 sector"
       ],
@@ -40429,7 +40429,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-five-days-before-the-first-officer-is-treated-fo",
@@ -40437,7 +40437,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Five days before – The first officer is treated for Thelusian flu.",
+      "summary": "Five days before, the first officer is treated for Thelusian flu.",
       "entities": [
         "Thelusian flu"
       ],
@@ -40459,7 +40459,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-geordi-la-forge-transfers-to-the-operations-divisi",
@@ -40467,7 +40467,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Geordi La Forge transfers to the Operations division, is promoted to full lieutenant and made the Enterprise chief engineer.",
+      "summary": "Geordi La Forge transfers to the operations division, is promoted to full lieutenant, and becomes the Enterprise's chief engineer.",
       "entities": [
         "Geordi La Forge",
         "Operations division"
@@ -40490,7 +40490,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-guinan-comes-aboard-the-uss-enterprise-at-captain",
@@ -40498,7 +40498,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Guinan comes aboard the USS Enterprise at Captain Jean-Luc Picard's personal request. She takes the position of bartender in Ten Forward.",
+      "summary": "Guinan comes aboard the Enterprise at Captain Jean-Luc Picard's personal request, taking the position of bartender in Ten Forward.",
       "entities": [
         "Guinan",
         "Jean-Luc Picard",
@@ -40523,7 +40523,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-in-a-two-hour-lecture-course-in-astral-physics-we",
@@ -40531,7 +40531,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In a two hour lecture course in astral physics, Wesley Crusher first learns of the Elway Theorem.",
+      "summary": "In a two-hour astral physics lecture, Wesley Crusher first learns of the Elway Theorem.",
       "entities": [
         "Wesley Crusher",
         "Elway Theorem"
@@ -40554,7 +40554,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-in-a-winter-flood-on-mintaka-iii-six-mintakans-dr",
@@ -40562,7 +40562,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In a winter flood on Mintaka III, six Mintakans drown. Counted among the dead, there are four children and two adults. One of the adults is the wife of Liko and mother to their daughter Oji.",
+      "summary": "A winter flood on Mintaka III drowns six Mintakans, including four children and two adults, one of whom is the wife of Liko and mother of their daughter Oji.",
       "entities": [
         "Mintaka III",
         "Mintakan victims 001",
@@ -40588,7 +40588,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-morn-hain-larell-krit-and-nahsk-take-part-in-t",
@@ -40624,7 +40624,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-odo-begins-trying-to-prove-quark-is-a-thief",
@@ -40652,7 +40652,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-one-week-before-stardate-42494-8-kingsley-celebra",
@@ -40682,7 +40682,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-riker-is-offered-command-of-the-uss-aries-but-dec",
@@ -40690,7 +40690,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Riker is offered command of the USS Aries, but declines the offer to remain with the Enterprise.",
+      "summary": "Riker is offered command of the USS Aries but declines to remain with the Enterprise.",
       "entities": [
         "USS Aries"
       ],
@@ -40712,7 +40712,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-starfleet-initiates-a-series-of-tactical-training",
@@ -40720,7 +40720,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet initiates a series of tactical training and development programs designed to ready the fleet for the Borg invasion.",
+      "summary": "Starfleet initiates tactical training and development programs to ready the fleet for a Borg invasion.",
       "entities": [],
       "kind": null,
       "group": "USS Yamato",
@@ -40745,7 +40745,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-the-enterprise-d-reunites-the-descendants-of-the-c",
@@ -40775,7 +40775,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-the-united-federation-of-planets-makes-first-conta",
@@ -40840,7 +40840,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-three-days-before-the-lantree-visits-the-darwin",
@@ -40848,7 +40848,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Three days before – The Lantree visits the Darwin Genetic Research Station on Gagarin IV.",
+      "summary": "Three days before, the Lantree visits the Darwin Genetic Research Station on Gagarin IV.",
       "entities": [
         "Darwin Genetic Research Station",
         "Gagarin IV"
@@ -40871,7 +40871,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-tuvok-and-kathryn-janeway-begin-to-form-a-bond-as",
@@ -40879,7 +40879,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Tuvok and Kathryn Janeway begin to form a bond as Janeway learns to rely on Tuvok's advice.",
+      "summary": "Tuvok and Kathryn Janeway begin forming a bond as Janeway learns to rely on his advice.",
       "entities": [
         "Tuvok",
         "Kathryn Janeway"
@@ -40902,7 +40902,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-two-ferengi-try-to-break-into-fort-knox-around-thi",
@@ -40935,7 +40935,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-worf-transfers-to-the-operations-division-and-is-p",
@@ -40943,7 +40943,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Worf transfers to the Operations division and is permanently made Enterprise security chief.",
+      "summary": "Worf transfers to the operations division and is permanently made the Enterprise's security chief.",
       "entities": [
         "Worf"
       ],
@@ -40965,7 +40965,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2365-zek-wins-the-global-tongo-championship-for-the-nin",
@@ -40973,7 +40973,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the nineteenth year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the nineteenth year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -40996,7 +40996,7 @@
         "https://memory-alpha.fandom.com/wiki/2365"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-a-peace-treaty-ends-the-federation-cardassian-war",
@@ -41026,7 +41026,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-a-romulan-ship-which-participated-in-the-khitomer",
@@ -41034,7 +41034,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A Romulan ship, which participated in the Khitomer Massacre of 2346, is captured by warriors of the Klingon Empire. Her logs identify the traitor at Khitomer as Ja'rod, the father of Klingon High Council member Duras.",
+      "summary": "The Klingon Empire captures a Romulan ship that took part in the 2346 Khitomer Massacre; its logs identify the traitor at Khitomer as Ja'rod, father of Klingon High Council member Duras.",
       "entities": [
         "Romulan patrol ships 001",
         "Khitomer Massacre",
@@ -41061,7 +41061,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-alexander-rozhenko-son-of-worf-is-born-to-k-ehle",
@@ -41098,7 +41098,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-ambassador-sarek-is-diagnosed-with-bendii-syndrome",
@@ -41106,7 +41106,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Ambassador Sarek is diagnosed with Bendii Syndrome, shortly before he conducts final negotiations with the Legarans.",
+      "summary": "Ambassador Sarek is diagnosed with Bendii Syndrome shortly before conducting final negotiations with the Legarans.",
       "entities": [
         "Sarek",
         "Bendii Syndrome",
@@ -41130,7 +41130,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-anjohl-tennan-dies-in-the-batal-labor-camp",
@@ -41161,7 +41161,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-b-elanna-torres-enters-starfleet-academy-this-is",
@@ -41211,7 +41211,7 @@
       "date": null,
       "stardate": null,
       "timeline": "mirror",
-      "summary": "Benjamin and Jennifer Sisko separate.",
+      "summary": "In the mirror universe, Benjamin and Jennifer Sisko separate.",
       "entities": [],
       "kind": null,
       "group": "Terok Nor",
@@ -41231,7 +41231,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-benjamin-sisko-wears-his-starfleet-dress-uniform-f",
@@ -41262,7 +41262,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-crewmember-sandoval-is-killed-after-being-hit-by-a",
@@ -41270,7 +41270,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Crewmember Sandoval is killed after being hit by a disruptor blast. She lived for about a week after being injured.",
+      "summary": "Crewmember Sandoval dies about a week after being hit by a disruptor blast.",
       "entities": [
         "Sandoval"
       ],
@@ -41292,7 +41292,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-d-ghor-begins-to-systematically-attack-the-house-o",
@@ -41300,7 +41300,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "D'Ghor begins to systematically attack the House of Kozak in order to financially weaken it.",
+      "summary": "D'Ghor begins systematically attacking the House of Kozak to weaken it financially.",
       "entities": [
         "D'Ghor",
         "House of Kozak"
@@ -41323,7 +41323,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-data-creates-another-soong-type-android-known-as",
@@ -41331,7 +41331,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Data creates another Soong-type android, known as Lal. Unfortunately, Lal's positronic net destabilizes and Data is forced to deactivate her.",
+      "summary": "Data creates another Soong-type android, Lal, but is forced to deactivate her when her positronic net destabilizes.",
       "entities": [
         "Data",
         "Soong-type android",
@@ -41355,7 +41355,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-dr-beverly-crusher-returns-to-the-uss-enterprise",
@@ -41363,7 +41363,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Beverly Crusher returns to the USS Enterprise. Geordi La Forge is promoted to lieutenant commander, while Worf is promoted to full lieutenant.",
+      "summary": "Dr. Beverly Crusher returns to the Enterprise; Geordi La Forge is promoted to lieutenant commander and Worf to full lieutenant.",
       "entities": [
         "Beverly Crusher",
         "Geordi La Forge",
@@ -41388,7 +41388,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-four-months-before-stardate-43462-for-openly-crit",
@@ -41396,7 +41396,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Four months before stardate 43462, for openly criticizing the policies of the government of the Romulan Star Empire, Admiral Alidar Jarok is censured and reassigned to a remote sector.",
+      "summary": "Four months before stardate 43462, the Romulan Star Empire censures Admiral Alidar Jarok for openly criticizing its government and reassigns him to a remote sector.",
       "entities": [
         "Alidar Jarok"
       ],
@@ -41418,7 +41418,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-gwyndala-is-born",
@@ -41448,7 +41448,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-harry-kim-enters-starfleet-academy",
@@ -41479,7 +41479,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-in-a-holoprogram-created-by-barash-a-research-sta",
@@ -41487,7 +41487,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In a holoprogram created by Barash, a research station was set up on Miridian VI.",
+      "summary": "In a holoprogram created by Barash, a research station is set up on Miridian VI.",
       "entities": [
         "Barash",
         "Miridian VI"
@@ -41510,7 +41510,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-lore-is-rescued-by-a-pakled-trade-ship",
@@ -41518,7 +41518,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lore is rescued by a Pakled trade ship.",
+      "summary": "A Pakled trade ship rescues Lore.",
       "entities": [
         "Lore",
         "Pakled trade ship"
@@ -41541,7 +41541,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-lurak-t-luco-is-arrested-in-vvalti-romulus-he-is",
@@ -41549,7 +41549,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lurak T'Luco is arrested in Vvalti, Romulus. He is found guilty of hijacking, theft, and assault and sentenced to five years imprisonment.",
+      "summary": "Lurak T'Luco is arrested in Vvalti, Romulus, found guilty of hijacking, theft, and assault, and sentenced to five years imprisonment.",
       "entities": [
         "Lurak T'Luco",
         "Vvalti",
@@ -41573,7 +41573,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-nikolai-rozhenko-and-worf-see-each-other-for-the-l",
@@ -41603,7 +41603,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-odo-is-designated-an-officer-of-the-cardassian-cou",
@@ -41611,7 +41611,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Odo is designated an officer of the Cardassian court in order to testify in criminal cases.",
+      "summary": "Odo is designated an officer of the Cardassian court so he can testify in criminal cases.",
       "entities": [
         "Odo",
         "Cardassian"
@@ -41634,7 +41634,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-on-rutia-iv-these-events-occurred-prior-to-starda",
@@ -41642,7 +41642,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "On Rutia IV, these events occurred prior to stardate 43510:",
+      "summary": "On Rutia IV, several events take place before stardate 43510.",
       "entities": [
         "Rutia IV"
       ],
@@ -41656,7 +41656,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-rabal-is-convinced-by-his-sister-serova-s-research",
@@ -41664,7 +41664,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Rabal is convinced by his sister Serova’s research that warp drive was harming their homeworld Hekaras II.",
+      "summary": "Rabal is convinced by his sister Serova's research that warp drive is harming their homeworld Hekaras II.",
       "entities": [
         "Rabal",
         "Serova",
@@ -41688,7 +41688,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-six-months-before-alexana-devos-is-promoted-to-di",
@@ -41696,7 +41696,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Six months before, Alexana Devos is promoted to director of security. She replaces the former director who was murdered by the Ansata. Within a few days of her assuming command, Director Devos is confronted by the brutality of the separatist group with the terrific bombing of a shuttlebus carrying sixty children. There are no survivors of the attack.",
+      "summary": "Six months before, Alexana Devos is promoted to director of security on Rutia IV, replacing a predecessor murdered by the Ansata; within days of taking command she confronts the separatist group's brutality when a bombed shuttlebus carrying sixty children leaves no survivors.",
       "entities": [
         "Alexana Devos",
         "Ansata"
@@ -41711,7 +41711,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-six-months-before-stardate-43997-commander-elizab",
@@ -41719,7 +41719,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Six months before stardate 43997, Commander Elizabeth Shelby takes over the Borg tactical analysis at Starfleet Tactical.",
+      "summary": "Six months before stardate 43997, Commander Elizabeth Shelby takes over Borg tactical analysis at Starfleet Tactical.",
       "entities": [
         "Elizabeth Shelby",
         "Borg",
@@ -41743,7 +41743,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-sneed-is-released-from-prison-he-had-served-two-y",
@@ -41751,7 +41751,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Sneed is released from prison. He had served two years for fraud.",
+      "summary": "Sneed is released from prison, having served two years for fraud.",
       "entities": [
         "Sneed"
       ],
@@ -41773,7 +41773,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-starfleet-begins-development-of-the-uss-defiant",
@@ -41781,7 +41781,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet begins development of the USS Defiant.",
+      "summary": "Starfleet begins developing the USS Defiant.",
       "entities": [
         "USS Defiant"
       ],
@@ -41803,7 +41803,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-starfleet-issues-new-type-2-phaser-and-tricorder-d",
@@ -41811,7 +41811,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet issues new type 2 phaser and tricorder designs. Starfleet uniforms are redesigned, now in two-piece versions with a higher collar and no striping on the shoulders.",
+      "summary": "Starfleet issues new type 2 phaser and tricorder designs and redesigns its uniforms into a two-piece style with a higher collar and no shoulder striping.",
       "entities": [
         "Starfleet uniform"
       ],
@@ -41838,7 +41838,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-starfleet-updates-the-uniform-design-becoming-a-t",
@@ -41846,7 +41846,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet updates the uniform design, becoming a two-piece uniform, but keeping the same black shoulders/leggings and colored midriff/sleeves from the previous uniform design.",
+      "summary": "Starfleet updates its uniform design to a two-piece style, keeping the previous design's black shoulders and leggings and colored midriff and sleeves.",
       "entities": [
         "Starfleet uniform (2350s-2370s)"
       ],
@@ -41868,7 +41868,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-the-bajorans-ishan-chaye-jillur-gueta-and-timor",
@@ -41876,7 +41876,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Bajorans Ishan Chaye, Jillur Gueta, and Timor Landi are executed on Terok Nor after an assassination attempt on Gul Dukat. Three days later, another bombing leads Odo, who had been in charge of the investigation, to realize the three Bajorans were innocent.",
+      "summary": "Cardassians execute Bajorans Ishan Chaye, Jillur Gueta, and Timor Landi on Terok Nor after an assassination attempt on Gul Dukat; a second bombing three days later leads investigator Odo to conclude the three were innocent.",
       "entities": [
         "Bajoran",
         "Ishan Chaye",
@@ -41904,7 +41904,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-the-cardassian-ship-ravinok-is-attacked-by-the-bre",
@@ -41912,7 +41912,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Cardassian ship Ravinok is attacked by the Breen and forced to crash land on Dozaria.",
+      "summary": "The Breen attack the Cardassian ship Ravinok, forcing it to crash-land on Dozaria.",
       "entities": [
         "Ravinok type",
         "Ravinok",
@@ -41937,7 +41937,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-the-klingon-high-council-gives-worf-a-discommendat",
@@ -41945,7 +41945,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Klingon High Council gives Worf a discommendation when his father, Mogh, is accused of aiding the Romulans at the Khitomer Massacre. However, the Enterprise crew discovers data which indicates that Duras' father, Ja'rod, was the traitor, and Worf accepts discommendation in order to keep the Klingon Empire from disintegrating into civil war.",
+      "summary": "The Klingon High Council discommends Worf after his father Mogh is accused of aiding the Romulans at the Khitomer Massacre; though the Enterprise crew finds evidence that Duras's father Ja'rod was the real traitor, Worf accepts the discommendation to keep the Klingon Empire from civil war.",
       "entities": [
         "Klingon High Council",
         "Mogh",
@@ -41972,7 +41972,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-the-romulan-admiral-alidar-jarok-defects-to-the-fe",
@@ -41980,7 +41980,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Romulan Admiral Alidar Jarok defects to the Federation, with faulty information about a new outpost on Nelvana III, designed to lure the Enterprise-D into the Neutral Zone.",
+      "summary": "Romulan Admiral Alidar Jarok defects to the Federation with faulty information about a new outpost on Nelvana III, meant to lure the Enterprise-D into the Neutral Zone.",
       "entities": [
         "Romulan",
         "Nelvana III",
@@ -42004,7 +42004,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-the-romulan-scout-ship-pi-crashes-on-galorndon-cor",
@@ -42012,7 +42012,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Romulan scout ship Pi crashes on Galorndon Core. It is suspected the ship was conducting covert operations in Federation space before it crashed. The Federation and the Romulans nearly go to war over the incident.",
+      "summary": "The Romulan scout ship Pi crashes on Galorndon Core while suspected of conducting covert operations in Federation space, nearly bringing the Federation and Romulans to war.",
       "entities": [
         "Romulan scout ship",
         "Galorndon Core",
@@ -42036,7 +42036,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-the-soccer-player-golanga-has-his-knee-replaced-by",
@@ -42044,7 +42044,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The soccer player Golanga has his knee replaced by a bio-implant.",
+      "summary": "Soccer player Golanga has his knee replaced with a bio-implant.",
       "entities": [
         "Golanga"
       ],
@@ -42066,7 +42066,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-the-united-federation-of-planets-is-attacked-by-a",
@@ -42074,7 +42074,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The United Federation of Planets is attacked by a Borg cube, which annihilates the New Providence colony on Jouret IV, as well as the freighter USS Lalo. The Enterprise-D intercepts the Borg near the Paulson Nebula, and Captain Jean-Luc Picard is abducted and assimilated. The Enterprise prepares an energy weapon based on its deflector dish, but Picard, as Locutus of Borg, gives the Borg knowledge which renders the deflector weapon useless. The Borg continue on a course to Earth and destroy the Federation Fleet at Wolf 359 USS Saratoga is also lost during the battle. Data and Worf manage to rescue Picard and separate him from the collective destroying the cube in the process and saving Earth. (DS9: \"Emissary\") (TNG: \"The Best of Both Worlds Part II\")",
+      "summary": "A Borg cube attacks the Federation, annihilating the New Providence colony on Jouret IV and the freighter USS Lalo; the Enterprise-D intercepts it near the Paulson Nebula, but Captain Jean-Luc Picard is abducted and assimilated into Locutus of Borg, rendering the ship's deflector-based weapon useless before the Borg destroy the Federation fleet, including the USS Saratoga, at Wolf 359 en route to Earth; Data and Worf rescue Picard and sever him from the collective, destroying the cube and saving Earth.",
       "entities": [
         "Borg cube",
         "New Providence",
@@ -42110,7 +42110,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-the-uss-enterprise-emerges-from-a-temporal-rift-i",
@@ -42118,7 +42118,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "The USS Enterprise emerges from a temporal rift. It temporarily remains in this year, causing an alternate timeline in which the Federation is fighting a losing war with the Klingon Empire. Captain Rachel Garrett is killed in a Klingon attack, and Lieutenant Richard Castillo is forced to take command. The ship returns to the year 2344 and the changes to the timeline are averted, although an alternate version of Natasha Yar returns to the past with the Enterprise-C.",
+      "summary": "In a divergent timeline, the Enterprise-C emerges from a temporal rift and lingers in this year, creating a branch where the Federation is losing a war against the Klingon Empire; Captain Rachel Garrett dies in a Klingon attack, forcing Lieutenant Richard Castillo to take command, before the ship returns to 2344 and undoes the timeline change, though an alternate Natasha Yar returns to the past with it.",
       "entities": [
         "Federation-Klingon War (alternate timeline)",
         "Klingon Empire",
@@ -42146,7 +42146,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-three-days-before-stardate-43152-the-husnock-atta",
@@ -42154,7 +42154,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Three days before stardate 43152, the Husnock attack and destroy the Federation colony on Rana IV. Among the dead is Rishon Uxbridge. In an act of revenge, her husband Kevin, who is actually an immortal and all-powerful Douwd, annihilates all fifty billion Husnock.",
+      "summary": "Three days before stardate 43152, the Husnock attack and destroy the Federation colony on Rana IV, killing Rishon Uxbridge among others; in revenge, her husband Kevin, an immortal and all-powerful Douwd, annihilates all fifty billion Husnock.",
       "entities": [
         "Husnock",
         "Rana IV",
@@ -42180,7 +42180,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-two-months-before-a-cell-of-the-ansata-first-use",
@@ -42188,7 +42188,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Two months before, a cell of the Ansata first use the inverter for their attacks on civilian centers. These attacks precipitate the need for the Rutian government to request medical supplies from the Federation.",
+      "summary": "Two months before, an Ansata cell first uses the inverter in attacks on civilian centers on Rutia IV, prompting the Rutian government to request medical supplies from the Federation.",
       "entities": [
         "Rutian"
       ],
@@ -42210,7 +42210,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-william-t-riker-is-offered-command-of-the-uss-mel",
@@ -42241,7 +42241,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2366-zek-wins-the-global-tongo-championship-for-the-twe",
@@ -42249,7 +42249,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the twentieth year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the twentieth year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -42272,7 +42272,7 @@
         "https://memory-alpha.fandom.com/wiki/2366"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2367-a-number-of-individuals-from-both-the-ships-at-wol",
@@ -42280,7 +42280,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A number of individuals from both the ships at Wolf 359 and other vessels in the area are captured and assimilated by the Borg while en route to Sector 001. Some are returned to the Delta Quadrant by unknown means.",
+      "summary": "The Borg capture and assimilate a number of people from the ships lost at Wolf 359 and other vessels en route to Sector 001, some later returned to the Delta Quadrant by unknown means.",
       "entities": [
         "Wolf 359",
         "Sector 001"
@@ -42308,7 +42308,7 @@
         "https://memory-alpha.fandom.com/wiki/2367"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2367-according-to-montgomery-scott-while-trapped-in-th",
@@ -42316,7 +42316,7 @@
       "date": null,
       "stardate": null,
       "timeline": "mirror",
-      "summary": "According to Montgomery Scott, while trapped in the mirror universe, Scott stated that the field density between the prime and mirror universes was closing rapidly and, should an escape not be made within the next thirty minutes, it would not be until this year in which another attempt could be made.",
+      "summary": "Trapped in the mirror universe, Montgomery Scott says the field density between the prime and mirror universes is closing rapidly, and that missing a thirty-minute window would mean waiting until this year for another chance to escape.",
       "entities": [
         "Montgomery Scott"
       ],
@@ -42338,7 +42338,7 @@
         "https://memory-alpha.fandom.com/wiki/2367"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2367-an-eclipse-occurs-on-banea-in-the-delta-quadrant",
@@ -42346,7 +42346,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "An eclipse occurs on Banea, in the Delta Quadrant. Lidell Ren tells Tom Paris four years later that this was a turn on for her husband Tolen, and that this was the last time \"she was his wife\".",
+      "summary": "An eclipse occurs on Banea in the Delta Quadrant; Lidell Ren later tells Tom Paris it was meant to arouse her husband Tolen, and marked the last time she felt like his wife.",
       "entities": [
         "Lidell Ren",
         "Tom Paris",
@@ -42370,7 +42370,7 @@
         "https://memory-alpha.fandom.com/wiki/2367"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2367-benjamin-sisko-attends-a-starfleet-briefing-on-q",
@@ -42410,7 +42410,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Chancellor K'mpec of the Klingon High Council dies, causing a power struggle between Duras and Gowron. Picard is appointed as Arbiter of Succession. Duras murders Ambassador K'Ehleyr after she discovers evidence of treachery and collusion with the Romulans by the House of Duras. Worf then claims right of vengeance against Duras, killing him.",
+      "summary": "Klingon High Council Chancellor K'mpec dies, sparking a power struggle between Duras and Gowron; Picard is appointed Arbiter of Succession, Duras murders Ambassador K'Ehleyr after she uncovers his House's treachery and collusion with the Romulans, and Worf claims the right of vengeance and kills Duras.",
       "entities": [
         "K'mpec",
         "Klingon High Council",
@@ -42440,7 +42440,7 @@
         "https://memory-alpha.fandom.com/wiki/2367"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2367-chief-miles-o-brien-marries-keiko",
@@ -42448,7 +42448,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Chief Miles O'Brien marries Keiko",
+      "summary": "Chief Miles O'Brien marries Keiko.",
       "entities": [
         "Senior chief specialist",
         "Miles O'Brien",
@@ -42473,7 +42473,7 @@
         "https://memory-alpha.fandom.com/wiki/2367"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2367-commander-elizabeth-shelby-heads-the-task-force-to",
