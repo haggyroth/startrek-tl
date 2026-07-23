@@ -158,6 +158,17 @@ async function init() {
     },
   });
 
+  // A tap on a dot pins its tooltip open (see DensityChart#unpin) since touch
+  // has no hover state to keep it open. Tapping anywhere outside the chart or
+  // the tooltip itself, or pressing Escape, releases the pin.
+  document.addEventListener("pointerdown", (event) => {
+    if (chartRoot.contains(event.target) || event.target.closest(".tooltip")) return;
+    chart.unpin();
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") chart.unpin();
+  });
+
   // Control options are derived from the whole dataset, not the filtered view,
   // so filtering never makes a control disappear out from under the pointer.
   const timelineCounts = new Map();

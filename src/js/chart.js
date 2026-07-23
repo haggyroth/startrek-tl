@@ -44,6 +44,7 @@ export class DensityChart {
   #plotHeight = MAX_PLOT_HEIGHT;
   #activeId = null;
   #cursorId = null;
+  #pinnedId = null;
   #zoom = null;
   #clipId = `plot-clip-${clipSeq++}`;
 
@@ -185,7 +186,19 @@ export class DensityChart {
     this.#zoom = d3
       .zoom()
       .scaleExtent([1, MAX_ZOOM])
-      .filter((event) => !event.button && event.type !== "dblclick")
+      .filter((event) => {
+        // A single-finger touch is left alone so it scrolls the page like any
+        // other content — the chart can be taller than the viewport, and
+        // capturing one-finger drag for panning trapped a normal swipe
+        // starting on it. Two fingers (pinch, or a two-finger drag) still
+        // pan/zoom the chart; see the paired `touch-action: pan-y` in
+        // main.css, which is what stops the browser's own one-finger pan
+        // from fighting this on the way in.
+        if (event.type === "touchstart" || event.type === "touchmove") {
+          return event.touches.length > 1;
+        }
+        return !event.button && event.type !== "dblclick";
+      })
       .on("zoom", (event) => {
         if (event.sourceEvent == null) return; // programmatic sync, not a gesture
         this.#applyZoomTransform(event.transform);
@@ -298,6 +311,7 @@ export class DensityChart {
       .attr("role", "button")
       .attr("aria-label", (d) => this.#describeEvent(d))
       .on("focus", (event, d) => {
+        this.#pinnedId = null; // keyboard focus takes precedence over a tap-pin
         this.#cursorId = d.id;
         this.#applyRovingTabIndex();
         // Look the node up rather than reading it off the event: target and
@@ -403,6 +417,14 @@ export class DensityChart {
    * A transparent rect over the plot that resolves the pointer to the nearest
    * dot. Individual dots are only a few pixels across and cannot be hovered
    * reliably; the hit target should be bigger than the mark regardless.
+   *
+   * Hover (pointermove/pointerleave) is the primary interaction for a mouse,
+   * but a touch pointer has no hover state — it "leaves" the instant the
+   * finger lifts, which cleared the tooltip before it could be read. A tap
+   * (the browser's own "click", which it already suppresses when the touch
+   * turned into a pan/zoom drag) pins the tooltip open instead; tapping the
+   * same dot again, tapping elsewhere, or pressing Escape unpins it. This
+   * also works for a mouse as a click-to-pin, which doesn't hurt hover users.
    */
   #drawHitLayer(width) {
     const g = this.#svg.select(".layer-overlay");
@@ -415,6 +437,7 @@ export class DensityChart {
       .attr("width", Math.max(0, width - MARGIN.left - MARGIN.right))
       .attr("height", this.#plotHeight)
       .on("pointermove", (event) => {
+        if (this.#pinnedId !== null) return;
         const [px, py] = d3.pointer(event);
         const hit = this.#findNearest(px, py);
         if (!hit) return this.#clearActive();
@@ -425,7 +448,26 @@ export class DensityChart {
         }
         this.#onHover(hit, this.#dotNode(hit.id));
       })
-      .on("pointerleave", () => this.#clearActive());
+      .on("pointerleave", () => {
+        if (this.#pinnedId === null) this.#clearActive();
+      })
+      .on("click", (event) => {
+        const [px, py] = d3.pointer(event);
+        const hit = this.#findNearest(px, py);
+        if (!hit || hit.id === this.#pinnedId) return this.unpin();
+
+        this.#pinnedId = hit.id;
+        this.#activeId = hit.id;
+        this.#markActive();
+        this.#onHover(hit, this.#dotNode(hit.id));
+      });
+  }
+
+  /** Release a tapped/clicked-open tooltip, if one is pinned. */
+  unpin() {
+    if (this.#pinnedId === null) return;
+    this.#pinnedId = null;
+    this.#clearActive();
   }
 
   /** Nearest event to a plot-space point, or null if the pointer is off-column. */
