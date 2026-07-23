@@ -10,6 +10,7 @@
     "validate:data": "node scripts/validate-data.js",
     "build:data": "node scripts/build-events.js --strict",
     "serve": "node scripts/serve.js",
-    "verify:summaries": "node scripts/verify-summaries.js"
+    "verify:summaries": "node scripts/verify-summaries.js",
+    "sample:summaries": "node scripts/sample-summaries.js"
   }
 }

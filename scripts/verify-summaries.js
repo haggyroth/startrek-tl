@@ -21,8 +21,7 @@
 import { readFile } from "node:fs/promises";
 import { existsSync } from "node:fs";
 
-import { parseYearPage } from "./lib/parse-year.js";
-import { parseCenturyPage } from "./lib/parse-century.js";
+import { buildSourceIndex } from "./lib/source-index.js";
 import { introducedTokens, isStardateOutOfRange } from "./lib/verify-text.js";
 
 const VERBOSE = process.argv.includes("--verbose");
@@ -45,23 +44,7 @@ const exceptions = JSON.parse(await readFile("data/verify-exceptions.json", "utf
 
 // ---- rebuild the source text for every event ----
 
-const sourceById = new Map();
-const rangeByYear = new Map();
-
-for (const [key, wikitext] of Object.entries(cache)) {
-  if (!key.startsWith("ma:") || !wikitext) continue;
-  const title = key.slice(3);
-  const year = Number(title);
-
-  if (Number.isFinite(year)) {
-    const parsed = parseYearPage(wikitext, year);
-    if (parsed.stardateRange) rangeByYear.set(year, parsed.stardateRange);
-    for (const e of parsed.events) sourceById.set(e.id, e);
-  } else if (/century$/i.test(title)) {
-    const url = `https://memory-alpha.fandom.com/wiki/${encodeURIComponent(title)}`;
-    for (const e of parseCenturyPage(wikitext, url).events) sourceById.set(e.id, e);
-  }
-}
+const { sourceById, rangeByYear } = buildSourceIndex(cache);
 
 // ---- checks ----
 
