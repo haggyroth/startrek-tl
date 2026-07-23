@@ -132,7 +132,7 @@ Known and accepted:
   stretch the axis by centuries for a handful of events; the era presets make
   it feasible later if wanted.
 
-## Phase 11 — Complete the rewrite (in progress)
+## Phase 11 — Complete the rewrite ✅
 
 - [x] "Read on Memory Alpha" surfaced in the tooltip and as a link on the
       table's year cell; stub rows are styled distinctly
@@ -180,14 +180,22 @@ Known and accepted:
       bullet with no Kelvin citation, confirmed as the only such case among
       31 dataset-wide occurrences of the phrase and recorded as a one-off
       override
-- [ ] Author the remaining summaries — **2,004 / 2,037 (98%)**, 24th century
-      at 1,092/1,125 (2301-2400 fully authored; 33 left in 2401-2410)
+- [x] Found and corrected a fourth `detectTimeline()` misclassification: a
+      `**` sub-bullet nested under an alternate-timeline intro line has no
+      section heading to inherit from and no phrase of its own, so it
+      defaulted to prime. Confirmed the only such case dataset-wide (grepped
+      all 30 "In an(other) alternate timeline" intros for a following nested
+      bullet) and recorded both affected events as overrides
+- [x] Author the remaining summaries — **2,037 / 2,037 (100%) ✅** — every
+      event in the dataset now carries independently authored prose
 - [ ] Switch the committed build to `--strict`
 
-On the strict flip: the capability works and is tested, but flipping it now
-would replace real prose with stubs for 81% of events while the repo is still
-private and nothing is published. It belongs immediately before publication,
-in Phase 14/15, not before the authoring is much further along.
+On the strict flip: the capability works and is tested. Now that every event
+is authored, flipping it produces no stubs — it's purely a formality confirming
+the build no longer needs the scraped-prose fallback. Still slated for
+immediately before publication (Phase 14/15) rather than now, since the repo
+is private and nothing is published yet, but there's no longer a content-loss
+reason to wait.
 
 Coverage by era:
 
@@ -197,5 +205,6 @@ Coverage by era:
 | **ENT (2101–2161)** | **213 / 213 ✅** |
 | **Gap (2162–2232)** | **60 / 60 ✅** |
 | **23rd century** | **453 / 453 ✅** |
-| 24th century | 1,092 / 1,125 |
+| **24th century** | **1,125 / 1,125 ✅** |
 | **Far future** | **133 / 133 ✅** |
+| **Total** | **2,037 / 2,037 ✅** |
