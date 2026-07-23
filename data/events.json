@@ -7,7 +7,7 @@
     ],
     "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 1544,
+    "authoredSummaries": 1634,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -45498,7 +45498,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The mining station Terok Nor in orbit of Bajor is abandoned during the Cardassian retreat. The Bajoran Provisional Government requests Starfleet assistance in maintaining the station, and it is renamed Deep Space 9. The Enterprise-D arrives to offload personnel and equipment.",
+      "summary": "The Cardassians abandon the mining station Terok Nor in orbit of Bajor during their retreat; the Bajoran Provisional Government requests Starfleet's help maintaining it, and the station is renamed Deep Space 9 as the Enterprise-D arrives to offload personnel and equipment.",
       "entities": [
         "Terok Nor",
         "Cardassian Withdrawal",
@@ -45523,7 +45523,7 @@
         "https://memory-alpha.fandom.com/wiki/2369"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2369-the-teachers-on-the-ship-agree-not-to-hold-captain",
@@ -45531,7 +45531,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The teachers on the ship agree not to hold Captain Picard Day in 2370, according to Jean-Luc Picard, a promise they will break.",
+      "summary": "According to Jean-Luc Picard, the ship's teachers agree not to hold Captain Picard Day in 2370, a promise they later break.",
       "entities": [
         "Captain Picard Day",
         "Jean-Luc Picard"
@@ -45554,7 +45554,7 @@
         "https://memory-alpha.fandom.com/wiki/2369"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2369-the-vulcan-isolationist-movement-hires-mercenaries",
@@ -45562,7 +45562,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Vulcan Isolationist Movement hires mercenaries to find the remaining two pieces of the Stone of Gol.",
+      "summary": "The Vulcan Isolationist Movement hires mercenaries to find the two remaining pieces of the Stone of Gol.",
       "entities": [],
       "kind": null,
       "group": "USS Hera",
@@ -45587,7 +45587,7 @@
         "https://memory-alpha.fandom.com/wiki/2369"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2369-the-vulcan-isolationist-movement-steals-a-piece-of",
@@ -45619,7 +45619,7 @@
         "https://memory-alpha.fandom.com/wiki/2369"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2369-toman-torax-becomes-omet-iklan-s-second",
@@ -45650,7 +45650,7 @@
         "https://memory-alpha.fandom.com/wiki/2369"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2369-vash-arrives-at-deep-space-9-after-two-years-in-th",
@@ -45658,7 +45658,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Vash arrives at Deep Space 9 after two years in the Gamma Quadrant in the company of Q.",
+      "summary": "Vash arrives at Deep Space 9 after two years in the Gamma Quadrant with Q.",
       "entities": [
         "Vash",
         "Q"
@@ -45681,7 +45681,7 @@
         "https://memory-alpha.fandom.com/wiki/2369"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2369-zek-wins-the-global-tongo-championship-for-the-twe",
@@ -45689,7 +45689,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the twenty-third year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the twenty-third year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -45712,7 +45712,7 @@
         "https://memory-alpha.fandom.com/wiki/2369"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-a-group-of-federation-colony-worlds-declares-an-un",
@@ -45761,7 +45761,7 @@
       "date": null,
       "stardate": "47025.4",
       "timeline": "prime",
-      "summary": "A second Borg incursion into Federation space continues (having begun in 2369, around stardate 46982.1), as individualized Borg drones are led by Lore, a Soong-type android. However, their attempt to annihilate the Federation is once again foiled by Captain Jean-Luc Picard and the USS Enterprise. Lore is defeated, deactivated, and dismantled.",
+      "summary": "A second Borg incursion into Federation space, begun the previous year, continues as Soong-type android Lore leads individualized drones in another attempt to annihilate the Federation, until Captain Jean-Luc Picard and the Enterprise defeat, deactivate, and dismantle Lore.",
       "entities": [
         "Borg",
         "Borg drone",
@@ -45788,7 +45788,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-aboard-the-uss-prometheus-gideon-seyetik-makes-an",
@@ -45796,7 +45796,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Aboard the USS Prometheus, Gideon Seyetik makes an attempt to reignite Epsilon 119. To free his wife, Nidell, from their marriage, he pilots a shuttlecraft into the star, killing himself, but bringing Epsilon 119 back to life.",
+      "summary": "Aboard the USS Prometheus, Gideon Seyetik attempts to reignite the star Epsilon 119, piloting a shuttlecraft into it and dying in order to free his wife Nidell from their marriage, but succeeds in reviving the star.",
       "entities": [
         "Gideon Seyetik",
         "Epsilon 119",
@@ -45821,7 +45821,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-after-elim-garak-becomes-ill-after-overuse-of-a-cr",
@@ -45829,7 +45829,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "After Elim Garak becomes ill after overuse of a cranial implant, Julian Bashir receives help from Enabran Tain to save his friend's life.",
+      "summary": "After Elim Garak falls ill from overusing a cranial implant, Julian Bashir gets help from Enabran Tain to save his friend's life.",
       "entities": [
         "Elim Garak",
         "Julian Bashir",
@@ -45853,7 +45853,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-although-the-rescue-of-the-siskos-nog-and-quark",
@@ -45861,7 +45861,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Although the rescue of the Siskos, Nog, and Quark is successful, the Galaxy starship USS Odyssey is destroyed by a Jem'Hadar suicide attack.",
+      "summary": "Though the Siskos, Nog, and Quark are rescued, a Jem'Hadar suicide attack destroys the Galaxy-class USS Odyssey.",
       "entities": [
         "USS Odyssey"
       ],
@@ -45883,7 +45883,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-alyssa-ogawa-marries-andrew-powell-the-couple-als",
@@ -45891,7 +45891,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Alyssa Ogawa marries Andrew Powell. The couple also conceived a child.",
+      "summary": "Alyssa Ogawa marries Andrew Powell, and the couple conceive a child.",
       "entities": [
         "Andrew Powell"
       ],
@@ -45913,7 +45913,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-alyssa-ogawa-sam-lavelle-and-taurik-are-promoted",
@@ -45945,7 +45945,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-an-emergent-lifeform-uses-the-systems-on-board-the",
@@ -45953,7 +45953,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "An emergent lifeform uses the systems on board the USS Enterprise-D to reproduce, temporarily giving the Enterprise sentience.",
+      "summary": "An emergent lifeform uses the Enterprise-D's own systems to reproduce, temporarily giving the ship sentience.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -45973,7 +45973,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-b-elanna-torres-gets-inside-a-cardassian-missile-i",
@@ -45981,7 +45981,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "B'Elanna Torres gets inside a Cardassian missile intended to destroy Maquis targets and reprograms it. She nicknames it Dreadnought.",
+      "summary": "B'Elanna Torres gets inside a Cardassian missile meant to destroy Maquis targets and reprograms it, nicknaming it Dreadnought.",
       "entities": [
         "Cardassian",
         "Cardassian ATR-4107"
@@ -46004,7 +46004,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-b-elanna-torres-joins-the-maquis-after-chakotay-sa",
@@ -46054,7 +46054,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Borum gives Rionoj Li Nalas' earring to smuggle out of the Hutet labor camp. Rionoj travels to Deep Space 9 and passes the earring to Quark, who later gives it to Kira Nerys.",
+      "summary": "Borum gives Rionoj Li Nalas's earring to smuggle out of the Hutet labor camp; Rionoj travels to Deep Space 9 and passes it to Quark, who later gives it to Kira Nerys.",
       "entities": [
         "Borum",
         "Rionoj",
@@ -46083,7 +46083,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-by-supporting-a-bajoran-extremist-group-called-the",
@@ -46091,7 +46091,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "By supporting a Bajoran extremist group called The Circle, the Cardassian Union tries to regain its influence on Bajor.",
+      "summary": "The Cardassian Union tries to regain influence on Bajor by supporting the Bajoran extremist group known as The Circle.",
       "entities": [
         "Bajoran",
         "Alliance for Global Unity",
@@ -46116,7 +46116,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-cadet-harry-kim-receives-the-cochrane-medal-of-exc",
@@ -46147,7 +46147,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-captain-jean-luc-picard-successfully-passes-a-test",
@@ -46155,7 +46155,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Captain Jean-Luc Picard successfully passes a test of Humanity's worth issued by the Q Continuum and prevents the destruction of the Human race by a temporal anomaly.",
+      "summary": "Captain Jean-Luc Picard passes a test of humanity's worth set by the Q Continuum, preventing a temporal anomaly from destroying the human race.",
       "entities": [
         "Human",
         "Q Continuum"
@@ -46178,7 +46178,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-deanna-troi-is-promoted-to-full-commander-and-beco",
@@ -46186,7 +46186,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Deanna Troi is promoted to full commander and becomes a bridge officer upon passing the Bridge Officer's test.",
+      "summary": "Deanna Troi is promoted to full commander and becomes a bridge officer after passing the Bridge Officer's test.",
       "entities": [
         "Deanna Troi",
         "Bridge Officer's test"
@@ -46209,7 +46209,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-dr-beverly-crusher-discovers-barclay-s-protomorph",
@@ -46217,7 +46217,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dr. Beverly Crusher discovers Barclay's Protomorphosis Syndrome when she inadvertently causes the Enterprise-D to become infected.",
+      "summary": "Dr. Beverly Crusher discovers Barclay's Protomorphosis Syndrome after inadvertently infecting the Enterprise-D with it.",
       "entities": [
         "Beverly Crusher",
         "Barclay's Protomorphosis Syndrome"
@@ -46240,7 +46240,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-edgar-willoughby-jr-is-born",
@@ -46270,7 +46270,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-elaysian-ensign-melora-pazlar-is-transferred-to-de",
@@ -46278,7 +46278,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Elaysian Ensign Melora Pazlar is transferred to Deep Space 9. Julian Bashir falls in love with her and plans a risky procedure based on the research of Nathaniel Teros to help her walk in normal gravity.",
+      "summary": "Elaysian Ensign Melora Pazlar transfers to Deep Space 9; Julian Bashir falls in love with her and, drawing on Nathaniel Teros's research, plans a risky procedure to help her walk in normal gravity.",
       "entities": [
         "Elaysian",
         "Melora Pazlar",
@@ -46303,7 +46303,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-ensign-sito-jaxa-is-believed-killed-during-a-missi",
@@ -46334,7 +46334,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-harry-kim-graduates-from-starfleet-academy-he-is",
@@ -46342,7 +46342,7 @@
       "date": null,
       "stardate": "47918",
       "timeline": "prime",
-      "summary": "Harry Kim graduates from Starfleet Academy. He is \"commissioned to rank of ensign.\"",
+      "summary": "Harry Kim graduates from Starfleet Academy and is commissioned as an ensign.",
       "entities": [
         "Starfleet Academy"
       ],
@@ -46364,7 +46364,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-harry-kim-s-application-to-voyager-is-denied",
@@ -46372,7 +46372,7 @@
       "date": null,
       "stardate": "47925",
       "timeline": "alternate",
-      "summary": "Harry Kim's application to Voyager is denied.",
+      "summary": "In a divergent personal history, Harry Kim's application to serve aboard Voyager is denied.",
       "entities": [],
       "kind": null,
       "group": "USS Voyager",
@@ -46392,7 +46392,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-in-order-to-keep-opaka-s-role-in-the-kendra-valley",
@@ -46400,7 +46400,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In order to keep Opaka's role in the Kendra Valley Massacre secret, Bareil Antos withdraws from the kai election. Winn Adami is elected unopposed.",
+      "summary": "To keep Opaka's role in the Kendra Valley Massacre secret, Bareil Antos withdraws from the kai election, and Winn Adami is elected unopposed.",
       "entities": [
         "Opaka",
         "Kendra Valley Massacre",
@@ -46425,7 +46425,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-jadzia-dax-is-reunited-with-kang-kor-and-koloth",
@@ -46433,7 +46433,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jadzia Dax is reunited with Kang, Kor, and Koloth and joins them on a mission to kill an enemy who has eluded them for almost a century – The Albino.",
+      "summary": "Jadzia Dax reunites with Kang, Kor, and Koloth and joins their mission to kill the Albino, an enemy who has eluded them for almost a century.",
       "entities": [
         "Jadzia Dax",
         "Kang",
@@ -46459,7 +46459,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-kathryn-janeway-is-chosen-to-command-the-uss-voyag",
@@ -46499,7 +46499,7 @@
       "date": null,
       "stardate": "47920",
       "timeline": "prime",
-      "summary": "Kim applies for service aboard Voyager. His application is approved.",
+      "summary": "Kim applies for service aboard Voyager, and his application is approved.",
       "entities": [],
       "kind": null,
       "group": "USS Voyager",
@@ -46511,7 +46511,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-kim-requests-transfer-to-starfleet-engineering-cor",
@@ -46519,7 +46519,7 @@
       "date": null,
       "stardate": "47928",
       "timeline": "alternate",
-      "summary": "Kim requests transfer to Starfleet Engineering Corps.",
+      "summary": "In the same divergent history, Kim requests transfer to the Starfleet Engineering Corps.",
       "entities": [
         "Starfleet Corps of Engineers"
       ],
@@ -46541,7 +46541,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-kira-nerys-and-julian-bashir-are-transported-to-th",
@@ -46571,7 +46571,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-lorit-akrem-dies-in-a-mine-collapse-on-dozaria",
@@ -46602,7 +46602,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-miles-o-brien-is-captured-and-put-on-trial-by-the",
@@ -46610,7 +46610,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Miles O'Brien is captured and put on trial by the Cardassians, who claim he is a member of the Maquis. In reality, the Cardassians hoped to discredit the Federation and allow the Central Command to send ships into the DMZ and wipe out the Maquis.",
+      "summary": "The Cardassians capture and try Miles O'Brien on a false claim of Maquis membership, hoping to discredit the Federation and justify sending Central Command ships into the DMZ to wipe out the Maquis.",
       "entities": [
         "Cardassian",
         "Cardassian Central Command",
@@ -46634,7 +46634,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-nog-steals-a-springball-racket-from-major-kira-ner",
@@ -46642,7 +46642,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Nog steals a springball racket from Major Kira Nerys' quarters.",
+      "summary": "Nog steals a springball racket from Major Kira Nerys's quarters.",
       "entities": [],
       "kind": null,
       "group": "Deep Space 9",
@@ -46662,7 +46662,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-quark-is-executed-the-primary-doctor-bashir-kills",
@@ -46670,7 +46670,7 @@
       "date": null,
       "stardate": null,
       "timeline": "mirror",
-      "summary": "Quark is executed. The primary Doctor Bashir kills Odo.",
+      "summary": "In the mirror universe, Quark is executed, and the prime Doctor Bashir kills Odo.",
       "entities": [],
       "kind": null,
       "group": "USS Voyager",
@@ -46690,7 +46690,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-ro-laren-completes-the-advanced-tactical-training",
@@ -46698,7 +46698,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Ro Laren completes the Advanced Tactical Training program and is promoted to lieutenant. She returns to the Enterprise-D, but later defects to the Maquis.",
+      "summary": "Ro Laren completes the Advanced Tactical Training program, is promoted to lieutenant, and returns to the Enterprise-D, though she later defects to the Maquis.",
       "entities": [
         "Ro Laren",
         "Advanced Tactical Training"
@@ -46721,7 +46721,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-sisko-takes-jake-nog-and-quark-to-the-gamma-quad",
@@ -46729,7 +46729,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Sisko takes Jake, Nog, and Quark to the Gamma Quadrant so that the two students can perform a planetary survey. Sisko and Quark are taken prisoner by the Jem'Hadar.",
+      "summary": "Sisko takes Jake, Nog, and Quark to the Gamma Quadrant for the two students to conduct a planetary survey; the Jem'Hadar take Sisko and Quark prisoner.",
       "entities": [
         "Jake Sisko",
         "Nog",
@@ -46754,7 +46754,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-sneed-is-arrested-in-federation-territory-he-is-f",
@@ -46762,7 +46762,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Sneed is arrested in Federation territory. He is found guilty of smuggling and sentenced to four years imprisonment.",
+      "summary": "Sneed is arrested in Federation territory, found guilty of smuggling, and sentenced to four years imprisonment.",
       "entities": [
         "Sneed",
         "Federation territory"
@@ -46785,7 +46785,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-standard-warp-drive-is-discovered-to-have-detrimen",
@@ -46793,7 +46793,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Standard warp drive is discovered to have detrimental effects on the fabric of subspace. A program is launched to develop a safer means of warp travel, which is first incorporated on the Intrepid.",
+      "summary": "Standard warp drive is found to harm the fabric of subspace, prompting a program to develop safer warp travel, first fitted to the Intrepid.",
       "entities": [],
       "kind": "launch",
       "group": "USS Voyager",
@@ -46813,7 +46813,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-the-brunali-homeworld-is-attacked-by-the-borg-coll",
@@ -46821,7 +46821,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Brunali homeworld is attacked by the Borg Collective.",
+      "summary": "The Borg Collective attacks the Brunali homeworld.",
       "entities": [
         "Brunali homeworld",
         "Borg Collective"
@@ -46844,7 +46844,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-the-el-aurian-martus-mazur-sets-up-club-martus-on",
@@ -46852,7 +46852,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The El-Aurian Martus Mazur sets up Club Martus on Deep Space 9's Promenade.",
+      "summary": "El-Aurian Martus Mazur sets up Club Martus on Deep Space 9's Promenade.",
       "entities": [
         "El-Aurian",
         "Martus Mazur",
@@ -46877,7 +46877,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-the-enterprise-d-receives-a-new-warp-core-on-thana",
@@ -46885,7 +46885,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise-D receives a new warp core on Thanatos VII, manufactured with interphasic techniques. The core also brings along interphasic organisms which attach themselves to the crew, but a method is later devised to remove them.",
+      "summary": "The Enterprise-D receives a new warp core built with interphasic techniques on Thanatos VII, which brings aboard interphasic organisms that attach to the crew until a method is devised to remove them.",
       "entities": [
         "Thanatos VII"
       ],
@@ -46907,7 +46907,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-the-skrreea-arrive-from-the-gamma-quadrant-looking",
@@ -46915,7 +46915,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Skrreea arrive from the Gamma Quadrant looking for the mythical planet Kentanna.",
+      "summary": "The Skrreea arrive from the Gamma Quadrant searching for the mythical planet Kentanna.",
       "entities": [
         "Skrreea",
         "Kentanna"
@@ -46938,7 +46938,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-the-terran-rebellion-begins",
@@ -46946,7 +46946,7 @@
       "date": null,
       "stardate": null,
       "timeline": "mirror",
-      "summary": "The Terran Rebellion begins.",
+      "summary": "In the mirror universe, the Terran Rebellion begins.",
       "entities": [
         "Terran Rebellion"
       ],
@@ -46968,7 +46968,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-the-uss-equinox-commanded-by-captain-rudolph-rans",
@@ -46999,7 +46999,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-the-uss-pegasus-is-found-in-the-devolin-system-th",
@@ -47007,7 +47007,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Pegasus is found in the Devolin system. The phasing cloak is retrieved by Admiral Erik Pressman and installed aboard the Enterprise-D to allow it to escape from within an asteroid. Illegal Starfleet involvement in the development and testing of the device is revealed.",
+      "summary": "The USS Pegasus is found in the Devolin system; Admiral Erik Pressman retrieves its phasing cloak and installs it aboard the Enterprise-D to escape an asteroid, exposing illegal Starfleet involvement in the device's development and testing.",
       "entities": [
         "Devolin system",
         "Erik Pressman",
@@ -47031,7 +47031,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-verad-boards-deep-space-9-while-the-station-is-be",
@@ -47039,7 +47039,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Verad boards Deep Space 9, while the station is being operated by a skeleton crew, to steal the Dax symbiont from Jadzia Dax. He is later stopped by Benjamin Sisko and the symbiont is returned to Jadzia.",
+      "summary": "While Deep Space 9 runs on a skeleton crew, Verad boards the station to steal the Dax symbiont from Jadzia Dax, but Benjamin Sisko stops him and the symbiont is returned to Jadzia.",
       "entities": [
         "Verad",
         "Jadzia Dax",
@@ -47063,7 +47063,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-wesley-crusher-leaves-starfleet-academy-to-join-th",
@@ -47071,7 +47071,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Wesley Crusher leaves Starfleet Academy to join the Traveler in explorations of alternate planes of reality.",
+      "summary": "Wesley Crusher leaves Starfleet Academy to join the Traveler in exploring alternate planes of reality.",
       "entities": [
         "Wesley Crusher",
         "Starfleet Academy"
@@ -47094,7 +47094,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-while-searching-for-suitable-planets-to-establish",
@@ -47102,7 +47102,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "While searching for suitable planets to establish colonies near the wormhole, Benjamin Sisko and Miles O'Brien discover a lost Erewon-class colony ship, and the remains of the colonists who have been living under an artificially created EM field for ten years. The leaders of the colony, Alixus and her son Vinod, who set up the field, are taken back to stand trial for the deaths of the colonists that could have been saved over the years.",
+      "summary": "Searching for colony sites near the wormhole, Benjamin Sisko and Miles O'Brien discover a lost Erewon-class colony ship and colonists who have lived a decade under an artificial EM field; its creators, Alixus and her son Vinod, are taken to stand trial for the deaths that field caused over the years.",
       "entities": [
         "Benjamin Sisko",
         "Miles O'Brien",
@@ -47127,7 +47127,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-william-t-riker-and-deanna-troi-observe-the-final",
@@ -47158,7 +47158,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-zar-begins-his-association-with-dala-in-which-he",
@@ -47166,7 +47166,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zar begins his association with Dala, in which he will never have known her to perform menial labor for six years.",
+      "summary": "Zar begins a six-year association with Dala in which he never once sees her do menial labor.",
       "entities": [
         "Zar",
         "Dala"
@@ -47189,7 +47189,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-zek-wins-the-global-tongo-championship-for-the-twe",
@@ -47197,7 +47197,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zek wins the Global Tongo Championship for the twenty-fourth year in a row.",
+      "summary": "Zek wins the Global Tongo Championship for the twenty-fourth year running.",
       "entities": [
         "Zek",
         "Global Tongo Championship"
@@ -47220,7 +47220,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2370-zim-brott-begins-to-serve-aboard-deep-space-9",
@@ -47228,7 +47228,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Zim Brott begins to serve aboard Deep Space 9.",
+      "summary": "Zim Brott begins serving aboard Deep Space 9.",
       "entities": [
         "Zim Brott"
       ],
@@ -47250,7 +47250,7 @@
         "https://memory-alpha.fandom.com/wiki/2370"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-according-to-william-riker-the-fusion-reactor-in",
@@ -47280,7 +47280,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-benjamin-sisko-is-killed-by-the-klingon-cardassian",
@@ -47288,7 +47288,7 @@
       "date": null,
       "stardate": null,
       "timeline": "mirror",
-      "summary": "Benjamin Sisko is killed by the Klingon-Cardassian Alliance. Miles \"Smiley\" O'Brien recruits the prime universe Benjamin Sisko to take his counterparts place temporarily.",
+      "summary": "In the mirror universe, the Klingon-Cardassian Alliance kills Benjamin Sisko; Miles 'Smiley' O'Brien recruits the prime-universe Sisko to temporarily take his counterpart's place.",
       "entities": [
         "Klingon-Cardassian Alliance",
         "Benjamin Sisko"
@@ -47311,7 +47311,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-benjamin-sisko-is-promoted-by-starfleet-command-fr",
@@ -47319,7 +47319,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Benjamin Sisko is promoted by Starfleet Command from commander to captain.",
+      "summary": "Starfleet Command promotes Benjamin Sisko from commander to captain.",
       "entities": [],
       "kind": "appointment",
       "group": "Deep Space 9",
@@ -47339,7 +47339,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-captain-james-t-kirk-emerges-from-the-nexus-and-i",
@@ -47381,7 +47381,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Deep Space 9 is spared destruction by mere seconds after a legacy counter-insurgency program installed by the station's original Cardassian commander is inadvertently initiated.",
+      "summary": "Deep Space 9 narrowly escapes destruction, spared by mere seconds after a legacy counter-insurgency program installed by the station's original Cardassian commander is inadvertently triggered.",
       "entities": [
         "Cardassian",
         "Dukat"
@@ -47404,7 +47404,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-dr-tolian-soran-uses-a-trilithium-weapon-the-sol",
@@ -47444,7 +47444,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Ensign Samantha Wildman discovers she is pregnant while stranded on Voyager in the Delta Quadrant.",
+      "summary": "Ensign Samantha Wildman discovers she is pregnant while stranded aboard Voyager in the Delta Quadrant.",
       "entities": [
         "Samantha Wildman"
       ],
@@ -47471,7 +47471,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-it-is-discovered-that-the-founders-of-the-dominion",
@@ -47479,7 +47479,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "It is discovered that the Founders of the Dominion have infiltrated the Alpha Quadrant.",
+      "summary": "The Founders of the Dominion are discovered to have infiltrated the Alpha Quadrant.",
       "entities": [],
       "kind": "discovery",
       "group": "Deep Space 9",
@@ -47499,7 +47499,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-jennifer-sisko-defects-to-the-terran-rebellion",
@@ -47507,7 +47507,7 @@
       "date": null,
       "stardate": null,
       "timeline": "mirror",
-      "summary": "Jennifer Sisko defects to the Terran Rebellion.",
+      "summary": "In the mirror universe, Jennifer Sisko defects to the Terran Rebellion.",
       "entities": [
         "Terran Rebellion"
       ],
@@ -47529,7 +47529,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-kar-a-young-kazon-ogla-begins-his-combat-trainin",
@@ -47537,7 +47537,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kar, a young Kazon-Ogla, begins his combat training on Tarok.",
+      "summary": "Kar, a young Kazon-Ogla, begins combat training on Tarok.",
       "entities": [
         "Kar",
         "Kazon-Ogla",
@@ -47561,7 +47561,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-kes-travels-to-this-year-from-five-years-in-the-or",
@@ -47569,7 +47569,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Kes travels to this year from five years in the original version of the future. She attempts to give the crew of Voyager to the Vidiians in exchange for safe passage for her future and present self to Ocampa. Her plan fails and Janeway is forced to kill Kes. Kes then makes a holographic projection to prevent her future self from going back in time, thus changing history.",
+      "summary": "Kes travels back to this year from five years into the original future, trying to trade Voyager's crew to the Vidiians for safe passage home to Ocampa for both her present and future selves; when the plan fails, Janeway is forced to kill her, and Kes projects a hologram to stop her future self from ever traveling back, altering history.",
       "entities": [
         "Vidiian",
         "Alternate timeline"
@@ -47592,7 +47592,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-kira-nerys-speaks-to-latha-mabrin-for-what-will-ul",
@@ -47623,7 +47623,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-lurak-t-luco-is-released-from-prison-he-had-serve",
@@ -47631,7 +47631,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lurak T'Luco is released from prison. He had served five years for hijacking, theft, and assault.",
+      "summary": "Lurak T'Luco is released from prison after serving five years for hijacking, theft, and assault.",
       "entities": [
         "Lurak T'Luco"
       ],
@@ -47653,7 +47653,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-marina-derex-s-labyrinths-of-the-mind-is-published",
@@ -47684,7 +47684,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-martok-is-captured-by-the-dominion-on-kang-s-summi",
@@ -47692,7 +47692,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Martok is captured by the Dominion on Kang's Summit and sent to Internment Camp 371.",
+      "summary": "The Dominion captures Martok on Kang's Summit and sends him to Internment Camp 371.",
       "entities": [
         "Martok",
         "Kang's Summit",
@@ -47716,7 +47716,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-neelix-and-kes-join-the-voyager-crew",
@@ -47747,7 +47747,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-originally-voyager-discovered-the-class-m-planet",
@@ -47755,7 +47755,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Originally, Voyager discovered the class M planet devastated by an explosion that happened the previous day due to the detonation of polaric ion energy. Captain Janeway and Tom Paris were thrown back in time before the explosion by a subspace fracture. The Voyager crew attempts to rescue them by opening a fracture with a polaric generator but cause the original explosion and destroy all life on the planet, including the captain. Janeway resets time by closing the fracture before it causes the explosion. This creates a new timeline in which Voyager never went to the planet and the civilization is spared.",
+      "summary": "In the original timeline, Voyager finds a class M planet devastated by a polaric ion energy explosion from the day before; Captain Janeway and Tom Paris are thrown back before the explosion by a subspace fracture, and when the crew's rescue attempt with a polaric generator instead causes the original blast and kills all life on the planet, including the captain, Janeway resets time by closing the fracture first, creating a new timeline in which Voyager never visits the planet and its civilization survives.",
       "entities": [
         "Alternate timeline"
       ],
@@ -47777,7 +47777,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-quark-visits-his-family-home-for-the-first-time-in",
@@ -47807,7 +47807,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-reginald-barclay-transfers-to-jupiter-station-and",
@@ -47815,7 +47815,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Reginald Barclay transfers to Jupiter Station and works at Dr. Lewis Zimmerman's holographic laboratory to test the Emergency Medical Hologram's interpersonal skills.",
+      "summary": "Reginald Barclay transfers to Jupiter Station to work in Dr. Lewis Zimmerman's holographic laboratory, testing the Emergency Medical Hologram's interpersonal skills.",
       "entities": [
         "Reginald Barclay",
         "Jupiter Station",
@@ -47840,7 +47840,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-robert-picard-and-his-son-ren-die-in-a-fire-at-th",
@@ -47882,7 +47882,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Seska's true roots as a Cardassian spy are revealed. She betrays the Voyager crew and joins the Kazon.",
+      "summary": "Seska's true identity as a Cardassian spy is revealed; she betrays the Voyager crew and joins the Kazon.",
       "entities": [
         "Seska",
         "Kazon"
@@ -47905,7 +47905,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-several-crewmembers-on-voyager-including-first-of",
@@ -47913,7 +47913,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Several crewmembers on Voyager, including first officer Cavit, flight control officer Stadi, the chief medical officer, and the chief engineer, are killed during the transit to the Delta Quadrant.",
+      "summary": "Several Voyager crew members, including first officer Cavit, flight control officer Stadi, the chief medical officer, and the chief engineer, die during the ship's transit to the Delta Quadrant.",
       "entities": [
         "Cavit",
         "Stadi"
@@ -47936,7 +47936,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-smiley-steals-the-design-schematics-for-the-uss-de",
@@ -47944,7 +47944,7 @@
       "date": null,
       "stardate": null,
       "timeline": "mirror",
-      "summary": "Smiley steals the design schematics for the USS Defiant during his visit to Deep Space 9.",
+      "summary": "During a visit to Deep Space 9, the mirror universe's Smiley steals the design schematics for the USS Defiant.",
       "entities": [
         "USS Defiant"
       ],
@@ -47966,7 +47966,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-sometime-around-this-year-variable-geometry-pylon",
@@ -47974,7 +47974,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Sometime around this year, variable geometry pylons are introduced on Federation starships.",
+      "summary": "Around this year, Federation starships begin introducing variable geometry pylons.",
       "entities": [],
       "kind": null,
       "group": "USS Equinox",
@@ -47994,7 +47994,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-starfleet-introduces-a-new-combadge-a-gold-rectan",
@@ -48043,7 +48043,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Steve Levy is promoted to Lieutenant.",
+      "summary": "Steve Levy is promoted to lieutenant.",
       "entities": [
         "Steve Levy"
       ],
@@ -48065,7 +48065,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-the-bajoran-shakaar-edon-a-former-cell-leader-in",
@@ -48073,7 +48073,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Bajoran Shakaar Edon, a former cell leader in the Bajoran Resistance, becomes first minister of Bajor's provisional government.",
+      "summary": "Bajoran Shakaar Edon, a former Resistance cell leader, becomes first minister of Bajor's provisional government.",
       "entities": [
         "Shakaar Edon",
         "Bajoran Resistance"
@@ -48096,7 +48096,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-the-cardassian-obsidian-order-together-with-the-r",
@@ -48104,7 +48104,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Cardassian Obsidian Order, together with the Romulan Tal Shiar, are lured into a trap when they attack the Founders' homeworld in the Gamma Quadrant. The following battle leads to the complete destruction of the combined Romulan-Cardassian fleet of twenty ships and severely cripples both organizations, which, in turn, reduces possible resistance against the Dominion down to the Federation and the Klingon Empire.",
+      "summary": "The Cardassian Obsidian Order and Romulan Tal Shiar are lured into a trap when they attack the Founders' homeworld in the Gamma Quadrant; the resulting battle destroys their combined twenty-ship fleet and cripples both organizations, leaving only the Federation and the Klingon Empire as meaningful resistance to the Dominion.",
       "entities": [
         "Cardassian",
         "Obsidian Order",
@@ -48131,7 +48131,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-the-enterprise-is-destroyed-over-veridian-iii-alm",
@@ -48171,7 +48171,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Federation, as well as the other Alpha and Beta Quadrant powers, becomes aware of the Dominion threat after the USS Defiant returns from its mission to the Founders' homeworld in the Gamma Quadrant, the home of the designated leaders of the Dominion.",
+      "summary": "The Federation and the other Alpha and Beta Quadrant powers learn of the Dominion threat after the USS Defiant returns from its mission to the Founders' homeworld in the Gamma Quadrant.",
       "entities": [
         "Dominion",
         "USS Defiant"
@@ -48194,7 +48194,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-the-maquis-member-thomas-riker-steals-the-uss-defi",
@@ -48202,7 +48202,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Maquis member Thomas Riker steals the USS Defiant and uses it to expose a Cardassian military buildup in the Orias system.",
+      "summary": "Maquis member Thomas Riker steals the USS Defiant and uses it to expose a Cardassian military buildup in the Orias system.",
       "entities": [
         "Thomas Riker",
         "Orias system"
@@ -48225,7 +48225,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-the-obsidian-order-exposes-legate-tekeny-ghemor-s",
@@ -48257,7 +48257,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-the-romulan-star-empire-sends-ruwon-and-karina-to",
@@ -48265,7 +48265,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Romulan Star Empire sends Ruwon and Karina to Deep Space 9 to take possession of Starfleet's data on the Dominion. This was agreed upon earlier in the year, in exchange for allowing the USS Defiant to operate a cloaking device. The Romulans also send a Warbird, intending to destroy the station and the wormhole. However, their plan is thwarted by Miles O'Brien, who had foreseen the future and warned Benjamin Sisko.",
+      "summary": "The Romulan Star Empire sends Ruwon and Karina to Deep Space 9 to collect Starfleet's Dominion data, per an earlier agreement allowing the USS Defiant to use a cloaking device, while secretly sending a Warbird to destroy the station and the wormhole; the plan fails after Miles O'Brien, having foreseen the future, warns Benjamin Sisko.",
       "entities": [
         "Romulan Star Empire",
         "Ruwon",
@@ -48292,7 +48292,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-the-starship-uss-equinox-disappears-pulled-into-t",
@@ -48300,7 +48300,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The starship USS Equinox disappears, pulled into the Delta Quadrant by the Caretaker. The ship sets a return course to the Alpha Quadrant, but encounters the Krowtonan Guard, becoming severely damaged while losing half of its crew.",
+      "summary": "The Caretaker pulls the USS Equinox into the Delta Quadrant; setting a return course, it encounters the Krowtonan Guard and is severely damaged, losing half its crew.",
       "entities": [
         "Krowtonan Guard",
         "USS Equinox"
@@ -48323,7 +48323,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-the-starship-uss-voyager-departs-deep-space-9-on-a",
@@ -48331,7 +48331,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The starship USS Voyager departs Deep Space 9 on a mission to find the Maquis raider Val Jean. Both ships are thrown seventy-five thousand light years into the Delta Quadrant by the Caretaker. The Caretaker's array, the only means home, is later destroyed by Captain Kathryn Janeway in order to protect the Ocampa and the two crews are forced to work together to find a route back to the Alpha Quadrant.",
+      "summary": "The USS Voyager departs Deep Space 9 to find the Maquis raider Val Jean; the Caretaker hurls both ships seventy-five thousand light-years into the Delta Quadrant, and after Captain Kathryn Janeway destroys the Caretaker's array to protect the Ocampa, the two crews must work together to find their way back to the Alpha Quadrant.",
       "entities": [
         "Deep Space 9",
         "Maquis raider",
@@ -48359,7 +48359,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-the-uss-enterprise-undergoes-a-major-refit",
@@ -48389,7 +48389,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-the-uss-olympia-crashes-on-a-planet-in-rutharian-s",
@@ -48397,7 +48397,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Olympia crashes on a planet in Rutharian sector. Captain Lisa Cusak's distress call is sent three years into the future by the planet's energy barrier and is intercepted by the USS Defiant. Captain Cusak dies on the planet.",
+      "summary": "The USS Olympia crashes on a planet in the Rutharian sector; the planet's energy barrier delays Captain Lisa Cusak's distress call by three years before the USS Defiant intercepts it, and Cusak dies on the planet.",
       "entities": [
         "Rutharian sector",
         "Lisa Cusak",
@@ -48422,7 +48422,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-tuvok-joins-chakotay-s-maquis-cell-as-an-undercove",
@@ -48430,7 +48430,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Tuvok joins Chakotay's Maquis cell as an undercover operative of Starfleet.",
+      "summary": "Tuvok joins Chakotay's Maquis cell as an undercover Starfleet operative.",
       "entities": [
         "Tuvok",
         "Chakotay",
@@ -48454,7 +48454,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-voyager-approaches-an-m-class-planet-kes-enters-t",
@@ -48462,7 +48462,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Voyager approaches an M-class planet. Kes enters the bridge, reporting a vision of a planet being destroyed. She is relieved to find out that the planet is teeming with life. It appeared to be a pre-warp civilization, so Captain Janeway makes a note in the log and orders Voyager to continue towards the Alpha Quadrant.",
+      "summary": "As Voyager approaches an M-class planet, Kes reports a vision of it being destroyed, but finds it teeming with life instead; judging it a pre-warp civilization, Captain Janeway logs the sighting and orders Voyager onward to the Alpha Quadrant.",
       "entities": [
         "Makull's homeworld"
       ],
@@ -48484,7 +48484,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-voyager-discovers-a-micro-wormhole-the-crew-sends",
@@ -48492,7 +48492,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Voyager discovers a micro-wormhole. The crew sends in a microprobe, which reveals the wormhole leads to the Alpha Quadrant. Voyager, using the probe as a relay for a message, contacts a Romulan science vessel named Talvath, commanded by Telek R'Mor. However, it is later found out that the wormhole is a rift through time and that R'Mor is from the year 2351. After some consideration, R'Mor agrees to take the crew's personal messages with him and deliver them to Starfleet at the appropriate time. R'Mor is later discovered to have died in 2367 and the messages were apparently never delivered to Starfleet.",
+      "summary": "Voyager discovers a micro-wormhole leading to the Alpha Quadrant and uses a probe to relay a message to the Romulan science vessel Talvath, commanded by Telek R'Mor, before learning the wormhole is actually a rift through time and R'Mor is transmitting from 2351; he agrees to carry the crew's personal messages to Starfleet, but is later found to have died in 2367 without ever delivering them.",
       "entities": [
         "Talvath",
         "Telek R'Mor"
@@ -48520,7 +48520,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-voyager-lands-on-a-planet-in-the-delta-quadrant-an",
@@ -48528,7 +48528,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Voyager lands on a planet in the Delta Quadrant and discovers a colony of Humans, including Amelia Earhart, transported to the planet by the Briori centuries prior.",
+      "summary": "Voyager lands on a Delta Quadrant planet and discovers a colony of humans, including Amelia Earhart, transported there by the Briori centuries earlier.",
       "entities": [
         "Human",
         "Amelia Earhart",
@@ -48552,7 +48552,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-voyager-makes-first-contact-with-the-ocampa-talax",
@@ -48584,7 +48584,7 @@
         "https://memory-alpha.fandom.com/wiki/2371"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2371-voyager-s-tom-paris-is-convicted-of-murdering-the",
