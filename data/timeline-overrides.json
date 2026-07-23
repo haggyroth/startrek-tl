@@ -18,5 +18,13 @@
   "2367-in-another-quantum-reality-picard-is-lost-in-an-e": {
     "timeline": "alternate",
     "note": "Not an overlay conflict - detectTimeline() matched the phrase 'alternate reality' (MA's idiom for the Kelvin timeline) and tagged this kelvin, but this bullet is TNG 'Parallels', a quantum-multiverse story with no Kelvin-film citation at all: 'In another quantum reality, Picard is lost... In the same alternate reality, Worf and Deanna Troi...'. Confirmed via data/events.raw.json: of 31 'alternate reality' occurrences dataset-wide, the rest are either genuine Kelvin-timeline USS Enterprise headers (2255-2263) correctly caught by the phrase rule, or already protected by an '=== Alternate timelines ===' section heading that overrides phrase matching before detectTimeline() ever runs (see sectionTimeline() in parse-year.js) - e.g. the 2382 'everything was purple' Lower Decks bullet. This 2367 bullet is the one exception: an inline italicized aside with no section heading of its own, so a one-off correction rather than a parser change."
+  },
+  "2404-by-this-year-the-doctor-had-named-himself-joe-i": {
+    "timeline": "alternate",
+    "note": "Not an overlay conflict - detectTimeline() saw no alternate/mirror/kelvin phrase in this bullet's own text and defaulted to prime, but it's a '**' sub-bullet nested directly under a '*' intro line reading 'In an alternate timeline in which the USS Voyager does not enter the Borg transwarp conduit network and return to Earth in 2378:' on the 2404 year page. There's no H2/H3 section heading here for sectionTimeline() to catch (it's bullet-level markup, not a heading), so the classification falls through to per-bullet phrase matching, which finds nothing in this child bullet's own sentence. Confirmed via data/events.raw.json this is the only 'alternate timeline intro + nested child bullets lacking their own phrase' case dataset-wide (grepped all 30 'In an(other) alternate timeline' occurrences for a following '**' line), so a one-off correction rather than a parser change."
+  },
+  "2404-vice-admiral-kathryn-janeway-steals-a-time-travel": {
+    "timeline": "alternate",
+    "note": "Same '**' nested-bullet pattern as the 'Doctor named himself Joe' entry immediately above, under the same alternate-timeline intro line on the 2404 year page. See that entry's note for the full reasoning."
   }
 }
