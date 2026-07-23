@@ -72,7 +72,7 @@ independently from the extracted fact record rather than paraphrased.
 
 ---
 
-## Phase 8 — Correctness and hardening
+## Phase 8 — Correctness and hardening ✅
 
 Everything shipped so far is unverified beyond spot checks. This phase makes
 the current state trustworthy before the surface area grows.
@@ -85,10 +85,15 @@ the current state trustworthy before the surface area grows.
 - [x] CI on GitHub Actions: tests + dataset validation. CI cannot rebuild
       `events.json` (the cache is gitignored and re-scraping on every push
       would be rude), so it validates the committed dataset instead
-- [~] Branch protection on `main` — **blocked**: GitHub requires a paid plan
-      for branch protection and rulesets on private repos. `.githooks/pre-push`
-      enforces no-force-push, no-delete and green tests locally in the
-      meantime. Apply server-side rules in Phase 15, when the repo goes public
+- [x] Branch protection on `main`. The repo went public, unlocking free
+      branch protection; server-side rules now block force-pushes and branch
+      deletion on `main`, matching what `.githooks/pre-push` already enforced
+      locally. Deliberately did not require PR reviews or status checks
+      before merging — the project's workflow is local feature branch ->
+      `merge --no-ff` -> direct push to `main`, never PRs, and required
+      status checks would block that push entirely (a fresh commit has no
+      passing check yet at push time). CI still runs on every push and
+      reports pass/fail after the fact, same as before
 - [x] Resolve the `timelineConflict` events — recorded with reasoning in
       `data/timeline-overrides.json`, enforced by the validator
 - [x] Review `data/unmatched-overlay.json`. 30 entries were production metadata
