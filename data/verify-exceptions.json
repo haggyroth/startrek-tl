@@ -78,5 +78,9 @@
   "2390-after-being-confronted-by-his-first-officer-over-h": {
     "tokens": ["Captain", "Alonzo"],
     "note": "This bullet's own text names its subject only as 'Vandermeer', with his rank and first name established in the immediately preceding sibling bullet ('Captain Alonzo Vandermeer of the USS Ibn Majid receives a black flag directive...') under the same top-level events list on the 2390 year page. Confirmed against data/events.raw.json."
+  },
+  "2404-by-this-year-the-doctor-had-named-himself-joe-i": {
+    "tokens": ["Voyager", "Borg", "Earth", "2378"],
+    "note": "This bullet's own text is just 'By this year, The Doctor had named himself \"Joe\"...', with no mention of Voyager, the Borg, Earth, or 2378 - those all come from the '*' intro line it's nested under as a '**' sub-bullet on the 2404 year page ('In an alternate timeline in which the USS Voyager does not enter the Borg transwarp conduit network and return to Earth in 2378:'). Same nested-bullet pattern recorded in data/timeline-overrides.json for this event's timeline field; see that entry for why it's confirmed a one-off rather than a parser change."
   }
 }

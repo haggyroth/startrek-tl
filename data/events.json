@@ -7,7 +7,7 @@
     ],
     "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 2004,
+    "authoredSummaries": 2037,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -61528,7 +61528,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A spatial anomaly is detected by the USS Avalon. The USS Stargazer investigates. A voice demands help from Jean-Luc Picard. Picard is brought aboard and answers, and the message is revealed to be from the Borg, requesting to join the Federation. The Singularity emerges from the anomaly, and a Borg Queen beams aboard the Stargazer and attempts to seize control of the Federation armada assembled there. Picard orders the Stargazer to self-destruct.",
+      "summary": "The USS Avalon detects a spatial anomaly, and the USS Stargazer investigates; a voice demanding to speak with Jean-Luc Picard turns out to be the Borg requesting to join the Federation, but when the Singularity emerges from the anomaly, a Borg Queen beams aboard the Stargazer to seize control of the assembled Federation armada, and Picard orders the Stargazer's self-destruction.",
       "entities": [
         "Jean-Luc Picard",
         "Borg",
@@ -61554,7 +61554,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-a-spring-vintage-of-chateau-picard-is-bottled-at-c",
@@ -61584,7 +61584,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-an-offshoot-of-the-borg-are-made-provisional-membe",
@@ -61592,7 +61592,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "An offshoot of the Borg are made provisional members of the United Federation of Planets.",
+      "summary": "An offshoot of the Borg is made a provisional member of the United Federation of Planets.",
       "entities": [],
       "kind": null,
       "group": "USS Voyager",
@@ -61612,7 +61612,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-commander-ro-laren-dies",
@@ -61642,7 +61642,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-ensign-eli-foster-is-revealed-to-be-a-rogue-change",
@@ -61650,7 +61650,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Ensign Eli Foster is revealed to be a rogue Changeling working for Vadic after he is found by Jack Crusher sabotaging the ship.",
+      "summary": "Jack Crusher catches Ensign Eli Foster sabotaging the ship, revealing him as a rogue Changeling working for Vadic.",
       "entities": [
         "Changeling"
       ],
@@ -61672,7 +61672,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-fleet-admiral-elizabeth-shelby-is-killed-by-her-cr",
@@ -61680,7 +61680,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Fleet Admiral Elizabeth Shelby is killed by her crew.",
+      "summary": "Fleet Admiral Elizabeth Shelby is killed by her own crew.",
       "entities": [
         "Fleet Admiral",
         "Elizabeth Shelby"
@@ -61703,7 +61703,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-following-battles-in-earth-orbit-and-over-jupiter",
@@ -61711,7 +61711,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Following battles in Earth orbit and over Jupiter, the Borg Queen and the Borg Collective are presumed to have been destroyed, freeing a partially assimilated Starfleet from their control.",
+      "summary": "Following battles in Earth orbit and over Jupiter, the Borg Queen and the Borg Collective are presumed destroyed, freeing a partially assimilated Starfleet from their control.",
       "entities": [
         "Jupiter",
         "Borg Queen"
@@ -61734,7 +61734,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-following-the-assimilation-of-starfleet-by-the-bor",
@@ -61742,7 +61742,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Following the assimilation of Starfleet by the Borg, the reconstructed Enterprise-D is pressed back into service.",
+      "summary": "After the Borg's assimilation of Starfleet, the reconstructed Enterprise-D is pressed back into service.",
       "entities": [
         "Borg"
       ],
@@ -61764,7 +61764,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-jack-crusher-is-revealed-to-be-jean-luc-picard-s-s",
@@ -61795,7 +61795,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-liam-shaw-dies",
@@ -61825,7 +61825,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-liam-shaw-transfers-command-of-the-titan-a-to-capt",
@@ -61833,7 +61833,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Liam Shaw transfers command of the Titan-A to Captain William T. Riker after he is severely injured.",
+      "summary": "Severely injured, Liam Shaw transfers command of the Titan-A to Captain William T. Riker.",
       "entities": [
         "Liam Shaw",
         "William T. Riker"
@@ -61856,7 +61856,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-picard-awakens-in-an-altered-ch-teau-picard-where",
@@ -61892,7 +61892,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-separate-from-jurati-s-borg-the-original-borg-col",
@@ -61977,7 +61977,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The 250th anniversary of Starfleet is commemorated with Frontier Day celebrations.",
+      "summary": "Frontier Day celebrations commemorate the 250th anniversary of Starfleet.",
       "entities": [
         "Frontier Day"
       ],
@@ -61999,7 +61999,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-the-enterprise-f-is-scheduled-for-early-decommissi",
@@ -62027,7 +62027,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-the-intrepid-is-sent-to-rendezvous-with-the-titan",
@@ -62055,7 +62055,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-the-titan-a-is-used-to-rescue-doctor-beverly-crush",
@@ -62063,7 +62063,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Titan-A is used to rescue Doctor Beverly Crusher and her son Jack from the Ryton system during which they are attacked by Vadic and the Shrike.",
+      "summary": "The Titan-A rescues Doctor Beverly Crusher and her son Jack from the Ryton system after they are attacked by Vadic and the Shrike.",
       "entities": [
         "Beverly Crusher",
         "Jack Crusher",
@@ -62093,7 +62093,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-the-titan-escapes-from-the-ryton-nebula-and-heads",
@@ -62101,7 +62101,7 @@
       "date": null,
       "stardate": "78183.10",
       "timeline": "prime",
-      "summary": "The Titan escapes from the Ryton Nebula and heads back to Federation space. Admiral Jean-Luc Picard records an Admiral's Log.",
+      "summary": "The Titan escapes the Ryton Nebula and heads back to Federation space, where Admiral Jean-Luc Picard records an Admiral's Log.",
       "entities": [
         "Jean-Luc Picard"
       ],
@@ -62123,7 +62123,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-the-titan-rendezvous-with-the-intrepid-where-most",
@@ -62131,7 +62131,7 @@
       "date": null,
       "stardate": "78186.03",
       "timeline": "prime",
-      "summary": "The Titan rendezvous with the Intrepid where most of the Titan’s crew is transported over there.",
+      "summary": "The Titan rendezvous with the Intrepid, where most of its crew is transported aboard.",
       "entities": [],
       "kind": null,
       "group": "USS Titan",
@@ -62151,7 +62151,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-the-voyager-b-is-scheduled-for-launch",
@@ -62179,7 +62179,7 @@
         "https://memory-alpha.fandom.com/wiki/2401"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2402-a-new-version-of-the-starfleet-combadge-is-introdu",
@@ -62187,7 +62187,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A new version of the Starfleet combadge is introduced between 2401 and this year.",
+      "summary": "A new version of the Starfleet combadge is introduced sometime between 2401 and this year.",
       "entities": [],
       "kind": null,
       "group": "USS Enterprise",
@@ -62207,7 +62207,7 @@
         "https://memory-alpha.fandom.com/wiki/2402"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2402-jack-crusher-is-assigned-to-the-enterprise-g-as-sp",
@@ -62237,7 +62237,7 @@
         "https://memory-alpha.fandom.com/wiki/2402"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2402-raffaela-musiker-is-assigned-to-the-enterprise-g-a",
@@ -62267,7 +62267,7 @@
         "https://memory-alpha.fandom.com/wiki/2402"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2402-sidney-la-forge-is-promoted-to-lieutenant-junior-g",
@@ -62297,7 +62297,7 @@
         "https://memory-alpha.fandom.com/wiki/2402"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2402-the-enterprise-d-s-restoration-is-completed-and-i",
@@ -62305,7 +62305,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Enterprise-D's restoration is completed, and it is added to the Fleet Museum at Athan Prime.",
+      "summary": "The Enterprise-D's restoration is completed, and the ship is added to the Fleet Museum at Athan Prime.",
       "entities": [
         "Fleet Museum",
         "Athan Prime"
@@ -62328,7 +62328,7 @@
         "https://memory-alpha.fandom.com/wiki/2402"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2402-the-enterprise-g-heads-out-on-its-shakedown-cruise",
@@ -62356,15 +62356,15 @@
         "https://memory-alpha.fandom.com/wiki/2402"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2404-by-this-year-the-doctor-had-named-himself-joe-i",
       "year": 2404,
       "date": null,
       "stardate": null,
-      "timeline": "prime",
-      "summary": "By this year, The Doctor had named himself \"Joe\" in honor of his new wife's grandfather.",
+      "timeline": "alternate",
+      "summary": "In an alternate timeline where Voyager never enters the Borg transwarp conduit network to return to Earth in 2378, the Doctor by this year has named himself Joe, honoring his new wife's grandfather.",
       "entities": [
         "The Doctor"
       ],
@@ -62386,7 +62386,9 @@
         "https://memory-alpha.fandom.com/wiki/2404"
       ],
       "landmark": false,
-      "prose": "source"
+      "timelineConflict": null,
+      "timelineNote": "Not an overlay conflict - detectTimeline() saw no alternate/mirror/kelvin phrase in this bullet's own text and defaulted to prime, but it's a '**' sub-bullet nested directly under a '*' intro line reading 'In an alternate timeline in which the USS Voyager does not enter the Borg transwarp conduit network and return to Earth in 2378:' on the 2404 year page. There's no H2/H3 section heading here for sectionTimeline() to catch (it's bullet-level markup, not a heading), so the classification falls through to per-bullet phrase matching, which finds nothing in this child bullet's own sentence. Confirmed via data/events.raw.json this is the only 'alternate timeline intro + nested child bullets lacking their own phrase' case dataset-wide (grepped all 30 'In an(other) alternate timeline' occurrences for a following '**' line), so a one-off correction rather than a parser change.",
+      "prose": "authored"
     },
     {
       "id": "2404-in-an-alternate-timeline-in-which-the-uss-voyager",
@@ -62394,7 +62396,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate timeline in which the USS Voyager does not enter the Borg transwarp conduit network and return to Earth in 2378:",
+      "summary": "In an alternate timeline, Voyager never enters the Borg transwarp conduit network to return to Earth in 2378.",
       "entities": [
         "Borg",
         "Borg transwarp network",
@@ -62410,15 +62412,15 @@
         "https://memory-alpha.fandom.com/wiki/2404"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2404-vice-admiral-kathryn-janeway-steals-a-time-travel",
       "year": 2404,
       "date": null,
       "stardate": null,
-      "timeline": "prime",
-      "summary": "Vice Admiral Kathryn Janeway steals a time travel device from Korath, a Klingon scientist belonging to the House of Korath, and travels back in time to 2378 to convince her past self to attempt to return to Earth through the Borg transwarp hub.",
+      "timeline": "alternate",
+      "summary": "In the same alternate timeline, Vice Admiral Kathryn Janeway steals a time travel device from Klingon scientist Korath of the House of Korath and travels back to 2378 to convince her past self to attempt returning to Earth through the Borg transwarp hub.",
       "entities": [
         "Vice Admiral",
         "Kathryn Janeway",
@@ -62444,7 +62446,9 @@
         "https://memory-alpha.fandom.com/wiki/2404"
       ],
       "landmark": false,
-      "prose": "source"
+      "timelineConflict": null,
+      "timelineNote": "Same '**' nested-bullet pattern as the 'Doctor named himself Joe' entry immediately above, under the same alternate-timeline intro line on the 2404 year page. See that entry's note for the full reasoning.",
+      "prose": "authored"
     },
     {
       "id": "2405-in-an-alternate-timeline-in-which-benjamin-sisko-i",
@@ -62452,7 +62456,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate timeline in which Benjamin Sisko is displaced out of time from 2372, Morn takes over Quark's Bar from Quark, renaming it Morn's.",
+      "summary": "In an alternate timeline where Benjamin Sisko is displaced out of time from 2372, Morn takes over Quark's Bar from Quark and renames it Morn's.",
       "entities": [
         "Benjamin Sisko",
         "Morn",
@@ -62478,7 +62482,7 @@
         "https://memory-alpha.fandom.com/wiki/2405"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2405-norvo-tigan-is-scheduled-to-be-released-from-priso",
@@ -62508,7 +62512,7 @@
         "https://memory-alpha.fandom.com/wiki/2405"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2408-in-an-alternate-timeline-in-which-benjamin-sisko-i",
@@ -62516,7 +62520,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate timeline in which Benjamin Sisko is displaced out of time from 2372, he briefly appears in normal time.",
+      "summary": "In an alternate timeline where Benjamin Sisko is displaced out of time from 2372, he briefly reappears in normal time.",
       "entities": [
         "Benjamin Sisko"
       ],
@@ -62538,7 +62542,7 @@
         "https://memory-alpha.fandom.com/wiki/2408"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2408-jake-sisko-conducts-a-q-a-session-on-the-subject-o",
@@ -62546,7 +62550,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jake Sisko conducts a Q&A session on the subject of his father at Starfleet Academy.",
+      "summary": "Jake Sisko conducts a Q&A session about his father at Starfleet Academy.",
       "entities": [
         "Jake Sisko"
       ],
@@ -62568,7 +62572,7 @@
         "https://memory-alpha.fandom.com/wiki/2408"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2410-in-an-alternate-timeline-in-which-alexander-rozhen",
@@ -62576,7 +62580,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate timeline in which Alexander Rozhenko chooses to never become a Klingon warrior, Alexander travels back to 2370 from this year in the hopes of convincing his past self to become a warrior, thus avoiding the death of his father, Worf.",
+      "summary": "In an alternate timeline where Alexander Rozhenko never becomes a Klingon warrior, he travels back to 2370 from this year hoping to convince his past self to become one, in an attempt to prevent his father Worf's death.",
       "entities": [
         "Alexander Rozhenko",
         "Klingon",
@@ -62600,7 +62604,7 @@
         "https://memory-alpha.fandom.com/wiki/2410"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2415-a-message-sent-in-2364-by-the-uss-enterprise-from",

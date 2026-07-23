@@ -1,7 +1,8 @@
 # Authoring summaries
 
-How to write the remaining summaries. 2,004 of 2,037 are done; the rest follow
-the same procedure.
+**The rewrite is complete: all 2,037 events carry independently authored
+prose.** This doc now serves as reference for future additions — new events
+from a re-scrape, or corrections — which follow the same procedure below.
 
 ## Why summaries are authored at all
 
@@ -90,8 +91,9 @@ sampling procedure is in the README under "Verification".
 
 Authoring means reading every bullet's full context, which is a good vantage
 point to notice a wrong `timeline` tag — `detectTimeline()` is a phrase-matching
-heuristic and gets fooled by two patterns found so far, both one-off enough to
-fix as manual corrections rather than parser changes:
+heuristic and gets fooled by a few patterns found over the course of the
+rewrite, each one-off enough to fix as a manual correction rather than a
+parser change:
 
 - **A back-reference bullet.** "In the same timeline, Commander Thelin becomes
   first officer..." only makes sense next to the alternate-timeline bullet
@@ -103,6 +105,20 @@ fix as manual corrections rather than parser changes:
   tagged the whole bullet `mirror`. Check which ship/station heading the raw
   wikitext actually groups the bullet under; that's a stronger signal than the
   prose.
+- **"Alternate reality" outside its Kelvin context.** MA's own idiom for the
+  Kelvin timeline can appear in an unrelated quantum-multiverse story (TNG
+  "Parallels") with no Kelvin citation at all. Before trusting the phrase
+  match, check whether the bullet sits under a real `=== Alternate
+  timelines ===`/`Kelvin` section heading (which the parser already trusts
+  over phrase matching) or is just an inline aside with no heading of its own.
+- **A `**` sub-bullet with no phrase of its own.** An "In an alternate
+  timeline..." intro line is itself a `*` bullet; the parser's section-heading
+  override only fires on real `==`/`===` headings, not on this kind of
+  bullet-level framing. A nested `**` child bullet under it inherits the
+  alternate-timeline context by prose alone, but if the child's own sentence
+  has no alternate/mirror/kelvin phrase, `detectTimeline()` defaults it to
+  `prime`. Check whether the bullet is indented under an intro line like this
+  before trusting its classification.
 
 `data/timeline-overrides.json` isn't limited to Wikipedia-overlay conflicts —
 it's a general hand-reviewed corrections file. Before adding an entry, grep the
@@ -146,17 +162,17 @@ re-author: match on year plus token overlap against the new ids.
 ## Priority
 
 `validate:data` **fails** if any event at significance ≥ 4 still carries scraped
-prose, so landmarks can never regress. Beyond that, whole eras are the useful
-increment — a complete era means an era preset that is entirely clean.
+prose, so landmarks can never regress. Every era below is now complete.
 
 | Era | Authored |
 |---|---|
 | 2063–2100 | 53 / 53 ✅ |
 | ENT (2101–2161) | 213 / 213 ✅ |
 | Gap (2162–2232) | 60 / 60 ✅ |
-| **23rd century** | **453 / 453 ✅** |
-| 24th century | 1,092 / 1,125 |
+| 23rd century | 453 / 453 ✅ |
+| 24th century | 1,125 / 1,125 ✅ |
 | Far future | 133 / 133 ✅ |
+| **Total** | **2,037 / 2,037 ✅** |
 
-The 24th century's dense run (2301–2400) is now fully authored; only 33
-events remain, the sparse tail from 2401–2410.
+Next up per `ROADMAP.md`: switching the committed build to `--strict`,
+which belongs immediately before publication rather than now.
