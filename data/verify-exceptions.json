@@ -38,5 +38,45 @@
   "2381-engages-in-a-second-contact-race-with-the-uss-aled": {
     "tokens": ["Cerritos"],
     "note": "This bullet's own text never names its subject (\"Engages in a second contact race with the USS Aledo...\"), inheriting it from the USS Cerritos block it's grouped under on the 2381 year page - the immediately preceding bullets there are about Vice Admiral Les Buenamigo tricking the Cerritos into an encounter with the Breen, and Starfleet's Shame airing for the Cerritos crew. Confirmed against data/events.raw.json."
+  },
+  "2381-in-later-battled-a-pakled-clumpship-and-forced-the": {
+    "tokens": ["Titan"],
+    "note": "This bullet's own text never names its subject (\"In later battled a Pakled Clumpship...\"), inheriting it from the ';{{USS|Titan|NCC-80102}}' subheading it's grouped under on the 2381 year page, alongside the Titan's other bullets in the same block. Confirmed against data/events.raw.json."
+  },
+  "2381-it-continued-to-battle-the-pakleds-on-the-far-side": {
+    "tokens": ["Titan"],
+    "note": "Same USS Titan block as the entry above: this bullet's subject is only 'It' in the source, continuing from the Titan bullets directly preceding it under the same subheading. Confirmed against data/events.raw.json."
+  },
+  "2381-lures-the-uss-aledo-uss-dallas-and-uss-corpus-ch": {
+    "tokens": ["Cerritos", "Cerritos's"],
+    "note": "This bullet's own text never names its subject (\"Lures the USS Aledo, USS Dallas, and USS Corpus Christi...\"), inheriting it from the USS Cerritos block it's grouped under on the 2381 year page - it directly follows the 'Engages in a second contact race' Cerritos bullet above. Confirmed against data/events.raw.json."
+  },
+  "2381-takes-part-in-a-second-contact-race-with-the-cerri": {
+    "tokens": ["Aledo"],
+    "note": "This bullet's own text never names its subject (\"Takes part in a second contact race with the Cerritos...\"), inheriting it from the ';{{USS|Aledo}}' subheading it's grouped under on the 2381 year page. Confirmed against data/events.raw.json."
+  },
+  "2381-the-ship-is-called-in-to-help-mediate-a-conflict-b": {
+    "tokens": ["Cerritos"],
+    "note": "This bullet's subject is only 'The ship' in the source, grouped under the USS Cerritos block on the 2381 year page directly after bullets about Captain Freeman and the Cerritos crew. Confirmed against data/events.raw.json."
+  },
+  "2381-the-station-plays-host-to-post-war-trade-negotiati": {
+    "tokens": ["Space", "9"],
+    "note": "This bullet's subject is only 'The station' in the source, grouped under the ';[[Deep Space 9]]' subheading it opens the 2381 year page's events with. Confirmed against data/events.raw.json."
+  },
+  "2384-the-voyager-is-launched-on-her-maiden-voyage-under": {
+    "tokens": ["USS"],
+    "note": "This bullet's own text just says \"The Voyager\", but it's grouped under the ';{{USS|Voyager|NCC-74656-A|-A}}' subheading on the 2384 year page - the successor ship, not the original Voyager. Naming it 'the USS Voyager-A' states what the section heading already establishes. Confirmed against data/events.raw.json."
+  },
+  "2385-in-the-aftermath-of-this-attack-starfleet-command": {
+    "tokens": ["Mars"],
+    "note": "This bullet's own text only says 'this attack', referring back to the 'attack on Mars' bullet directly above it on the 2385 year page (the April 5 synthetic-triggered attack on Utopia Planitia). Confirmed against data/events.raw.json."
+  },
+  "2385-starfleet-abandons-its-plans-to-aid-the-romulan-ev": {
+    "tokens": ["Mars"],
+    "note": "Same antecedent as the entry above: this bullet's 'even before the attack' clause refers to the 'attack on Mars' bullet earlier on the 2385 year page. Confirmed against data/events.raw.json."
+  },
+  "2390-after-being-confronted-by-his-first-officer-over-h": {
+    "tokens": ["Captain", "Alonzo"],
+    "note": "This bullet's own text names its subject only as 'Vandermeer', with his rank and first name established in the immediately preceding sibling bullet ('Captain Alonzo Vandermeer of the USS Ibn Majid receives a black flag directive...') under the same top-level events list on the 2390 year page. Confirmed against data/events.raw.json."
   }
 }

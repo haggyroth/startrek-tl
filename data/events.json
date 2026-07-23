@@ -7,7 +7,7 @@
     ],
     "eventCount": 2037,
     "strict": false,
-    "authoredSummaries": 1904,
+    "authoredSummaries": 2004,
     "sources": [
       {
         "name": "Memory Alpha",
@@ -58079,7 +58079,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In another alternate timeline, Starfleet Command has the deep space vessel assigned to search for the missing USS Voyager give up its search six years after it crash landed on an unidentified planet in the Takara sector.",
+      "summary": "In another alternate timeline, Starfleet Command has the deep space vessel searching for the missing Voyager call off the search six years after it crash-landed on an unidentified planet in the Takara sector.",
       "entities": [
         "Kim's deep space vessel",
         "Unnamed Alpha and Beta Quadrant planets",
@@ -58104,7 +58104,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-in-later-battled-a-pakled-clumpship-and-forced-the",
@@ -58112,7 +58112,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In later battled a Pakled Clumpship and forced the latter to retreat.",
+      "summary": "The Titan later battles a Pakled Clumpship and forces it to retreat.",
       "entities": [],
       "kind": null,
       "group": "USS Titan",
@@ -58132,7 +58132,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-it-continued-to-battle-the-pakleds-on-the-far-side",
@@ -58140,7 +58140,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "It continued to battle the Pakleds on the far side of the system from Starbase 25.",
+      "summary": "The Titan continues battling the Pakleds on the far side of the system from Starbase 25.",
       "entities": [
         "Starbase 25"
       ],
@@ -58162,7 +58162,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-jean-luc-picard-is-promoted-to-admiral-and-leaves",
@@ -58170,7 +58170,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jean-Luc Picard is promoted to Admiral and leaves the Enterprise.",
+      "summary": "Jean-Luc Picard is promoted to admiral and leaves the Enterprise.",
       "entities": [
         "Jean-Luc Picard"
       ],
@@ -58198,7 +58198,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-lieutenant-junior-grade-kayshon-was-assigned-to-th",
@@ -58206,7 +58206,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lieutenant junior grade Kayshon was assigned to the USS Cerritos as the ship's new head of security.",
+      "summary": "Lieutenant junior grade Kayshon is assigned to the USS Cerritos as its new head of security.",
       "entities": [
         "Lieutenant junior grade",
         "Kayshon"
@@ -58229,7 +58229,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-lieutenant-shaxs-returns-from-the-dead-due-to-reas",
@@ -58237,7 +58237,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lieutenant Shaxs returns from the dead due to reasons preferred to be kept secret. Ensign Sam Rutherford learns the secret and is traumatized.",
+      "summary": "Lieutenant Shaxs returns from the dead for reasons kept secret; Ensign Sam Rutherford learns the secret and is traumatized.",
       "entities": [
         "Shaxs",
         "Sam Rutherford"
@@ -58260,7 +58260,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-lieutenant-tom-paris-visits-the-cerritos-he-accid",
@@ -58268,7 +58268,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lieutenant Tom Paris visits the Cerritos. He accidentally gets into a fist fight with Boimler due to his accidental resemblance to a Kazon",
+      "summary": "Lieutenant Tom Paris visits the Cerritos and accidentally gets into a fistfight with Boimler over his resemblance to a Kazon.",
       "entities": [
         "Tom Paris",
         "Kazon"
@@ -58291,7 +58291,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-lures-the-uss-aledo-uss-dallas-and-uss-corpus-ch",
@@ -58299,7 +58299,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Lures the USS Aledo, USS Dallas, and USS Corpus Christi away from Douglas Station after the Aledo murders Buenamigo and attacks the station, almost leading to her destruction.",
+      "summary": "The Cerritos lures the Aledo, Dallas, and Corpus Christi away from Douglas Station after the Aledo murders Buenamigo and attacks the station, nearly leading to the Cerritos's own destruction.",
       "entities": [
         "Douglas Station",
         "USS Aledo",
@@ -58324,7 +58324,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-mariner-rallies-all-other-california-vessels-to-pr",
@@ -58332,7 +58332,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Mariner rallies all other California vessels to protect the Cerritos from the Aledo, then returns to Starfleet and resumes her commission. T'Lyn, a Vulcan from the Sh'vhal, arrives on the Cerritos as an Ensign (provisional)",
+      "summary": "Mariner rallies the rest of the California-class fleet to protect the Cerritos from the Aledo, then returns to Starfleet and resumes her commission; T'Lyn, a Vulcan from the Sh'vhal, joins the Cerritos as a provisional ensign.",
       "entities": [
         "T'Lyn"
       ],
@@ -58354,7 +58354,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-rutherford-is-promoted-to-lieutenant-junior-grade",
@@ -58362,7 +58362,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Rutherford is promoted to Lieutenant junior grade through past achievements.",
+      "summary": "Rutherford is promoted to lieutenant junior grade for his past achievements.",
       "entities": [],
       "kind": "appointment",
       "group": "USS Cerritos",
@@ -58382,7 +58382,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-several-crewmembers-watch-locarno-s-announcement-o",
@@ -58390,7 +58390,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Several crewmembers watch Locarno's announcement of Nova Fleet, during which time Mariner denounces Locarno and flees with a Genesis Device. This prompts Captain Freeman to disobey orders not to rescue Mariner, which the entire crew backs up. In the process of obtaining a ship to breach the trynar shield, Freeman ends up opening diplomatic ties with the Orions. In addition, Mariner never fires on Nova Fleet, and the Cerritos’ arrival causes Nova Fleet to abandon Locarno for his erratic and controlling behavior, preventing the rescue from causing a diplomatic incident. These factors allow Freeman to escape disciplinary action after Mariner is rescued.",
+      "summary": "Several crew members watch Locarno announce Nova Fleet, during which Mariner denounces him and flees with a Genesis Device, prompting Captain Freeman to defy orders and rescue her with the crew's backing; obtaining a ship to breach the trynar shield leads Freeman to open diplomatic ties with the Orions, and since Mariner never fires on Nova Fleet and the Cerritos's arrival causes the fleet to abandon Locarno over his erratic, controlling behavior, the rescue avoids a diplomatic incident and Freeman escapes discipline.",
       "entities": [
         "Genesis Device",
         "Orion"
@@ -58413,7 +58413,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-shari-yn-yem-starfleet-drill-instructor-conducts",
@@ -58421,7 +58421,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Shari yn Yem, Starfleet Drill instructor, conducts tests on the Cerritos, all of the tests set to fail in order to keep her job. Mariner and Freeman are able to expose this plot.",
+      "summary": "Starfleet drill instructor Shari yn Yem runs tests on the Cerritos rigged to fail so she can keep her job, a plot Mariner and Freeman expose.",
       "entities": [
         "Shari yn Yem",
         "Drill instructor"
@@ -58444,7 +58444,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-starbase-25-hosts-this-year-s-command-conference",
@@ -58475,7 +58475,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-starfleet-assigns-the-cerritos-to-take-nick-locarn",
@@ -58483,7 +58483,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet assigns the Cerritos to take Nick Locarno into protective custody after learning that Nova One is targeting ex-Starfleet personnel. However, on New Axton, an away team led by Captain Freeman discover blueprints for Nova One, proving that Locarno is the mastermind behind the attacks. Simultaneously, Mariner, stranded on Sherbal V after an attempt to keep her out of danger goes awry due to Nova Fleet activity in the Sherbal system, is abducted by Locarno and brought to the Detrion system.",
+      "summary": "Starfleet assigns the Cerritos to take Nick Locarno into protective custody after learning Nova One is targeting former Starfleet personnel; on New Axton, an away team led by Captain Freeman finds blueprints proving Locarno is Nova One's mastermind, while Mariner, stranded on Sherbal V after a plan to keep her safe goes wrong amid Nova Fleet activity there, is abducted by Locarno and taken to the Detrion system.",
       "entities": [
         "Nick Locarno",
         "Sherbal V",
@@ -58515,7 +58515,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-starfleet-s-shame-airs-and-is-viewed-by-the-crew-o",
@@ -58523,7 +58523,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet's Shame airs and is viewed by the crew of the Cerritos, who realize too late that Mariner was not responsible for the negative impression. In response to this PR disaster, Starfleet decides to decommission the California.",
+      "summary": "Starfleet's Shame airs and is viewed by the Cerritos crew, who realize too late that Mariner was not responsible for the show's negative impression; in response to the resulting PR disaster, Starfleet decides to decommission the California class.",
       "entities": [
         "Starfleet's Shame"
       ],
@@ -58550,7 +58550,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-takes-part-in-a-second-contact-race-with-the-cerri",
@@ -58558,7 +58558,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Takes part in a second contact race with the Cerritos which it wins but violates the Prime Directive in the process, which Captain Freeman uses to call for its disqualification.",
+      "summary": "The Aledo takes part in a second contact race with the Cerritos, which it wins by violating the Prime Directive, giving Captain Freeman grounds to call for its disqualification.",
       "entities": [
         "Prime Directive"
       ],
@@ -58580,7 +58580,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-thaddeus-troi-riker-is-born",
@@ -58615,7 +58615,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-the-cerritos-accidentally-discover-an-encounter-be",
@@ -58623,7 +58623,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Cerritos accidentally discover an encounter between the Pakled Clumpship Pakled and the IKS Che'Ta' and are attacked. The Vulcan cruiser Sh'vhal arrives to aid them while Ma'ah slays his captain Dorg and takes over the Che'Ta, escaping.",
+      "summary": "The Cerritos accidentally discovers an encounter between the Pakled Clumpship Pakled and the IKS Che'Ta' and is attacked; the Vulcan cruiser Sh'vhal arrives to help while Ma'ah kills his captain, Dorg, takes command of the Che'Ta, and escapes.",
       "entities": [
         "Pakled Clumpship",
         "Sh'vhal type",
@@ -58649,7 +58649,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-the-cerritos-becomes-privy-to-intelligence-regardi",
@@ -58679,7 +58679,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-the-cerritos-crew-sets-up-voyager-for-its-final-jo",
@@ -58687,7 +58687,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Cerritos crew sets up Voyager for its final journey to Earth and the Fleet Museum when a Tak Takian macrovirus causes trouble and the ship is hijacked by various hologram programs. Rutherford stops the hijacking by infecting the bio-neural gel packs with Neelix's schplict-based brill cheese.",
+      "summary": "The Cerritos crew prepares Voyager for its final journey to Earth and the Fleet Museum, but a Tak Takian macrovirus lets various hologram programs hijack the ship, until Rutherford stops them by infecting the bio-neural gel packs with Neelix's schplict-based brill cheese.",
       "entities": [
         "Tak Tak",
         "Neelix"
@@ -58710,7 +58710,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-the-cerritos-enters-bynar-space-to-investigate-the",
@@ -58718,7 +58718,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Cerritos enters Bynar space to investigate the \"destruction\" of a Bynar ship, but later discover that Nova One is not destroying the ships it attacks but towing them away.",
+      "summary": "The Cerritos enters Bynar space to investigate the destruction of a Bynar ship, but discovers Nova One is actually towing away the ships it attacks rather than destroying them.",
       "entities": [
         "Bynar space",
         "Bynar ship"
@@ -58741,7 +58741,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-the-cerritos-is-tasked-with-ending-a-war-on-an-unn",
@@ -58749,7 +58749,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Cerritos is tasked with ending a war on an unnamed planet caused by the supercomputer AGIMUS. Mariner and Boimler are tasked with sending it to the Daystrom Institute for storage. Lieutenant Commander Andy Billups finds himself in another plot to take the throne of his planet Hysperia by his mother, Queen Paolana.",
+      "summary": "The Cerritos is tasked with ending a war on an unnamed planet caused by the supercomputer AGIMUS; Mariner and Boimler are sent to deliver it to the Daystrom Institute for storage, while Lieutenant Commander Andy Billups gets caught up in another plot by his mother, Queen Paolana, to seize the throne of his homeworld Hysperia.",
       "entities": [
         "AGIMUS",
         "Daystrom Institute",
@@ -58776,7 +58776,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-the-cerritos-is-tasked-with-preparing-uss-voyager",
@@ -58784,7 +58784,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Cerritos is tasked with preparing USS Voyager for its final trip to Earth, then the Fleet Museum when a transporter accident fuses Lieutenant Commander Andy Billups and Doctor T'Ana into T'Illups. Fearing a reprise of Tuvix' fate, T'Illups attempts to make an army of hybrids, but is stopped. Boimler, Mariner and Tendi are promoted to Lieutenant junior grade while T'Lyn is made the same rank as a provisional for their actions in saving both ships.",
+      "summary": "The Cerritos is tasked with preparing Voyager for its final trip to Earth and the Fleet Museum when a transporter accident fuses Lieutenant Commander Andy Billups and Doctor T'Ana into T'Illups, who, fearing Tuvix's fate, tries to build an army of hybrids before being stopped; for their part in saving both ships, Boimler, Mariner, and Tendi are promoted to lieutenant junior grade, and T'Lyn receives the same rank provisionally.",
       "entities": [
         "Fleet Museum",
         "Lieutenant commander",
@@ -58814,7 +58814,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-the-cerritos-rescues-the-uss-archimedes-when-a-wav",
@@ -58822,7 +58822,7 @@
       "date": null,
       "stardate": "58130.6",
       "timeline": "prime",
-      "summary": "The Cerritos rescues the USS Archimedes when a wave of magnetized ionic plasma disables the ship. Freeman is asked to perform first contact with the Lapeerians in Captain Sonya Gomez's stead. However, Freeman is subsequently arrested and charged with colluding with Klingon extremists to destroy Pakled Planet.",
+      "summary": "The Cerritos rescues the USS Archimedes after a wave of magnetized ionic plasma disables it; Freeman is asked to conduct first contact with the Lapeerians in Captain Sonya Gomez's place, but is then arrested and charged with colluding with Klingon extremists to destroy Pakled Planet.",
       "entities": [
         "Lapeerian",
         "Sonya Gomez",
@@ -58846,7 +58846,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-the-cerritos-was-sent-to-frylon-iv-to-investigate",
@@ -58854,7 +58854,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Cerritos was sent to Frylon IV to investigate the reported sighting of a Mugato, a dangerous creature not indigenous to this planet. They discovered an illegal Ferengi poaching operation where they harvested the Mugato's horn. Both Boimler and Rutherford manage to reach a compromise with the Ferengi to change the poaching operation to a nature reserve by appealing to the Ferengi love of profit.",
+      "summary": "The Cerritos is sent to Frylon IV to investigate a reported sighting of a Mugato, a creature not native to the planet, and uncovers an illegal Ferengi poaching operation harvesting the Mugato's horn; Boimler and Rutherford persuade the Ferengi to turn the operation into a nature reserve by appealing to their love of profit.",
       "entities": [
         "Frylon IV",
         "Mugato",
@@ -58878,7 +58878,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-the-ship-is-called-in-to-help-mediate-a-conflict-b",
@@ -58886,7 +58886,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The ship is called in to help mediate a conflict between a group of scientists and the Scrubble on Jengus IV while Ensigns Beckett Mariner, Sam Rutherford and Brad Boimler remove psychic mines. This, along with Ensign D'Vana Tendi discovering odd readings on a rock, accidentally expose a plot between the two groups to obtain and sell Federation secrets on the black market",
+      "summary": "The Cerritos is called in to help mediate a conflict between a group of scientists and the Scrubble on Jengus IV while Ensigns Beckett Mariner, Sam Rutherford, and Brad Boimler remove psychic mines, and Ensign D'Vana Tendi's discovery of odd readings on a rock accidentally exposes a plot between the two groups to sell Federation secrets on the black market.",
       "entities": [
         "Scrubble",
         "Jengus IV",
@@ -58913,7 +58913,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-the-ship-s-crew-also-investigated-the-pakled-takeo",
@@ -58921,7 +58921,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The ship's crew also investigated the Pakled takeover of a Varuvian mining colony on Karzill IV, but were unable to determine whether any other power was involved in the operation. During this mission, a transporter duplicate of Brad Boimler, William Boimler, was created. The duplicate remained on the Titan, while the original Boimler returned to the Cerritos.",
+      "summary": "The Titan's crew also investigates the Pakled takeover of a Varuvian mining colony on Karzill IV, without determining whether another power was involved; during the mission a transporter duplicate of Brad Boimler, William Boimler, is created, and while the duplicate stays aboard the Titan, the original Boimler returns to the Cerritos.",
       "entities": [
         "Varuvian ore",
         "Karzill IV",
@@ -58945,7 +58945,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-the-station-plays-host-to-post-war-trade-negotiati",
@@ -58953,7 +58953,7 @@
       "date": null,
       "stardate": "58456.2",
       "timeline": "prime",
-      "summary": "The station plays host to post-war trade negotiations between the Karemma and the Federation. The negotiations are nearly ruined when it is discovered Quark stole Karemma tech for a new type of replicator, but Captain Carol Freeman is able to rerail negotiations.",
+      "summary": "Deep Space 9 hosts post-war trade negotiations between the Karemma and the Federation, nearly derailed when Quark is found to have stolen Karemma technology for a new replicator, until Captain Carol Freeman gets the talks back on track.",
       "entities": [
         "Karemma",
         "Quark",
@@ -58977,7 +58977,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-the-vau-n-akat-known-as-the-vindicator-arrives-bac",
@@ -58985,7 +58985,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Vau N'Akat known as The Vindicator arrives back in time from 2436 and begins infiltrating Starfleet, posing as Trill Ensign Asencia.",
+      "summary": "The Vau N'Akat known as the Vindicator arrives from 2436 and begins infiltrating Starfleet, posing as Trill Ensign Asencia.",
       "entities": [
         "Vau N'Akat",
         "Trill",
@@ -59009,7 +59009,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-uss-aledo-launched-defending-the-cerritos-from-br",
@@ -59017,7 +59017,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "USS Aledo launched, defending the Cerritos from Breen. Vice Admiral Les Buenamigo introduces the Texas to Starfleet",
+      "summary": "The USS Aledo launches, defending the Cerritos from the Breen, as Vice Admiral Les Buenamigo introduces the Texas class to Starfleet.",
       "entities": [
         "Breen",
         "Vice Admiral",
@@ -59041,7 +59041,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-vice-admiral-les-buenamigo-tricks-the-cerritos-int",
@@ -59079,7 +59079,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2381-while-engaging-in-combat-with-several-pakled-battl",
@@ -59087,7 +59087,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "While engaging in combat with several Pakled battle harpies, the Titan enters an anomaly and undergoes gluonic disruption.",
+      "summary": "While fighting several Pakled battle harpies, the Titan enters an anomaly and undergoes gluonic disruption.",
       "entities": [
         "Pakled battle harpy"
       ],
@@ -59109,7 +59109,7 @@
         "https://memory-alpha.fandom.com/wiki/2381"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2382-in-an-alternate-reality-where-everything-was-purpl",
@@ -59117,7 +59117,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate reality where everything was purple, both the USS Enterprise and Lieutenant Commander Data were still in service, rather than both having been destroyed years earlier.",
+      "summary": "In an alternate reality where everything was purple, both the USS Enterprise and Lieutenant Commander Data remain in service, rather than both having been destroyed years earlier.",
       "entities": [
         "Quantum reality",
         "Data",
@@ -59141,7 +59141,7 @@
         "https://memory-alpha.fandom.com/wiki/2382"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2382-in-an-alternate-timeline-where-captain-benjamin-si",
@@ -59173,7 +59173,7 @@
         "https://memory-alpha.fandom.com/wiki/2382"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2382-the-cerritos-aids-targalus-ix-in-dismantling-their",
@@ -59181,7 +59181,7 @@
       "date": null,
       "stardate": "59376.9",
       "timeline": "prime",
-      "summary": "The Cerritos aids Targalus IX in dismantling their capitalist economic system following the planet's admittance into the Federation.",
+      "summary": "The Cerritos helps Targalus IX dismantle its capitalist economic system following the planet's admission into the Federation.",
       "entities": [
         "Targalus IX",
         "Free-enterprise system"
@@ -59204,7 +59204,7 @@
         "https://memory-alpha.fandom.com/wiki/2382"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2382-the-cerritos-is-briefly-drawn-through-a-quantum-fi",
@@ -59212,7 +59212,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Cerritos is briefly drawn through a quantum fissure into an parallel universe, where it encounters that universe's version of the Cerritos.",
+      "summary": "The Cerritos is briefly drawn through a quantum fissure into a parallel universe, where it encounters that universe's version of itself.",
       "entities": [],
       "kind": null,
       "group": "USS Cerritos",
@@ -59232,7 +59232,7 @@
         "https://memory-alpha.fandom.com/wiki/2382"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2382-the-cerritos-is-docked-at-the-cosmic-duchess-to-b",
@@ -59240,7 +59240,7 @@
       "date": null,
       "stardate": "59393.7",
       "timeline": "prime",
-      "summary": "The Cerritos is docked at the Cosmic Duchess, to both handle a swarm of seemingly rogue nanites (Which are in reality being controlled by an alternate universe microscopic version of the USS Endeavour) with a side mission of trying to find Admiral Milius who went AWOL because he resents being assigned to milking space whales of all kinds.",
+      "summary": "The Cerritos docks at the Cosmic Duchess to deal with a swarm of seemingly rogue nanites, actually controlled by a microscopic alternate-universe version of the USS Endeavour, alongside a side mission to find Admiral Milius, who has gone AWOL in resentment over being assigned to milk space whales.",
       "entities": [
         "USS Cerritos",
         "Cosmic Duchess",
@@ -59267,7 +59267,7 @@
         "https://memory-alpha.fandom.com/wiki/2382"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2382-the-protostar-is-launched-from-the-san-francisco-f",
@@ -59317,7 +59317,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A temporal anomaly almost destroys the Protostar.",
+      "summary": "A temporal anomaly nearly destroys the Protostar.",
       "entities": [],
       "kind": null,
       "group": null,
@@ -59337,7 +59337,7 @@
         "https://memory-alpha.fandom.com/wiki/2383"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2383-dal-and-the-escaped-prisoners-explore-and-escape",
@@ -59345,7 +59345,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dal and the escaped prisoners explore (and escape from) an unknown class M planet in the Hirogen star system.",
+      "summary": "Dal and the escaped prisoners explore, and escape from, an unknown class M planet in the Hirogen star system.",
       "entities": [
         "Murder Planet",
         "Hirogen star system"
@@ -59373,7 +59373,7 @@
         "https://memory-alpha.fandom.com/wiki/2383"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2383-dal-r-el-rok-tahk-zero-jankom-pog-and-murf-dis",
@@ -59381,7 +59381,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dal R'El, Rok-Tahk, Zero, Jankom Pog, and Murf discover the USS Protostar and escape from the Tars Lamora prison colony, with Gwyn as their captive.",
+      "summary": "Dal R'El, Rok-Tahk, Zero, Jankom Pog, and Murf discover the USS Protostar and escape the Tars Lamora prison colony, taking Gwyn as their captive.",
       "entities": [
         "Dal R'El",
         "Rok-Tahk",
@@ -59410,7 +59410,7 @@
         "https://memory-alpha.fandom.com/wiki/2383"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2383-the-crew-of-the-protostar-makes-a-rather-disastrou",
@@ -59418,7 +59418,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The crew of the Protostar makes a rather disastrous first contact with the Cymari.",
+      "summary": "The Protostar crew makes a disastrous first contact with the Cymari.",
       "entities": [
         "Cymari"
       ],
@@ -59440,7 +59440,7 @@
         "https://memory-alpha.fandom.com/wiki/2383"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2383-the-protostar-crew-enacts-a-daring-plan-to-rescue",
@@ -59468,7 +59468,7 @@
         "https://memory-alpha.fandom.com/wiki/2383"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2383-with-the-aid-of-a-hologram-of-kathryn-janeway-dal",
@@ -59496,7 +59496,7 @@
         "https://memory-alpha.fandom.com/wiki/2383"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2384-asencia-kills-the-diviner",
@@ -59504,7 +59504,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Asencia kills The Diviner.",
+      "summary": "Asencia kills the Diviner.",
       "entities": [
         "Asencia",
         "Ilthuran"
@@ -59527,7 +59527,7 @@
         "https://memory-alpha.fandom.com/wiki/2384"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2384-dal-r-el-and-his-crew-begin-their-journey-towards",
@@ -59535,7 +59535,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dal R'El and his crew begin their journey towards Federation space.",
+      "summary": "Dal R'El and his crew begin their journey toward Federation space.",
       "entities": [
         "Dal R'El",
         "Federation space"
@@ -59558,7 +59558,7 @@
         "https://memory-alpha.fandom.com/wiki/2384"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2384-dal-r-el-jankom-pog-murf-rok-tahk-and-zero-are",
@@ -59566,7 +59566,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Dal R'el, Jankom Pog, Murf, Rok-Tahk and Zero are able to join Starfleet as Warrant officers.",
+      "summary": "Dal R'El, Jankom Pog, Murf, Rok-Tahk, and Zero are able to join Starfleet as warrant officers.",
       "entities": [
         "Jankom Pog",
         "Murf",
@@ -59592,7 +59592,7 @@
         "https://memory-alpha.fandom.com/wiki/2384"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2384-gwyndala-returns-to-solum",
@@ -59623,7 +59623,7 @@
         "https://memory-alpha.fandom.com/wiki/2384"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2384-sneed-is-arrested-on-this-space-station-he-is-cha",
@@ -59631,7 +59631,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Sneed is arrested on this space station. He is charged with arson and sentenced to three months imprisonment.",
+      "summary": "Sneed is arrested on the space station, charged with arson, and sentenced to three months imprisonment.",
       "entities": [
         "Sneed"
       ],
@@ -59653,7 +59653,7 @@
         "https://memory-alpha.fandom.com/wiki/2384"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2384-sometime-prior-to-this-year-the-traveler-s-specie",
@@ -59661,7 +59661,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Sometime prior to this year, The Traveler's species left the known plane of existence.",
+      "summary": "Sometime before this year, the Traveler's species leaves the known plane of existence.",
       "entities": [
         "The Traveler's species"
       ],
@@ -59683,7 +59683,7 @@
         "https://memory-alpha.fandom.com/wiki/2384"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2384-starfleet-learns-that-captain-chakotay-and-his-his",
@@ -59691,7 +59691,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet learns that Captain Chakotay and his his crew are trapped 52 years into the future.",
+      "summary": "Starfleet learns that Captain Chakotay and his crew are trapped fifty-two years in the future.",
       "entities": [
         "Chakotay",
         "USS Protostar personnel"
@@ -59714,7 +59714,7 @@
         "https://memory-alpha.fandom.com/wiki/2384"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2384-the-uss-protostar-is-destroyed-in-an-effort-to-des",
@@ -59722,7 +59722,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Protostar is destroyed in an effort to destroy the Living construct.",
+      "summary": "The USS Protostar is destroyed in an effort to destroy the Living Construct.",
       "entities": [
         "Living construct"
       ],
@@ -59744,7 +59744,7 @@
         "https://memory-alpha.fandom.com/wiki/2384"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2384-the-voyager-is-launched-on-her-maiden-voyage-under",
@@ -59752,7 +59752,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Voyager is launched on her maiden voyage under Vice admiral Kathryn Janeway.",
+      "summary": "The USS Voyager-A launches on its maiden voyage under Vice Admiral Kathryn Janeway.",
       "entities": [],
       "kind": "launch",
       "group": "USS Voyager",
@@ -59772,7 +59772,7 @@
         "https://memory-alpha.fandom.com/wiki/2384"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2384-vice-admiral-kathryn-janeway-begins-their-search-f",
@@ -59780,7 +59780,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Vice admiral Kathryn Janeway begins their search for Chakotay and the USS Protostar.",
+      "summary": "Vice Admiral Kathryn Janeway begins the search for Chakotay and the USS Protostar.",
       "entities": [
         "Kathryn Janeway",
         "Chakotay",
@@ -59804,7 +59804,7 @@
         "https://memory-alpha.fandom.com/wiki/2384"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2385-according-to-section-31-estimates-made-in-2375-th",
@@ -59812,7 +59812,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "According to Section 31 estimates made in 2375, the Klingon Empire will have finally recovered from their losses incurred during the Dominion War.",
+      "summary": "According to Section 31 estimates made in 2375, the Klingon Empire will have finally recovered from its Dominion War losses by this year.",
       "entities": [
         "Section 31",
         "Klingon Empire",
@@ -59836,7 +59836,7 @@
         "https://memory-alpha.fandom.com/wiki/2385"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2385-captain-chakotay-is-given-command-of-the-voyager-a",
@@ -59866,7 +59866,7 @@
         "https://memory-alpha.fandom.com/wiki/2385"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2385-compromised-synthetics-are-used-by-the-tal-shiar-c",
@@ -59948,7 +59948,7 @@
         "https://memory-alpha.fandom.com/wiki/2385"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2385-in-the-aftermath-of-this-attack-starfleet-command",
@@ -59956,7 +59956,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In the aftermath of this attack, Starfleet Command was asked to \"scale back\" operations, ceasing all exploratory missions and focusing on protecting Federation citizens. Admirals Janeway and Picard both opposed the move, but Fleet admiral Jellico stated in a meeting with several Starfleet Officers that, with the loss of the A500s, resource shortages, and a lack of engineers, that Starfleet's mission of \"peace\" would have to wait.",
+      "summary": "In the aftermath of the attack on Mars, Starfleet Command is asked to scale back operations, ending exploratory missions to focus on protecting Federation citizens; Admirals Janeway and Picard oppose the move, but Fleet Admiral Jellico tells Starfleet officers that, given the loss of the A500s, resource shortages, and an engineer shortage, Starfleet's mission of peace will have to wait.",
       "entities": [
         "Kathryn Janeway",
         "Jean-Luc Picard",
@@ -59981,7 +59981,7 @@
         "https://memory-alpha.fandom.com/wiki/2385"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2385-starfleet-abandons-its-plans-to-aid-the-romulan-ev",
@@ -59989,7 +59989,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet abandons its plans to aid the Romulan evacuation, a decision leading Admiral Picard to resign his commission. The decision is informed by concerns that the Federation might implode over support for the Romulans, as even before the attack, fourteen species within the Federation have threatened to pull out over the issue. Also as a result of the attack, synthetic lifeforms are banned throughout the Federation and research is halted, which was the Zhat Vash’s original goal.",
+      "summary": "Starfleet abandons its plans to aid the Romulan evacuation, prompting Admiral Picard to resign his commission; the decision reflects fears that Federation support for the Romulans could fracture the Federation itself, since fourteen member species had already threatened to withdraw over the issue even before the attack on Mars, which also leads the Federation to ban synthetic lifeforms and halt related research - the Zhat Vash's original goal.",
       "entities": [],
       "kind": null,
       "group": "USS Voyager",
@@ -60014,7 +60014,7 @@
         "https://memory-alpha.fandom.com/wiki/2385"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2385-starfleet-is-in-the-process-of-resettling-romulans",
@@ -60022,7 +60022,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Starfleet is in the process of resettling Romulans threatened by an impending supernova. This includes the settlement of refugees on Vashti.",
+      "summary": "Starfleet is resettling Romulans threatened by an impending supernova, including refugees settled on Vashti.",
       "entities": [
         "Romulan",
         "Romulan supernova",
@@ -60051,7 +60051,7 @@
         "https://memory-alpha.fandom.com/wiki/2385"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2385-the-crew-prevent-asencia-from-using-time-space-wea",
@@ -60104,7 +60104,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Prodigy is launched under the command of Acting captain Gwyndala and her first officer Dal R'El.",
+      "summary": "The USS Prodigy launches under acting captain Gwyndala and her first officer Dal R'El.",
       "entities": [
         "Acting captain",
         "Gwyndala",
@@ -60129,7 +60129,7 @@
         "https://memory-alpha.fandom.com/wiki/2385"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2385-the-voyager-makes-official-first-contact-with-the",
@@ -60159,7 +60159,7 @@
         "https://memory-alpha.fandom.com/wiki/2385"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2386-daughter-is-entered-into-storage-in-picard-s-secti",
@@ -60167,7 +60167,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Daughter is entered into storage in Picard's section of the quantum archive at the Starfleet Archive Museum. The painting is given the item number 227.67.",
+      "summary": "Data's painting Daughter is placed in storage in Picard's section of the quantum archive at the Starfleet Archive Museum, given item number 227.67.",
       "entities": [
         "Starfleet Museum Quantum Archives",
         "Starfleet Archive Museum"
@@ -60190,7 +60190,7 @@
         "https://memory-alpha.fandom.com/wiki/2386"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2386-having-been-captured-and-taken-to-vergessen-lieut",
@@ -60256,7 +60256,7 @@
         "https://memory-alpha.fandom.com/wiki/2386"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2386-the-vintage-bottle-of-chateau-picard-wine-which-je",
@@ -60264,7 +60264,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The vintage bottle of Chateau Picard wine which Jean-Luc Picard later brought to Raffi Musiker is manufactured.",
+      "summary": "The vintage bottle of Chateau Picard wine that Jean-Luc Picard later gives to Raffi Musiker is produced.",
       "entities": [
         "Raffi Musiker"
       ],
@@ -60286,7 +60286,7 @@
         "https://memory-alpha.fandom.com/wiki/2386"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2387-ambassador-spock-plans-to-pilot-a-specialized-ship",
@@ -60404,7 +60404,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate timeline, the Collected Stories by Jake Sisko wins the Betar Prize.",
+      "summary": "In an alternate timeline, Jake Sisko's Collected Stories wins the Betar Prize.",
       "entities": [
         "Collected Stories",
         "Jake Sisko",
@@ -60428,7 +60428,7 @@
         "https://memory-alpha.fandom.com/wiki/2389"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2389-laris-is-forced-to-remind-jean-luc-picard-to-wash",
@@ -60436,7 +60436,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Laris is forced to remind Jean-Luc Picard to wash his hands for the first of many times.",
+      "summary": "Laris has to remind Jean-Luc Picard to wash his hands, the first of many times.",
       "entities": [
         "Laris",
         "Jean-Luc Picard"
@@ -60459,7 +60459,7 @@
         "https://memory-alpha.fandom.com/wiki/2389"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2390-after-being-confronted-by-his-first-officer-over-h",
@@ -60467,7 +60467,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "After being confronted by his first officer over his actions, Commander Cristóbal Rios, Vandermeer commits suicide.",
+      "summary": "After his first officer, Commander Cristóbal Rios, confronts him about his actions, Captain Alonzo Vandermeer commits suicide.",
       "entities": [
         "Cristóbal Rios"
       ],
@@ -60489,7 +60489,7 @@
         "https://memory-alpha.fandom.com/wiki/2390"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2390-captain-alonzo-vandermeer-of-the-uss-ibn-majid-rec",
@@ -60521,7 +60521,7 @@
         "https://memory-alpha.fandom.com/wiki/2390"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2390-jean-luc-picard-and-worf-will-last-see-one-another",
@@ -60529,7 +60529,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jean-Luc Picard and Worf will last see one another for the next eleven years.",
+      "summary": "Jean-Luc Picard and Worf will not see one another again for the next eleven years.",
       "entities": [
         "Jean-Luc Picard",
         "Worf"
@@ -60552,7 +60552,7 @@
         "https://memory-alpha.fandom.com/wiki/2390"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2390-rios-follows-through-on-the-directive-purging-the",
@@ -60560,7 +60560,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Rios follows through on the directive, purging the transporter log and dumping the bodies into space. Subsequently, he is given a medical discharge from Starfleet.",
+      "summary": "Rios follows through on the directive, purging the transporter log and dumping the bodies into space, and is subsequently given a medical discharge from Starfleet.",
       "entities": [],
       "kind": null,
       "group": null,
@@ -60580,7 +60580,7 @@
         "https://memory-alpha.fandom.com/wiki/2390"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2390-the-last-contact-between-the-federation-and-the-bo",
@@ -60588,7 +60588,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The last contact between the Federation and the Borg Collective \"for over a decade\" prior to 2401 takes place during or before this year.",
+      "summary": "The last contact between the Federation and the Borg Collective for over a decade before 2401 occurs during or before this year.",
       "entities": [
         "Borg Collective"
       ],
@@ -60610,7 +60610,7 @@
         "https://memory-alpha.fandom.com/wiki/2390"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2390-the-uss-ibn-majid-encounters-a-ship-in-the-vayt-se",
@@ -60618,7 +60618,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The USS Ibn Majid encounters a ship in the Vayt sector. Aboard are two synths, Beautiful Flower and Jana.",
+      "summary": "The USS Ibn Majid encounters a ship in the Vayt sector carrying two synths, Beautiful Flower and Jana.",
       "entities": [
         "Beautiful Flower's ship",
         "Vayt sector",
@@ -60645,7 +60645,7 @@
         "https://memory-alpha.fandom.com/wiki/2390"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2391-by-this-year-quark-wouldn-t-have-visited-his-fami",
@@ -60653,7 +60653,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "By this year, Quark wouldn't have visited his family home for forty years, if he'd had his way.",
+      "summary": "By this year, Quark, left to his own preference, would not have visited his family home in forty years.",
       "entities": [
         "Quark"
       ],
@@ -60675,7 +60675,7 @@
         "https://memory-alpha.fandom.com/wiki/2391"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2391-doctor-vellek-secures-his-diary-inside-a-tan-zhekr",
@@ -60706,7 +60706,7 @@
         "https://memory-alpha.fandom.com/wiki/2391"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2392-in-an-alternate-timeline-the-doctor-invents-the-s",
@@ -60714,7 +60714,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate timeline, The Doctor invents the synaptic transceiver.",
+      "summary": "In an alternate timeline, the Doctor invents the synaptic transceiver.",
       "entities": [
         "The Doctor"
       ],
@@ -60736,7 +60736,7 @@
         "https://memory-alpha.fandom.com/wiki/2392"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2394-in-an-alternate-timeline-uss-voyager-returns-to-e",
@@ -60744,7 +60744,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate timeline, USS Voyager returns to Earth after 23 years in the Delta Quadrant. Chakotay dies in the same year.",
+      "summary": "In an alternate timeline, Voyager returns to Earth after twenty-three years in the Delta Quadrant, and Chakotay dies the same year.",
       "entities": [
         "Chakotay",
         "USS Voyager"
@@ -60767,7 +60767,7 @@
         "https://memory-alpha.fandom.com/wiki/2394"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2394-in-another-timeline-naomi-wildman-and-icheb-assis",
@@ -60775,7 +60775,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "In another timeline, Naomi Wildman and Icheb assist Kathryn Janeway and Chakotay in preventing Voyager from going into temporal flux from a chronokinetic surge.",
+      "summary": "In another timeline, Naomi Wildman and Icheb help Kathryn Janeway and Chakotay prevent Voyager from entering temporal flux caused by a chronokinetic surge.",
       "entities": [
         "Naomi Wildman",
         "Icheb",
@@ -60799,7 +60799,7 @@
         "https://memory-alpha.fandom.com/wiki/2394"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2395-a-music-festival-is-held-at-bewlay-island-stardus",
@@ -60830,7 +60830,7 @@
         "https://memory-alpha.fandom.com/wiki/2395"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2395-picard-gifted-commodore-geordi-la-forge-a-bottle-o",
@@ -60838,7 +60838,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Picard gifted Commodore Geordi La Forge a bottle of Chateau Picard, the latter hating it and the former accusing the latter of having \"pedestrian\" tastes.",
+      "summary": "Picard gives Commodore Geordi La Forge a bottle of Chateau Picard, which La Forge dislikes, prompting Picard to accuse him of having pedestrian tastes.",
       "entities": [
         "Geordi La Forge",
         "Chateau Picard"
@@ -60861,7 +60861,7 @@
         "https://memory-alpha.fandom.com/wiki/2395"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2395-the-events-of-the-anti-time-future-are-assumed-by",
@@ -60869,7 +60869,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The events of the anti-time future are assumed, by Jean-Luc Picard, to have taken place in this year.",
+      "summary": "Jean-Luc Picard assumes the events of the anti-time future took place this year.",
       "entities": [
         "Jean-Luc Picard"
       ],
@@ -60891,7 +60891,7 @@
         "https://memory-alpha.fandom.com/wiki/2395"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2396-doctor-agnes-jurati-suspected-that-dahj-asha-s-fic",
@@ -60899,7 +60899,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Doctor Agnes Jurati suspected that Dahj Asha's fictional identity was built around this year.",
+      "summary": "Doctor Agnes Jurati suspects Dahj Asha's fictional identity was built around this year.",
       "entities": [
         "Agnes Jurati",
         "Dahj Asha"
@@ -60922,7 +60922,7 @@
         "https://memory-alpha.fandom.com/wiki/2396"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2396-jack-crusher-attempts-to-make-contact-with-jean-lu",
@@ -60954,7 +60954,7 @@
         "https://memory-alpha.fandom.com/wiki/2396"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2396-liam-shaw-assumes-command-of-the-titan-a",
@@ -60984,7 +60984,7 @@
         "https://memory-alpha.fandom.com/wiki/2396"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2398-according-to-narek-his-brother-dies-unexpectedly",
@@ -61015,7 +61015,7 @@
         "https://memory-alpha.fandom.com/wiki/2398"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2399-a-romulan-fleet-led-by-oh-arrives-at-coppelius",
@@ -61023,7 +61023,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "A Romulan fleet, led by Oh, arrives at Coppelius. She is subsequently revealed to Starfleet to be a Tal Shiar/Zhat Vash double agent.",
+      "summary": "A Romulan fleet led by Oh arrives at Coppelius; Oh is subsequently exposed to Starfleet as a Tal Shiar/Zhat Vash double agent.",
       "entities": [
         "Oh",
         "Tal Shiar",
@@ -61047,7 +61047,7 @@
         "https://memory-alpha.fandom.com/wiki/2399"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2399-admiral-jean-luc-picard-travels-to-vashti-on-board",
@@ -61055,7 +61055,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Admiral Jean-Luc Picard travels to Vashti on board the ship La Sirena to request assistance from the Qowat Milat.",
+      "summary": "Admiral Jean-Luc Picard travels to Vashti aboard La Sirena to request help from the Qowat Milat.",
       "entities": [
         "Jean-Luc Picard",
         "Vashti",
@@ -61080,7 +61080,7 @@
         "https://memory-alpha.fandom.com/wiki/2399"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2399-after-discovering-that-the-zhat-vash-might-be-behi",
@@ -61088,7 +61088,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "After discovering that the Zhat Vash might be behind Dahj's assassination, Jean-Luc Picard requests to be reinstated into Starfleet to find Bruce Maddox. He is denied and goes off to recruit a crew of his own.",
+      "summary": "After discovering the Zhat Vash may be behind Dahj's assassination, Jean-Luc Picard asks to be reinstated in Starfleet to find Bruce Maddox; denied, he sets out to recruit a crew of his own.",
       "entities": [
         "Zhat Vash",
         "Bruce Maddox"
@@ -61116,7 +61116,7 @@
         "https://memory-alpha.fandom.com/wiki/2399"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2399-after-retired-admiral-jean-luc-picard-gives-his-fi",
@@ -61124,7 +61124,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "After retired Admiral Jean-Luc Picard gives his first interview, Dahj Asha seeks him out. She is subsequently killed by Romulan operatives.",
+      "summary": "After retired Admiral Jean-Luc Picard gives his first interview, Dahj Asha seeks him out, and is later killed by Romulan operatives.",
       "entities": [
         "Jean-Luc Picard",
         "Dahj Asha",
@@ -61148,7 +61148,7 @@
         "https://memory-alpha.fandom.com/wiki/2399"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2399-after-some-delay-doctor-na-shala-kunamad-stifee-s",
@@ -61156,7 +61156,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "After some delay, Doctor Naáshala Kunamadéstifee starts a residency at the Borg Artifact Research Institute by the Romulan Free State.",
+      "summary": "After some delay, Doctor Naáshala Kunamadéstifee begins a residency at the Borg Artifact Research Institute run by the Romulan Free State.",
       "entities": [
         "Naáshala Kunamadéstifee",
         "Borg Artifact Research Institute",
@@ -61180,7 +61180,7 @@
         "https://memory-alpha.fandom.com/wiki/2399"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2399-bruce-maddox-is-killed-by-agnes-jurati",
@@ -61210,7 +61210,7 @@
         "https://memory-alpha.fandom.com/wiki/2399"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2399-criminal-businesswoman-bjayzl-is-executed-by-seven",
@@ -61218,7 +61218,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Criminal businesswoman Bjayzl is executed by Seven of Nine in revenge for Icheb's death thirteen years earlier.",
+      "summary": "Criminal businesswoman Bjayzl is executed by Seven of Nine, in revenge for Icheb's death thirteen years earlier.",
       "entities": [
         "Bjayzl",
         "Seven of Nine",
@@ -61242,7 +61242,7 @@
         "https://memory-alpha.fandom.com/wiki/2399"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2399-data-s-consciousness-is-terminated-by-picard-twen",
@@ -61250,7 +61250,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Data's consciousness is terminated by Picard, twenty years after his death.",
+      "summary": "Picard terminates Data's consciousness, twenty years after Data's death.",
       "entities": [
         "Data"
       ],
@@ -61272,7 +61272,7 @@
         "https://memory-alpha.fandom.com/wiki/2399"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2399-fleeing-the-artifact-picard-and-soji-asha-take-re",
@@ -61280,7 +61280,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Fleeing the Artifact, Picard and Soji Asha take refuge with William Riker and Deanna Troi on Nepenthe. Hugh, director of the Borg Reclamation Project on the Artifact, is killed by Narissa.",
+      "summary": "Fleeing the Artifact, Picard and Soji Asha take refuge with William Riker and Deanna Troi on Nepenthe; Hugh, director of the Artifact's Borg Reclamation Project, is killed by Narissa.",
       "entities": [
         "Soji Asha",
         "Deanna Troi",
@@ -61307,7 +61307,7 @@
         "https://memory-alpha.fandom.com/wiki/2399"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2399-jean-luc-picard-dies-during-the-defense-of-coppeli",
@@ -61315,7 +61315,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "Jean-Luc Picard dies during the Defense of Coppelius. His consciousness is subsequently transferred to a golem.",
+      "summary": "Jean-Luc Picard dies during the Defense of Coppelius, and his consciousness is transferred to a golem.",
       "entities": [
         "Jean-Luc Picard",
         "Defense of Coppelius"
@@ -61338,7 +61338,7 @@
         "https://memory-alpha.fandom.com/wiki/2399"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2399-la-sirena-narek-s-snakehead-and-the-artifact-are",
@@ -61346,7 +61346,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "La Sirena, Narek's snakehead, and the Artifact are captured by Orchids and crash land on Coppelius.",
+      "summary": "La Sirena, Narek's snakehead, and the Artifact are captured by Orchids and crash-land on Coppelius.",
       "entities": [
         "La Sirena",
         "Narek",
@@ -61370,7 +61370,7 @@
         "https://memory-alpha.fandom.com/wiki/2399"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2399-the-federation-s-synth-ban-is-lifted-after-fourtee",
@@ -61378,7 +61378,7 @@
       "date": null,
       "stardate": null,
       "timeline": "prime",
-      "summary": "The Federation's synth ban is lifted after fourteen years.",
+      "summary": "The Federation lifts its synth ban after fourteen years.",
       "entities": [],
       "kind": null,
       "group": null,
@@ -61398,7 +61398,7 @@
         "https://memory-alpha.fandom.com/wiki/2399"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2400-deep-space-4-shuts-down",
@@ -61428,7 +61428,7 @@
         "https://memory-alpha.fandom.com/wiki/2400"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2400-in-an-alternate-timeline-harry-kim-is-promoted-to",
@@ -61436,7 +61436,7 @@
       "date": null,
       "stardate": null,
       "timeline": "alternate",
-      "summary": "In an alternate timeline, Harry Kim is promoted to captain and given command of the USS Rhode Island. The Rhode Island departs on a four-year mission of exploration.",
+      "summary": "In an alternate timeline, Harry Kim is promoted to captain and given command of the USS Rhode Island, which departs on a four-year exploration mission.",
       "entities": [
         "Harry Kim",
         "USS Rhode Island"
@@ -61459,7 +61459,7 @@
         "https://memory-alpha.fandom.com/wiki/2400"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2400-sabrina-is-born-to-naomi-wildman",
@@ -61490,7 +61490,7 @@
         "https://memory-alpha.fandom.com/wiki/2400"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2400-zhaban-passes-away-of-unknown-causes",
@@ -61520,7 +61520,7 @@
         "https://memory-alpha.fandom.com/wiki/2400"
       ],
       "landmark": false,
-      "prose": "source"
+      "prose": "authored"
     },
     {
       "id": "2401-a-spatial-anomaly-is-detected-by-the-uss-avalon-t",
