@@ -258,8 +258,12 @@ CI on every push and pull request.
   `git config core.hooksPath .githooks`.
 - Data changes and site changes go in separate commits — `data/events.json` is
   generated, and mixing it with hand-written code obscures both diffs.
-- Regenerating data is `node scripts/build-events.js`; it must be idempotent and
-  must not reorder unchanged records (keeps diffs reviewable).
+- Regenerating data is `npm run build:data` (`node scripts/build-events.js
+  --strict`); it must be idempotent and must not reorder unchanged records
+  (keeps diffs reviewable). The committed build is strict — never regenerate
+  with a plain `node scripts/build-events.js` and commit the result, since
+  that would silently reintroduce scraped Memory Alpha prose for any
+  not-yet-authored event.
 
 ## Working notes
 

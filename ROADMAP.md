@@ -188,14 +188,15 @@ Known and accepted:
       bullet) and recorded both affected events as overrides
 - [x] Author the remaining summaries — **2,037 / 2,037 (100%) ✅** — every
       event in the dataset now carries independently authored prose
-- [ ] Switch the committed build to `--strict`
+- [x] Switched the committed build to `--strict`. `npm run build:data` now
+      always passes it; `meta.strict` in `data/events.json` reads `true`.
+      With every event authored, this changed exactly one field in the
+      committed dataset — no content loss, since there was no scraped prose
+      left to fall back from. It does mean any future re-scrape that finds a
+      new event gets the fact-derived stub, not raw Memory Alpha prose, until
+      someone authors it
 
-On the strict flip: the capability works and is tested. Now that every event
-is authored, flipping it produces no stubs — it's purely a formality confirming
-the build no longer needs the scraped-prose fallback. Still slated for
-immediately before publication (Phase 14/15) rather than now, since the repo
-is private and nothing is published yet, but there's no longer a content-loss
-reason to wait.
+Phase 11 is complete.
 
 Coverage by era:
 
