@@ -103,17 +103,17 @@ local scrape cache and skip without it, so CI runs a subset.
 
 ## Git hooks
 
-`main` cannot be protected server-side: GitHub gates branch protection and
-rulesets behind a paid plan for private repositories. A committed pre-push hook
-enforces the same rules locally instead. Enable it once per clone:
+`main` has server-side branch protection blocking force-pushes and deletion.
+A committed pre-push hook enforces the same locally, plus a green-tests gate
+that GitHub's free branch protection doesn't cover. Enable it once per clone:
 
 ```sh
 git config core.hooksPath .githooks
 ```
 
-It refuses to force-push or delete `main`, and runs the tests first. It is a
-local gate, not real protection — `--no-verify` bypasses it. Server-side rules
-go in when the repo becomes public.
+It refuses to force-push or delete `main`, and runs the tests first. It's a
+local convenience on top of the server-side rule, not a replacement for
+it — `--no-verify` bypasses the hook, but not the server-side protection.
 
 ## Regenerating the dataset
 

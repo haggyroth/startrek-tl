@@ -253,9 +253,12 @@ CI on every push and pull request.
 ## Conventions
 
 - Conventional Commits; feature branches off `main`; no force-push to `main`.
-- Branch protection is unavailable (private repo on a free plan), so
-  `.githooks/pre-push` enforces it locally — enable with
-  `git config core.hooksPath .githooks`.
+- The repo is public, with server-side branch protection on `main` blocking
+  force-pushes and deletion. `.githooks/pre-push` still enforces the same
+  locally (plus green tests before push) — enable with
+  `git config core.hooksPath .githooks`. No required PR reviews or status
+  checks: the workflow is local feature branch -> `merge --no-ff` -> direct
+  push to `main`, and requiring status checks would block that push outright.
 - Data changes and site changes go in separate commits — `data/events.json` is
   generated, and mixing it with hand-written code obscures both diffs.
 - Regenerating data is `npm run build:data` (`node scripts/build-events.js
