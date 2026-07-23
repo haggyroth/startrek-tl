@@ -3,6 +3,8 @@
 An interactive timeline of Star Trek canon events, covering 2063–3269 across
 all series and films.
 
+**Live: <https://haggyroth.github.io/startrek-tl/>**
+
 The page renders an **event-density sparkline** — the curve's height is how many
 canon events occur in a given year, so the Dominion War reads as a spike and the
 quiet stretches read as valleys. The X-axis carries both Gregorian year and
@@ -53,6 +55,18 @@ npm run serve
 
 Then open <http://localhost:8000/src/>. The server must run from the repository
 root, not from `src/` — the page fetches `../data/events.json`.
+
+## Deployment
+
+The live site is **GitHub Pages, serving the repo root of `main` directly** —
+no build step, no workflow, no `gh-pages` branch. That works because the site
+is already fully static with relative paths throughout (`src/index.html`
+fetches `../data/events.json`; CSS, JS, and vendored assets are all relative
+to `src/`), which is also exactly what local static-server hosting needs. The
+root `index.html` is a one-line redirect to `src/`, so
+<https://haggyroth.github.io/startrek-tl/> lands on the timeline instead of
+requiring `/src/` in the URL. Every push to `main` redeploys automatically —
+there's nothing to trigger by hand.
 
 ## Verification
 
