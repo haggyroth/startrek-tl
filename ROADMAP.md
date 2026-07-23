@@ -180,8 +180,8 @@ Known and accepted:
       bullet with no Kelvin citation, confirmed as the only such case among
       31 dataset-wide occurrences of the phrase and recorded as a one-off
       override
-- [ ] Author the remaining summaries — **1,814 / 2,037 (89%)**, 24th century
-      at 902/1,125
+- [ ] Author the remaining summaries — **1,904 / 2,037 (93%)**, 24th century
+      at 992/1,125
 - [ ] Switch the committed build to `--strict`
 
 On the strict flip: the capability works and is tested, but flipping it now
@@ -197,5 +197,5 @@ Coverage by era:
 | **ENT (2101–2161)** | **213 / 213 ✅** |
 | **Gap (2162–2232)** | **60 / 60 ✅** |
 | **23rd century** | **453 / 453 ✅** |
-| 24th century | 902 / 1,125 |
+| 24th century | 992 / 1,125 |
 | **Far future** | **133 / 133 ✅** |
