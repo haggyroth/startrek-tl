@@ -144,9 +144,12 @@ async function init() {
   const chart = new DensityChart(chartRoot, {
     range: FULL_RANGE,
     defaultDomain: DEFAULT_VIEW,
-    onHover: (event, node) => {
+    onHover: (event, node, meta) => {
       if (!event || !node) tooltip.hide();
-      else tooltip.show(event, node);
+      else {
+        tooltip.show(event, node);
+        if (meta?.pinned) tooltip.announcePinned(event);
+      }
     },
     // Zoom gestures write straight back into state so the URL keeps up.
     onDomainChange: (years) => {
