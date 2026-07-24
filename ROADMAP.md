@@ -15,14 +15,19 @@
 - [x] Wikipedia overlay for timeline classification and landmark tiers
 - [x] Tag events with `timeline` (`prime` / `kelvin` / `mirror` / `alternate`)
 
-Outstanding:
+Outstanding at the time, since resolved elsewhere:
 
-- [ ] Review the 2 events in `timelineConflict` and resolve by hand
-- [ ] Review `data/unmatched-overlay.json` (65 entries) — some are phrasing
-      mismatches that should have matched, some are genuinely absent from
-      Memory Alpha year pages
-- [ ] Sampled verification pass (exhaustive review of 1,533 records isn't
-      realistic; spot-check by era instead)
+- [x] Review the 2 events in `timelineConflict` and resolve by hand — done in
+      Phase 8; `data/timeline-overrides.json` now carries 7 hand-reviewed
+      resolutions and the validator enforces 0 open conflicts
+- [x] Review `data/unmatched-overlay.json` (65 entries) — done in Phase 8: 30
+      were production metadata now stripped at parse time, the remaining ~44
+      are in-universe events Wikipedia lists that Memory Alpha's year pages
+      don't, a density-source gap rather than a matching failure
+- [x] Sampled verification pass — done in Phase 11: a fixed-seed stratified
+      sample (`scripts/sample-summaries.js`), run once partway through
+      authoring and again after full completion, found 0 meaning errors both
+      times
 
 ## Phase 3 — Chart core ✅
 
