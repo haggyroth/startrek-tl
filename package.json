@@ -1,6 +1,6 @@
 {
   "name": "startrek-tl",
-  "version": "1.6.0",
+  "version": "2.0.0",
   "private": true,
   "description": "Interactive timeline of Star Trek canon events, 2063-3269",
   "license": "MIT",
