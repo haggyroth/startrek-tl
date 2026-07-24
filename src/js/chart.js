@@ -459,7 +459,7 @@ export class DensityChart {
         this.#pinnedId = hit.id;
         this.#activeId = hit.id;
         this.#markActive();
-        this.#onHover(hit, this.#dotNode(hit.id));
+        this.#onHover(hit, this.#dotNode(hit.id), { pinned: true });
       });
   }
 

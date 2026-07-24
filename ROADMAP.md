@@ -263,3 +263,51 @@ Coverage by era:
       click/tap-to-pin: a tap opens and pins the tooltip, released by tapping
       the same dot again, tapping elsewhere, or Escape — which also works as
       click-to-pin for a mouse without changing existing hover behavior.
+
+## Phase 13 — Reviews & validation
+
+- [x] Fixed an accessibility gap in the new tap-to-pin interaction: a tap on
+      the hit-layer overlay doesn't move DOM focus anywhere (by design — see
+      the Accessibility section above), so a touch screen-reader user pinning
+      a point got nothing from the accessibility tree, unlike a keyboard user,
+      who gets the dot's own `aria-label` on focus. Added a visually-hidden
+      `aria-live="polite"` region that announces the pinned event, wired only
+      to the pin action (not hover, which would be noisy, and not keyboard
+      focus, which is already covered).
+- [x] Security review, prompted by the repo going public. No material
+      findings: no `innerHTML`/`outerHTML` anywhere in `src/js` (all DOM
+      construction goes through `textContent`/`createElement`), no secrets or
+      `.env`/credential files in the repo, CI runs with `permissions:
+      contents: read` and no secrets, the local scrape cache is a single JSON
+      blob keyed by title (no per-file path-traversal surface), and every
+      `sources` URL is built from a hardcoded template plus a numeric year —
+      never echoed from scraped wiki content. One optional hardening note:
+      GitHub Actions are pinned to major-version tags (`@v4`) rather than
+      commit SHAs; low real-world risk for official actions, but a stronger
+      supply-chain posture pins by SHA.
+- [ ] Performance re-measurement at the full 2,037-event corpus (was last
+      measured in Phase 9 at 1,570 events: 0.68ms/hover, ~12ms/filter,
+      ~7ms/zoom step). Re-measured via synthetic event dispatch + `performance.now()`
+      in a live preview (`scripts/` has no committed benchmark tool, so this
+      wasn't scripted — see below if that's worth fixing):
+      - Hover: ~1.0ms avg, ~1.6ms p95 — comfortably inside a 16.7ms frame,
+        scaling as expected.
+      - Filter (toggling a series pill): ~16.4ms avg, ~23ms p95 — now
+        regularly at or past a single 60Hz frame budget. Up disproportionately
+        to the ~13-30% event-count growth since Phase 9's measurement.
+      - Zoom (continuous wheel-driven zoom while the dense default view is
+        visible): ~20.5ms avg, ~31ms p95 — the most concerning number, since
+        zoom/pan is a continuous gesture where dropped frames are the most
+        visible, and this is the interaction most likely to touch the dense
+        2063-2410 default view.
+
+      Root cause, not yet fixed: `render()` calls `#drawGrid`/`#drawArea`/
+      `#drawDots`/`#drawAxes`/`#drawHitLayer` synchronously on every single
+      d3-zoom `"zoom"` event, and a fast wheel/trackpad/pinch gesture can fire
+      several of those before the browser's next paint — so multiple full
+      re-renders can be attempted inside one 16.7ms window. The standard fix
+      is to coalesce with `requestAnimationFrame`: keep only the latest
+      transform from any zoom events that arrive between frames, and render
+      once per frame instead of once per event. Left undone pending a
+      decision on scope — this is more than a measurement, it changes the
+      zoom rendering path.

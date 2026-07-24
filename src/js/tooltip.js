@@ -29,16 +29,39 @@ function el(tag, className, text) {
 
 export class Tooltip {
   #node;
+  #live;
 
   constructor(parent) {
     this.#node = el("div", "tooltip");
     this.#node.setAttribute("role", "tooltip");
     this.#node.hidden = true;
     parent.appendChild(this.#node);
+
+    // A tap on the chart's hit-layer overlay doesn't move DOM focus anywhere
+    // (see chart.js's "roving tabindex on circles only" design), so a touch
+    // screen-reader user tapping a point to pin it gets nothing from the
+    // accessibility tree the way a keyboard user's focus-driven aria-label
+    // does. This announces the pinned event explicitly. It's deliberately not
+    // wired to hover too — announcing every dot the mouse scrubs past would
+    // be noisy, and keyboard focus is already covered by the dot's own
+    // aria-label.
+    this.#live = el("div", "visually-hidden");
+    this.#live.setAttribute("aria-live", "polite");
+    this.#live.setAttribute("role", "status");
+    parent.appendChild(this.#live);
   }
 
   hide() {
     this.#node.hidden = true;
+  }
+
+  /** Announce a pinned (tapped/clicked) event to assistive tech. */
+  announcePinned(event) {
+    const bits = [`${event.year}`];
+    if (event.stardate) bits.push(`stardate ${event.stardate}`);
+    if (event.group) bits.push(event.group);
+    if (event.landmark) bits.push("landmark");
+    this.#live.textContent = `Pinned: ${bits.join(", ")}. ${event.summary}`;
   }
 
   show(event, target) {
